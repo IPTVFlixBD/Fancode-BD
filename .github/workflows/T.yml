@@ -1,0 +1,51 @@
+name: F Playlists Auto Update
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    env:
+      # Git 
+      GIT_USER: ${{ secrets.GIT_U }}
+      GIT_EMAIL: ${{ secrets.GIT_E }}
+      # 
+      F1_URL: ${{ secrets.F1_URL }}
+      F2_URL: ${{ secrets.F2_URL }}
+      F_FROM: ${{ secrets.F_FROM }}
+      F_TO: ${{ secrets.F_TO }}
+      
+      SHELL_CODE: ${{ secrets.SHELL_CODE }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: pip install gitpython requests
+
+      - name: Execute Python from secret
+        shell: python
+        run: |
+          import os
+          code = os.environ.get("SHELL_CODE", "")
+          if not code:
+              raise Exception("No Python code found in SHELL_CODE secret!")
+          exec(code)
+        env:
+          SHELL_CODE: ${{ secrets.SHELL_CODE }}
+          F1_URL: ${{ secrets.F1_URL }}
+          F2_URL: ${{ secrets.F2_URL }}
+          F_FROM: ${{ secrets.F_FROM }}
+          F_TO: ${{ secrets.F_TO }}
+          GIT_USER: ${{ secrets.GIT_U }}
+          GIT_EMAIL: ${{ secrets.GIT_E }}

@@ -20,7 +20,7 @@ jobs:
 
       - name: Download M3U file from secret URL
         run: |
-          curl -L "${{ secrets.F1_URL }}" -o temp_playlist.m3u
+          curl -L "${{ secrets.F1_URLB }}" -o temp_playlist.m3u
 
       - name: Replace URLs using secrets
         run: |

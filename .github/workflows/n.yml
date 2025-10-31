@@ -22,31 +22,32 @@ jobs:
         run: |
           curl -L "${{ secrets.F1_URLB }}" -o temp_playlist.m3u
 
-      - name:  s
+      - name: Replace URLs using secrets
         run: |
           python3 - <<EOF
           import re, os
+          
           match_str = os.environ["THIS_MM"]
           replace_str = os.environ["THIS_RM"]
 
           with open("temp_playlist.m3u", "r", encoding="utf-8") as f:
               content = f.read()
           
-          content = re.sub(re.escape(match_str), replace_str, content)
+          content_new = re.sub(re.escape(match_str), replace_str, content)
           
           with open("playlist.m3u", "w", encoding="utf-8") as f:
-              f.write(content)
+              f.write(content_new)
           EOF
         env:
           THIS_MM: ${{ secrets.THIS_MM }}
           THIS_RM: ${{ secrets.THIS_RM }}
 
-      - name: Push updated playlist
+      - name: Force add and push updated playlist
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add playlist.m3u
-          git diff --quiet || git commit --allow-empty-message -m ""
+          git add -f playlist.m3u
+          git commit -m "update" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

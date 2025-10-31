@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "06:39:22 AM 31-10-2025",
+    "last update time": "08:10:44 AM 31-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,6 +33,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "South Australia vs Western Australia (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg",
+            "team_1": "South Australia",
+            "team_2": "Western Australia",
+            "status": "LIVE",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "South Australia vs Western Australia",
+            "match_id": 134022,
+            "startTime": "08:00:00 AM 28-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/TwRfpKWFR5yhiU7U8cjZvQ/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc145107_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Zimbabwe vs Afghanistan (Afghanistan tour of Zimbabwe, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Afghanistan-T20Is-old-match-card.jpg",
             "team_1": "Zimbabwe",
@@ -54,18 +68,6 @@
             "match_name": "Bangladesh vs West Indies",
             "match_id": 137705,
             "startTime": "05:30:00 PM 31-10-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "South Australia vs Western Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg",
-            "team_1": "South Australia",
-            "team_2": "Western Australia",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "South Australia vs Western Australia",
-            "match_id": 134022,
-            "startTime": "08:00:00 AM 28-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -92,18 +94,6 @@
             "startTime": "04:00:00 PM 31-10-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Al Hilal SFC vs Al-Shabab FC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-            "team_1": "Al Hilal SFC",
-            "team_2": "Al-Shabab FC",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al Hilal SFC vs Al-Shabab FC",
-            "match_id": 137890,
-            "startTime": "08:20:00 PM 31-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "New Zealand vs England (England tour of New Zealand, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card-(1).jpg",
@@ -114,6 +104,18 @@
             "match_name": "New Zealand vs England",
             "match_id": 137162,
             "startTime": "06:30:00 AM 01-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Hilal SFC vs Al-Shabab FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Al Hilal SFC",
+            "team_2": "Al-Shabab FC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al Hilal SFC vs Al-Shabab FC",
+            "match_id": 137890,
+            "startTime": "08:20:00 PM 31-10-2025"
         },
         {
             "event_category": "Football",
@@ -212,18 +214,6 @@
             "startTime": "06:00:00 PM 01-11-2025"
         },
         {
-            "event_category": "Horse Racing",
-            "title": "Day 1 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
-            "team_1": "Day 1",
-            "team_2": "Flemington Racecourse",
-            "status": "UPCOMING",
-            "event_name": "Melbourne Cup Carnival 2025",
-            "match_name": "Day 1",
-            "match_id": 137282,
-            "startTime": "06:00:00 AM 01-11-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Villarreal CF vs Rayo Vallecano (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130938_5427_VIL_RVL_fc-Web.jpg",
@@ -234,6 +224,18 @@
             "match_name": "Villarreal CF vs Rayo Vallecano",
             "match_id": 130938,
             "startTime": "06:30:00 PM 01-11-2025"
+        },
+        {
+            "event_category": "Horse Racing",
+            "title": "Day 1 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
+            "team_1": "Day 1",
+            "team_2": "Flemington Racecourse",
+            "status": "UPCOMING",
+            "event_name": "Melbourne Cup Carnival 2025",
+            "match_name": "Day 1",
+            "match_id": 137282,
+            "startTime": "06:00:00 AM 01-11-2025"
         },
         {
             "event_category": "Football",

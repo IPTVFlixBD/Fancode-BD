@@ -1,12 +1,24 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:37:00 PM 05-11-2025",
+    "last update time": "06:27:45 PM 05-11-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Al-Nassr FC vs FC Goa (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC_league_2_Old_Match_card_2.jpg",
+            "team_1": "Al-Nassr FC",
+            "team_2": "FC Goa",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Al-Nassr FC vs FC Goa",
+            "match_id": 136134,
+            "startTime": "11:45:00 PM 05-11-2025"
+        },
         {
             "event_category": "Cricket",
             "title": "Nepal vs United Arab Emirates (ICC CWC League 2, 2023-27)",
-            "src": "https://images.fancode.com/aig/match/v1/137256_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/03_UAE-vs-Nepal.jpg",
             "team_1": "Nepal",
             "team_2": "United Arab Emirates",
             "status": "LIVE",
@@ -16,20 +28,6 @@
             "startTime": "11:00:00 AM 05-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/fy50HCZBQu6eQl9fnfIwzg/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/137256_english_hls_f2ec14d7055321_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Vissel Kobe vs Ulsan HD (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136017_5647_VIS_ULS_fc-Web.jpg",
-            "team_1": "Vissel Kobe",
-            "team_2": "Ulsan HD",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Vissel Kobe vs Ulsan HD",
-            "match_id": 136017,
-            "startTime": "03:30:00 PM 05-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/2m4JoVUPRS-1-GK8tWxI1A/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136017_english_hls_662760551318034_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -56,8 +54,8 @@
             "match_name": "Nam Dinh vs Gamba Osaka",
             "match_id": 136158,
             "startTime": "05:45:00 PM 05-11-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/OAeLgeJrS3SolFyh_xUaBQ/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136158_english_hls_5131ce8dca1165_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -84,6 +82,30 @@
             "match_name": "New Zealand vs West Indies",
             "match_id": 137689,
             "startTime": "11:45:00 AM 06-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Arkadag vs Al Ahli (QAT) (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136109_5648_ARK_ASC_fc-Web_1758118382730.jpg",
+            "team_1": "Arkadag",
+            "team_2": "Al Ahli (QAT)",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Arkadag vs Al Ahli (QAT)",
+            "match_id": 136109,
+            "startTime": "07:15:00 PM 05-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Wasl vs Al Muharraq (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136097_5648_AWL_ALM_fc-Web_1758118383379.jpg",
+            "team_1": "Al Wasl",
+            "team_2": "Al Muharraq",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Al Wasl vs Al Muharraq",
+            "match_id": 136097,
+            "startTime": "07:15:00 PM 05-11-2025"
         },
         {
             "event_category": "Football",
@@ -123,30 +145,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Arkadag vs Al Ahli (QAT) (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136109_5648_ARK_ASC_fc-Web_1758118382730.jpg",
-            "team_1": "Arkadag",
-            "team_2": "Al Ahli (QAT)",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Arkadag vs Al Ahli (QAT)",
-            "match_id": 136109,
-            "startTime": "07:15:00 PM 05-11-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al Wasl vs Al Muharraq (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136097_5648_AWL_ALM_fc-Web_1758118383379.jpg",
-            "team_1": "Al Wasl",
-            "team_2": "Al Muharraq",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Al Wasl vs Al Muharraq",
-            "match_id": 136097,
-            "startTime": "07:15:00 PM 05-11-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "AL Zawraa SC vs FK Istiklol (AFC Champions League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136133_5648_ALZ_ISK_fc-Web_1758118383957.jpg",
             "team_1": "AL Zawraa SC",
@@ -168,18 +166,6 @@
             "match_name": "Khaldiya vs Andijan",
             "match_id": 136110,
             "startTime": "09:30:00 PM 05-11-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al-Nassr FC vs FC Goa (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC_league_2_Old_Match_card_2.jpg",
-            "team_1": "Al-Nassr FC",
-            "team_2": "FC Goa",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Al-Nassr FC vs FC Goa",
-            "match_id": 136134,
-            "startTime": "11:45:00 PM 05-11-2025"
         },
         {
             "event_category": "Football",
@@ -290,18 +276,6 @@
             "startTime": "07:00:00 AM 06-11-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
-            "team_1": "Day 1",
-            "team_2": "Yas Links, Abu Dhabi",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi HSBC Championship",
-            "match_name": "Day 1",
-            "match_id": 137163,
-            "startTime": "12:30:00 PM 06-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Bangladesh vs Hong Kong, China (Hong Kong Sixes, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137825_5738_BAN_HK_fc-web.png",
@@ -312,6 +286,18 @@
             "match_name": "Bangladesh vs Hong Kong, China",
             "match_id": 137825,
             "startTime": "05:45:00 AM 07-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
+            "team_1": "Day 1",
+            "team_2": "Yas Links, Abu Dhabi",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi HSBC Championship",
+            "match_name": "Day 1",
+            "match_id": 137163,
+            "startTime": "12:30:00 PM 06-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -398,18 +384,6 @@
             "startTime": "11:15:00 AM 07-11-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
-            "team_1": "Day 1",
-            "team_2": "El Cardonal at Diamante - Los Cabos, Mexico",
-            "status": "UPCOMING",
-            "event_name": "World Wide Technology Championship",
-            "match_name": "Day 1",
-            "match_id": 137973,
-            "startTime": "12:30:00 AM 07-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sri Lanka vs Bangladesh (Hong Kong Sixes, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -420,6 +394,18 @@
             "match_name": "Sri Lanka vs Bangladesh",
             "match_id": 137832,
             "startTime": "12:10:00 PM 07-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
+            "team_1": "Day 1",
+            "team_2": "El Cardonal at Diamante - Los Cabos, Mexico",
+            "status": "UPCOMING",
+            "event_name": "World Wide Technology Championship",
+            "match_name": "Day 1",
+            "match_id": 137973,
+            "startTime": "12:30:00 AM 07-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -456,6 +442,18 @@
             "match_name": "Day 2",
             "match_id": 137218,
             "startTime": "10:30:00 AM 07-11-2025"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 1 vs Autódromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
+            "team_1": "Day 1",
+            "team_2": "Autódromo Internacional do Algarve",
+            "status": "UPCOMING",
+            "event_name": "QATAR AIRWAYS GRAND PRIX OF PORTUGAL",
+            "match_name": "Portugal GP",
+            "match_id": 119277,
+            "startTime": "02:30:00 PM 07-11-2025"
         }
     ]
 }

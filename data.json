@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:18:57 AM 06-11-2025",
+    "last update time": "06:40:21 AM 06-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -21,11 +21,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138011_5753_INA_MYN_FC-Web.jpg",
             "team_1": "Indonesia",
             "team_2": "Myanmar",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Rising East Asia Tri-Series, 2025",
             "match_name": "Indonesia vs Myanmar",
             "match_id": 138011,
-            "startTime": "07:00:00 AM 06-11-2025"
+            "startTime": "07:00:00 AM 06-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/YBFi_0LXT_CAvfOWcsLYMQ/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138011_english_hls_e8fc3165a843123_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -52,6 +54,18 @@
             "startTime": "05:45:00 AM 07-11-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "England vs United Arab Emirates (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137826_5738_ENG_UAE_fc-web.png",
+            "team_1": "England",
+            "team_2": "United Arab Emirates",
+            "status": "UPCOMING",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "England vs United Arab Emirates",
+            "match_id": 137826,
+            "startTime": "06:40:00 AM 07-11-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Macarthur vs Cong An Ha Noi (AFC Champions League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136145_5648_MAC_CAH_fc-Web_1758118382756.jpg",
@@ -62,6 +76,18 @@
             "match_name": "Macarthur vs Cong An Ha Noi",
             "match_id": 136145,
             "startTime": "01:15:00 PM 06-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Pakistan vs Kuwait (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137827_5738_PAK_KUW_fc-web.png",
+            "team_1": "Pakistan",
+            "team_2": "Kuwait",
+            "status": "UPCOMING",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "Pakistan vs Kuwait",
+            "match_id": 137827,
+            "startTime": "07:35:00 AM 07-11-2025"
         },
         {
             "event_category": "Football",
@@ -125,30 +151,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "England vs United Arab Emirates (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137826_5738_ENG_UAE_fc-web.png",
-            "team_1": "England",
-            "team_2": "United Arab Emirates",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "England vs United Arab Emirates",
-            "match_id": 137826,
-            "startTime": "06:40:00 AM 07-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Pakistan vs Kuwait (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137827_5738_PAK_KUW_fc-web.png",
-            "team_1": "Pakistan",
-            "team_2": "Kuwait",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "Pakistan vs Kuwait",
-            "match_id": 137827,
-            "startTime": "07:35:00 AM 07-11-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Afghanistan vs Nepal (Hong Kong Sixes, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137828_5738_AFG_NEP_fc-web.png",
             "team_1": "Afghanistan",
@@ -173,18 +175,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Myanmar vs Timor-Leste (Rising East Asia Tri-Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138013_5753_MYN_TLS_FC-Web.jpg",
-            "team_1": "Myanmar",
-            "team_2": "Timor-Leste",
-            "status": "UPCOMING",
-            "event_name": "Rising East Asia Tri-Series, 2025",
-            "match_name": "Myanmar vs Timor-Leste",
-            "match_id": 138013,
-            "startTime": "07:00:00 AM 07-11-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Australia vs United Arab Emirates (Hong Kong Sixes, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137830_5738_AUS_UAE_fc-web.png",
             "team_1": "Australia",
@@ -196,16 +186,16 @@
             "startTime": "10:20:00 AM 07-11-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1 vs Mission Hills China (Aramco Shenzhen Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
-            "team_1": "Day 1",
-            "team_2": "Mission Hills China",
+            "event_category": "Cricket",
+            "title": "Myanmar vs Timor-Leste (Rising East Asia Tri-Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138013_5753_MYN_TLS_FC-Web.jpg",
+            "team_1": "Myanmar",
+            "team_2": "Timor-Leste",
             "status": "UPCOMING",
-            "event_name": "Aramco Shenzhen Championship",
-            "match_name": "Day 1",
-            "match_id": 137217,
-            "startTime": "10:30:00 AM 06-11-2025"
+            "event_name": "Rising East Asia Tri-Series, 2025",
+            "match_name": "Myanmar vs Timor-Leste",
+            "match_id": 138013,
+            "startTime": "07:00:00 AM 07-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -220,6 +210,18 @@
             "startTime": "11:15:00 AM 07-11-2025"
         },
         {
+            "event_category": "Horse Racing",
+            "title": "Day 3 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
+            "team_1": "Day 3",
+            "team_2": "Flemington Racecourse",
+            "status": "UPCOMING",
+            "event_name": "Melbourne Cup Carnival 2025",
+            "match_name": "Day 3",
+            "match_id": 137284,
+            "startTime": "07:00:00 AM 06-11-2025"
+        },
+        {
             "event_category": "Cricket",
             "title": "Sri Lanka vs Bangladesh (Hong Kong Sixes, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -230,6 +232,18 @@
             "match_name": "Sri Lanka vs Bangladesh",
             "match_id": 137832,
             "startTime": "12:10:00 PM 07-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Mission Hills China (Aramco Shenzhen Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
+            "team_1": "Day 1",
+            "team_2": "Mission Hills China",
+            "status": "UPCOMING",
+            "event_name": "Aramco Shenzhen Championship",
+            "match_name": "Day 1",
+            "match_id": 137217,
+            "startTime": "10:30:00 AM 06-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -256,18 +270,6 @@
             "startTime": "02:00:00 PM 07-11-2025"
         },
         {
-            "event_category": "Horse Racing",
-            "title": "Day 3 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
-            "team_1": "Day 3",
-            "team_2": "Flemington Racecourse",
-            "status": "UPCOMING",
-            "event_name": "Melbourne Cup Carnival 2025",
-            "match_name": "Day 3",
-            "match_id": 137284,
-            "startTime": "07:00:00 AM 06-11-2025"
-        },
-        {
             "event_category": "Golf",
             "title": "Day 1 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
@@ -281,18 +283,6 @@
         },
         {
             "event_category": "Golf",
-            "title": "Day 1 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
-            "team_1": "Day 1",
-            "team_2": "El Cardonal at Diamante - Los Cabos, Mexico",
-            "status": "UPCOMING",
-            "event_name": "World Wide Technology Championship",
-            "match_name": "Day 1",
-            "match_id": 137973,
-            "startTime": "12:30:00 AM 07-11-2025"
-        },
-        {
-            "event_category": "Golf",
             "title": "Day 2 vs Mission Hills China (Aramco Shenzhen Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
             "team_1": "Day 2",
@@ -302,6 +292,18 @@
             "match_name": "Day 2",
             "match_id": 137218,
             "startTime": "10:30:00 AM 07-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
+            "team_1": "Day 1",
+            "team_2": "El Cardonal at Diamante - Los Cabos, Mexico",
+            "status": "UPCOMING",
+            "event_name": "World Wide Technology Championship",
+            "match_name": "Day 1",
+            "match_id": 137973,
+            "startTime": "12:30:00 AM 07-11-2025"
         },
         {
             "event_category": "MotoGP",

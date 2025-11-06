@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:01:57 AM 07-11-2025",
+    "last update time": "05:12:05 AM 07-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -208,18 +208,6 @@
             "startTime": "07:35:00 AM 08-11-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Mirandés vs Sporting de Gijón (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-            "team_1": "Mirandés",
-            "team_2": "Sporting de Gijón",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Mirandés vs Sporting de Gijón",
-            "match_id": 137824,
-            "startTime": "01:00:00 AM 08-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -230,6 +218,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 137838,
             "startTime": "08:30:00 AM 08-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Mirandés vs Sporting de Gijón (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Mirandés",
+            "team_2": "Sporting de Gijón",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Mirandés vs Sporting de Gijón",
+            "match_id": 137824,
+            "startTime": "01:00:00 AM 08-11-2025"
         },
         {
             "event_category": "Cricket",

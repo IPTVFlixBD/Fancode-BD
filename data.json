@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "04:22:34 AM 09-11-2025",
+    "last update time": "04:52:59 AM 09-11-2025",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Day 3 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
-            "team_1": "Day 3",
-            "team_2": "El Cardonal at Diamante - Los Cabos, Mexico",
-            "status": "LIVE",
-            "event_name": "World Wide Technology Championship",
-            "match_name": "Day 3",
-            "match_id": 137975,
-            "startTime": "01:30:00 AM 09-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/SMn6EHcRSIK1aV6OwiUQ-A/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/137975_english_hls_04dea496a85951_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
@@ -222,18 +208,6 @@
             "startTime": "11:30:00 AM 09-11-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Tokyo Verdy Beleza vs Naegohyang Women's FC (AFC Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137944_5744_VER-W_NAE-W_fc-web.jpg",
-            "team_1": "Tokyo Verdy Beleza",
-            "team_2": "Naegohyang Women's FC",
-            "status": "UPCOMING",
-            "event_name": "AFC Women's Champions League 2025-26",
-            "match_name": "Tokyo Verdy Beleza vs Naegohyang Women's FC",
-            "match_id": 137944,
-            "startTime": "02:00:00 PM 09-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
@@ -244,6 +218,18 @@
             "match_name": "New Zealand vs West Indies",
             "match_id": 137691,
             "startTime": "05:45:00 AM 10-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Tokyo Verdy Beleza vs Naegohyang Women's FC (AFC Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137944_5744_VER-W_NAE-W_fc-web.jpg",
+            "team_1": "Tokyo Verdy Beleza",
+            "team_2": "Naegohyang Women's FC",
+            "status": "UPCOMING",
+            "event_name": "AFC Women's Champions League 2025-26",
+            "match_name": "Tokyo Verdy Beleza vs Naegohyang Women's FC",
+            "match_id": 137944,
+            "startTime": "02:00:00 PM 09-11-2025"
         },
         {
             "event_category": "Football",
@@ -339,6 +325,18 @@
             "event_name": "F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025",
             "match_name": "Race",
             "match_id": 118485,
+            "startTime": "10:30:00 PM 09-11-2025"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "F1 Kids vs Brazil (F1 Kids)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Default_sporty_Practice_Old_match-card.jpg",
+            "team_1": "F1 Kids",
+            "team_2": "Brazil",
+            "status": "UPCOMING",
+            "event_name": "F1 Kids",
+            "match_name": "F1 Kids",
+            "match_id": 138023,
             "startTime": "10:30:00 PM 09-11-2025"
         }
     ]

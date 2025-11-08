@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "12:26:28 PM 08-11-2025",
+    "last update time": "12:46:42 PM 08-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "11:30:00 AM 08-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/oAxFleWMRS-8VVGzCMGEvg/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138015_english_hls_f7ae03cd3689571_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Kashima Antlers vs Yokohama (J League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137940_4795_ANL_YKH_fc-web.jpg",
-            "team_1": "Kashima Antlers",
-            "team_2": "Yokohama",
-            "status": "LIVE",
-            "event_name": "J League 2025",
-            "match_name": "Kashima Antlers vs Yokohama",
-            "match_id": 137940,
-            "startTime": "10:30:00 AM 08-11-2025",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/137940_english_hls_17b3aea5934024_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/137940_english_hls_17b3aea5934024_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -86,20 +72,6 @@
             "startTime": "12:30:00 PM 08-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ZbPlSMhpQXiTDyYUBV9lmw/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/137165_english_hls_64c91acf3d780_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Horse Racing",
-            "title": "Day 4 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
-            "team_1": "Day 4",
-            "team_2": "Flemington Racecourse",
-            "status": "LIVE",
-            "event_name": "Melbourne Cup Carnival 2025",
-            "match_name": "Day 4",
-            "match_id": 137285,
-            "startTime": "06:30:00 AM 08-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/eE09s5ENTk66TGEirITqzg/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/137285_english_hls_56d34759da22421_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -198,6 +170,18 @@
             "startTime": "09:25:00 AM 09-11-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 137850,
+            "startTime": "10:20:00 AM 09-11-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Blackburn Rovers F.C. vs Derby County Football Club (EFL Championship 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136961_5489_BLK_DER_fc-web.jpg",
@@ -220,18 +204,6 @@
             "match_name": "Girona FC vs Deportivo Alaves",
             "match_id": 130945,
             "startTime": "06:30:00 PM 08-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "TBC vs TBC",
-            "match_id": 137850,
-            "startTime": "10:20:00 AM 09-11-2025"
         },
         {
             "event_category": "Football",
@@ -294,18 +266,6 @@
             "startTime": "11:00:00 PM 08-11-2025"
         },
         {
-            "event_category": "Football",
-            "title": "RCD Espanyol vs Villarreal CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130943_5427_ESL_VIL_fc-Web.jpg",
-            "team_1": "RCD Espanyol",
-            "team_2": "Villarreal CF",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "RCD Espanyol vs Villarreal CF",
-            "match_id": 130943,
-            "startTime": "01:30:00 AM 09-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -316,6 +276,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 137851,
             "startTime": "11:15:00 AM 09-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "RCD Espanyol vs Villarreal CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130943_5427_ESL_VIL_fc-Web.jpg",
+            "team_1": "RCD Espanyol",
+            "team_2": "Villarreal CF",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "RCD Espanyol vs Villarreal CF",
+            "match_id": 130943,
+            "startTime": "01:30:00 AM 09-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -460,6 +432,30 @@
             "match_name": "Session 5 - Finals",
             "match_id": 137972,
             "startTime": "11:30:00 PM 08-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
+            "team_1": "Day 3",
+            "team_2": "El Cardonal at Diamante - Los Cabos, Mexico",
+            "status": "UPCOMING",
+            "event_name": "World Wide Technology Championship",
+            "match_name": "Day 3",
+            "match_id": 137975,
+            "startTime": "01:30:00 AM 09-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Tokyo Verdy Beleza vs Naegohyang Women's FC (AFC Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137944_5744_VER-W_NAE-W_fc-web.jpg",
+            "team_1": "Tokyo Verdy Beleza",
+            "team_2": "Naegohyang Women's FC",
+            "status": "UPCOMING",
+            "event_name": "AFC Women's Champions League 2025-26",
+            "match_name": "Tokyo Verdy Beleza vs Naegohyang Women's FC",
+            "match_id": 137944,
+            "startTime": "02:00:00 PM 09-11-2025"
         }
     ]
 }

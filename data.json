@@ -1,41 +1,59 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:18:47 AM 08-11-2025",
+    "last update time": "06:40:16 AM 08-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "South Africa vs Nepal (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137835_5738_SA_NEP_fc-web.png",
-            "team_1": "South Africa",
-            "team_2": "Nepal",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "South Africa vs Nepal",
-            "match_id": 137835,
-            "startTime": "05:45:00 AM 08-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "India vs Kuwait (Hong Kong Sixes, 2025)",
+            "title": "Kuwait vs India (Hong Kong Sixes, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137836_5738_IND_KUW_fc-web.png",
-            "team_1": "India",
-            "team_2": "Kuwait",
-            "status": "UPCOMING",
+            "team_1": "Kuwait",
+            "team_2": "India",
+            "status": "LIVE",
             "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "India vs Kuwait",
+            "match_name": "Kuwait vs India",
             "match_id": 137836,
-            "startTime": "06:40:00 AM 08-11-2025"
+            "startTime": "06:40:00 AM 08-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/h6GzTz56TFq4jQ3I_k5lpw/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/137836_english_hls_78d4b9cc9081475_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Horse Racing",
+            "title": "Day 4 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
+            "team_1": "Day 4",
+            "team_2": "Flemington Racecourse",
+            "status": "LIVE",
+            "event_name": "Melbourne Cup Carnival 2025",
+            "match_name": "Day 4",
+            "match_id": 137285,
+            "startTime": "06:30:00 AM 08-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/eE09s5ENTk66TGEirITqzg/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/137285_english_hls_56d34759da22421_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs Sri Lanka (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
+            "title": "Nepal vs South Africa (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137835_5738_SA_NEP_fc-web.png",
+            "team_1": "Nepal",
+            "team_2": "South Africa",
+            "status": "LIVE",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "Nepal vs South Africa",
+            "match_id": 137835,
+            "startTime": "05:45:00 AM 08-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/SM7REfd3Rjy1F8dhCvnElg/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/137835_english_hls_339e53e69e26750_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "South Africa vs Sri Lanka (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/01_South-Africa-vs-Sri-Lanka-(1).png",
+            "team_1": "South Africa",
             "team_2": "Sri Lanka",
             "status": "UPCOMING",
             "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "TBC vs Sri Lanka",
+            "match_name": "South Africa vs Sri Lanka",
             "match_id": 137837,
             "startTime": "07:35:00 AM 08-11-2025"
         },
@@ -208,30 +226,6 @@
             "startTime": "08:45:00 PM 08-11-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Atletico de Madrid vs Levante (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130941_5427_ATL_LE_fc-Web.jpg",
-            "team_1": "Atletico de Madrid",
-            "team_2": "Levante",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Atletico de Madrid vs Levante",
-            "match_id": 130941,
-            "startTime": "11:00:00 PM 08-11-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al-Ittihad vs Al-Ahli Saudi FC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ittihad-vs-Al-Ahli-Saudi-FC_old.jpg",
-            "team_1": "Al-Ittihad",
-            "team_2": "Al-Ahli Saudi FC",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al-Ittihad vs Al-Ahli Saudi FC",
-            "match_id": 137894,
-            "startTime": "11:00:00 PM 08-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
@@ -257,27 +251,27 @@
         },
         {
             "event_category": "Football",
-            "title": "Kashima Antlers vs Yokohama (J League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137940_4795_ANL_YKH_fc-web.jpg",
-            "team_1": "Kashima Antlers",
-            "team_2": "Yokohama",
+            "title": "Atletico de Madrid vs Levante (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130941_5427_ATL_LE_fc-Web.jpg",
+            "team_1": "Atletico de Madrid",
+            "team_2": "Levante",
             "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Kashima Antlers vs Yokohama",
-            "match_id": 137940,
-            "startTime": "10:30:00 AM 08-11-2025"
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Atletico de Madrid vs Levante",
+            "match_id": 130941,
+            "startTime": "11:00:00 PM 08-11-2025"
         },
         {
             "event_category": "Football",
-            "title": "Kashiwa Reysol vs Nagoya Grampus (J League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137941_4795_REY_NGY_fc-web.jpg",
-            "team_1": "Kashiwa Reysol",
-            "team_2": "Nagoya Grampus",
+            "title": "Al-Ittihad vs Al-Ahli Saudi FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ittihad-vs-Al-Ahli-Saudi-FC_old.jpg",
+            "team_1": "Al-Ittihad",
+            "team_2": "Al-Ahli Saudi FC",
             "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Kashiwa Reysol vs Nagoya Grampus",
-            "match_id": 137941,
-            "startTime": "12:30:00 PM 08-11-2025"
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Ittihad vs Al-Ahli Saudi FC",
+            "match_id": 137894,
+            "startTime": "11:00:00 PM 08-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -293,6 +287,18 @@
         },
         {
             "event_category": "Football",
+            "title": "Kashima Antlers vs Yokohama (J League 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137940_4795_ANL_YKH_fc-web.jpg",
+            "team_1": "Kashima Antlers",
+            "team_2": "Yokohama",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Kashima Antlers vs Yokohama",
+            "match_id": 137940,
+            "startTime": "10:30:00 AM 08-11-2025"
+        },
+        {
+            "event_category": "Football",
             "title": "RCD Espanyol vs Villarreal CF (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130943_5427_ESL_VIL_fc-Web.jpg",
             "team_1": "RCD Espanyol",
@@ -302,6 +308,18 @@
             "match_name": "RCD Espanyol vs Villarreal CF",
             "match_id": 130943,
             "startTime": "01:30:00 AM 09-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Kashiwa Reysol vs Nagoya Grampus (J League 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137941_4795_REY_NGY_fc-web.jpg",
+            "team_1": "Kashiwa Reysol",
+            "team_2": "Nagoya Grampus",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Kashiwa Reysol vs Nagoya Grampus",
+            "match_id": 137941,
+            "startTime": "12:30:00 PM 08-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -328,6 +346,18 @@
             "startTime": "08:30:00 AM 09-11-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 137849,
+            "startTime": "09:25:00 AM 09-11-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Málaga vs Córdoba (LALIGA Hypermotion 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
@@ -348,8 +378,8 @@
             "status": "UPCOMING",
             "event_name": "Hong Kong Sixes, 2025",
             "match_name": "TBC vs TBC",
-            "match_id": 137849,
-            "startTime": "09:25:00 AM 09-11-2025"
+            "match_id": 137850,
+            "startTime": "10:20:00 AM 09-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -372,8 +402,20 @@
             "status": "UPCOMING",
             "event_name": "Hong Kong Sixes, 2025",
             "match_name": "TBC vs TBC",
-            "match_id": 137850,
-            "startTime": "10:20:00 AM 09-11-2025"
+            "match_id": 137851,
+            "startTime": "11:15:00 AM 09-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 137852,
+            "startTime": "12:10:00 PM 09-11-2025"
         },
         {
             "event_category": "Golf",
@@ -398,30 +440,6 @@
             "match_name": "Day 3",
             "match_id": 137165,
             "startTime": "12:30:00 PM 08-11-2025"
-        },
-        {
-            "event_category": "MotoGP",
-            "title": "Day 2 vs Autódromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
-            "team_1": "Day 2",
-            "team_2": "Autódromo Internacional do Algarve",
-            "status": "UPCOMING",
-            "event_name": "QATAR AIRWAYS GRAND PRIX OF PORTUGAL",
-            "match_name": "Portugal GP",
-            "match_id": 119280,
-            "startTime": "02:10:00 PM 08-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "TBC vs TBC",
-            "match_id": 137851,
-            "startTime": "11:15:00 AM 09-11-2025"
         }
     ]
 }

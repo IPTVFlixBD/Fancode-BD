@@ -1,49 +1,35 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "09:28:07 AM 09-11-2025",
+    "last update time": "10:08:48 AM 09-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Sri Lanka vs India (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/04_India-vs-Sri-Lanka-(1).png",
-            "team_1": "Sri Lanka",
-            "team_2": "India",
-            "status": "LIVE",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "Sri Lanka vs India",
-            "match_id": 137848,
-            "startTime": "08:30:00 AM 09-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/fyJ2LMm2QeOm_dh0A-M0Zg/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/137848_english_hls_ad2ffb8a8370710_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
-            "team_1": "New Zealand",
-            "team_2": "West Indies",
-            "status": "LIVE",
-            "event_name": "West Indies tour of New Zealand, 2025",
-            "match_name": "New Zealand vs West Indies",
-            "match_id": 137690,
-            "startTime": "05:45:00 AM 09-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1762689822~acl=/*~id=74124220586698651959711980888968~hmac=18153b1b0205e635e5af7dba7b7d90e27ee331dbc89e65f96f68bb79c502b46d"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Australia vs Pakistan (Hong Kong Sixes, 2025)",
+            "title": "Pakistan vs Australia (Hong Kong Sixes, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/05_Australia-vs-Pakistan-(1).png",
-            "team_1": "Australia",
-            "team_2": "Pakistan",
+            "team_1": "Pakistan",
+            "team_2": "Australia",
             "status": "LIVE",
             "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "Australia vs Pakistan",
+            "match_name": "Pakistan vs Australia",
             "match_id": 137849,
             "startTime": "09:25:00 AM 09-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/mkbqRL32Ru-IuWEUBiO-0Q/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/137849_english_hls_b5c91f78e798348_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "England vs Kuwait (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/06_England-vs-Kuwait-(1).png",
+            "team_1": "England",
+            "team_2": "Kuwait",
+            "status": "LIVE",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "England vs Kuwait",
+            "match_id": 137850,
+            "startTime": "10:20:00 AM 09-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/0CSoP_ACTOisXNfWZEhBMg/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/137850_english_hls_1a0db4cd6579918_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -58,18 +44,6 @@
             "startTime": "07:00:00 AM 09-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/qW1TWGzwSyCWbvzQCqBwVg/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138016_english_hls_662895dd1731538_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "England vs Kuwait (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/06_England-vs-Kuwait-(1).png",
-            "team_1": "England",
-            "team_2": "Kuwait",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "England vs Kuwait",
-            "match_id": 137850,
-            "startTime": "10:20:00 AM 09-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -118,6 +92,18 @@
             "match_name": "New Zealand vs West Indies",
             "match_id": 137691,
             "startTime": "05:45:00 AM 10-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Kyoto Sanga vs Yokohama F. Marinos (J League 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137942_4795_KYS_YKFM_fc-web.jpg",
+            "team_1": "Kyoto Sanga",
+            "team_2": "Yokohama F. Marinos",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Kyoto Sanga vs Yokohama F. Marinos",
+            "match_id": 137942,
+            "startTime": "10:30:00 AM 09-11-2025"
         },
         {
             "event_category": "Football",
@@ -180,16 +166,28 @@
             "startTime": "01:30:00 AM 10-11-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Kyoto Sanga vs Yokohama F. Marinos (J League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137942_4795_KYS_YKFM_fc-web.jpg",
-            "team_1": "Kyoto Sanga",
-            "team_2": "Yokohama F. Marinos",
+            "event_category": "Cricket",
+            "title": "Tasmania vs South Australia (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134024_5609_TAS_SAU_fc-Web.jpg",
+            "team_1": "Tasmania",
+            "team_2": "South Australia",
             "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Kyoto Sanga vs Yokohama F. Marinos",
-            "match_id": 137942,
-            "startTime": "10:30:00 AM 09-11-2025"
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Tasmania vs South Australia",
+            "match_id": 134024,
+            "startTime": "05:00:00 AM 10-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New South Wales vs Victoria (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134023_5609_NSW_VCT_fc-Web.jpg",
+            "team_1": "New South Wales",
+            "team_2": "Victoria",
+            "status": "UPCOMING",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "New South Wales vs Victoria",
+            "match_id": 134023,
+            "startTime": "05:00:00 AM 10-11-2025"
         },
         {
             "event_category": "Football",
@@ -214,30 +212,6 @@
             "match_name": "Tokyo Verdy Beleza vs Naegohyang Women's FC",
             "match_id": 137944,
             "startTime": "02:00:00 PM 09-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tasmania vs South Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134024_5609_TAS_SAU_fc-Web.jpg",
-            "team_1": "Tasmania",
-            "team_2": "South Australia",
-            "status": "UPCOMING",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Tasmania vs South Australia",
-            "match_id": 134024,
-            "startTime": "05:00:00 AM 10-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New South Wales vs Victoria (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134023_5609_NSW_VCT_fc-Web.jpg",
-            "team_1": "New South Wales",
-            "team_2": "Victoria",
-            "status": "UPCOMING",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "New South Wales vs Victoria",
-            "match_id": 134023,
-            "startTime": "05:00:00 AM 10-11-2025"
         },
         {
             "event_category": "Football",
@@ -358,6 +332,18 @@
             "match_name": "Indonesia vs Myanmar",
             "match_id": 138017,
             "startTime": "07:00:00 AM 11-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Western Australia vs Queensland (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134025_5609_WAU_QUN_fc-Web.jpg",
+            "team_1": "Western Australia",
+            "team_2": "Queensland",
+            "status": "UPCOMING",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Western Australia vs Queensland",
+            "match_id": 134025,
+            "startTime": "08:00:00 AM 11-11-2025"
         }
     ]
 }

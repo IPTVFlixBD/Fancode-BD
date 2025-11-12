@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "10:40:09 PM 12-11-2025",
+    "last update time": "11:00:33 PM 12-11-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137564_5720_BAR-W_OHL-W_fc-web.jpg",
             "team_1": "Barcelona Women",
             "team_2": "Oud-Heverlee Leuven Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "UEFA Women's Champions League 2025-26",
             "match_name": "Barcelona Women vs Oud-Heverlee Leuven Women",
             "match_id": 137564,
-            "startTime": "11:15:00 PM 12-11-2025"
+            "startTime": "11:15:00 PM 12-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/bgxR_8RpRDK2GsbYu2OVSg/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/137564_english_hls_4621d6019321020_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -137,18 +139,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Ho Chi Minh City Women’s FC vs Stallion Laguna (AFC Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137947_5744_HCMC_SL_fc-web.jpg",
-            "team_1": "Ho Chi Minh City Women’s FC",
-            "team_2": "Stallion Laguna",
-            "status": "UPCOMING",
-            "event_name": "AFC Women's Champions League 2025-26",
-            "match_name": "Ho Chi Minh City Women’s FC vs Stallion Laguna",
-            "match_id": 137947,
-            "startTime": "05:30:00 PM 13-11-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "United Arab Emirates vs Iraq (FIFA World Cup Asian Qualifiers)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
             "team_1": "United Arab Emirates",
@@ -158,6 +148,18 @@
             "match_name": "United Arab Emirates vs Iraq",
             "match_id": 138101,
             "startTime": "09:30:00 PM 13-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Ho Chi Minh City Women’s FC vs Stallion Laguna (AFC Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137947_5744_HCMC_SL_fc-web.jpg",
+            "team_1": "Ho Chi Minh City Women’s FC",
+            "team_2": "Stallion Laguna",
+            "status": "UPCOMING",
+            "event_name": "AFC Women's Champions League 2025-26",
+            "match_name": "Ho Chi Minh City Women’s FC vs Stallion Laguna",
+            "match_id": 137947,
+            "startTime": "05:30:00 PM 13-11-2025"
         },
         {
             "event_category": "Football",

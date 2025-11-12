@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "06:11:29 AM 12-11-2025",
+    "last update time": "07:43:06 AM 12-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,6 +33,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Myanmar vs Timor-Leste (Rising East Asia Tri-Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138019_5753_MYN_TLS_FC-Web.jpg",
+            "team_1": "Myanmar",
+            "team_2": "Timor-Leste",
+            "status": "LIVE",
+            "event_name": "Rising East Asia Tri-Series, 2025",
+            "match_name": "Myanmar vs Timor-Leste",
+            "match_id": 138019,
+            "startTime": "07:00:00 AM 12-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/DbUrfShYRVu7zPUwyXy3tg/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138019_english_hls_54f17dd4311461_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
             "team_1": "Ireland",
@@ -45,27 +59,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Myanmar vs Timor-Leste (Rising East Asia Tri-Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138019_5753_MYN_TLS_FC-Web.jpg",
-            "team_1": "Myanmar",
-            "team_2": "Timor-Leste",
-            "status": "UPCOMING",
-            "event_name": "Rising East Asia Tri-Series, 2025",
-            "match_name": "Myanmar vs Timor-Leste",
-            "match_id": 138019,
-            "startTime": "07:00:00 AM 12-11-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Queensland vs Western Australia (Sheffield Shield, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134025_5609_WAU_QUN_fc-Web.jpg",
             "team_1": "Queensland",
             "team_2": "Western Australia",
-            "status": "PAUSED",
+            "status": "LIVE",
             "event_name": "Sheffield Shield, 2025-26",
             "match_name": "Queensland vs Western Australia",
             "match_id": 134025,
-            "startTime": "08:00:00 AM 11-11-2025"
+            "startTime": "08:00:00 AM 11-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/NfP9zwPsRtGMgtRTx3ZQ5A/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/134025_english_hls_f309bf133777942_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -105,18 +109,6 @@
         },
         {
             "event_category": "Football",
-            "title": "ISPE WFC vs Tokyo Verdy Beleza (AFC Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137950_5744_ISP-W_VER-W_fc-web.jpg",
-            "team_1": "ISPE WFC",
-            "team_2": "Tokyo Verdy Beleza",
-            "status": "UPCOMING",
-            "event_name": "AFC Women's Champions League 2025-26",
-            "match_name": "ISPE WFC vs Tokyo Verdy Beleza",
-            "match_id": 137950,
-            "startTime": "02:00:00 PM 12-11-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "Benfica Women vs FC Twente Women (UEFA Women's Champions League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137568_5720_BEN-W_TWE-W_fc-web.jpg",
             "team_1": "Benfica Women",
@@ -150,6 +142,18 @@
             "match_name": "Club Atletico de Madrid Femenino vs Juventus Women",
             "match_id": 137566,
             "startTime": "01:30:00 AM 13-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "ISPE WFC vs Tokyo Verdy Beleza (AFC Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137950_5744_ISP-W_VER-W_fc-web.jpg",
+            "team_1": "ISPE WFC",
+            "team_2": "Tokyo Verdy Beleza",
+            "status": "UPCOMING",
+            "event_name": "AFC Women's Champions League 2025-26",
+            "match_name": "ISPE WFC vs Tokyo Verdy Beleza",
+            "match_id": 137950,
+            "startTime": "02:00:00 PM 12-11-2025"
         },
         {
             "event_category": "Football",

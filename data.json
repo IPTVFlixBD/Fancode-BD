@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "08:16:40 AM 14-11-2025",
+    "last update time": "09:07:33 AM 14-11-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
+            "team_1": "Ireland",
+            "team_2": "Bangladesh",
+            "status": "LIVE",
+            "event_name": "Ireland tour of Bangladesh, 2025",
+            "match_name": "Ireland vs Bangladesh",
+            "match_id": 138237,
+            "startTime": "09:00:00 AM 11-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/5DSEinQnRp6qtDoM9xJZuQ/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138237_english_hls_3626c1011428485_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Queensland vs Western Australia (Sheffield Shield, 2025-26)",
@@ -30,18 +44,6 @@
             "startTime": "07:00:00 AM 14-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/uZUNk7fJTDCpW1qniDWo9w/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138022_english_hls_51d7ece6da35437_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
-            "team_1": "Ireland",
-            "team_2": "Bangladesh",
-            "status": "PAUSED",
-            "event_name": "Ireland tour of Bangladesh, 2025",
-            "match_name": "Ireland vs Bangladesh",
-            "match_id": 138237,
-            "startTime": "09:00:00 AM 11-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -450,6 +452,18 @@
             "match_name": "Indonesia vs Bahrain",
             "match_id": 138008,
             "startTime": "07:00:00 AM 18-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Chitwan Rhinos vs Karnali Yaks (Nepal Premier League, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/138294_CASACARDS_APP.png",
+            "team_1": "Chitwan Rhinos",
+            "team_2": "Karnali Yaks",
+            "status": "UPCOMING",
+            "event_name": "Nepal Premier League, 2025",
+            "match_name": "Chitwan Rhinos vs Karnali Yaks",
+            "match_id": 138294,
+            "startTime": "11:30:00 AM 18-11-2025"
         }
     ]
 }

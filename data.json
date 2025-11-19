@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:49:46 PM 19-11-2025",
+    "last update time": "06:30:35 PM 19-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -46,6 +46,48 @@
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763586985~acl=/*~id=93236291781331326409952213506621~hmac=1d400d32f052bb7ea9996ab2e69745feccb416b4d1a66a2dd64e11a3279056f7"
         },
         {
+            "event_category": "Cricket",
+            "title": "Trinidad & Tobago Red Force vs Barbados Pride (CG United Super50 Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
+            "team_1": "Trinidad & Tobago Red Force",
+            "team_2": "Barbados Pride",
+            "status": "LIVE",
+            "event_name": "CG United Super50 Cup, 2025",
+            "match_name": "Trinidad & Tobago Red Force vs Barbados Pride",
+            "match_id": 138045,
+            "startTime": "06:30:00 PM 19-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/tTjUw704TNGpUau0Y05L7Q/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138045_english_hls_ab706196a2229_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jamaica Scorpions vs Guyana Harpy Eagles (CG United Super50 Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
+            "team_1": "Jamaica Scorpions",
+            "team_2": "Guyana Harpy Eagles",
+            "status": "LIVE",
+            "event_name": "CG United Super50 Cup, 2025",
+            "match_name": "Jamaica Scorpions vs Guyana Harpy Eagles",
+            "match_id": 138044,
+            "startTime": "06:30:00 PM 19-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/wfHSMwBZS4WWR_rCpBhvnw/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138044_english_hls_3cbc444e986818_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "England Under-19 vs West Indies Under-19 (England Under-19 tour of West Indies, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
+            "team_1": "England Under-19",
+            "team_2": "West Indies Under-19",
+            "status": "LIVE",
+            "event_name": "England Under-19 tour of West Indies, 2025",
+            "match_name": "England Under-19 vs West Indies Under-19",
+            "match_id": 138042,
+            "startTime": "06:30:00 PM 19-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/B9i-3oLWS5SMTm08iRQQ3Q/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138042_english_hls_37719ef62380360_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Melbourne City Women vs Ho Chi Minh City Women’s FC (AFC Women's Champions League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137959_5744_MLC-W_HCMC_fc-web_1763103330287.jpg",
@@ -61,18 +103,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
-            "team_1": "Bangladesh",
-            "team_2": "Ireland",
-            "status": "PAUSED",
-            "event_name": "Ireland tour of Bangladesh, 2025",
-            "match_name": "Bangladesh vs Ireland",
-            "match_id": 138238,
-            "startTime": "09:00:00 AM 19-11-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Royal Champs vs Vista Riders (Abu Dhabi T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138206_5763_ROC_VTR_fc-web.png",
             "team_1": "Royal Champs",
@@ -82,6 +112,18 @@
             "match_name": "Royal Champs vs Vista Riders",
             "match_id": 138206,
             "startTime": "07:15:00 PM 19-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
+            "team_1": "Bangladesh",
+            "team_2": "Ireland",
+            "status": "PAUSED",
+            "event_name": "Ireland tour of Bangladesh, 2025",
+            "match_name": "Bangladesh vs Ireland",
+            "match_id": 138238,
+            "startTime": "09:00:00 AM 19-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -106,42 +148,6 @@
             "match_name": "Ajman Titans vs Quetta Qavalry",
             "match_id": 138207,
             "startTime": "09:30:00 PM 19-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Trinidad & Tobago Red Force vs Barbados Pride (CG United Super50 Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
-            "team_1": "Trinidad & Tobago Red Force",
-            "team_2": "Barbados Pride",
-            "status": "UPCOMING",
-            "event_name": "CG United Super50 Cup, 2025",
-            "match_name": "Trinidad & Tobago Red Force vs Barbados Pride",
-            "match_id": 138045,
-            "startTime": "06:30:00 PM 19-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Jamaica Scorpions vs Guyana Harpy Eagles (CG United Super50 Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
-            "team_1": "Jamaica Scorpions",
-            "team_2": "Guyana Harpy Eagles",
-            "status": "UPCOMING",
-            "event_name": "CG United Super50 Cup, 2025",
-            "match_name": "Jamaica Scorpions vs Guyana Harpy Eagles",
-            "match_id": 138044,
-            "startTime": "06:30:00 PM 19-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
-            "team_1": "West Indies Under-19",
-            "team_2": "England Under-19",
-            "status": "UPCOMING",
-            "event_name": "England Under-19 tour of West Indies, 2025",
-            "match_name": "West Indies Under-19 vs England Under-19",
-            "match_id": 138042,
-            "startTime": "06:30:00 PM 19-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -217,6 +223,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Royal Champs vs Deccan Gladiators (Abu Dhabi T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138208_5763_ROC_DG_fc-web.png",
+            "team_1": "Royal Champs",
+            "team_2": "Deccan Gladiators",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi T10, 2025",
+            "match_name": "Royal Champs vs Deccan Gladiators",
+            "match_id": 138208,
+            "startTime": "05:00:00 PM 20-11-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Papua New Guinea Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138086_5758_PN-W_UAE-W_FC-Web.jpg",
             "team_1": "Papua New Guinea Women",
@@ -238,18 +256,6 @@
             "match_name": "Thailand Women vs Netherlands Women",
             "match_id": 138073,
             "startTime": "08:00:00 AM 20-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Royal Champs vs Deccan Gladiators (Abu Dhabi T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138208_5763_ROC_DG_fc-web.png",
-            "team_1": "Royal Champs",
-            "team_2": "Deccan Gladiators",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "Royal Champs vs Deccan Gladiators",
-            "match_id": 138208,
-            "startTime": "05:00:00 PM 20-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -348,18 +354,6 @@
             "startTime": "11:15:00 PM 20-11-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Featured Groups - Day 1 vs Sea Island Golf Club (The RSM Classic)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
-            "team_1": "Featured Groups - Day 1",
-            "team_2": "Sea Island Golf Club",
-            "status": "UPCOMING",
-            "event_name": "The RSM Classic",
-            "match_name": "Featured Groups - Day 1",
-            "match_id": 138271,
-            "startTime": "07:00:00 PM 20-11-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Chelsea F.C. Women vs Barcelona Women (UEFA Women's Champions League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137589_5720_CHE-W_BAR-W_fc-web.jpg",
@@ -394,6 +388,18 @@
             "match_name": "Paris Saint-Germain Women vs Bayern Munich Women",
             "match_id": 137590,
             "startTime": "01:30:00 AM 21-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Groups - Day 1 vs Sea Island Golf Club (The RSM Classic)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
+            "team_1": "Featured Groups - Day 1",
+            "team_2": "Sea Island Golf Club",
+            "status": "UPCOMING",
+            "event_name": "The RSM Classic",
+            "match_name": "Featured Groups - Day 1",
+            "match_id": 138271,
+            "startTime": "07:00:00 PM 20-11-2025"
         },
         {
             "event_category": "Football",

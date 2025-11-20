@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:51:53 PM 20-11-2025",
+    "last update time": "12:12:13 AM 21-11-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -44,20 +44,6 @@
             "startTime": "10:30:00 PM 20-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/_1B6O9iRQ56ZVk7wCYNveQ/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138270_english_hls_b108af771a22222_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Aspin Stallions vs Ajman Titans (Abu Dhabi T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138210_5763_AST_AJT_fc-web.png",
-            "team_1": "Aspin Stallions",
-            "team_2": "Ajman Titans",
-            "status": "LIVE",
-            "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "Aspin Stallions vs Ajman Titans",
-            "match_id": 138210,
-            "startTime": "09:30:00 PM 20-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/3UufMZztQs6hjJ2GnFzZBQ/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138210_english_hls_bef25f35d629850_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -121,6 +107,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "UAE Bulls vs Royal Champs (Abu Dhabi T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138213_5763_DB_ROC_fc-web_1763465215305.png",
+            "team_1": "UAE Bulls",
+            "team_2": "Royal Champs",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi T10, 2025",
+            "match_name": "UAE Bulls vs Royal Champs",
+            "match_id": 138213,
+            "startTime": "09:30:00 PM 21-11-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Indonesia vs Bahrain (Bahrain tour of Indonesia, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Tour-to-Indonesia_2025_Old_match-card.jpg",
             "team_1": "Indonesia",
@@ -133,15 +131,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "UAE Bulls vs Royal Champs (Abu Dhabi T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138213_5763_DB_ROC_fc-web_1763465215305.png",
-            "team_1": "UAE Bulls",
-            "team_2": "Royal Champs",
+            "title": "Thailand Women vs Papua New Guinea Women (ICC Women's Emerging Nations Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138088_5758_TL-W_PN-W_FC-Web.jpg",
+            "team_1": "Thailand Women",
+            "team_2": "Papua New Guinea Women",
             "status": "UPCOMING",
-            "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "UAE Bulls vs Royal Champs",
-            "match_id": 138213,
-            "startTime": "09:30:00 PM 21-11-2025"
+            "event_name": "ICC Women's Emerging Nations Trophy, 2025",
+            "match_name": "Thailand Women vs Papua New Guinea Women",
+            "match_id": 138088,
+            "startTime": "08:00:00 AM 21-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Netherlands Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138075_5758_ND-W_UAE-W_FC-Web.jpg",
+            "team_1": "Netherlands Women",
+            "team_2": "United Arab Emirates Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's Emerging Nations Trophy, 2025",
+            "match_name": "Netherlands Women vs United Arab Emirates Women",
+            "match_id": 138075,
+            "startTime": "08:00:00 AM 21-11-2025"
         },
         {
             "event_category": "Football",
@@ -178,30 +188,6 @@
             "match_name": "Paris Saint-Germain Women vs Bayern Munich Women",
             "match_id": 137590,
             "startTime": "01:30:00 AM 21-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Thailand Women vs Papua New Guinea Women (ICC Women's Emerging Nations Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138088_5758_TL-W_PN-W_FC-Web.jpg",
-            "team_1": "Thailand Women",
-            "team_2": "Papua New Guinea Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's Emerging Nations Trophy, 2025",
-            "match_name": "Thailand Women vs Papua New Guinea Women",
-            "match_id": 138088,
-            "startTime": "08:00:00 AM 21-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Netherlands Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138075_5758_ND-W_UAE-W_FC-Web.jpg",
-            "team_1": "Netherlands Women",
-            "team_2": "United Arab Emirates Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's Emerging Nations Trophy, 2025",
-            "match_name": "Netherlands Women vs United Arab Emirates Women",
-            "match_id": 138075,
-            "startTime": "08:00:00 AM 21-11-2025"
         },
         {
             "event_category": "Cricket",

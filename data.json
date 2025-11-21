@@ -1,8 +1,34 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "07:50:07 AM 21-11-2025",
+    "last update time": "08:51:07 AM 21-11-2025",
     "matches": [
+        {
+            "event_category": "Formula 1",
+            "title": "Practice 2 vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
+            "team_1": "Practice 2",
+            "team_2": "United States of America",
+            "status": "UPCOMING",
+            "event_name": "F1 HEINEKEN LAS VEGAS GRAND PRIX 2025",
+            "match_name": "Practice 2",
+            "match_id": 118487,
+            "startTime": "09:30:00 AM 21-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
+            "team_1": "Bangladesh",
+            "team_2": "Ireland",
+            "status": "LIVE",
+            "event_name": "Ireland tour of Bangladesh, 2025",
+            "match_name": "Bangladesh vs Ireland",
+            "match_id": 138238,
+            "startTime": "09:00:00 AM 19-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/KBxom_QgQ6-gJ5_V2C9SZA/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c58850_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Indonesia vs Bahrain (Bahrain tour of Indonesia, 2025)",
@@ -44,32 +70,6 @@
             "startTime": "08:00:00 AM 21-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/LmGkUBopSD-YcJkyi14-JQ/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138075_english_hls_05dfc061c844686_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Free Practice vs Las Vegas (F1 ACADEMY LAS VEGAS 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
-            "team_1": "Free Practice",
-            "team_2": "Las Vegas",
-            "status": "LIVE",
-            "event_name": "F1 ACADEMY LAS VEGAS 2025",
-            "match_name": "Free Practice",
-            "match_id": 119136,
-            "startTime": "07:30:00 AM 21-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/1gvyGR1jSySsO7fQSoyBvg/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/119136_english_hls_56bc532c5581737_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
-            "team_1": "Bangladesh",
-            "team_2": "Ireland",
-            "status": "PAUSED",
-            "event_name": "Ireland tour of Bangladesh, 2025",
-            "match_name": "Bangladesh vs Ireland",
-            "match_id": 138238,
-            "startTime": "09:00:00 AM 19-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -169,18 +169,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
-            "team_1": "West Indies Under-19",
-            "team_2": "England Under-19",
-            "status": "UPCOMING",
-            "event_name": "England Under-19 tour of West Indies, 2025",
-            "match_name": "West Indies Under-19 vs England Under-19",
-            "match_id": 138038,
-            "startTime": "06:30:00 PM 21-11-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
             "team_1": "New Zealand",
@@ -190,6 +178,18 @@
             "match_name": "New Zealand vs West Indies",
             "match_id": 137695,
             "startTime": "06:30:00 AM 22-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
+            "team_1": "West Indies Under-19",
+            "team_2": "England Under-19",
+            "status": "UPCOMING",
+            "event_name": "England Under-19 tour of West Indies, 2025",
+            "match_name": "West Indies Under-19 vs England Under-19",
+            "match_id": 138038,
+            "startTime": "06:30:00 PM 21-11-2025"
         },
         {
             "event_category": "Football",
@@ -312,16 +312,16 @@
             "startTime": "09:30:00 AM 22-11-2025"
         },
         {
-            "event_category": "Formula 1",
-            "title": "Practice 2 vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
-            "team_1": "Practice 2",
-            "team_2": "United States of America",
+            "event_category": "Cricket",
+            "title": "Karnali Yaks vs Lumbini Lions (Nepal Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Karnali-Yaks_vs_Lumbini-lions_Old_match-card_02.jpg",
+            "team_1": "Karnali Yaks",
+            "team_2": "Lumbini Lions",
             "status": "UPCOMING",
-            "event_name": "F1 HEINEKEN LAS VEGAS GRAND PRIX 2025",
-            "match_name": "Practice 2",
-            "match_id": 118487,
-            "startTime": "09:30:00 AM 21-11-2025"
+            "event_name": "Nepal Premier League, 2025",
+            "match_name": "Karnali Yaks vs Lumbini Lions",
+            "match_id": 138299,
+            "startTime": "11:00:00 AM 22-11-2025"
         },
         {
             "event_category": "Motorsports",
@@ -346,18 +346,6 @@
             "match_name": "Featured Groups - Day 2",
             "match_id": 138273,
             "startTime": "07:00:00 PM 21-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Karnali Yaks vs Lumbini Lions (Nepal Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Karnali-Yaks_vs_Lumbini-lions_Old_match-card_02.jpg",
-            "team_1": "Karnali Yaks",
-            "team_2": "Lumbini Lions",
-            "status": "UPCOMING",
-            "event_name": "Nepal Premier League, 2025",
-            "match_name": "Karnali Yaks vs Lumbini Lions",
-            "match_id": 138299,
-            "startTime": "11:00:00 AM 22-11-2025"
         },
         {
             "event_category": "Golf",
@@ -396,18 +384,6 @@
             "startTime": "05:00:00 PM 22-11-2025"
         },
         {
-            "event_category": "Motorsports",
-            "title": "First Race vs Las Vegas (F1 ACADEMY LAS VEGAS 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
-            "team_1": "First Race",
-            "team_2": "Las Vegas",
-            "status": "UPCOMING",
-            "event_name": "F1 ACADEMY LAS VEGAS 2025",
-            "match_name": "First Race",
-            "match_id": 119138,
-            "startTime": "07:45:00 AM 22-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Kathmandu Gorkhas vs Biratnagar Kings (Nepal Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Biratnagar_Kings_left_Old_match-card_02.jpg",
@@ -420,6 +396,18 @@
             "startTime": "03:15:00 PM 22-11-2025"
         },
         {
+            "event_category": "Motorsports",
+            "title": "First Race vs Las Vegas (F1 ACADEMY LAS VEGAS 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
+            "team_1": "First Race",
+            "team_2": "Las Vegas",
+            "status": "UPCOMING",
+            "event_name": "F1 ACADEMY LAS VEGAS 2025",
+            "match_name": "First Race",
+            "match_id": 119138,
+            "startTime": "07:45:00 AM 22-11-2025"
+        },
+        {
             "event_category": "Formula 1",
             "title": "Qualifying vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
@@ -430,6 +418,18 @@
             "match_name": "Qualifying",
             "match_id": 118489,
             "startTime": "09:30:00 AM 22-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Northern Warriors vs Deccan Gladiators (Abu Dhabi T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138215_5763_NW_DG_fc-web.png",
+            "team_1": "Northern Warriors",
+            "team_2": "Deccan Gladiators",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi T10, 2025",
+            "match_name": "Northern Warriors vs Deccan Gladiators",
+            "match_id": 138215,
+            "startTime": "07:15:00 PM 22-11-2025"
         }
     ]
 }

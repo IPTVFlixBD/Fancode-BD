@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "06:23:51 AM 24-11-2025",
+    "last update time": "08:25:50 AM 24-11-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Malaysia vs Thailand (Mini SEA Games Men's T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138451_5780_MAS_TL_fc-Web.jpg",
+            "team_1": "Malaysia",
+            "team_2": "Thailand",
+            "status": "LIVE",
+            "event_name": "Mini SEA Games Men's T20, 2025",
+            "match_name": "Malaysia vs Thailand",
+            "match_id": 138451,
+            "startTime": "07:30:00 AM 24-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Got37nGURqywGkAH3uX52Q/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138451_english_hls_16f67a207438913_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
@@ -16,32 +30,6 @@
             "startTime": "05:00:00 AM 22-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/IjqlXMDLRwK0gMXR5T5EqA/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/134026_english_hls_afdc2d131e49656_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Guyana Harpy Eagles vs Trinidad & Tobago Red Force (CG United Super50 Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
-            "team_1": "Guyana Harpy Eagles",
-            "team_2": "Trinidad & Tobago Red Force",
-            "status": "LIVE",
-            "event_name": "CG United Super50 Cup, 2025",
-            "match_name": "Guyana Harpy Eagles vs Trinidad & Tobago Red Force",
-            "match_id": 138052,
-            "startTime": "11:30:00 PM 23-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/yF5lRWVBRdKiCbS04NbL9g/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138052_english_hls_b89cc9c69828531_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malaysia vs Thailand (Mini SEA Games Men's T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138451_5780_MAS_TL_fc-Web.jpg",
-            "team_1": "Malaysia",
-            "team_2": "Thailand",
-            "status": "UPCOMING",
-            "event_name": "Mini SEA Games Men's T20, 2025",
-            "match_name": "Malaysia vs Thailand",
-            "match_id": 138451,
-            "startTime": "07:30:00 AM 24-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -104,18 +92,6 @@
             "startTime": "07:15:00 PM 24-11-2025"
         },
         {
-            "event_category": "Hockey",
-            "title": "Korea vs New Zealand (Sultan Azlan Shah Cup)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138414_5777_KOR_NZ_fc-Web.jpg",
-            "team_1": "Korea",
-            "team_2": "New Zealand",
-            "status": "UPCOMING",
-            "event_name": "Sultan Azlan Shah Cup",
-            "match_name": "Korea vs New Zealand",
-            "match_id": 138414,
-            "startTime": "01:30:00 PM 24-11-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Al Duhail vs Al-Ittihad (AFC Champions League Elite 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136069_5647_ADH_ITT_fc-Web.jpg",
@@ -141,6 +117,18 @@
         },
         {
             "event_category": "Hockey",
+            "title": "Korea vs New Zealand (Sultan Azlan Shah Cup)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138414_5777_KOR_NZ_fc-Web.jpg",
+            "team_1": "Korea",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "Sultan Azlan Shah Cup",
+            "match_name": "Korea vs New Zealand",
+            "match_id": 138414,
+            "startTime": "01:30:00 PM 24-11-2025"
+        },
+        {
+            "event_category": "Hockey",
             "title": "Belgium vs India (Sultan Azlan Shah Cup)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138415_5777_BEL_IND_fc-Web.jpg",
             "team_1": "Belgium",
@@ -150,6 +138,30 @@
             "match_name": "Belgium vs India",
             "match_id": 138415,
             "startTime": "03:30:00 PM 24-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Ahli Saudi FC vs Sharjah (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136070_5647_AAS_SHJ_fc-Web.jpg",
+            "team_1": "Al-Ahli Saudi FC",
+            "team_2": "Sharjah",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Al-Ahli Saudi FC vs Sharjah",
+            "match_id": 136070,
+            "startTime": "11:45:00 PM 24-11-2025"
+        },
+        {
+            "event_category": "Hockey",
+            "title": "Malaysia vs Canada (Sultan Azlan Shah Cup)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138416_5777_ML_CAN_fc-Web.jpg",
+            "team_1": "Malaysia",
+            "team_2": "Canada",
+            "status": "UPCOMING",
+            "event_name": "Sultan Azlan Shah Cup",
+            "match_name": "Malaysia vs Canada",
+            "match_id": 138416,
+            "startTime": "05:30:00 PM 24-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -174,30 +186,6 @@
             "match_name": "Victoria vs Queensland",
             "match_id": 134027,
             "startTime": "09:30:00 AM 22-11-2025"
-        },
-        {
-            "event_category": "Hockey",
-            "title": "Malaysia vs Canada (Sultan Azlan Shah Cup)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138416_5777_ML_CAN_fc-Web.jpg",
-            "team_1": "Malaysia",
-            "team_2": "Canada",
-            "status": "UPCOMING",
-            "event_name": "Sultan Azlan Shah Cup",
-            "match_name": "Malaysia vs Canada",
-            "match_id": 138416,
-            "startTime": "05:30:00 PM 24-11-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al-Ahli Saudi FC vs Sharjah (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136070_5647_AAS_SHJ_fc-Web.jpg",
-            "team_1": "Al-Ahli Saudi FC",
-            "team_2": "Sharjah",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Al-Ahli Saudi FC vs Sharjah",
-            "match_id": 136070,
-            "startTime": "11:45:00 PM 24-11-2025"
         },
         {
             "event_category": "Football",
@@ -402,6 +390,18 @@
             "match_name": "Leeward Islands Hurricanes vs Guyana Harpy Eagles",
             "match_id": 138053,
             "startTime": "06:30:00 PM 25-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Wahda vs Al Sadd (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136071_5647_ALW_SDD_fc-Web.jpg",
+            "team_1": "Al Wahda",
+            "team_2": "Al Sadd",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Al Wahda vs Al Sadd",
+            "match_id": 136071,
+            "startTime": "09:30:00 PM 25-11-2025"
         }
     ]
 }

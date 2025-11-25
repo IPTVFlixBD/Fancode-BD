@@ -1,8 +1,20 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "06:13:25 PM 25-11-2025",
+    "last update time": "06:43:53 PM 25-11-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Vista Riders vs Ajman Titans (Abu Dhabi T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138220_5763_VTR_AJT_fc-web_1763728590101.png",
+            "team_1": "Vista Riders",
+            "team_2": "Ajman Titans",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi T10, 2025",
+            "match_name": "Vista Riders vs Ajman Titans",
+            "match_id": 138220,
+            "startTime": "07:15:00 PM 25-11-2025"
+        },
         {
             "event_category": "Cricket",
             "title": "Kathmandu Gorkhas vs Lumbini Lions (Nepal Premier League, 2025)",
@@ -16,18 +28,6 @@
             "startTime": "03:45:00 PM 25-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/erV9_rTlSW6EneXOr75_Yg/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138303_english_hls_f93e6a51ae69499_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vista Riders vs Ajman Titans (Abu Dhabi T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138220_5763_VTR_AJT_fc-web_1763728590101.png",
-            "team_1": "Vista Riders",
-            "team_2": "Ajman Titans",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "Vista Riders vs Ajman Titans",
-            "match_id": 138220,
-            "startTime": "07:15:00 PM 25-11-2025"
         },
         {
             "event_category": "Football",
@@ -45,6 +45,34 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Trinidad & Tobago Red Force vs Windward Islands Volcanoes (CG United Super50 Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
+            "team_1": "Trinidad & Tobago Red Force",
+            "team_2": "Windward Islands Volcanoes",
+            "status": "LIVE",
+            "event_name": "CG United Super50 Cup, 2025",
+            "match_name": "Trinidad & Tobago Red Force vs Windward Islands Volcanoes",
+            "match_id": 138054,
+            "startTime": "06:30:00 PM 25-11-2025",
+            "dai_url": "https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138054_english_hls_330a38c8622408_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138054_english_hls_330a38c8622408_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Leeward Islands Hurricanes vs Guyana Harpy Eagles (CG United Super50 Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
+            "team_1": "Leeward Islands Hurricanes",
+            "team_2": "Guyana Harpy Eagles",
+            "status": "LIVE",
+            "event_name": "CG United Super50 Cup, 2025",
+            "match_name": "Leeward Islands Hurricanes vs Guyana Harpy Eagles",
+            "match_id": 138053,
+            "startTime": "06:30:00 PM 25-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/DGGcW_YCQWC3scqGsbb6RA/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138053_english_hls_0548c220d62142_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Deccan Gladiators vs Aspin Stallions (Abu Dhabi T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138221_5763_DG_AST_fc-web_1763728589994.png",
             "team_1": "Deccan Gladiators",
@@ -54,30 +82,6 @@
             "match_name": "Deccan Gladiators vs Aspin Stallions",
             "match_id": 138221,
             "startTime": "09:30:00 PM 25-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Trinidad & Tobago Red Force vs Windward Islands Volcanoes (CG United Super50 Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
-            "team_1": "Trinidad & Tobago Red Force",
-            "team_2": "Windward Islands Volcanoes",
-            "status": "UPCOMING",
-            "event_name": "CG United Super50 Cup, 2025",
-            "match_name": "Trinidad & Tobago Red Force vs Windward Islands Volcanoes",
-            "match_id": 138054,
-            "startTime": "06:30:00 PM 25-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Leeward Islands Hurricanes vs Guyana Harpy Eagles (CG United Super50 Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
-            "team_1": "Leeward Islands Hurricanes",
-            "team_2": "Guyana Harpy Eagles",
-            "status": "UPCOMING",
-            "event_name": "CG United Super50 Cup, 2025",
-            "match_name": "Leeward Islands Hurricanes vs Guyana Harpy Eagles",
-            "match_id": 138053,
-            "startTime": "06:30:00 PM 25-11-2025"
         },
         {
             "event_category": "Football",
@@ -117,6 +121,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "UAE Bulls vs Northern Warriors (Abu Dhabi T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138222_5763_DB_NW_fc-web_1763728590096.png",
+            "team_1": "UAE Bulls",
+            "team_2": "Northern Warriors",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi T10, 2025",
+            "match_name": "UAE Bulls vs Northern Warriors",
+            "match_id": 138222,
+            "startTime": "05:00:00 PM 26-11-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Tanzania Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138095_5758_TANW_UAE-W_FC-Web.jpg",
             "team_1": "Tanzania Women",
@@ -138,18 +154,6 @@
             "match_name": "Thailand Women vs Uganda Women",
             "match_id": 138079,
             "startTime": "08:00:00 AM 26-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "UAE Bulls vs Northern Warriors (Abu Dhabi T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138222_5763_DB_NW_fc-web_1763728590096.png",
-            "team_1": "UAE Bulls",
-            "team_2": "Northern Warriors",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "UAE Bulls vs Northern Warriors",
-            "match_id": 138222,
-            "startTime": "05:00:00 PM 26-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -176,6 +180,18 @@
             "startTime": "12:15:00 PM 26-11-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Deccan Gladiators vs Ajman Titans (Abu Dhabi T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138223_5763_DG_AJT_fc-web_1763728590155.png",
+            "team_1": "Deccan Gladiators",
+            "team_2": "Ajman Titans",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi T10, 2025",
+            "match_name": "Deccan Gladiators vs Ajman Titans",
+            "match_id": 138223,
+            "startTime": "07:15:00 PM 26-11-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Sepahan vs Al Hussein (AFC Champions League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136124_5648_SEP_HUS_fc-Web_1758118382973.jpg",
@@ -200,18 +216,6 @@
             "startTime": "11:30:00 PM 25-11-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Deccan Gladiators vs Ajman Titans (Abu Dhabi T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138223_5763_DG_AJT_fc-web_1763728590155.png",
-            "team_1": "Deccan Gladiators",
-            "team_2": "Ajman Titans",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "Deccan Gladiators vs Ajman Titans",
-            "match_id": 138223,
-            "startTime": "07:15:00 PM 26-11-2025"
-        },
-        {
             "event_category": "Hockey",
             "title": "Canada vs New Zealand (Sultan Azlan Shah Cup)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138417_5777_CAN_NZ_fc-Web.jpg",
@@ -224,18 +228,6 @@
             "startTime": "11:30:00 AM 26-11-2025"
         },
         {
-            "event_category": "Hockey",
-            "title": "Korea vs Belgium (Sultan Azlan Shah Cup)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138418_5777_KOR_BEL_fc-Web.jpg",
-            "team_1": "Korea",
-            "team_2": "Belgium",
-            "status": "UPCOMING",
-            "event_name": "Sultan Azlan Shah Cup",
-            "match_name": "Korea vs Belgium",
-            "match_id": 138418,
-            "startTime": "01:30:00 PM 26-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Biratnagar Kings vs Chitwan Rhinos (Nepal Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138304_5771_BK_CWR_FC-Web.jpg",
@@ -246,6 +238,18 @@
             "match_name": "Biratnagar Kings vs Chitwan Rhinos",
             "match_id": 138304,
             "startTime": "03:45:00 PM 26-11-2025"
+        },
+        {
+            "event_category": "Hockey",
+            "title": "Korea vs Belgium (Sultan Azlan Shah Cup)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138418_5777_KOR_BEL_fc-Web.jpg",
+            "team_1": "Korea",
+            "team_2": "Belgium",
+            "status": "UPCOMING",
+            "event_name": "Sultan Azlan Shah Cup",
+            "match_name": "Korea vs Belgium",
+            "match_id": 138418,
+            "startTime": "01:30:00 PM 26-11-2025"
         },
         {
             "event_category": "Football",

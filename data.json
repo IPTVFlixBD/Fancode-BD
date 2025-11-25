@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:22:30 PM 25-11-2025",
+    "last update time": "06:13:25 PM 25-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -31,31 +31,17 @@
         },
         {
             "event_category": "Football",
-            "title": "Shanghai Port vs Seoul (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136021_5647_SHG_SE_fc-Web.jpg",
-            "team_1": "Shanghai Port",
-            "team_2": "Seoul",
+            "title": "Chengdu Rongcheng vs Sanfrecce Hiroshima (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136022_5647_CR_HIR_fc-Web.jpg",
+            "team_1": "Chengdu Rongcheng",
+            "team_2": "Sanfrecce Hiroshima",
             "status": "LIVE",
             "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Shanghai Port vs Seoul",
-            "match_id": 136021,
-            "startTime": "03:30:00 PM 25-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/LKtvmTH6TeahsfwWlXcq0g/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136021_english_hls_a1fc38e9fc17429_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Gangwon vs Machida Zelvia (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136020_5647_GW_MZ_fc-Web.jpg",
-            "team_1": "Gangwon",
-            "team_2": "Machida Zelvia",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Gangwon vs Machida Zelvia",
-            "match_id": 136020,
-            "startTime": "03:30:00 PM 25-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/pKJqXWW4RQmHERuF5X7vWg/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136020_english_hls_245e839f8050488_1ta-di_h264/index.m3u8"
+            "match_name": "Chengdu Rongcheng vs Sanfrecce Hiroshima",
+            "match_id": 136022,
+            "startTime": "05:45:00 PM 25-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/6WYQ4TdXRQ6xDBAb1yU6GQ/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136022_english_hls_9ba10f16bf30051_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -70,16 +56,28 @@
             "startTime": "09:30:00 PM 25-11-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Chengdu Rongcheng vs Sanfrecce Hiroshima (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136022_5647_CR_HIR_fc-Web.jpg",
-            "team_1": "Chengdu Rongcheng",
-            "team_2": "Sanfrecce Hiroshima",
+            "event_category": "Cricket",
+            "title": "Trinidad & Tobago Red Force vs Windward Islands Volcanoes (CG United Super50 Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
+            "team_1": "Trinidad & Tobago Red Force",
+            "team_2": "Windward Islands Volcanoes",
             "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Chengdu Rongcheng vs Sanfrecce Hiroshima",
-            "match_id": 136022,
-            "startTime": "05:45:00 PM 25-11-2025"
+            "event_name": "CG United Super50 Cup, 2025",
+            "match_name": "Trinidad & Tobago Red Force vs Windward Islands Volcanoes",
+            "match_id": 138054,
+            "startTime": "06:30:00 PM 25-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Leeward Islands Hurricanes vs Guyana Harpy Eagles (CG United Super50 Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
+            "team_1": "Leeward Islands Hurricanes",
+            "team_2": "Guyana Harpy Eagles",
+            "status": "UPCOMING",
+            "event_name": "CG United Super50 Cup, 2025",
+            "match_name": "Leeward Islands Hurricanes vs Guyana Harpy Eagles",
+            "match_id": 138053,
+            "startTime": "06:30:00 PM 25-11-2025"
         },
         {
             "event_category": "Football",
@@ -178,30 +176,6 @@
             "startTime": "12:15:00 PM 26-11-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Trinidad & Tobago Red Force vs Windward Islands Volcanoes (CG United Super50 Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
-            "team_1": "Trinidad & Tobago Red Force",
-            "team_2": "Windward Islands Volcanoes",
-            "status": "UPCOMING",
-            "event_name": "CG United Super50 Cup, 2025",
-            "match_name": "Trinidad & Tobago Red Force vs Windward Islands Volcanoes",
-            "match_id": 138054,
-            "startTime": "06:30:00 PM 25-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Leeward Islands Hurricanes vs Guyana Harpy Eagles (CG United Super50 Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
-            "team_1": "Leeward Islands Hurricanes",
-            "team_2": "Guyana Harpy Eagles",
-            "status": "UPCOMING",
-            "event_name": "CG United Super50 Cup, 2025",
-            "match_name": "Leeward Islands Hurricanes vs Guyana Harpy Eagles",
-            "match_id": 138053,
-            "startTime": "06:30:00 PM 25-11-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Sepahan vs Al Hussein (AFC Champions League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136124_5648_SEP_HUS_fc-Web_1758118382973.jpg",
@@ -226,18 +200,6 @@
             "startTime": "11:30:00 PM 25-11-2025"
         },
         {
-            "event_category": "Hockey",
-            "title": "Canada vs New Zealand (Sultan Azlan Shah Cup)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138417_5777_CAN_NZ_fc-Web.jpg",
-            "team_1": "Canada",
-            "team_2": "New Zealand",
-            "status": "UPCOMING",
-            "event_name": "Sultan Azlan Shah Cup",
-            "match_name": "Canada vs New Zealand",
-            "match_id": 138417,
-            "startTime": "11:30:00 AM 26-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Deccan Gladiators vs Ajman Titans (Abu Dhabi T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138223_5763_DG_AJT_fc-web_1763728590155.png",
@@ -248,6 +210,18 @@
             "match_name": "Deccan Gladiators vs Ajman Titans",
             "match_id": 138223,
             "startTime": "07:15:00 PM 26-11-2025"
+        },
+        {
+            "event_category": "Hockey",
+            "title": "Canada vs New Zealand (Sultan Azlan Shah Cup)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138417_5777_CAN_NZ_fc-Web.jpg",
+            "team_1": "Canada",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "Sultan Azlan Shah Cup",
+            "match_name": "Canada vs New Zealand",
+            "match_id": 138417,
+            "startTime": "11:30:00 AM 26-11-2025"
         },
         {
             "event_category": "Hockey",
@@ -298,18 +272,6 @@
             "startTime": "03:30:00 PM 26-11-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Shanghai Shenhua vs Vissel Kobe (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136024_5647_SHN_VIS_fc-Web.jpg",
-            "team_1": "Shanghai Shenhua",
-            "team_2": "Vissel Kobe",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Shanghai Shenhua vs Vissel Kobe",
-            "match_id": 136024,
-            "startTime": "05:45:00 PM 26-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Royal Champs vs Aspin Stallions (Abu Dhabi T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138224_5763_ROC_AST_fc-web_1763728589856.png",
@@ -320,6 +282,18 @@
             "match_name": "Royal Champs vs Aspin Stallions",
             "match_id": 138224,
             "startTime": "09:30:00 PM 26-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Shanghai Shenhua vs Vissel Kobe (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136024_5647_SHN_VIS_fc-Web.jpg",
+            "team_1": "Shanghai Shenhua",
+            "team_2": "Vissel Kobe",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Shanghai Shenhua vs Vissel Kobe",
+            "match_id": 136024,
+            "startTime": "05:45:00 PM 26-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -464,6 +438,30 @@
             "match_name": "Korea vs Canada",
             "match_id": 138420,
             "startTime": "11:30:00 AM 27-11-2025"
+        },
+        {
+            "event_category": "Hockey",
+            "title": "India vs New Zealand (Sultan Azlan Shah Cup)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138421_5777_IND_NZ_fc-Web.jpg",
+            "team_1": "India",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "Sultan Azlan Shah Cup",
+            "match_name": "India vs New Zealand",
+            "match_id": 138421,
+            "startTime": "01:30:00 PM 27-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Macarthur vs Wofoo Tai Po (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136147_5648_MAC_WTP_fc-Web_1758118382695.jpg",
+            "team_1": "Macarthur",
+            "team_2": "Wofoo Tai Po",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Macarthur vs Wofoo Tai Po",
+            "match_id": 136147,
+            "startTime": "01:15:00 PM 27-11-2025"
         }
     ]
 }

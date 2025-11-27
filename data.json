@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "09:38:44 PM 27-11-2025",
+    "last update time": "10:09:11 PM 27-11-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "UAE Bulls vs Aspin Stallions (Abu Dhabi T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138226_5763_DB_AST_fc-web_1763729430464.png",
-            "team_1": "UAE Bulls",
-            "team_2": "Aspin Stallions",
-            "status": "LIVE",
-            "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "UAE Bulls vs Aspin Stallions",
-            "match_id": 138226,
-            "startTime": "07:15:00 PM 27-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Ufi4YVJtRNOCZMK4scHNyg/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138226_english_hls_de3799bfc873865_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Northern Warriors vs Royal Champs (Abu Dhabi T10, 2025)",
@@ -44,34 +30,6 @@
             "startTime": "06:30:00 PM 27-11-2025",
             "dai_url": "https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138057_english_hls_e169ab4b3489779_1ta-di_h264/index.m3u8",
             "adfree_url": "https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138057_english_hls_e169ab4b3489779_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Guyana Harpy Eagles vs Barbados Pride (CG United Super50 Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
-            "team_1": "Guyana Harpy Eagles",
-            "team_2": "Barbados Pride",
-            "status": "LIVE",
-            "event_name": "CG United Super50 Cup, 2025",
-            "match_name": "Guyana Harpy Eagles vs Barbados Pride",
-            "match_id": 138056,
-            "startTime": "06:30:00 PM 27-11-2025",
-            "dai_url": "https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138056_english_hls_4fd656a96b54874_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138056_english_hls_4fd656a96b54874_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 1 vs Andalucia, Spain (Andalucia Costa Del Sol Open De Espana 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Anda-Lucia_Old_match-card_2.jpg",
-            "team_1": "Day 1",
-            "team_2": "Andalucia, Spain",
-            "status": "LIVE",
-            "event_name": "Andalucia Costa Del Sol Open De Espana 2025",
-            "match_name": "Day 1",
-            "match_id": 137195,
-            "startTime": "06:30:00 PM 27-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/_XnZvoV6Smeu16hqhd50vA/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/137195_english_hls_c8afe5b3f352852_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -396,6 +354,30 @@
             "match_name": "Canada vs India",
             "match_id": 138423,
             "startTime": "01:30:00 PM 29-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sudurpaschim Royals vs Janakpur Bolts (Nepal Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138310_5771_SPR_JKB_FC-Web.jpg",
+            "team_1": "Sudurpaschim Royals",
+            "team_2": "Janakpur Bolts",
+            "status": "UPCOMING",
+            "event_name": "Nepal Premier League, 2025",
+            "match_name": "Sudurpaschim Royals vs Janakpur Bolts",
+            "match_id": 138310,
+            "startTime": "03:15:00 PM 29-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/IRE-vs-BAN_old.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "Ireland",
+            "status": "UPCOMING",
+            "event_name": "Ireland tour of Bangladesh, 2025",
+            "match_name": "Bangladesh vs Ireland",
+            "match_id": 138240,
+            "startTime": "05:30:00 PM 29-11-2025"
         }
     ]
 }

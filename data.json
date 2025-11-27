@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:24:11 PM 27-11-2025",
+    "last update time": "05:54:50 PM 27-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -46,60 +46,32 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138306_english_hls_8ea704283962546_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Hockey",
-            "title": "Malaysia vs Belgium (Sultan Azlan Shah Cup)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138422_5777_ML_BEL_fc-Web.jpg",
-            "team_1": "Malaysia",
-            "team_2": "Belgium",
+            "event_category": "Football",
+            "title": "Tampines Rovers FC vs Kaya (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136184_5648_TAM_KAYA_fc-Web_1758118382630.jpg",
+            "team_1": "Tampines Rovers FC",
+            "team_2": "Kaya",
             "status": "LIVE",
-            "event_name": "Sultan Azlan Shah Cup",
-            "match_name": "Malaysia vs Belgium",
-            "match_id": 138422,
-            "startTime": "03:30:00 PM 27-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/eraOfs-uQN-7nHDJjOzO6A/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138422_english_hls_286f428b5884809_1ta-di_h264/index.m3u8"
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Tampines Rovers FC vs Kaya",
+            "match_id": 136184,
+            "startTime": "05:45:00 PM 27-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ZMO5ZVqiTFus_NgHXJulBg/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136184_english_hls_919cfc46a688366_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
-            "title": "Pohang Steelers vs BG Pathum United (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136183_5648_PHG_PNU_fc-Web_1758118382957.jpg",
-            "team_1": "Pohang Steelers",
-            "team_2": "BG Pathum United",
+            "title": "Cong An Ha Noi vs Beijing Guoan (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136148_5648_CAH_BEI_fc-Web_1758118382903.jpg",
+            "team_1": "Cong An Ha Noi",
+            "team_2": "Beijing Guoan",
             "status": "LIVE",
             "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Pohang Steelers vs BG Pathum United",
-            "match_id": 136183,
-            "startTime": "03:30:00 PM 27-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/QI_Va-VnQzekbBrHRjbzkg/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136183_english_hls_01e38979851812_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Ratchaburi vs Nam Dinh (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136160_5648_RAT_ND_fc-Web_1758118382713.jpg",
-            "team_1": "Ratchaburi",
-            "team_2": "Nam Dinh",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Ratchaburi vs Nam Dinh",
-            "match_id": 136160,
-            "startTime": "03:30:00 PM 27-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/uyR_lAgpRCSAgnlJcGAtOQ/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136160_english_hls_a2d225255639786_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Eastern SC vs Gamba Osaka (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136159_5648_ESC_OSK_fc-Web_1758118382983.jpg",
-            "team_1": "Eastern SC",
-            "team_2": "Gamba Osaka",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Eastern SC vs Gamba Osaka",
-            "match_id": 136159,
-            "startTime": "03:30:00 PM 27-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/nqLFkbytScexIsErLgInMA/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136159_english_hls_99a990709e79732_1ta-di_h264/index.m3u8"
+            "match_name": "Cong An Ha Noi vs Beijing Guoan",
+            "match_id": 136148,
+            "startTime": "05:45:00 PM 27-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/PDKz1hbWTcmVO50bIuMMaA/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136148_english_hls_f33fc01c9134035_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -126,28 +98,28 @@
             "startTime": "09:30:00 PM 27-11-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Tampines Rovers FC vs Kaya (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136184_5648_TAM_KAYA_fc-Web_1758118382630.jpg",
-            "team_1": "Tampines Rovers FC",
-            "team_2": "Kaya",
+            "event_category": "Cricket",
+            "title": "Trinidad & Tobago Red Force vs Leeward Islands Hurricanes (CG United Super50 Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
+            "team_1": "Trinidad & Tobago Red Force",
+            "team_2": "Leeward Islands Hurricanes",
             "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Tampines Rovers FC vs Kaya",
-            "match_id": 136184,
-            "startTime": "05:45:00 PM 27-11-2025"
+            "event_name": "CG United Super50 Cup, 2025",
+            "match_name": "Trinidad & Tobago Red Force vs Leeward Islands Hurricanes",
+            "match_id": 138057,
+            "startTime": "06:30:00 PM 27-11-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Cong An Ha Noi vs Beijing Guoan (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136148_5648_CAH_BEI_fc-Web_1758118382903.jpg",
-            "team_1": "Cong An Ha Noi",
-            "team_2": "Beijing Guoan",
+            "event_category": "Cricket",
+            "title": "Guyana Harpy Eagles vs Barbados Pride (CG United Super50 Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
+            "team_1": "Guyana Harpy Eagles",
+            "team_2": "Barbados Pride",
             "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Cong An Ha Noi vs Beijing Guoan",
-            "match_id": 136148,
-            "startTime": "05:45:00 PM 27-11-2025"
+            "event_name": "CG United Super50 Cup, 2025",
+            "match_name": "Guyana Harpy Eagles vs Barbados Pride",
+            "match_id": 138056,
+            "startTime": "06:30:00 PM 27-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -235,30 +207,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Trinidad & Tobago Red Force vs Leeward Islands Hurricanes (CG United Super50 Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
-            "team_1": "Trinidad & Tobago Red Force",
-            "team_2": "Leeward Islands Hurricanes",
-            "status": "UPCOMING",
-            "event_name": "CG United Super50 Cup, 2025",
-            "match_name": "Trinidad & Tobago Red Force vs Leeward Islands Hurricanes",
-            "match_id": 138057,
-            "startTime": "06:30:00 PM 27-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Guyana Harpy Eagles vs Barbados Pride (CG United Super50 Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
-            "team_1": "Guyana Harpy Eagles",
-            "team_2": "Barbados Pride",
-            "status": "UPCOMING",
-            "event_name": "CG United Super50 Cup, 2025",
-            "match_name": "Guyana Harpy Eagles vs Barbados Pride",
-            "match_id": 138056,
-            "startTime": "06:30:00 PM 27-11-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Jamaica Scorpions vs Windward Islands Volcanoes (CG United Super50 Cup, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
             "team_1": "Jamaica Scorpions",
@@ -294,6 +242,18 @@
             "startTime": "07:15:00 PM 28-11-2025"
         },
         {
+            "event_category": "Golf",
+            "title": "Day 1 vs Andalucia, Spain (Andalucia Costa Del Sol Open De Espana 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Anda-Lucia_Old_match-card_2.jpg",
+            "team_1": "Day 1",
+            "team_2": "Andalucia, Spain",
+            "status": "UPCOMING",
+            "event_name": "Andalucia Costa Del Sol Open De Espana 2025",
+            "match_name": "Day 1",
+            "match_id": 137195,
+            "startTime": "06:30:00 PM 27-11-2025"
+        },
+        {
             "event_category": "Cricket",
             "title": "Karnali Yaks vs Biratnagar Kings (Nepal Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138308_5771_KNY_BK_FC-Web.jpg",
@@ -316,18 +276,6 @@
             "match_name": "Vista Riders vs Deccan Gladiators",
             "match_id": 138230,
             "startTime": "09:30:00 PM 28-11-2025"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 1 vs Andalucia, Spain (Andalucia Costa Del Sol Open De Espana 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Anda-Lucia_Old_match-card_2.jpg",
-            "team_1": "Day 1",
-            "team_2": "Andalucia, Spain",
-            "status": "UPCOMING",
-            "event_name": "Andalucia Costa Del Sol Open De Espana 2025",
-            "match_name": "Day 1",
-            "match_id": 137195,
-            "startTime": "06:30:00 PM 27-11-2025"
         },
         {
             "event_category": "Football",
@@ -400,6 +348,54 @@
             "match_name": "Practice 1",
             "match_id": 118491,
             "startTime": "07:00:00 PM 28-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Getafe CF vs Elche CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130967_5427_GEF_ELC_fc-Web.jpg",
+            "team_1": "Getafe CF",
+            "team_2": "Elche CF",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Getafe CF vs Elche CF",
+            "match_id": 130967,
+            "startTime": "01:30:00 AM 29-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Oxford United vs Ipswich Town F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136972_5489_OU_IPT_fc-web.jpg",
+            "team_1": "Oxford United",
+            "team_2": "Ipswich Town F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Oxford United vs Ipswich Town F.C.",
+            "match_id": 136972,
+            "startTime": "01:30:00 AM 29-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sporting de Gijón vs Andorra (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sporting-de-Gijon_vs_Anodrra_Old.jpg",
+            "team_1": "Sporting de Gijón",
+            "team_2": "Andorra",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Sporting de Gijón vs Andorra",
+            "match_id": 138069,
+            "startTime": "01:00:00 AM 29-11-2025"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Qualifying Session vs Lusail (F2 QATAR 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
+            "team_1": "Qualifying Session",
+            "team_2": "Lusail",
+            "status": "UPCOMING",
+            "event_name": "F2 QATAR 2025",
+            "match_name": "Qualifying Session",
+            "match_id": 119074,
+            "startTime": "09:40:00 PM 28-11-2025"
         }
     ]
 }

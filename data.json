@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "06:25:29 PM 27-11-2025",
+    "last update time": "07:06:11 PM 27-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "05:30:00 PM 27-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/yy1hr_FjRVid5X-lkpelxQ/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138239_english_hls_eb5430a5c152122_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "UAE Bulls vs Aspin Stallions (Abu Dhabi T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138226_5763_DB_AST_fc-web_1763729430464.png",
+            "team_1": "UAE Bulls",
+            "team_2": "Aspin Stallions",
+            "status": "LIVE",
+            "event_name": "Abu Dhabi T10, 2025",
+            "match_name": "UAE Bulls vs Aspin Stallions",
+            "match_id": 138226,
+            "startTime": "07:15:00 PM 27-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Ufi4YVJtRNOCZMK4scHNyg/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138226_english_hls_de3799bfc873865_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -117,18 +131,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "UAE Bulls vs Aspin Stallions (Abu Dhabi T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138226_5763_DB_AST_fc-web_1763729430464.png",
-            "team_1": "UAE Bulls",
-            "team_2": "Aspin Stallions",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "UAE Bulls vs Aspin Stallions",
-            "match_id": 138226,
-            "startTime": "07:15:00 PM 27-11-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Northern Warriors vs Royal Champs (Abu Dhabi T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138227_5763_NW_ROC_fc-web_1763728589848.png",
             "team_1": "Northern Warriors",
@@ -138,6 +140,18 @@
             "match_name": "Northern Warriors vs Royal Champs",
             "match_id": 138227,
             "startTime": "09:30:00 PM 27-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ajman Titans vs UAE Bulls (Abu Dhabi T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138228_5763_AJT_DB_fc-web_1763728590149.png",
+            "team_1": "Ajman Titans",
+            "team_2": "UAE Bulls",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi T10, 2025",
+            "match_name": "Ajman Titans vs UAE Bulls",
+            "match_id": 138228,
+            "startTime": "05:00:00 PM 28-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -177,18 +191,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ajman Titans vs UAE Bulls (Abu Dhabi T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138228_5763_AJT_DB_fc-web_1763728590149.png",
-            "team_1": "Ajman Titans",
-            "team_2": "UAE Bulls",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "Ajman Titans vs UAE Bulls",
-            "match_id": 138228,
-            "startTime": "05:00:00 PM 28-11-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Chitwan Rhinos vs Kathmandu Gorkhas (Nepal Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138307_5771_CWR_KMG_FC-Web.jpg",
             "team_1": "Chitwan Rhinos",
@@ -225,6 +227,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Quetta Qavalry vs Royal Champs (Abu Dhabi T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138229_5763_QQY_ROC_fc-web_1763728589880.png",
+            "team_1": "Quetta Qavalry",
+            "team_2": "Royal Champs",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi T10, 2025",
+            "match_name": "Quetta Qavalry vs Royal Champs",
+            "match_id": 138229,
+            "startTime": "07:15:00 PM 28-11-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Jamaica Scorpions vs Windward Islands Volcanoes (CG United Super50 Cup, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
             "team_1": "Jamaica Scorpions",
@@ -246,18 +260,6 @@
             "match_name": "Grimsby Town vs Tranmere Rovers",
             "match_id": 137002,
             "startTime": "01:30:00 AM 28-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Quetta Qavalry vs Royal Champs (Abu Dhabi T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138229_5763_QQY_ROC_fc-web_1763728589880.png",
-            "team_1": "Quetta Qavalry",
-            "team_2": "Royal Champs",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "Quetta Qavalry vs Royal Champs",
-            "match_id": 138229,
-            "startTime": "07:15:00 PM 28-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -332,18 +334,6 @@
             "startTime": "04:35:00 PM 28-11-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 2 vs Andalucia, Spain (Andalucia Costa Del Sol Open De Espana 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Anda-Lucia_Old_match-card_2.jpg",
-            "team_1": "Day 2",
-            "team_2": "Andalucia, Spain",
-            "status": "UPCOMING",
-            "event_name": "Andalucia Costa Del Sol Open De Espana 2025",
-            "match_name": "Day 2",
-            "match_id": 137196,
-            "startTime": "06:30:00 PM 28-11-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Getafe CF vs Elche CF (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130967_5427_GEF_ELC_fc-Web.jpg",
@@ -366,6 +356,18 @@
             "match_name": "Oxford United vs Ipswich Town F.C.",
             "match_id": 136972,
             "startTime": "01:30:00 AM 29-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Andalucia, Spain (Andalucia Costa Del Sol Open De Espana 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Anda-Lucia_Old_match-card_2.jpg",
+            "team_1": "Day 2",
+            "team_2": "Andalucia, Spain",
+            "status": "UPCOMING",
+            "event_name": "Andalucia Costa Del Sol Open De Espana 2025",
+            "match_name": "Day 2",
+            "match_id": 137196,
+            "startTime": "06:30:00 PM 28-11-2025"
         },
         {
             "event_category": "Formula 1",
@@ -402,6 +404,18 @@
             "match_name": "Qualifying Session",
             "match_id": 119074,
             "startTime": "09:40:00 PM 28-11-2025"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Sprint Qualifying vs Qatar (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2025-old-match-card.png",
+            "team_1": "Sprint Qualifying",
+            "team_2": "Qatar",
+            "status": "UPCOMING",
+            "event_name": "F1 QATAR AIRWAYS QATAR GRAND PRIX 2025",
+            "match_name": "Sprint Qualifying",
+            "match_id": 118492,
+            "startTime": "11:00:00 PM 28-11-2025"
         }
     ]
 }

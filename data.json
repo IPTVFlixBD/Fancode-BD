@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "06:31:37 PM 28-11-2025",
+    "last update time": "07:02:11 PM 28-11-2025",
     "matches": [
+        {
+            "event_category": "Formula 1",
+            "title": "Practice 1 vs Qatar (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2025-old-match-card.png",
+            "team_1": "Practice 1",
+            "team_2": "Qatar",
+            "status": "LIVE",
+            "event_name": "F1 QATAR AIRWAYS QATAR GRAND PRIX 2025",
+            "match_name": "Practice 1",
+            "match_id": 118491,
+            "startTime": "07:00:00 PM 28-11-2025",
+            "dai_url": "https://d3c6zp6hmyqt1.cloudfront.net/out/v1/c1a8c6035f1d46ccb945219362acd972/index.m3u8",
+            "adfree_url": "https://d3c6zp6hmyqt1.cloudfront.net/out/v1/c1a8c6035f1d46ccb945219362acd972/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Ajman Titans vs UAE Bulls (Abu Dhabi T10, 2025)",
@@ -16,6 +30,20 @@
             "startTime": "05:00:00 PM 28-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/MxkIe0bITIiz6u1f3kZCNw/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138228_english_hls_8aa97e62e933050_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Royal Champs vs Quetta Qavalry (Abu Dhabi T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138229_5763_QQY_ROC_fc-web_1763728589880.png",
+            "team_1": "Royal Champs",
+            "team_2": "Quetta Qavalry",
+            "status": "LIVE",
+            "event_name": "Abu Dhabi T10, 2025",
+            "match_name": "Royal Champs vs Quetta Qavalry",
+            "match_id": 138229,
+            "startTime": "07:15:00 PM 28-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/1nYPu44pQh-NYX6Pz1rzUA/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138229_english_hls_02a1d89a1168511_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -46,32 +74,6 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/137196_english_hls_0f242aec0333461_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Formula 1",
-            "title": "Practice 1 vs Qatar (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2025-old-match-card.png",
-            "team_1": "Practice 1",
-            "team_2": "Qatar",
-            "status": "LIVE",
-            "event_name": "F1 QATAR AIRWAYS QATAR GRAND PRIX 2025",
-            "match_name": "Practice 1",
-            "match_id": 118491,
-            "startTime": "07:00:00 PM 28-11-2025",
-            "dai_url": "https://d3c6zp6hmyqt1.cloudfront.net/out/v1/c1a8c6035f1d46ccb945219362acd972/index.m3u8",
-            "adfree_url": "https://d3c6zp6hmyqt1.cloudfront.net/out/v1/c1a8c6035f1d46ccb945219362acd972/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Quetta Qavalry vs Royal Champs (Abu Dhabi T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138229_5763_QQY_ROC_fc-web_1763728589880.png",
-            "team_1": "Quetta Qavalry",
-            "team_2": "Royal Champs",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "Quetta Qavalry vs Royal Champs",
-            "match_id": 138229,
-            "startTime": "07:15:00 PM 28-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Vista Riders vs Deccan Gladiators (Abu Dhabi T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138230_5763_VTR_DG_fc-web_1763728589875.png",
@@ -86,7 +88,7 @@
         {
             "event_category": "Football",
             "title": "Al-Kholood vs Al-Khaleej (Saudi Kings Cup 2025-2026)",
-            "src": "https://images.fancode.com/aig/match/v1/138025_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Kholood-VS-Al-Khaleej_old.jpg",
             "team_1": "Al-Kholood",
             "team_2": "Al-Khaleej",
             "status": "UPCOMING",
@@ -133,18 +135,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Prime Ministers XI vs England (England tour of Australia, Tour Match, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Prime-Minister's-XI-vs-England-old-match-card.png",
-            "team_1": "Prime Ministers XI",
-            "team_2": "England",
-            "status": "UPCOMING",
-            "event_name": "England tour of Australia, Tour Match, 2025",
-            "match_name": "Prime Ministers XI vs England",
-            "match_id": 138657,
-            "startTime": "09:10:00 AM 29-11-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/IRE-vs-BAN_old.jpg",
             "team_1": "Bangladesh",
@@ -154,6 +144,18 @@
             "match_name": "Bangladesh vs Ireland",
             "match_id": 138240,
             "startTime": "05:30:00 PM 29-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Prime Ministers XI vs England (England tour of Australia, Tour Match, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Prime-Minister's-XI-vs-England-old-match-card.png",
+            "team_1": "Prime Ministers XI",
+            "team_2": "England",
+            "status": "UPCOMING",
+            "event_name": "England tour of Australia, Tour Match, 2025",
+            "match_name": "Prime Ministers XI vs England",
+            "match_id": 138657,
+            "startTime": "09:10:00 AM 29-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -406,6 +408,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 138059,
             "startTime": "11:30:00 PM 29-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Atletico de Madrid vs Real Oviedo (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130968_5427_ATL_RO_Web_1763971793807.jpg",
+            "team_1": "Atletico de Madrid",
+            "team_2": "Real Oviedo",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Atletico de Madrid vs Real Oviedo",
+            "match_id": 130968,
+            "startTime": "01:30:00 AM 30-11-2025"
         }
     ]
 }

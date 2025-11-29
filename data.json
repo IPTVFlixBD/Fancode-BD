@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:57:22 PM 29-11-2025",
+    "last update time": "06:27:58 PM 29-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,34 @@
             "startTime": "05:30:00 PM 29-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/aSnBNX8SRUC3k5hY8szSng/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138240_english_hls_5bff52a45c14478_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "RCD Mallorca vs CA Osasuna (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130961_5427_MRC_OSN_fc-Web.jpg",
+            "team_1": "RCD Mallorca",
+            "team_2": "CA Osasuna",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "RCD Mallorca vs CA Osasuna",
+            "match_id": 130961,
+            "startTime": "06:30:00 PM 29-11-2025",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/130961_english_hls_96fcbfdf7790351_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/130961_english_hls_96fcbfdf7790351_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Sprint vs Qatar (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2025-old-match-card.png",
+            "team_1": "Sprint",
+            "team_2": "Qatar",
+            "status": "LIVE",
+            "event_name": "F1 QATAR AIRWAYS QATAR GRAND PRIX 2025",
+            "match_name": "Sprint",
+            "match_id": 118493,
+            "startTime": "07:30:00 PM 29-11-2025",
+            "dai_url": "https://d298m24bixdmlx.cloudfront.net/out/v1/6e9cee9f0b2f41de84b88eed230b1efe/index.m3u8",
+            "adfree_url": "https://d298m24bixdmlx.cloudfront.net/out/v1/6e9cee9f0b2f41de84b88eed230b1efe/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -47,6 +75,34 @@
         },
         {
             "event_category": "Cricket",
+            "title": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
+            "team_1": "West Indies Under-19",
+            "team_2": "England Under-19",
+            "status": "LIVE",
+            "event_name": "England Under-19 tour of West Indies, 2025",
+            "match_name": "West Indies Under-19 vs England Under-19",
+            "match_id": 138041,
+            "startTime": "06:30:00 PM 29-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/OXMgh0qRTsSKl5vTnJMv-Q/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138041_english_hls_247df7f00026607_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 vs Andalucia, Spain (Andalucia Costa Del Sol Open De Espana 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Anda-Lucia_Old_match-card_2.jpg",
+            "team_1": "Day 3",
+            "team_2": "Andalucia, Spain",
+            "status": "LIVE",
+            "event_name": "Andalucia Costa Del Sol Open De Espana 2025",
+            "match_name": "Day 3",
+            "match_id": 137197,
+            "startTime": "06:30:00 PM 29-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/B7TvDbXTTMyJF8xCfc2XzQ/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/137197_english_hls_b87cef92fc45166_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Quetta Qavalry vs Aspin Stallions (Abu Dhabi T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138218_5763_QQY_AST_fc-web_1763729430432.png",
             "team_1": "Quetta Qavalry",
@@ -68,30 +124,6 @@
             "match_name": "Ajman Titans vs UAE Bulls",
             "match_id": 138232,
             "startTime": "09:30:00 PM 29-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
-            "team_1": "West Indies Under-19",
-            "team_2": "England Under-19",
-            "status": "UPCOMING",
-            "event_name": "England Under-19 tour of West Indies, 2025",
-            "match_name": "West Indies Under-19 vs England Under-19",
-            "match_id": 138041,
-            "startTime": "06:30:00 PM 29-11-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "RCD Mallorca vs CA Osasuna (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130961_5427_MRC_OSN_fc-Web.jpg",
-            "team_1": "RCD Mallorca",
-            "team_2": "CA Osasuna",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "RCD Mallorca vs CA Osasuna",
-            "match_id": 130961,
-            "startTime": "06:30:00 PM 29-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -191,6 +223,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "TBC vs TBC (Abu Dhabi T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi T10, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 138233,
+            "startTime": "05:00:00 PM 30-11-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "United Arab Emirates Women vs Namibia Women (ICC Women's Emerging Nations Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138099_5758_UAE-W_NAM-W_FC-Web.jpg",
             "team_1": "United Arab Emirates Women",
@@ -224,18 +268,6 @@
             "match_name": "Malaysia Women vs Hong Kong, China Women",
             "match_id": 138658,
             "startTime": "08:30:00 AM 30-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Abu Dhabi T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "TBC vs TBC",
-            "match_id": 138233,
-            "startTime": "05:00:00 PM 30-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -286,18 +318,6 @@
             "startTime": "11:30:00 PM 29-11-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Real Valladolid vs Málaga (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/138071_CASACARDS_APP.png",
-            "team_1": "Real Valladolid",
-            "team_2": "Málaga",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Valladolid vs Málaga",
-            "match_id": 138071,
-            "startTime": "01:30:00 AM 30-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Abu Dhabi T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -310,16 +330,16 @@
             "startTime": "07:15:00 PM 30-11-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3 vs Andalucia, Spain (Andalucia Costa Del Sol Open De Espana 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Anda-Lucia_Old_match-card_2.jpg",
-            "team_1": "Day 3",
-            "team_2": "Andalucia, Spain",
+            "event_category": "Football",
+            "title": "Real Valladolid vs Málaga (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/138071_CASACARDS_APP.png",
+            "team_1": "Real Valladolid",
+            "team_2": "Málaga",
             "status": "UPCOMING",
-            "event_name": "Andalucia Costa Del Sol Open De Espana 2025",
-            "match_name": "Day 3",
-            "match_id": 137197,
-            "startTime": "06:30:00 PM 29-11-2025"
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Real Valladolid vs Málaga",
+            "match_id": 138071,
+            "startTime": "01:30:00 AM 30-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -430,40 +450,28 @@
             "startTime": "06:00:00 PM 30-11-2025"
         },
         {
-            "event_category": "Formula 1",
-            "title": "Sprint vs Qatar (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2025-old-match-card.png",
-            "team_1": "Sprint",
-            "team_2": "Qatar",
+            "event_category": "Football",
+            "title": "Sevilla FC vs Real Betis (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130966_5427_SEV_RB_fc-Web.jpg",
+            "team_1": "Sevilla FC",
+            "team_2": "Real Betis",
             "status": "UPCOMING",
-            "event_name": "F1 QATAR AIRWAYS QATAR GRAND PRIX 2025",
-            "match_name": "Sprint",
-            "match_id": 118493,
-            "startTime": "07:30:00 PM 29-11-2025"
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Sevilla FC vs Real Betis",
+            "match_id": 130966,
+            "startTime": "08:45:00 PM 30-11-2025"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Sprint Race vs Lusail (F2 QATAR 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-            "team_1": "Sprint Race",
-            "team_2": "Lusail",
+            "event_category": "Football",
+            "title": "Real Zaragoza vs Leganés (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/138072_CASACARDS_APP.png",
+            "team_1": "Real Zaragoza",
+            "team_2": "Leganés",
             "status": "UPCOMING",
-            "event_name": "F2 QATAR 2025",
-            "match_name": "Sprint Race",
-            "match_id": 119075,
-            "startTime": "09:50:00 PM 29-11-2025"
-        },
-        {
-            "event_category": "Formula 1",
-            "title": "Qualifying vs Qatar (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2025-old-match-card.png",
-            "team_1": "Qualifying",
-            "team_2": "Qatar",
-            "status": "UPCOMING",
-            "event_name": "F1 QATAR AIRWAYS QATAR GRAND PRIX 2025",
-            "match_name": "Qualifying",
-            "match_id": 118494,
-            "startTime": "11:30:00 PM 29-11-2025"
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Real Zaragoza vs Leganés",
+            "match_id": 138072,
+            "startTime": "06:30:00 PM 30-11-2025"
         }
     ]
 }

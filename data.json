@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:26:27 AM 04-12-2025",
+    "last update time": "06:47:52 AM 04-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "03:30:00 AM 02-12-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764840832~acl=/*~id=90930447720659842738322545832791~hmac=9153eb73b9189394ac2b00ba1032eb253b49964a136a654bf6f3e250afbe106c"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malaysia Women vs Hong Kong, China Women (Hong Kong, China Women tour of Malaysia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-China-Women's-Tour-of-Malaysia_old.jpg",
+            "team_1": "Malaysia Women",
+            "team_2": "Hong Kong, China Women",
+            "status": "LIVE",
+            "event_name": "Hong Kong, China Women tour of Malaysia, 2025",
+            "match_name": "Malaysia Women vs Hong Kong, China Women",
+            "match_id": 138661,
+            "startTime": "07:00:00 AM 04-12-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/UOcXHcJYRoWu_dn8lxN6dQ/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138661_english_hls_9b3121322078790_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -68,18 +82,6 @@
             "match_name": "New South Wales vs Queensland",
             "match_id": 134030,
             "startTime": "05:30:00 AM 04-12-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malaysia Women vs Hong Kong, China Women (Hong Kong, China Women tour of Malaysia, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-China-Women's-Tour-of-Malaysia_old.jpg",
-            "team_1": "Malaysia Women",
-            "team_2": "Hong Kong, China Women",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong, China Women tour of Malaysia, 2025",
-            "match_name": "Malaysia Women vs Hong Kong, China Women",
-            "match_id": 138661,
-            "startTime": "07:00:00 AM 04-12-2025"
         },
         {
             "event_category": "Cricket",

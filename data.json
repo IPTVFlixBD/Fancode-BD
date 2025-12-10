@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "01:22:31 PM 10-12-2025",
+    "last update time": "01:53:02 PM 10-12-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Hyderabad Hawks vs Mumbai Fighters (Ability Sports League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ability-sports-league_old-match-card.jpg",
-            "team_1": "Hyderabad Hawks",
-            "team_2": "Mumbai Fighters",
-            "status": "LIVE",
-            "event_name": "Ability Sports League 2025",
-            "match_name": "Hyderabad Hawks vs Mumbai Fighters",
-            "match_id": 138701,
-            "startTime": "09:30:00 AM 10-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/12jPSBUyS4ac37pMjXgu5g/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138701_english_hls_279880d0a015561_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Delhi Dominators vs Lucknow Stallions (Ability Sports League 2025)",
@@ -368,18 +354,6 @@
             "startTime": "01:30:00 PM 12-12-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "United Arab Emirates Women vs Oman Women (GCC Women's T20I Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138713_5798_UAE-W_OMN-W_fc-web.jpg",
-            "team_1": "United Arab Emirates Women",
-            "team_2": "Oman Women",
-            "status": "UPCOMING",
-            "event_name": "GCC Women's T20I Championship, 2025",
-            "match_name": "United Arab Emirates Women vs Oman Women",
-            "match_id": 138713,
-            "startTime": "03:30:00 PM 12-12-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Central Coast Mariners vs Auckland (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -390,6 +364,18 @@
             "match_name": "Central Coast Mariners vs Auckland",
             "match_id": 138795,
             "startTime": "02:05:00 PM 12-12-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "United Arab Emirates Women vs Oman Women (GCC Women's T20I Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138713_5798_UAE-W_OMN-W_fc-web.jpg",
+            "team_1": "United Arab Emirates Women",
+            "team_2": "Oman Women",
+            "status": "UPCOMING",
+            "event_name": "GCC Women's T20I Championship, 2025",
+            "match_name": "United Arab Emirates Women vs Oman Women",
+            "match_id": 138713,
+            "startTime": "03:30:00 PM 12-12-2025"
         },
         {
             "event_category": "Cricket",
@@ -450,6 +436,18 @@
             "match_name": "West Bromwich Albion F.C. vs Sheffield United F.C.",
             "match_id": 136981,
             "startTime": "01:30:00 AM 13-12-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Tiburón Golf Club (Grant Thornton Invitational)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "team_1": "Day 1",
+            "team_2": "Tiburón Golf Club",
+            "status": "UPCOMING",
+            "event_name": "Grant Thornton Invitational",
+            "match_name": "Day 1",
+            "match_id": 138728,
+            "startTime": "11:30:00 PM 12-12-2025"
         }
     ]
 }

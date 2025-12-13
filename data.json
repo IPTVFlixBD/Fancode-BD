@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:19:15 PM 13-12-2025",
+    "last update time": "05:49:47 PM 13-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "03:30:00 PM 13-12-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/C3N0AeCWRjmDxIUjOuqOHQ/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138716_english_hls_e513d15d8c44553_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Norwich City F.C. vs Southampton F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136979_5489_NOR_SOU_fc-web.jpg",
+            "team_1": "Norwich City F.C.",
+            "team_2": "Southampton F.C.",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Norwich City F.C. vs Southampton F.C.",
+            "match_id": 136979,
+            "startTime": "06:00:00 PM 13-12-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/hwx-7eW4R3WvHcvRoLvuYA/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136979_english_hls_383431b48682544_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -73,15 +87,15 @@
         },
         {
             "event_category": "Football",
-            "title": "Norwich City F.C. vs Southampton F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136979_5489_NOR_SOU_fc-web.jpg",
-            "team_1": "Norwich City F.C.",
-            "team_2": "Southampton F.C.",
+            "title": "Atletico de Madrid vs Valencia CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130988_5427_ATL_VAL_fc-web.jpg",
+            "team_1": "Atletico de Madrid",
+            "team_2": "Valencia CF",
             "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Norwich City F.C. vs Southampton F.C.",
-            "match_id": 136979,
-            "startTime": "06:00:00 PM 13-12-2025"
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Atletico de Madrid vs Valencia CF",
+            "match_id": 130988,
+            "startTime": "06:30:00 PM 13-12-2025"
         },
         {
             "event_category": "Cricket",
@@ -96,16 +110,16 @@
             "startTime": "08:00:00 PM 13-12-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Atletico de Madrid vs Valencia CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130988_5427_ATL_VAL_fc-web.jpg",
-            "team_1": "Atletico de Madrid",
-            "team_2": "Valencia CF",
+            "event_category": "Cricket",
+            "title": "MI Emirates vs Sharjah Warriorz (DP World ILT20 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138636_5786_MIE_SWR_FC-Web.jpg",
+            "team_1": "MI Emirates",
+            "team_2": "Sharjah Warriorz",
             "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Atletico de Madrid vs Valencia CF",
-            "match_id": 130988,
-            "startTime": "06:30:00 PM 13-12-2025"
+            "event_name": "DP World ILT20 2025-26",
+            "match_name": "MI Emirates vs Sharjah Warriorz",
+            "match_id": 138636,
+            "startTime": "03:30:00 PM 14-12-2025"
         },
         {
             "event_category": "Football",
@@ -154,18 +168,6 @@
             "match_name": "Getafe CF vs RCD Espanyol",
             "match_id": 130984,
             "startTime": "01:30:00 AM 14-12-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "MI Emirates vs Sharjah Warriorz (DP World ILT20 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138636_5786_MIE_SWR_FC-Web.jpg",
-            "team_1": "MI Emirates",
-            "team_2": "Sharjah Warriorz",
-            "status": "UPCOMING",
-            "event_name": "DP World ILT20 2025-26",
-            "match_name": "MI Emirates vs Sharjah Warriorz",
-            "match_id": 138636,
-            "startTime": "03:30:00 PM 14-12-2025"
         },
         {
             "event_category": "Football",
@@ -264,18 +266,6 @@
             "startTime": "01:00:00 PM 14-12-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 4 vs Royal Johannesburg Club, Johannesburg, South Afric (Alfred Dunhill Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Alfred-Dunhill-Championship_Old-Match-Card.png",
-            "team_1": "Day 4",
-            "team_2": "Royal Johannesburg Club, Johannesburg, South Afric",
-            "status": "UPCOMING",
-            "event_name": "Alfred Dunhill Championship",
-            "match_name": "Day 4",
-            "match_id": 138694,
-            "startTime": "03:00:00 PM 14-12-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Levante vs Villarreal CF (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130980_5427_LE_VIL_fc-web.jpg",
@@ -286,6 +276,18 @@
             "match_name": "Levante vs Villarreal CF",
             "match_id": 130980,
             "startTime": "11:00:00 PM 14-12-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4 vs Royal Johannesburg Club, Johannesburg, South Afric (Alfred Dunhill Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Alfred-Dunhill-Championship_Old-Match-Card.png",
+            "team_1": "Day 4",
+            "team_2": "Royal Johannesburg Club, Johannesburg, South Afric",
+            "status": "UPCOMING",
+            "event_name": "Alfred Dunhill Championship",
+            "match_name": "Day 4",
+            "match_id": 138694,
+            "startTime": "03:00:00 PM 14-12-2025"
         },
         {
             "event_category": "Football",

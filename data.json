@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "07:50:11 AM 17-12-2025",
+    "last update time": "09:11:03 AM 17-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2.jpg",
             "team_1": "General Education Academy",
             "team_2": "Al Barkat",
-            "status": "PAUSED",
+            "status": "LIVE",
             "event_name": "129th Harris Shield Cricket Tournament",
             "match_name": "General Education Academy vs Al Barkat",
             "match_id": 138910,
-            "startTime": "09:45:00 AM 16-12-2025"
+            "startTime": "09:45:00 AM 16-12-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -21,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2.jpg",
             "team_1": "Anjuman English Allana",
             "team_2": "Dyandeep Seva Mandal",
-            "status": "PAUSED",
+            "status": "LIVE",
             "event_name": "129th Harris Shield Cricket Tournament",
             "match_name": "Anjuman English Allana vs Dyandeep Seva Mandal",
             "match_id": 138911,
-            "startTime": "09:45:00 AM 16-12-2025"
+            "startTime": "09:45:00 AM 16-12-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -66,7 +70,7 @@
         {
             "event_category": "Football",
             "title": "Racing de Santander vs Villarreal CF (Copa del Rey, 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/138903_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
             "team_1": "Racing de Santander",
             "team_2": "Villarreal CF",
             "status": "UPCOMING",
@@ -78,7 +82,7 @@
         {
             "event_category": "Football",
             "title": "Huesca vs CA Osasuna (Copa del Rey, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138902_5806_HUE_OSN_FC-Web.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138902_5806_HUE_OSN_FC-Web_1765938389469.jpg",
             "team_1": "Huesca",
             "team_2": "CA Osasuna",
             "status": "UPCOMING",
@@ -268,18 +272,6 @@
             "startTime": "01:45:00 AM 18-12-2025"
         },
         {
-            "event_category": "Team Tennis",
-            "title": "VB Realty Hawks vs Aussie Mavericks Kites (World Tennis League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138825_5803_VBR_AMK_fc-web.jpg",
-            "team_1": "VB Realty Hawks",
-            "team_2": "Aussie Mavericks Kites",
-            "status": "UPCOMING",
-            "event_name": "World Tennis League 2025",
-            "match_name": "VB Realty Hawks vs Aussie Mavericks Kites",
-            "match_id": 138825,
-            "startTime": "03:00:00 PM 17-12-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Kuwait Women vs Saudi Arabia Women (GCC Women's T20I Championship, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138724_5798_KU-W_KSAW_fc-web.jpg",
@@ -290,6 +282,18 @@
             "match_name": "Kuwait Women vs Saudi Arabia Women",
             "match_id": 138724,
             "startTime": "11:00:00 AM 18-12-2025"
+        },
+        {
+            "event_category": "Team Tennis",
+            "title": "VB Realty Hawks vs Aussie Mavericks Kites (World Tennis League 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138825_5803_VBR_AMK_fc-web.jpg",
+            "team_1": "VB Realty Hawks",
+            "team_2": "Aussie Mavericks Kites",
+            "status": "UPCOMING",
+            "event_name": "World Tennis League 2025",
+            "match_name": "VB Realty Hawks vs Aussie Mavericks Kites",
+            "match_id": 138825,
+            "startTime": "03:00:00 PM 17-12-2025"
         },
         {
             "event_category": "Team Tennis",

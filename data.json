@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:17:54 PM 19-12-2025",
+    "last update time": "11:48:35 PM 19-12-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Dubai Capitals vs Sharjah Warriorz (DP World ILT20 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138642_5786_SWR_DC_FC-Web.jpg",
-            "team_1": "Dubai Capitals",
-            "team_2": "Sharjah Warriorz",
-            "status": "LIVE",
-            "event_name": "DP World ILT20 2025-26",
-            "match_name": "Dubai Capitals vs Sharjah Warriorz",
-            "match_id": 138642,
-            "startTime": "08:00:00 PM 19-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/RdOtDtbaRwygoGHW-HU1zA/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138642_english_hls_574c6ba1f7380_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Real Madrid vs Sevilla FC (LALIGA 2025-26)",
@@ -28,20 +14,6 @@
             "match_name": "Real Madrid vs Sevilla FC",
             "match_id": 130990,
             "startTime": "01:30:00 AM 21-12-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "United Arab Emirates Women vs Oman Women (GCC Women's T20I Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138713_5798_UAE-W_OMN-W_fc-web.jpg",
-            "team_1": "United Arab Emirates Women",
-            "team_2": "Oman Women",
-            "status": "LIVE",
-            "event_name": "GCC Women's T20I Championship, 2025",
-            "match_name": "United Arab Emirates Women vs Oman Women",
-            "match_id": 138727,
-            "startTime": "08:00:00 PM 19-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/UjfKj2waQGKCVEcw1CQMoA/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138727_english_hls_8b7e26188248363_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -452,6 +424,30 @@
             "match_name": "Al Shorta vs Al-Ahli Saudi FC",
             "match_id": 136075,
             "startTime": "11:45:00 PM 22-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Egypt vs Zimbabwe (Africa Cup of Nations 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Egypt",
+            "team_2": "Zimbabwe",
+            "status": "UPCOMING",
+            "event_name": "Africa Cup of Nations 2025-26",
+            "match_name": "Egypt vs Zimbabwe",
+            "match_id": 138338,
+            "startTime": "12:30:00 AM 23-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Athletic Club vs RCD Espanyol (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130996_5427_ATH_ESL_fc-web_1765803538982.png",
+            "team_1": "Athletic Club",
+            "team_2": "RCD Espanyol",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Athletic Club vs RCD Espanyol",
+            "match_id": 130996,
+            "startTime": "01:30:00 AM 23-12-2025"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "01:21:02 PM 20-12-2025",
+    "last update time": "01:41:13 PM 20-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,20 +14,6 @@
             "match_name": "Real Madrid vs Sevilla FC",
             "match_id": 130990,
             "startTime": "01:30:00 AM 21-12-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Newcastle Jets vs Sydney FC (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138803_5802_NJ_SYD_fc-web.jpg",
-            "team_1": "Newcastle Jets",
-            "team_2": "Sydney FC",
-            "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Newcastle Jets vs Sydney FC",
-            "match_id": 138803,
-            "startTime": "11:30:00 AM 20-12-2025",
-            "dai_url": null,
-            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -150,6 +136,18 @@
             "startTime": "04:15:00 PM 20-12-2025"
         },
         {
+            "event_category": "Golf",
+            "title": "AfrAsia Bank Mauritius Open vs Heritage La Réserve GC, Heritage Bel Ombre, Maurit (AfrAsia Bank Mauritius Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-Open_New_old.jpg",
+            "team_1": "AfrAsia Bank Mauritius Open",
+            "team_2": "Heritage La Réserve GC, Heritage Bel Ombre, Maurit",
+            "status": "UPCOMING",
+            "event_name": "AfrAsia Bank Mauritius Open",
+            "match_name": "AfrAsia Bank Mauritius Open",
+            "match_id": 138697,
+            "startTime": "02:30:00 PM 20-12-2025"
+        },
+        {
             "event_category": "Cricket",
             "title": "Gulf Giants vs Dubai Capitals (DP World ILT20 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138645_5786_GG_DC_FC-Web.jpg",
@@ -172,18 +170,6 @@
             "match_name": "Wellington Phoenix vs Central Coast Mariners",
             "match_id": 138806,
             "startTime": "07:30:00 AM 21-12-2025"
-        },
-        {
-            "event_category": "Golf",
-            "title": "AfrAsia Bank Mauritius Open vs Heritage La Réserve GC, Heritage Bel Ombre, Maurit (AfrAsia Bank Mauritius Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-Open_New_old.jpg",
-            "team_1": "AfrAsia Bank Mauritius Open",
-            "team_2": "Heritage La Réserve GC, Heritage Bel Ombre, Maurit",
-            "status": "UPCOMING",
-            "event_name": "AfrAsia Bank Mauritius Open",
-            "match_name": "AfrAsia Bank Mauritius Open",
-            "match_id": 138697,
-            "startTime": "02:30:00 PM 20-12-2025"
         },
         {
             "event_category": "Team Tennis",

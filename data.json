@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "02:45:11 AM 22-12-2025",
+    "last update time": "03:05:32 AM 22-12-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg",
+            "team_1": "New Zealand",
+            "team_2": "West Indies",
+            "status": "LIVE",
+            "event_name": "West Indies tour of New Zealand, 2025",
+            "match_name": "New Zealand vs West Indies",
+            "match_id": 137698,
+            "startTime": "03:30:00 AM 18-12-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1766396132~acl=/*~id=42662246996455798340162003387707~hmac=b5ec46f0689c3bddf099132de616c681d0edf0e5d1b111528d2c0df32c0f5303"
+        },
         {
             "event_category": "Football",
             "title": "Real Betis vs Getafe CF (LALIGA 2025-26)",
@@ -30,32 +44,6 @@
             "startTime": "10:00:00 PM 21-12-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/T06gAWRlQSW1wjKQoKiNIw/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138962_english_hls_bb8f2593f782850_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Morocco vs Comoros (Africa Cup of Nations 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138336_5774_MOR_COM_Mini-Match-card.jpg",
-            "team_1": "Morocco",
-            "team_2": "Comoros",
-            "status": "LIVE",
-            "event_name": "Africa Cup of Nations 2025-26",
-            "match_name": "Morocco vs Comoros",
-            "match_id": 138336,
-            "startTime": "12:30:00 AM 22-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/aFH4A5UYRR2PvIql2D81tg/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138336_english_hls_f8407c372541522_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg",
-            "team_1": "New Zealand",
-            "team_2": "West Indies",
-            "status": "PAUSED",
-            "event_name": "West Indies tour of New Zealand, 2025",
-            "match_name": "New Zealand vs West Indies",
-            "match_id": 137698,
-            "startTime": "03:30:00 AM 18-12-2025"
         },
         {
             "event_category": "Cricket",
@@ -428,6 +416,18 @@
             "match_name": "Cameroon vs Gabon",
             "match_id": 138347,
             "startTime": "01:30:00 AM 25-12-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sylhet Strikers vs Durbar Rajshahi (Bangladesh Premier League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Sylhet Strikers",
+            "team_2": "Durbar Rajshahi",
+            "status": "UPCOMING",
+            "event_name": "Bangladesh Premier League, 2025-26",
+            "match_name": "Sylhet Strikers vs Durbar Rajshahi",
+            "match_id": 138916,
+            "startTime": "01:30:00 PM 26-12-2025"
         }
     ]
 }

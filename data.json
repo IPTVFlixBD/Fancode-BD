@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "09:12:32 PM 22-12-2025",
+    "last update time": "09:32:58 PM 22-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,6 +19,34 @@
         },
         {
             "event_category": "Football",
+            "title": "Tractor vs Al Duhail (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136074_5647_TFC_ADH_FC-Web_1766226888783.png",
+            "team_1": "Tractor",
+            "team_2": "Al Duhail",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Tractor vs Al Duhail",
+            "match_id": 136074,
+            "startTime": "09:30:00 PM 22-12-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/CMn_rXztT_2Quxxvp3Bk_g/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136074_english_hls_828199f39e2971_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sharjah vs Al Hilal SFC (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136073_5647_SHJ_AHS_FC-Web_1766226888793.png",
+            "team_1": "Sharjah",
+            "team_2": "Al Hilal SFC",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Sharjah vs Al Hilal SFC",
+            "match_id": 136073,
+            "startTime": "09:30:00 PM 22-12-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/A_eujeMHQiiUWo1ukGSjfw/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136073_english_hls_a39446229024389_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
             "title": "Mali vs Zambia (Africa Cup of Nations 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138337_5774_ML_ZMB_fc-web_1766386873947.jpg",
             "team_1": "Mali",
@@ -30,30 +58,6 @@
             "startTime": "07:30:00 PM 22-12-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/CEg6cqQuTnSPYwCiY1PFKg/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138337_english_hls_6b4127345919_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Tractor vs Al Duhail (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136074_5647_TFC_ADH_FC-Web_1766226888783.png",
-            "team_1": "Tractor",
-            "team_2": "Al Duhail",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Tractor vs Al Duhail",
-            "match_id": 136074,
-            "startTime": "09:30:00 PM 22-12-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sharjah vs Al Hilal SFC (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136073_5647_SHJ_AHS_FC-Web_1766226888793.png",
-            "team_1": "Sharjah",
-            "team_2": "Al Hilal SFC",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Sharjah vs Al Hilal SFC",
-            "match_id": 136073,
-            "startTime": "09:30:00 PM 22-12-2025"
         },
         {
             "event_category": "Football",

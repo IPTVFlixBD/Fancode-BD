@@ -1,35 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "07:44:52 PM 23-12-2025",
+    "last update time": "08:05:13 PM 23-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "MI Emirates vs Gulf Giants (DP World ILT20 2025-26)",
+            "title": "Gulf Giants vs MI Emirates (DP World ILT20 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138648_5786_MIE_GG_FC-Web.jpg",
-            "team_1": "MI Emirates",
-            "team_2": "Gulf Giants",
+            "team_1": "Gulf Giants",
+            "team_2": "MI Emirates",
             "status": "LIVE",
             "event_name": "DP World ILT20 2025-26",
-            "match_name": "MI Emirates vs Gulf Giants",
+            "match_name": "Gulf Giants vs MI Emirates",
             "match_id": 138648,
             "startTime": "08:00:00 PM 23-12-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/l5tc8_o7TX-bqsR5T1QBcg/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138648_english_hls_75db31f1bc45458_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "DR Congo vs Benin (Africa Cup of Nations 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138343_5774_DCG_BNI_fc-web_1766386874007.jpg",
-            "team_1": "DR Congo",
-            "team_2": "Benin",
-            "status": "LIVE",
-            "event_name": "Africa Cup of Nations 2025-26",
-            "match_name": "DR Congo vs Benin",
-            "match_id": 138343,
-            "startTime": "06:00:00 PM 23-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/_boE8rw6TxW-rLfiD4Atxg/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138343_english_hls_849969338345435_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -44,6 +30,20 @@
             "startTime": "07:15:00 PM 23-12-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/5sZ1mPFgS_aXEvjEshD25w/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136126_english_hls_076fbffeee37419_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "DR Congo vs Benin (Africa Cup of Nations 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138343_5774_DCG_BNI_fc-web_1766386874007.jpg",
+            "team_1": "DR Congo",
+            "team_2": "Benin",
+            "status": "LIVE",
+            "event_name": "Africa Cup of Nations 2025-26",
+            "match_name": "DR Congo vs Benin",
+            "match_id": 138343,
+            "startTime": "06:00:00 PM 23-12-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/_boE8rw6TxW-rLfiD4Atxg/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138343_english_hls_849969338345435_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",

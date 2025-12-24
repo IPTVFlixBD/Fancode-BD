@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:22:19 PM 24-12-2025",
+    "last update time": "11:52:53 PM 24-12-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Sharjah Warriorz vs Dubai Capitals (DP World ILT20 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138649_5786_DC_SWR_FC-Web.jpg",
-            "team_1": "Sharjah Warriorz",
-            "team_2": "Dubai Capitals",
-            "status": "LIVE",
-            "event_name": "DP World ILT20 2025-26",
-            "match_name": "Sharjah Warriorz vs Dubai Capitals",
-            "match_id": 138649,
-            "startTime": "08:00:00 PM 24-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/8ooMvY52QpuECTQHhcOL5A/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138649_english_hls_4688461df473589_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "IAS Invincibles vs Majees Titans (Oman D20 League, 2025-26)",
@@ -58,76 +44,6 @@
             "startTime": "09:30:00 PM 24-12-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/SC1ZuFh8R3ayFLBc8klDcg/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136138_english_hls_30dc12587a12429_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "FC Goa vs FK Istiklol (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136137_5648_FCG_ISK_FC-Web.jpg",
-            "team_1": "FC Goa",
-            "team_2": "FK Istiklol",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "FC Goa vs FK Istiklol",
-            "match_id": 136137,
-            "startTime": "09:30:00 PM 24-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/BNCT3zvuSLaPNRqMMrZT6g/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136137_english_hls_b06a364c1f44260_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al Ahli (QAT) vs Andijan (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136114_5648_ASC_ABD_FC-Web.jpg",
-            "team_1": "Al Ahli (QAT)",
-            "team_2": "Andijan",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Al Ahli (QAT) vs Andijan",
-            "match_id": 136114,
-            "startTime": "09:30:00 PM 24-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/r7PayE2LTuSLnuatXV33Og/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136114_english_hls_989506e82244186_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Arkadag vs Khaldiya (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136113_5648_ARK_KHA_FC-Web.jpg",
-            "team_1": "Arkadag",
-            "team_2": "Khaldiya",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Arkadag vs Khaldiya",
-            "match_id": 136113,
-            "startTime": "09:30:00 PM 24-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/6yTqjhiZTOSNhegmPNDaOQ/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136113_english_hls_a08b51f5b713716_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al Muharraq vs Esteghlal FC (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136102_5648_ALM_ESG_FC-Web.jpg",
-            "team_1": "Al Muharraq",
-            "team_2": "Esteghlal FC",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Al Muharraq vs Esteghlal FC",
-            "match_id": 136102,
-            "startTime": "09:30:00 PM 24-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/2V66ZbcrSw6vVAB0y2DCWQ/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136102_english_hls_d3445af9f07067_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al Wasl vs Al Wehdat (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136101_5648_AWL_ALW_FC-Web.jpg",
-            "team_1": "Al Wasl",
-            "team_2": "Al Wehdat",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Al Wasl vs Al Wehdat",
-            "match_id": 136101,
-            "startTime": "09:30:00 PM 24-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/bO_JxcIxTP-6AYYPDR_uIg/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136101_english_hls_ae20b1d1b144233_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -452,6 +368,78 @@
             "match_name": "IAS Invincibles vs Royal Oman Stallions",
             "match_id": 139150,
             "startTime": "12:30:00 PM 27-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sydney FC vs Auckland (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138808_5802_SYD_AFC_fc-web.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Auckland",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney FC vs Auckland",
+            "match_id": 138808,
+            "startTime": "11:30:00 AM 27-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Adelaide United vs Western Sydney Wanderers (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138809_5802_ADL_SYW_fc-web.jpg",
+            "team_1": "Adelaide United",
+            "team_2": "Western Sydney Wanderers",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Adelaide United vs Western Sydney Wanderers",
+            "match_id": 138809,
+            "startTime": "02:05:00 PM 27-12-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sylhet Strikers vs Noakhali Express (Bangladesh Premier League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138919_5808_SYL_NOE_fc-web_1766586878359.jpg",
+            "team_1": "Sylhet Strikers",
+            "team_2": "Noakhali Express",
+            "status": "UPCOMING",
+            "event_name": "Bangladesh Premier League, 2025-26",
+            "match_name": "Sylhet Strikers vs Noakhali Express",
+            "match_id": 138919,
+            "startTime": "05:30:00 PM 27-12-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Yalla Shabab Giants vs Renaissance Challengers (Oman D20 League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
+            "team_1": "Yalla Shabab Giants",
+            "team_2": "Renaissance Challengers",
+            "status": "UPCOMING",
+            "event_name": "Oman D20 League, 2025-26",
+            "match_name": "Yalla Shabab Giants vs Renaissance Challengers",
+            "match_id": 139151,
+            "startTime": "05:00:00 PM 27-12-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "MI Emirates vs Dubai Capitals (DP World ILT20 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138651_5786_MIE_DC_FC-Web.jpg",
+            "team_1": "MI Emirates",
+            "team_2": "Dubai Capitals",
+            "status": "UPCOMING",
+            "event_name": "DP World ILT20 2025-26",
+            "match_name": "MI Emirates vs Dubai Capitals",
+            "match_id": 138651,
+            "startTime": "08:00:00 PM 27-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Benin vs Botswana (Africa Cup of Nations 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138355_5774_BNI_BOT_fc-web_1766386874219.jpg",
+            "team_1": "Benin",
+            "team_2": "Botswana",
+            "status": "UPCOMING",
+            "event_name": "Africa Cup of Nations 2025-26",
+            "match_name": "Benin vs Botswana",
+            "match_id": 138355,
+            "startTime": "06:00:00 PM 27-12-2025"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "03:36:23 PM 27-12-2025",
+    "last update time": "03:56:46 PM 27-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -83,18 +83,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Yalla Shabab Giants vs Renaissance Challengers (Oman D20 League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
-            "team_1": "Yalla Shabab Giants",
-            "team_2": "Renaissance Challengers",
-            "status": "UPCOMING",
-            "event_name": "Oman D20 League, 2025-26",
-            "match_name": "Yalla Shabab Giants vs Renaissance Challengers",
-            "match_id": 139151,
-            "startTime": "05:00:00 PM 27-12-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Otago Sparks vs Canterbury Magicians (Women's Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138765_5801_OS-W_CM-W_fc-web_1766596522153.jpg",
             "team_1": "Otago Sparks",
@@ -104,6 +92,18 @@
             "match_name": "Otago Sparks vs Canterbury Magicians",
             "match_id": 138765,
             "startTime": "01:00:00 PM 28-12-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Yalla Shabab Giants vs Renaissance Challengers (Oman D20 League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
+            "team_1": "Yalla Shabab Giants",
+            "team_2": "Renaissance Challengers",
+            "status": "UPCOMING",
+            "event_name": "Oman D20 League, 2025-26",
+            "match_name": "Yalla Shabab Giants vs Renaissance Challengers",
+            "match_id": 139151,
+            "startTime": "05:00:00 PM 27-12-2025"
         },
         {
             "event_category": "Cricket",
@@ -190,18 +190,6 @@
             "startTime": "01:30:00 AM 28-12-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Melbourne City vs Perth Glory (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138810_5802_MLC_PG_fc-web.jpg",
-            "team_1": "Melbourne City",
-            "team_2": "Perth Glory",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne City vs Perth Glory",
-            "match_id": 138810,
-            "startTime": "01:30:00 PM 28-12-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Gulf Giants vs Abu Dhabi Knight Riders (DP World ILT20 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138652_5786_GG_ADKR_FC-Web.jpg",
@@ -212,6 +200,18 @@
             "match_name": "Gulf Giants vs Abu Dhabi Knight Riders",
             "match_id": 138652,
             "startTime": "08:00:00 PM 28-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne City vs Perth Glory (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138810_5802_MLC_PG_fc-web.jpg",
+            "team_1": "Melbourne City",
+            "team_2": "Perth Glory",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne City vs Perth Glory",
+            "match_id": 138810,
+            "startTime": "01:30:00 PM 28-12-2025"
         },
         {
             "event_category": "Football",

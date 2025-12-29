@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "03:36:24 PM 29-12-2025",
+    "last update time": "04:06:52 PM 29-12-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Melbourne Victory vs Wellington Phoenix (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138811_5802_MLV_WEL_fc-web.jpg",
-            "team_1": "Melbourne Victory",
-            "team_2": "Wellington Phoenix",
-            "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne Victory vs Wellington Phoenix",
-            "match_id": 138811,
-            "startTime": "01:30:00 PM 29-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/0wXtXhuQT1ObHlD2KKFBNA/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138811_english_hls_c0a013213253363_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Chattogram Royals vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138920_5808_RAN_CCH_fc-web_1766733054132.jpg",
-            "team_1": "Chattogram Royals",
-            "team_2": "Rangpur Riders",
-            "status": "LIVE",
-            "event_name": "Bangladesh Premier League, 2025-26",
-            "match_name": "Chattogram Royals vs Rangpur Riders",
-            "match_id": 138920,
-            "startTime": "12:30:00 PM 29-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/vChD82AMQTuc9NZuXeK4QQ/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138920_english_hls_c3c8e1c36052146_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Rajshahi Warriors vs Noakhali Express (Bangladesh Premier League, 2025-26)",
@@ -57,6 +29,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Majees Titans vs Royal Oman Stallions (Oman D20 League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
+            "team_1": "Majees Titans",
+            "team_2": "Royal Oman Stallions",
+            "status": "UPCOMING",
+            "event_name": "Oman D20 League, 2025-26",
+            "match_name": "Majees Titans vs Royal Oman Stallions",
+            "match_id": 139154,
+            "startTime": "05:00:00 PM 29-12-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Otago Volts vs Central Stags (Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138735_5800_OV_CS_fc-web_1766641250982.jpg",
             "team_1": "Otago Volts",
@@ -78,18 +62,6 @@
             "match_name": "Sylhet Titans vs Chattogram Royals",
             "match_id": 138922,
             "startTime": "12:30:00 PM 30-12-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Majees Titans vs Royal Oman Stallions (Oman D20 League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
-            "team_1": "Majees Titans",
-            "team_2": "Royal Oman Stallions",
-            "status": "UPCOMING",
-            "event_name": "Oman D20 League, 2025-26",
-            "match_name": "Majees Titans vs Royal Oman Stallions",
-            "match_id": 139154,
-            "startTime": "05:00:00 PM 29-12-2025"
         },
         {
             "event_category": "Cricket",
@@ -426,6 +398,18 @@
             "match_name": "Auckland vs Newcastle Jets",
             "match_id": 138813,
             "startTime": "09:30:00 AM 01-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Western Sydney Wanderers vs Macarthur (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138814_5802_SYW_MAC_fc-web.jpg",
+            "team_1": "Western Sydney Wanderers",
+            "team_2": "Macarthur",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Western Sydney Wanderers vs Macarthur",
+            "match_id": 138814,
+            "startTime": "01:30:00 PM 01-01-2026"
         }
     ]
 }

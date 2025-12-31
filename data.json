@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:20:29 AM 31-12-2025",
+    "last update time": "12:01:06 PM 31-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -90,6 +90,18 @@
             "startTime": "11:00:00 PM 31-12-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Canterbury vs Central Stags (Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138737_5800_CTB_CS_fc-web_1766641250989.jpg",
+            "team_1": "Canterbury",
+            "team_2": "Central Stags",
+            "status": "UPCOMING",
+            "event_name": "Super Smash, 2025-26",
+            "match_name": "Canterbury vs Central Stags",
+            "match_id": 138737,
+            "startTime": "10:25:00 AM 01-01-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Mozambique vs Cameroon (Africa Cup of Nations 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138378_5774_MOZ_CMR_fc-web_1766386873980.jpg",
@@ -115,15 +127,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Canterbury vs Central Stags (Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138737_5800_CTB_CS_fc-web_1766641250989.jpg",
-            "team_1": "Canterbury",
-            "team_2": "Central Stags",
+            "title": "Sylhet Titans vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138924_5808_SYL_DC_fc-web_1766733054268.jpg",
+            "team_1": "Sylhet Titans",
+            "team_2": "Dhaka Capitals",
             "status": "UPCOMING",
-            "event_name": "Super Smash, 2025-26",
-            "match_name": "Canterbury vs Central Stags",
-            "match_id": 138737,
-            "startTime": "10:25:00 AM 01-01-2026"
+            "event_name": "Bangladesh Premier League, 2025-26",
+            "match_name": "Sylhet Titans vs Dhaka Capitals",
+            "match_id": 138924,
+            "startTime": "12:30:00 PM 01-01-2026"
         },
         {
             "event_category": "Football",
@@ -136,18 +148,6 @@
             "match_name": "Central Coast Mariners vs Brisbane Roar",
             "match_id": 138812,
             "startTime": "01:30:00 PM 31-12-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sylhet Titans vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138924_5808_SYL_DC_fc-web_1766733054268.jpg",
-            "team_1": "Sylhet Titans",
-            "team_2": "Dhaka Capitals",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh Premier League, 2025-26",
-            "match_name": "Sylhet Titans vs Dhaka Capitals",
-            "match_id": 138924,
-            "startTime": "12:30:00 PM 01-01-2026"
         },
         {
             "event_category": "Football",

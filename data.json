@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:44:59 PM 01-01-2026",
+    "last update time": "12:15:24 AM 02-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "11:00:00 PM 01-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/nnZv1QHiSoCvVdLhqO3uEA/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136993_english_hls_bc374b493e82679_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Abu Dhabi Knight Riders vs Dubai Capitals (DP World ILT20 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138629_5786_DC_ADKR_FC-Web.jpg",
-            "team_1": "Abu Dhabi Knight Riders",
-            "team_2": "Dubai Capitals",
-            "status": "LIVE",
-            "event_name": "DP World ILT20 2025-26",
-            "match_name": "Abu Dhabi Knight Riders vs Dubai Capitals",
-            "match_id": 138654,
-            "startTime": "08:00:00 PM 01-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/KmRpdTLIS46aG12gWuXWWQ/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138654_english_hls_0ecfc48b3251304_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -95,13 +81,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "MI Emirates vs TBC (DP World ILT20 2025-26)",
+            "title": "MI Emirates vs Abu Dhabi Knight Riders (DP World ILT20 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
             "team_1": "MI Emirates",
-            "team_2": "TBC",
+            "team_2": "Abu Dhabi Knight Riders",
             "status": "UPCOMING",
             "event_name": "DP World ILT20 2025-26",
-            "match_name": "MI Emirates vs TBC",
+            "match_name": "MI Emirates vs Abu Dhabi Knight Riders",
             "match_id": 138655,
             "startTime": "08:00:00 PM 02-01-2026"
         },
@@ -130,18 +116,6 @@
             "startTime": "05:00:00 PM 02-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Melbourne Victory vs Perth Glory (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138815_5802_MLV_PG_fc-web.jpg",
-            "team_1": "Melbourne Victory",
-            "team_2": "Perth Glory",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne Victory vs Perth Glory",
-            "match_id": 138815,
-            "startTime": "02:05:00 PM 02-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "IAS Invincibles vs Royal Oman Stallions (Oman D20 League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
@@ -152,6 +126,18 @@
             "match_name": "IAS Invincibles vs Royal Oman Stallions",
             "match_id": 139161,
             "startTime": "09:00:00 PM 02-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne Victory vs Perth Glory (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138815_5802_MLV_PG_fc-web.jpg",
+            "team_1": "Melbourne Victory",
+            "team_2": "Perth Glory",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne Victory vs Perth Glory",
+            "match_id": 138815,
+            "startTime": "02:05:00 PM 02-01-2026"
         },
         {
             "event_category": "Football",

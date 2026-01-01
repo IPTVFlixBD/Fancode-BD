@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:27:50 AM 01-01-2026",
+    "last update time": "07:29:45 AM 01-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138769_5801_CM-W_CH-W_fc-web_1766596522075.jpg",
             "team_1": "Canterbury Magicians",
             "team_2": "Central Hinds",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Women's Super Smash, 2025-26",
             "match_name": "Canterbury Magicians vs Central Hinds",
             "match_id": 138769,
-            "startTime": "06:40:00 AM 01-01-2026"
+            "startTime": "06:40:00 AM 01-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/icvViGuYQEGUr5_JWNucFg/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138769_english_hls_80874a62fd3333_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -65,6 +67,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Auckland Hearts vs Wellington Blaze (Women's Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138770_5801_AH-W_WB-W_fc-web_1766596522148.jpg",
+            "team_1": "Auckland Hearts",
+            "team_2": "Wellington Blaze",
+            "status": "UPCOMING",
+            "event_name": "Women's Super Smash, 2025-26",
+            "match_name": "Auckland Hearts vs Wellington Blaze",
+            "match_id": 138770,
+            "startTime": "05:10:00 AM 02-01-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Yalla Shabab Giants vs Royal Oman Stallions (Oman D20 League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
             "team_1": "Yalla Shabab Giants",
@@ -110,18 +124,6 @@
             "match_name": "Southampton F.C. vs Millwall F.C.",
             "match_id": 136994,
             "startTime": "08:30:00 PM 01-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Auckland Hearts vs Wellington Blaze (Women's Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138770_5801_AH-W_WB-W_fc-web_1766596522148.jpg",
-            "team_1": "Auckland Hearts",
-            "team_2": "Wellington Blaze",
-            "status": "UPCOMING",
-            "event_name": "Women's Super Smash, 2025-26",
-            "match_name": "Auckland Hearts vs Wellington Blaze",
-            "match_id": 138770,
-            "startTime": "05:10:00 AM 02-01-2026"
         },
         {
             "event_category": "Football",

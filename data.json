@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "06:30:59 AM 02-01-2026",
+    "last update time": "08:22:51 AM 02-01-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Wellington Blaze vs Auckland Hearts (Women's Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138770_5801_AH-W_WB-W_fc-web_1766596522148.jpg",
-            "team_1": "Wellington Blaze",
-            "team_2": "Auckland Hearts",
-            "status": "LIVE",
-            "event_name": "Women's Super Smash, 2025-26",
-            "match_name": "Wellington Blaze vs Auckland Hearts",
-            "match_id": 138770,
-            "startTime": "05:10:00 AM 02-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/2-36UOIHSpymX5nILrJflw/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138770_english_hls_ce7d2fed291474_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Auckland Aces vs Wellington Firebirds (Super Smash, 2025-26)",
@@ -56,7 +42,7 @@
         {
             "event_category": "Cricket",
             "title": "MI Emirates vs Abu Dhabi Knight Riders (DP World ILT20 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138633_5786_MIE_ADKR_FC-Web.jpg",
             "team_1": "MI Emirates",
             "team_2": "Abu Dhabi Knight Riders",
             "status": "UPCOMING",
@@ -64,6 +50,18 @@
             "match_name": "MI Emirates vs Abu Dhabi Knight Riders",
             "match_id": 138655,
             "startTime": "08:00:00 PM 02-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Central Hinds vs Canterbury Magicians (Women's Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138771_5801_CH-W_CM-W_fc-web_1766596522078.jpg",
+            "team_1": "Central Hinds",
+            "team_2": "Canterbury Magicians",
+            "status": "UPCOMING",
+            "event_name": "Women's Super Smash, 2025-26",
+            "match_name": "Central Hinds vs Canterbury Magicians",
+            "match_id": 138771,
+            "startTime": "05:10:00 AM 03-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -88,18 +86,6 @@
             "match_name": "Majees Titans vs Renaissance Challengers",
             "match_id": 139160,
             "startTime": "05:00:00 PM 02-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Central Hinds vs Canterbury Magicians (Women's Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138771_5801_CH-W_CM-W_fc-web_1766596522078.jpg",
-            "team_1": "Central Hinds",
-            "team_2": "Canterbury Magicians",
-            "status": "UPCOMING",
-            "event_name": "Women's Super Smash, 2025-26",
-            "match_name": "Central Hinds vs Canterbury Magicians",
-            "match_id": 138771,
-            "startTime": "05:10:00 AM 03-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -138,18 +124,6 @@
             "startTime": "01:30:00 AM 03-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Melbourne Victory vs Perth Glory (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138815_5802_MLV_PG_fc-web.jpg",
-            "team_1": "Melbourne Victory",
-            "team_2": "Perth Glory",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne Victory vs Perth Glory",
-            "match_id": 138815,
-            "startTime": "02:05:00 PM 02-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Central Stags vs Canterbury (Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138739_5800_CS_CTB_fc-web_1766641251032.jpg",
@@ -160,6 +134,18 @@
             "match_name": "Central Stags vs Canterbury",
             "match_id": 138739,
             "startTime": "08:55:00 AM 03-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne Victory vs Perth Glory (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138815_5802_MLV_PG_fc-web.jpg",
+            "team_1": "Melbourne Victory",
+            "team_2": "Perth Glory",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne Victory vs Perth Glory",
+            "match_id": 138815,
+            "startTime": "02:05:00 PM 02-01-2026"
         },
         {
             "event_category": "Football",
@@ -174,18 +160,6 @@
             "startTime": "01:30:00 AM 03-01-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Boston vs Los Angeles vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Boston vs Los Angeles",
-            "team_2": "Florida",
-            "status": "UPCOMING",
-            "event_name": "TGL Season 2",
-            "match_name": "Boston vs Los Angeles",
-            "match_id": 139164,
-            "startTime": "05:30:00 AM 03-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Brisbane Roar vs Wellington Phoenix (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138816_5802_BRB_WEL_fc-web.jpg",
@@ -196,6 +170,18 @@
             "match_name": "Brisbane Roar vs Wellington Phoenix",
             "match_id": 138816,
             "startTime": "11:30:00 AM 03-01-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Boston vs Los Angeles vs Florida (TGL Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "Boston vs Los Angeles",
+            "team_2": "Florida",
+            "status": "UPCOMING",
+            "event_name": "TGL Season 2",
+            "match_name": "Boston vs Los Angeles",
+            "match_id": 139164,
+            "startTime": "05:30:00 AM 03-01-2026"
         },
         {
             "event_category": "Football",

@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:56:19 AM 02-01-2026",
+    "last update time": "12:26:52 PM 02-01-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Yalla Shabab Giants vs Muscat Thunders (Oman D20 League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
+            "team_1": "Yalla Shabab Giants",
+            "team_2": "Muscat Thunders",
+            "status": "LIVE",
+            "event_name": "Oman D20 League, 2025-26",
+            "match_name": "Yalla Shabab Giants vs Muscat Thunders",
+            "match_id": 139159,
+            "startTime": "12:30:00 PM 02-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/I6jLCeiOTrq9WwI2p-uCwA/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139159_english_hls_66b437e81a25094_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Dhaka Capitals vs Chattogram Royals (Bangladesh Premier League, 2025-26)",
@@ -38,18 +52,6 @@
             "match_name": "MI Emirates vs Abu Dhabi Knight Riders",
             "match_id": 138655,
             "startTime": "08:00:00 PM 02-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Yalla Shabab Giants vs Muscat Thunders (Oman D20 League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
-            "team_1": "Yalla Shabab Giants",
-            "team_2": "Muscat Thunders",
-            "status": "UPCOMING",
-            "event_name": "Oman D20 League, 2025-26",
-            "match_name": "Yalla Shabab Giants vs Muscat Thunders",
-            "match_id": 139159,
-            "startTime": "12:30:00 PM 02-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -160,18 +162,6 @@
             "startTime": "11:30:00 AM 03-01-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Boston vs Los Angeles vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Boston vs Los Angeles",
-            "team_2": "Florida",
-            "status": "UPCOMING",
-            "event_name": "TGL Season 2",
-            "match_name": "Boston vs Los Angeles",
-            "match_id": 139164,
-            "startTime": "05:30:00 AM 03-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Melbourne City vs Sydney FC (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138817_5802_MLC_SYD_fc-web.jpg",
@@ -182,6 +172,18 @@
             "match_name": "Melbourne City vs Sydney FC",
             "match_id": 138817,
             "startTime": "02:05:00 PM 03-01-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Boston vs Los Angeles vs Florida (TGL Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "Boston vs Los Angeles",
+            "team_2": "Florida",
+            "status": "UPCOMING",
+            "event_name": "TGL Season 2",
+            "match_name": "Boston vs Los Angeles",
+            "match_id": 139164,
+            "startTime": "05:30:00 AM 03-01-2026"
         },
         {
             "event_category": "Football",
@@ -196,6 +198,18 @@
             "startTime": "06:30:00 PM 03-01-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Oman D20 League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Oman D20 League, 2025-26",
+            "match_name": "TBC vs TBC",
+            "match_id": 139162,
+            "startTime": "07:30:00 PM 03-01-2026"
+        },
+        {
             "event_category": "Football",
             "title": "CA Osasuna vs Athletic Club (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131000_5427_OSN_ATH_fc-web.png",
@@ -206,18 +220,6 @@
             "match_name": "CA Osasuna vs Athletic Club",
             "match_id": 131000,
             "startTime": "08:45:00 PM 03-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Oman D20 League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Oman D20 League, 2025-26",
-            "match_name": "TBC vs TBC",
-            "match_id": 139162,
-            "startTime": "09:00:00 PM 03-01-2026"
         },
         {
             "event_category": "Football",

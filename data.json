@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:38:20 PM 02-01-2026",
+    "last update time": "12:08:53 AM 03-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -57,6 +57,18 @@
         },
         {
             "event_category": "Football",
+            "title": "Eibar vs Mirandés (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Eibar",
+            "team_2": "Mirandés",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Eibar vs Mirandés",
+            "match_id": 138912,
+            "startTime": "01:00:00 AM 03-01-2026"
+        },
+        {
+            "event_category": "Football",
             "title": "Rayo Vallecano vs Getafe CF (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131004_5427_RVL_GEF_fc-web.png",
             "team_1": "Rayo Vallecano",
@@ -78,18 +90,6 @@
             "match_name": "Oman Women's Red vs Oman Women's Blue",
             "match_id": 139295,
             "startTime": "03:30:00 PM 03-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Eibar vs Mirandés (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Eibar",
-            "team_2": "Mirandés",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Eibar vs Mirandés",
-            "match_id": 138912,
-            "startTime": "01:00:00 AM 03-01-2026"
         },
         {
             "event_category": "Football",
@@ -345,13 +345,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Desert Vipers vs TBC (DP World ILT20 2025-26)",
+            "title": "Desert Vipers vs MI Emirates (DP World ILT20 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
             "team_1": "Desert Vipers",
-            "team_2": "TBC",
+            "team_2": "MI Emirates",
             "status": "UPCOMING",
             "event_name": "DP World ILT20 2025-26",
-            "match_name": "Desert Vipers vs TBC",
+            "match_name": "Desert Vipers vs MI Emirates",
             "match_id": 138656,
             "startTime": "08:00:00 PM 04-01-2026"
         },

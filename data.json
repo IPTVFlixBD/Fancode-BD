@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "06:26:58 PM 03-01-2026",
+    "last update time": "06:57:27 PM 03-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -57,18 +57,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Sylhet Titans vs Chattogram Royals (Bangladesh Premier League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138922_5808_SYL_CCH_fc-web_1766733054335.jpg",
-            "team_1": "Sylhet Titans",
-            "team_2": "Chattogram Royals",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh Premier League, 2025-26",
-            "match_name": "Sylhet Titans vs Chattogram Royals",
-            "match_id": 138922,
-            "startTime": "12:30:00 PM 04-01-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Majees Titans vs IAS Invincibles (Oman D20 League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
             "team_1": "Majees Titans",
@@ -78,6 +66,18 @@
             "match_name": "Majees Titans vs IAS Invincibles",
             "match_id": 139162,
             "startTime": "07:30:00 PM 03-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sylhet Titans vs Chattogram Royals (Bangladesh Premier League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138922_5808_SYL_CCH_fc-web_1766733054335.jpg",
+            "team_1": "Sylhet Titans",
+            "team_2": "Chattogram Royals",
+            "status": "UPCOMING",
+            "event_name": "Bangladesh Premier League, 2025-26",
+            "match_name": "Sylhet Titans vs Chattogram Royals",
+            "match_id": 138922,
+            "startTime": "12:30:00 PM 04-01-2026"
         },
         {
             "event_category": "Football",

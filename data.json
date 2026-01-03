@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "10:39:35 AM 03-01-2026",
+    "last update time": "11:10:15 AM 03-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,6 +18,20 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138739_english_hls_3e7a73d0358892_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Brisbane Roar vs Wellington Phoenix (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138816_5802_BRB_WEL_fc-web.jpg",
+            "team_1": "Brisbane Roar",
+            "team_2": "Wellington Phoenix",
+            "status": "LIVE",
+            "event_name": "A League 2025-26",
+            "match_name": "Brisbane Roar vs Wellington Phoenix",
+            "match_id": 138816,
+            "startTime": "11:30:00 AM 03-01-2026",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
             "event_category": "Cricket",
             "title": "Northern Brave Women vs Otago Sparks (Women's Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138772_5801_NB-W_OS-W_fc-web_1766596522204.jpg",
@@ -28,18 +42,6 @@
             "match_name": "Northern Brave Women vs Otago Sparks",
             "match_id": 138772,
             "startTime": "06:40:00 AM 04-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Brisbane Roar vs Wellington Phoenix (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138816_5802_BRB_WEL_fc-web.jpg",
-            "team_1": "Brisbane Roar",
-            "team_2": "Wellington Phoenix",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Brisbane Roar vs Wellington Phoenix",
-            "match_id": 138816,
-            "startTime": "11:30:00 AM 03-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -234,30 +236,6 @@
             "startTime": "02:05:00 PM 04-01-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Day 1 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Show Court 1, Brisbane",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Brisbane",
-            "match_name": "Day 1",
-            "match_id": 139185,
-            "startTime": "10:30:00 AM 04-01-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 1 vs Rafter Arena, Brisbane (ATP 250 - Brisbane)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Rafter Arena, Brisbane",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Brisbane",
-            "match_name": "Day 1",
-            "match_id": 139184,
-            "startTime": "10:30:00 AM 04-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Desert Vipers vs MI Emirates (DP World ILT20 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138646_5786_DV_MIE_FC-Web.jpg",
@@ -280,6 +258,30 @@
             "match_name": "Birmingham City F.C. vs Coventry City Football Club",
             "match_id": 136995,
             "startTime": "05:30:00 PM 04-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 1 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+            "team_1": "Day 1",
+            "team_2": "Show Court 1, Brisbane",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Brisbane",
+            "match_name": "Day 1",
+            "match_id": 139185,
+            "startTime": "10:30:00 AM 04-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 1 vs Rafter Arena, Brisbane (ATP 250 - Brisbane)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+            "team_1": "Day 1",
+            "team_2": "Rafter Arena, Brisbane",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Brisbane",
+            "match_name": "Day 1",
+            "match_id": 139184,
+            "startTime": "10:30:00 AM 04-01-2026"
         },
         {
             "event_category": "Football",

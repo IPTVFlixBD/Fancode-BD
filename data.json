@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "10:20:59 PM 03-01-2026",
+    "last update time": "10:41:19 PM 03-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,20 +19,6 @@
         },
         {
             "event_category": "Football",
-            "title": "CA Osasuna vs Athletic Club (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131000_5427_OSN_ATH_fc-web.png",
-            "team_1": "CA Osasuna",
-            "team_2": "Athletic Club",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "CA Osasuna vs Athletic Club",
-            "match_id": 131000,
-            "startTime": "08:45:00 PM 03-01-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/131000_english_hls_7314cb0fc061198_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/131000_english_hls_7314cb0fc061198_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Senegal vs Sudan (Africa Cup of Nations 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Senegal-vs-sudan_fc-web.jpg",
             "team_1": "Senegal",
@@ -44,6 +30,34 @@
             "startTime": "09:30:00 PM 03-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/77DX0d35TGaZcD7Yt5iALg/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138379_english_hls_3cbf87ddd682564_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Elche CF vs Villarreal CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131009_5427_ELC_VIL_fc-web.png",
+            "team_1": "Elche CF",
+            "team_2": "Villarreal CF",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Elche CF vs Villarreal CF",
+            "match_id": 131009,
+            "startTime": "11:00:00 PM 03-01-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/131009_english_hls_e5a8bbfad987141_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/131009_english_hls_e5a8bbfad987141_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "CA Osasuna vs Athletic Club (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131000_5427_OSN_ATH_fc-web.png",
+            "team_1": "CA Osasuna",
+            "team_2": "Athletic Club",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "CA Osasuna vs Athletic Club",
+            "match_id": 131000,
+            "startTime": "08:45:00 PM 03-01-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/131000_english_hls_7314cb0fc061198_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/131000_english_hls_7314cb0fc061198_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -83,18 +97,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Elche CF vs Villarreal CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131009_5427_ELC_VIL_fc-web.png",
-            "team_1": "Elche CF",
-            "team_2": "Villarreal CF",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Elche CF vs Villarreal CF",
-            "match_id": 131009,
-            "startTime": "11:00:00 PM 03-01-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Al-Ittihad vs Al Taawoun (Roshn Saudi League 2025-2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ittihad-vs-Al-Taawoun_fc-web_1767365352745.jpg",
             "team_1": "Al-Ittihad",
@@ -131,18 +133,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Tasmania Women vs Queensland Fire (Women's National Cricket League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg",
-            "team_1": "Tasmania Women",
-            "team_2": "Queensland Fire",
-            "status": "UPCOMING",
-            "event_name": "Women's National Cricket League, 2025-26",
-            "match_name": "Tasmania Women vs Queensland Fire",
-            "match_id": 133962,
-            "startTime": "05:00:00 AM 04-01-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Desert Vipers vs MI Emirates (DP World ILT20 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138646_5786_DV_MIE_FC-Web.jpg",
             "team_1": "Desert Vipers",
@@ -152,6 +142,18 @@
             "match_name": "Desert Vipers vs MI Emirates",
             "match_id": 138656,
             "startTime": "08:00:00 PM 04-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tasmania Women vs Queensland Fire (Women's National Cricket League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg",
+            "team_1": "Tasmania Women",
+            "team_2": "Queensland Fire",
+            "status": "UPCOMING",
+            "event_name": "Women's National Cricket League, 2025-26",
+            "match_name": "Tasmania Women vs Queensland Fire",
+            "match_id": 133962,
+            "startTime": "05:00:00 AM 04-01-2026"
         },
         {
             "event_category": "Football",
@@ -310,6 +312,18 @@
             "startTime": "12:30:00 AM 05-01-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Real Sociedad vs Atletico de Madrid (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131001_5427_RS_ATL_fc-web.png",
+            "team_1": "Real Sociedad",
+            "team_2": "Atletico de Madrid",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Sociedad vs Atletico de Madrid",
+            "match_id": 131001,
+            "startTime": "01:30:00 AM 05-01-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "Show Court 1 - Day 1 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
@@ -332,18 +346,6 @@
             "match_name": "Pat Rafter Arena - Day 1",
             "match_id": 139184,
             "startTime": "10:30:00 AM 04-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Sociedad vs Atletico de Madrid (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131001_5427_RS_ATL_fc-web.png",
-            "team_1": "Real Sociedad",
-            "team_2": "Atletico de Madrid",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Sociedad vs Atletico de Madrid",
-            "match_id": 131001,
-            "startTime": "01:30:00 AM 05-01-2026"
         },
         {
             "event_category": "Football",

@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:18:02 AM 04-01-2026",
+    "last update time": "06:29:11 AM 04-01-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Northern Brave Women vs Otago Sparks (Women's Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138772_5801_NB-W_OS-W_fc-web_1766596522204.jpg",
+            "team_1": "Northern Brave Women",
+            "team_2": "Otago Sparks",
+            "status": "LIVE",
+            "event_name": "Women's Super Smash, 2025-26",
+            "match_name": "Northern Brave Women vs Otago Sparks",
+            "match_id": 138772,
+            "startTime": "06:40:00 AM 04-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/WF0O5rr0TIacqo7pEDGlgw/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138772_english_hls_46d915a31c20049_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Queensland Fire vs Tasmania Women (Women's National Cricket League, 2025-26)",
@@ -16,18 +30,6 @@
             "startTime": "05:00:00 AM 04-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/_e1e4Ne-QRy8NYZ_MJyeoA/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/133962_english_hls_178f8d65cd6342_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Northern Brave Women vs Otago Sparks (Women's Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138772_5801_NB-W_OS-W_fc-web_1766596522204.jpg",
-            "team_1": "Northern Brave Women",
-            "team_2": "Otago Sparks",
-            "status": "UPCOMING",
-            "event_name": "Women's Super Smash, 2025-26",
-            "match_name": "Northern Brave Women vs Otago Sparks",
-            "match_id": 138772,
-            "startTime": "06:40:00 AM 04-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -187,18 +189,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Adelaide United vs Central Coast Mariners (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138818_5802_ADL_CCM_fc-web.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Central Coast Mariners",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Adelaide United vs Central Coast Mariners",
-            "match_id": 138818,
-            "startTime": "02:05:00 PM 04-01-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Real Sociedad vs Atletico de Madrid (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131001_5427_RS_ATL_fc-web.png",
             "team_1": "Real Sociedad",
@@ -208,6 +198,18 @@
             "match_name": "Real Sociedad vs Atletico de Madrid",
             "match_id": 131001,
             "startTime": "01:30:00 AM 05-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Adelaide United vs Central Coast Mariners (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138818_5802_ADL_CCM_fc-web.jpg",
+            "team_1": "Adelaide United",
+            "team_2": "Central Coast Mariners",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Adelaide United vs Central Coast Mariners",
+            "match_id": 138818,
+            "startTime": "02:05:00 PM 04-01-2026"
         },
         {
             "event_category": "Football",
@@ -423,7 +425,7 @@
             "event_name": "ATP 250 - Brisbane",
             "match_name": "Show Court 1 - Day 3",
             "match_id": 139189,
-            "startTime": "10:30:00 AM 06-01-2026"
+            "startTime": "05:30:00 AM 06-01-2026"
         },
         {
             "event_category": "Tennis",
@@ -435,7 +437,7 @@
             "event_name": "ATP 250 - Brisbane",
             "match_name": "Pat Rafter Arena - Day 3",
             "match_id": 139188,
-            "startTime": "10:30:00 AM 06-01-2026"
+            "startTime": "05:30:00 AM 06-01-2026"
         }
     ]
 }

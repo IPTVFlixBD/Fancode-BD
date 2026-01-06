@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:20:07 AM 06-01-2026",
+    "last update time": "06:41:31 AM 06-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -46,6 +46,20 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/133965_english_hls_6f58f9021288256_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Tennis",
+            "title": "Show Court 1 - Day 3 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+            "team_1": "Show Court 1 - Day 3",
+            "team_2": "Show Court 1, Brisbane",
+            "status": "LIVE",
+            "event_name": "ATP 250 - Brisbane",
+            "match_name": "Show Court 1 - Day 3",
+            "match_id": 139189,
+            "startTime": "06:30:00 AM 06-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/T5VAk0GASbyyzI3k0rKsxQ/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139189_english_hls_113052468285825_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Auckland Hearts vs Otago Sparks (Women's Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138773_5801_AH-W_OS-W_fc-web_1766596522145.jpg",
@@ -58,18 +72,6 @@
             "startTime": "09:20:00 AM 06-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Algeria vs DR Congo (Africa Cup of Nations 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Algeria-vs-DR-Congo_fc-web.jpg",
-            "team_1": "Algeria",
-            "team_2": "DR Congo",
-            "status": "UPCOMING",
-            "event_name": "Africa Cup of Nations 2025-26",
-            "match_name": "Algeria vs DR Congo",
-            "match_id": 138385,
-            "startTime": "09:30:00 PM 06-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Wellington Blaze vs Central Hinds (Women's Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138774_5801_WB-W_CH-W_fc-web_1766596522150.jpg",
@@ -80,6 +82,18 @@
             "match_name": "Wellington Blaze vs Central Hinds",
             "match_id": 138774,
             "startTime": "05:10:00 AM 07-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Algeria vs DR Congo (Africa Cup of Nations 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Algeria-vs-DR-Congo_fc-web.jpg",
+            "team_1": "Algeria",
+            "team_2": "DR Congo",
+            "status": "UPCOMING",
+            "event_name": "Africa Cup of Nations 2025-26",
+            "match_name": "Algeria vs DR Congo",
+            "match_id": 138385,
+            "startTime": "09:30:00 PM 06-01-2026"
         },
         {
             "event_category": "Football",
@@ -152,18 +166,6 @@
             "match_name": "Wellington Firebirds vs Central Stags",
             "match_id": 138742,
             "startTime": "08:55:00 AM 07-01-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Show Court 1 - Day 3 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
-            "team_1": "Show Court 1 - Day 3",
-            "team_2": "Show Court 1, Brisbane",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Brisbane",
-            "match_name": "Show Court 1 - Day 3",
-            "match_id": 139189,
-            "startTime": "06:30:00 AM 06-01-2026"
         },
         {
             "event_category": "Tennis",

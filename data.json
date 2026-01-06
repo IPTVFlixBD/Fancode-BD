@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:49:17 PM 06-01-2026",
+    "last update time": "12:19:52 AM 07-01-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Algeria vs DR Congo (Africa Cup of Nations 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Algeria-vs-DR-Congo_fc-web.jpg",
-            "team_1": "Algeria",
-            "team_2": "DR Congo",
-            "status": "LIVE",
-            "event_name": "Africa Cup of Nations 2025-26",
-            "match_name": "Algeria vs DR Congo",
-            "match_id": 138385,
-            "startTime": "09:30:00 PM 06-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/Ezh29GBMSEKXUOf4jCOwYA/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138385_english_hls_661a51027281776_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Granada vs Rayo Vallecano (Copa del Rey, 2025-26)",
@@ -33,17 +19,31 @@
         },
         {
             "event_category": "Football",
-            "title": "Saudi Arabia U23 vs Kyrgyz Republic U23 (AFC U23 Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139252_5822_SU-U23_KYG-U23_fc-web.jpg",
-            "team_1": "Saudi Arabia U23",
-            "team_2": "Kyrgyz Republic U23",
+            "title": "Ivory Coast vs Burkina Faso (Africa Cup of Nations 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ivory-Coast-vs-Burkina-Faso_fc-web.jpg",
+            "team_1": "Ivory Coast",
+            "team_2": "Burkina Faso",
             "status": "LIVE",
-            "event_name": "AFC U23 Asian Cup, 2026",
-            "match_name": "Saudi Arabia U23 vs Kyrgyz Republic U23",
-            "match_id": 139252,
+            "event_name": "Africa Cup of Nations 2025-26",
+            "match_name": "Ivory Coast vs Burkina Faso",
+            "match_id": 138382,
+            "startTime": "12:30:00 AM 07-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/_FjSDe0vQYmIoGi3IsxMCg/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138382_english_hls_0ed4026f7a8462_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Algeria vs DR Congo (Africa Cup of Nations 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Algeria-vs-DR-Congo_fc-web.jpg",
+            "team_1": "Algeria",
+            "team_2": "DR Congo",
+            "status": "LIVE",
+            "event_name": "Africa Cup of Nations 2025-26",
+            "match_name": "Algeria vs DR Congo",
+            "match_id": 138385,
             "startTime": "09:30:00 PM 06-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/AaC-JwjCSfSjlRxFlLTFWg/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139252_english_hls_400082b1c226677_1ta-di_h264/index.m3u8"
+            "dai_url": "https://dai.google.com/linear/hls/event/Ezh29GBMSEKXUOf4jCOwYA/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138385_english_hls_661a51027281776_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -80,18 +80,6 @@
             "match_name": "Dhaka Capitals vs Noakhali Express",
             "match_id": 138940,
             "startTime": "12:30:00 PM 07-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Ivory Coast vs Burkina Faso (Africa Cup of Nations 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ivory-Coast-vs-Burkina-Faso_fc-web.jpg",
-            "team_1": "Ivory Coast",
-            "team_2": "Burkina Faso",
-            "status": "UPCOMING",
-            "event_name": "Africa Cup of Nations 2025-26",
-            "match_name": "Ivory Coast vs Burkina Faso",
-            "match_id": 138382,
-            "startTime": "12:30:00 AM 07-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -440,6 +428,18 @@
             "match_name": "Wellington Firebirds vs Otago Volts",
             "match_id": 138744,
             "startTime": "08:55:00 AM 09-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Show Court 1 - Day 6 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+            "team_1": "Show Court 1 - Day 6",
+            "team_2": "Show Court 1, Brisbane",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Brisbane",
+            "match_name": "Show Court 1 - Day 6",
+            "match_id": 139195,
+            "startTime": "07:00:00 AM 09-01-2026"
         }
     ]
 }

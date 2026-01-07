@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "09:39:54 AM 07-01-2026",
+    "last update time": "10:21:20 AM 07-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -118,6 +118,18 @@
             "startTime": "04:30:00 AM 08-01-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Northern Brave Women vs Canterbury Magicians (Women's Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138775_5801_NB-W_CM-W_fc-web_1766596522081.jpg",
+            "team_1": "Northern Brave Women",
+            "team_2": "Canterbury Magicians",
+            "status": "UPCOMING",
+            "event_name": "Women's Super Smash, 2025-26",
+            "match_name": "Northern Brave Women vs Canterbury Magicians",
+            "match_id": 138775,
+            "startTime": "10:50:00 AM 08-01-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Korea Republic U23 vs IR Iran U23 (AFC U23 Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139254_5822_KR-U23_IRN-U23_fc-web.jpg",
@@ -154,18 +166,6 @@
             "startTime": "07:30:00 PM 07-01-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Northern Brave Women vs Canterbury Magicians (Women's Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138775_5801_NB-W_CM-W_fc-web_1766596522081.jpg",
-            "team_1": "Northern Brave Women",
-            "team_2": "Canterbury Magicians",
-            "status": "UPCOMING",
-            "event_name": "Women's Super Smash, 2025-26",
-            "match_name": "Northern Brave Women vs Canterbury Magicians",
-            "match_id": 138775,
-            "startTime": "10:50:00 AM 08-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Qatar U23 vs United Arab Emirates U23 (AFC U23 Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139256_5822_QAT-U23_UAE-U23_fc-web.jpg",
@@ -176,6 +176,18 @@
             "match_name": "Qatar U23 vs United Arab Emirates U23",
             "match_id": 139256,
             "startTime": "10:00:00 PM 07-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Center Court - Day 3 vs Hong Kong (ATP 250 - Hong Kong)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
+            "team_1": "Center Court - Day 3",
+            "team_2": "Hong Kong",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Hong Kong",
+            "match_name": "Center Court - Day 3",
+            "match_id": 139206,
+            "startTime": "11:00:00 AM 07-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -203,18 +215,6 @@
         },
         {
             "event_category": "Tennis",
-            "title": "Center Court - Day 3 vs Hong Kong (ATP 250 - Hong Kong)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
-            "team_1": "Center Court - Day 3",
-            "team_2": "Hong Kong",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Hong Kong",
-            "match_name": "Center Court - Day 3",
-            "match_id": 139206,
-            "startTime": "11:00:00 AM 07-01-2026"
-        },
-        {
-            "event_category": "Tennis",
             "title": "Centre Court - Day 3 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
             "team_1": "Centre Court - Day 3",
@@ -224,6 +224,18 @@
             "match_name": "Centre Court - Day 3",
             "match_id": 139285,
             "startTime": "12:00:00 PM 07-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Dhaka Capitals vs Sylhet Titans (Bangladesh Premier League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138943_5808_DC_SYL_fc-web_1766733054878.jpg",
+            "team_1": "Dhaka Capitals",
+            "team_2": "Sylhet Titans",
+            "status": "UPCOMING",
+            "event_name": "Bangladesh Premier League, 2025-26",
+            "match_name": "Dhaka Capitals vs Sylhet Titans",
+            "match_id": 138943,
+            "startTime": "05:30:00 PM 08-01-2026"
         },
         {
             "event_category": "Tennis",
@@ -248,18 +260,6 @@
             "match_name": "Pat Rafter Arena - Day 5",
             "match_id": 139192,
             "startTime": "05:30:00 AM 08-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Dhaka Capitals vs Sylhet Titans (Bangladesh Premier League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138943_5808_DC_SYL_fc-web_1766733054878.jpg",
-            "team_1": "Dhaka Capitals",
-            "team_2": "Sylhet Titans",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh Premier League, 2025-26",
-            "match_name": "Dhaka Capitals vs Sylhet Titans",
-            "match_id": 138943,
-            "startTime": "05:30:00 PM 08-01-2026"
         },
         {
             "event_category": "Tennis",

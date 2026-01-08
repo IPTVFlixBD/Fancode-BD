@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "03:54:42 PM 08-01-2026",
+    "last update time": "04:15:12 PM 08-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "11:30:00 AM 08-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/a_75S8YZRBCd3VgGHE9KnA/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/133966_english_hls_bfeaaf7a1032942_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Pat Rafter Arena - Day 5 vs Rafter Arena, Brisbane (ATP 250 - Brisbane)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
-            "team_1": "Pat Rafter Arena - Day 5",
-            "team_2": "Rafter Arena, Brisbane",
-            "status": "LIVE",
-            "event_name": "ATP 250 - Brisbane",
-            "match_name": "Pat Rafter Arena - Day 5",
-            "match_id": 139192,
-            "startTime": "10:00:00 AM 08-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/g6zvMsqQRbCN_SlBjI4mfg/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139192_english_hls_e98641726f75876_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -110,6 +96,18 @@
             "startTime": "08:55:00 AM 09-01-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Australia U23 vs Thailand U23 (AFC U23 Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139257_5822_AUS-U23_THA-U23_fc-web.jpg",
+            "team_1": "Australia U23",
+            "team_2": "Thailand U23",
+            "status": "UPCOMING",
+            "event_name": "AFC U23 Asian Cup, 2026",
+            "match_name": "Australia U23 vs Thailand U23",
+            "match_id": 139257,
+            "startTime": "05:00:00 PM 08-01-2026"
+        },
+        {
             "event_category": "Cricket",
             "title": "Rajshahi Warriors vs Chattogram Royals (Bangladesh Premier League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138944_5808_DBR_CCH_fc-web_1766733054162.jpg",
@@ -156,18 +154,6 @@
             "match_name": "Atletico de Madrid vs Real Madrid",
             "match_id": 138958,
             "startTime": "12:30:00 AM 09-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Australia U23 vs Thailand U23 (AFC U23 Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139257_5822_AUS-U23_THA-U23_fc-web.jpg",
-            "team_1": "Australia U23",
-            "team_2": "Thailand U23",
-            "status": "UPCOMING",
-            "event_name": "AFC U23 Asian Cup, 2026",
-            "match_name": "Australia U23 vs Thailand U23",
-            "match_id": 139257,
-            "startTime": "05:00:00 PM 08-01-2026"
         },
         {
             "event_category": "Football",
@@ -420,6 +406,18 @@
             "match_name": "Center Court - Day 6",
             "match_id": 139209,
             "startTime": "12:00:00 PM 10-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Alcaraz vs Sinner vs INSPIRE Arena, Incheon, South Korea (Hyundai Card Super Match)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Super_Match_2026_FC-Web_1767801213296.jpg",
+            "team_1": "Alcaraz vs Sinner",
+            "team_2": "INSPIRE Arena, Incheon, South Korea",
+            "status": "UPCOMING",
+            "event_name": "Hyundai Card Super Match",
+            "match_name": "Alcaraz vs Sinner",
+            "match_id": 139368,
+            "startTime": "12:30:00 PM 10-01-2026"
         }
     ]
 }

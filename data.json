@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "09:24:51 PM 09-01-2026",
+    "last update time": "09:55:30 PM 09-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -47,17 +47,17 @@
         },
         {
             "event_category": "Football",
-            "title": "Kyrgyz Republic U23 vs Vietnam U23 (AFC U23 Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139259_5822_KYG-U23_VIE-U23_fc-web.jpg",
-            "team_1": "Kyrgyz Republic U23",
-            "team_2": "Vietnam U23",
+            "title": "Jordan U23 vs Saudi Arabia U23 (AFC U23 Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139260_5822_JOR-U23_SU-U23_fc-web.jpg",
+            "team_1": "Jordan U23",
+            "team_2": "Saudi Arabia U23",
             "status": "LIVE",
             "event_name": "AFC U23 Asian Cup, 2026",
-            "match_name": "Kyrgyz Republic U23 vs Vietnam U23",
-            "match_id": 139259,
-            "startTime": "07:30:00 PM 09-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/4FBT4WHIScGZGAzkMROuOw/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139259_english_hls_45f2ac32af85254_1ta-di_h264/index.m3u8"
+            "match_name": "Jordan U23 vs Saudi Arabia U23",
+            "match_id": 139260,
+            "startTime": "10:00:00 PM 09-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/8FqNRkQlR7-S8E7VzOTawA/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139260_english_hls_5dd96706e371962_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -85,18 +85,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Jordan U23 vs Saudi Arabia U23 (AFC U23 Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139260_5822_JOR-U23_SU-U23_fc-web.jpg",
-            "team_1": "Jordan U23",
-            "team_2": "Saudi Arabia U23",
-            "status": "UPCOMING",
-            "event_name": "AFC U23 Asian Cup, 2026",
-            "match_name": "Jordan U23 vs Saudi Arabia U23",
-            "match_id": 139260,
-            "startTime": "10:00:00 PM 09-01-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Al-Kholood Club vs Al-Ittihad (Roshn Saudi League 2025-2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Kholood-Club-vs-Al-Ittihad_fc-web_1767365352759.jpg",
             "team_1": "Al-Kholood Club",
@@ -110,7 +98,7 @@
         {
             "event_category": "Football",
             "title": "Cameroon vs Morocco (Africa Cup of Nations 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1/138388_CASACARDS_APP.png",
             "team_1": "Cameroon",
             "team_2": "Morocco",
             "status": "UPCOMING",
@@ -229,6 +217,18 @@
         },
         {
             "event_category": "Football",
+            "title": "Villarreal CF vs Deportivo Alaves (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131010_5427_VIL_ALA_fc-Web.png",
+            "team_1": "Villarreal CF",
+            "team_2": "Deportivo Alaves",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Villarreal CF vs Deportivo Alaves",
+            "match_id": 131010,
+            "startTime": "08:45:00 PM 10-01-2026"
+        },
+        {
+            "event_category": "Football",
             "title": "Lebanon U23 vs Korea Republic U23 (AFC U23 Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139262_5822_LEB-U23_KR-U23_fc-web.jpg",
             "team_1": "Lebanon U23",
@@ -250,18 +250,6 @@
             "match_name": "United Arab Emirates U23 vs Japan U23",
             "match_id": 139261,
             "startTime": "05:00:00 PM 10-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Villarreal CF vs Deportivo Alaves (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131010_5427_VIL_ALA_fc-Web.png",
-            "team_1": "Villarreal CF",
-            "team_2": "Deportivo Alaves",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Villarreal CF vs Deportivo Alaves",
-            "match_id": 131010,
-            "startTime": "08:45:00 PM 10-01-2026"
         },
         {
             "event_category": "Football",
@@ -312,6 +300,18 @@
             "startTime": "10:00:00 PM 10-01-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Egypt vs Ivory Coast (Africa Cup of Nations 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Egypt",
+            "team_2": "Ivory Coast",
+            "status": "UPCOMING",
+            "event_name": "Africa Cup of Nations 2025-26",
+            "match_name": "Egypt vs Ivory Coast",
+            "match_id": 138390,
+            "startTime": "12:30:00 AM 11-01-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "Pat Rafter Arena - Day 7 vs Rafter Arena, Brisbane (ATP 250 - Brisbane)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
@@ -325,15 +325,15 @@
         },
         {
             "event_category": "Football",
-            "title": "Egypt vs Ivory Coast (Africa Cup of Nations 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Egypt",
-            "team_2": "Ivory Coast",
+            "title": "Las Palmas vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/139248_CASACARDS_APP.png",
+            "team_1": "Las Palmas",
+            "team_2": "Deportivo La Coruna",
             "status": "UPCOMING",
-            "event_name": "Africa Cup of Nations 2025-26",
-            "match_name": "Egypt vs Ivory Coast",
-            "match_id": 138390,
-            "startTime": "12:30:00 AM 11-01-2026"
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Las Palmas vs Deportivo La Coruna",
+            "match_id": 139248,
+            "startTime": "11:00:00 PM 10-01-2026"
         },
         {
             "event_category": "Tennis",
@@ -361,15 +361,15 @@
         },
         {
             "event_category": "Football",
-            "title": "Las Palmas vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139248_CASACARDS_APP.png",
-            "team_1": "Las Palmas",
-            "team_2": "Deportivo La Coruna",
+            "title": "Valencia CF vs Elche CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131014_5427_VAL_ELC_fc-Web.png",
+            "team_1": "Valencia CF",
+            "team_2": "Elche CF",
             "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Las Palmas vs Deportivo La Coruna",
-            "match_id": 139248,
-            "startTime": "11:00:00 PM 10-01-2026"
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Valencia CF vs Elche CF",
+            "match_id": 131014,
+            "startTime": "01:30:00 AM 11-01-2026"
         },
         {
             "event_category": "Tennis",
@@ -382,18 +382,6 @@
             "match_name": "Centre Court - Day 6",
             "match_id": 139288,
             "startTime": "02:00:00 PM 10-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Valencia CF vs Elche CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131014_5427_VAL_ELC_fc-Web.png",
-            "team_1": "Valencia CF",
-            "team_2": "Elche CF",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Valencia CF vs Elche CF",
-            "match_id": 131014,
-            "startTime": "01:30:00 AM 11-01-2026"
         },
         {
             "event_category": "Cricket",

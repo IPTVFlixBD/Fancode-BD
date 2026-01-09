@@ -1,21 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "08:01:13 AM 09-01-2026",
+    "last update time": "09:12:19 AM 09-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Otago Sparks vs Wellington Blaze (Women's Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138776_5801_WB-W_OS-W_fc-web_1766596522100.jpg",
-            "team_1": "Otago Sparks",
-            "team_2": "Wellington Blaze",
+            "title": "Wellington Firebirds vs Otago Volts (Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138744_5800_WF_OV_fc-web_1766641251007.jpg",
+            "team_1": "Wellington Firebirds",
+            "team_2": "Otago Volts",
             "status": "LIVE",
-            "event_name": "Women's Super Smash, 2025-26",
-            "match_name": "Otago Sparks vs Wellington Blaze",
-            "match_id": 138776,
-            "startTime": "05:10:00 AM 09-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/CERmpNGwT_iz9Bn9ikBwZA/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138776_english_hls_3addfb561b51825_1ta-di_h264/index.m3u8"
+            "event_name": "Super Smash, 2025-26",
+            "match_name": "Wellington Firebirds vs Otago Volts",
+            "match_id": 138744,
+            "startTime": "08:55:00 AM 09-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/i7jjI6-lTWWdnxjG8GmPWA/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138744_english_hls_8010d2ef0246899_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -44,18 +44,6 @@
             "startTime": "07:00:00 AM 09-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/1wXwHQF2RXepMNfWh20F7A/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139194_english_hls_2011737c6424099_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Wellington Firebirds vs Otago Volts (Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138744_5800_WF_OV_fc-web_1766641251007.jpg",
-            "team_1": "Wellington Firebirds",
-            "team_2": "Otago Volts",
-            "status": "UPCOMING",
-            "event_name": "Super Smash, 2025-26",
-            "match_name": "Wellington Firebirds vs Otago Volts",
-            "match_id": 138744,
-            "startTime": "08:55:00 AM 09-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -95,6 +83,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Canterbury Magicians vs Auckland Hearts (Women's Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138777_5801_CM-W_AH-W_fc-web_1766596522070.jpg",
+            "team_1": "Canterbury Magicians",
+            "team_2": "Auckland Hearts",
+            "status": "UPCOMING",
+            "event_name": "Women's Super Smash, 2025-26",
+            "match_name": "Canterbury Magicians vs Auckland Hearts",
+            "match_id": 138777,
+            "startTime": "06:40:00 AM 10-01-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Yalla Shabab Giants vs Renaissance Challengers (Oman Super League T20, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
             "team_1": "Yalla Shabab Giants",
@@ -116,18 +116,6 @@
             "match_name": "Majees Titans vs Oman Development Team",
             "match_id": 139573,
             "startTime": "08:30:00 PM 09-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Canterbury Magicians vs Auckland Hearts (Women's Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138777_5801_CM-W_AH-W_fc-web_1766596522070.jpg",
-            "team_1": "Canterbury Magicians",
-            "team_2": "Auckland Hearts",
-            "status": "UPCOMING",
-            "event_name": "Women's Super Smash, 2025-26",
-            "match_name": "Canterbury Magicians vs Auckland Hearts",
-            "match_id": 138777,
-            "startTime": "06:40:00 AM 10-01-2026"
         },
         {
             "event_category": "Football",
@@ -202,6 +190,18 @@
             "startTime": "07:30:00 PM 09-01-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Canterbury vs Auckland Aces (Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138745_5800_CTB_AA_fc-web_1766641251005.jpg",
+            "team_1": "Canterbury",
+            "team_2": "Auckland Aces",
+            "status": "UPCOMING",
+            "event_name": "Super Smash, 2025-26",
+            "match_name": "Canterbury vs Auckland Aces",
+            "match_id": 138745,
+            "startTime": "10:25:00 AM 10-01-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Jordan U23 vs Saudi Arabia U23 (AFC U23 Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139260_5822_JOR-U23_SU-U23_fc-web.jpg",
@@ -224,18 +224,6 @@
             "match_name": "Cádiz vs Sporting de Gijón",
             "match_id": 139247,
             "startTime": "01:00:00 AM 10-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Canterbury vs Auckland Aces (Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138745_5800_CTB_AA_fc-web_1766641251005.jpg",
-            "team_1": "Canterbury",
-            "team_2": "Auckland Aces",
-            "status": "UPCOMING",
-            "event_name": "Super Smash, 2025-26",
-            "match_name": "Canterbury vs Auckland Aces",
-            "match_id": 138745,
-            "startTime": "10:25:00 AM 10-01-2026"
         },
         {
             "event_category": "Tennis",
@@ -310,18 +298,6 @@
             "startTime": "04:30:00 PM 10-01-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Center Court - Day 6 vs Hong Kong (ATP 250 - Hong Kong)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
-            "team_1": "Center Court - Day 6",
-            "team_2": "Hong Kong",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Hong Kong",
-            "match_name": "Center Court - Day 6",
-            "match_id": 139209,
-            "startTime": "12:00:00 PM 10-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Perth Glory vs Central Coast Mariners (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138822_5802_PG_CCM_fc-web.jpg",
@@ -335,15 +311,15 @@
         },
         {
             "event_category": "Tennis",
-            "title": "Alcaraz vs Sinner vs INSPIRE Arena, Incheon, South Korea (Hyundai Card Super Match)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Super_Match_2026_FC-Web_1767801213296.jpg",
-            "team_1": "Alcaraz vs Sinner",
-            "team_2": "INSPIRE Arena, Incheon, South Korea",
+            "title": "Center Court - Day 6 vs Hong Kong (ATP 250 - Hong Kong)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
+            "team_1": "Center Court - Day 6",
+            "team_2": "Hong Kong",
             "status": "UPCOMING",
-            "event_name": "Hyundai Card Super Match",
-            "match_name": "Alcaraz vs Sinner",
-            "match_id": 139368,
-            "startTime": "12:30:00 PM 10-01-2026"
+            "event_name": "ATP 250 - Hong Kong",
+            "match_name": "Center Court - Day 6",
+            "match_id": 139209,
+            "startTime": "12:00:00 PM 10-01-2026"
         },
         {
             "event_category": "Football",
@@ -356,6 +332,18 @@
             "match_name": "Arsenal Women vs Manchester United Women",
             "match_id": 139301,
             "startTime": "06:00:00 PM 10-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Alcaraz vs Sinner vs INSPIRE Arena, Incheon, South Korea (Hyundai Card Super Match)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Super_Match_2026_FC-Web_1767801213296.jpg",
+            "team_1": "Alcaraz vs Sinner",
+            "team_2": "INSPIRE Arena, Incheon, South Korea",
+            "status": "UPCOMING",
+            "event_name": "Hyundai Card Super Match",
+            "match_name": "Alcaraz vs Sinner",
+            "match_id": 139368,
+            "startTime": "12:30:00 PM 10-01-2026"
         },
         {
             "event_category": "Football",

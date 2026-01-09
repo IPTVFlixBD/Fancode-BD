@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "09:12:19 AM 09-01-2026",
+    "last update time": "09:52:57 AM 09-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -166,6 +166,18 @@
             "startTime": "01:30:00 AM 10-01-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Canterbury vs Auckland Aces (Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138745_5800_CTB_AA_fc-web_1766641251005.jpg",
+            "team_1": "Canterbury",
+            "team_2": "Auckland Aces",
+            "status": "UPCOMING",
+            "event_name": "Super Smash, 2025-26",
+            "match_name": "Canterbury vs Auckland Aces",
+            "match_id": 138745,
+            "startTime": "10:25:00 AM 10-01-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Brisbane Roar vs Auckland (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138819_5802_BRB_AFC_fc-web.jpg",
@@ -188,18 +200,6 @@
             "match_name": "Kyrgyz Republic U23 vs Vietnam U23",
             "match_id": 139259,
             "startTime": "07:30:00 PM 09-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Canterbury vs Auckland Aces (Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138745_5800_CTB_AA_fc-web_1766641251005.jpg",
-            "team_1": "Canterbury",
-            "team_2": "Auckland Aces",
-            "status": "UPCOMING",
-            "event_name": "Super Smash, 2025-26",
-            "match_name": "Canterbury vs Auckland Aces",
-            "match_id": 138745,
-            "startTime": "10:25:00 AM 10-01-2026"
         },
         {
             "event_category": "Football",
@@ -310,18 +310,6 @@
             "startTime": "04:15:00 PM 10-01-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Center Court - Day 6 vs Hong Kong (ATP 250 - Hong Kong)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
-            "team_1": "Center Court - Day 6",
-            "team_2": "Hong Kong",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Hong Kong",
-            "match_name": "Center Court - Day 6",
-            "match_id": 139209,
-            "startTime": "12:00:00 PM 10-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Arsenal Women vs Manchester United Women (Women's Super League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -335,6 +323,18 @@
         },
         {
             "event_category": "Tennis",
+            "title": "Center Court - Day 6 vs Hong Kong (ATP 250 - Hong Kong)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
+            "team_1": "Center Court - Day 6",
+            "team_2": "Hong Kong",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Hong Kong",
+            "match_name": "Center Court - Day 6",
+            "match_id": 139209,
+            "startTime": "12:00:00 PM 10-01-2026"
+        },
+        {
+            "event_category": "Tennis",
             "title": "Alcaraz vs Sinner vs INSPIRE Arena, Incheon, South Korea (Hyundai Card Super Match)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Super_Match_2026_FC-Web_1767801213296.jpg",
             "team_1": "Alcaraz vs Sinner",
@@ -344,6 +344,18 @@
             "match_name": "Alcaraz vs Sinner",
             "match_id": 139368,
             "startTime": "12:30:00 PM 10-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Oviedo vs Real Betis (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131012_5427_RO_RB_fc-Web.png",
+            "team_1": "Real Oviedo",
+            "team_2": "Real Betis",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Oviedo vs Real Betis",
+            "match_id": 131012,
+            "startTime": "06:30:00 PM 10-01-2026"
         },
         {
             "event_category": "Football",
@@ -368,18 +380,6 @@
             "match_name": "United Arab Emirates U23 vs Japan U23",
             "match_id": 139261,
             "startTime": "05:00:00 PM 10-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Oviedo vs Real Betis (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131012_5427_RO_RB_fc-Web.png",
-            "team_1": "Real Oviedo",
-            "team_2": "Real Betis",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Oviedo vs Real Betis",
-            "match_id": 131012,
-            "startTime": "06:30:00 PM 10-01-2026"
         },
         {
             "event_category": "Tennis",

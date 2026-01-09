@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:47:26 PM 09-01-2026",
+    "last update time": "12:17:59 AM 10-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,6 +33,20 @@
         },
         {
             "event_category": "Football",
+            "title": "Cameroon vs Morocco (Africa Cup of Nations 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cameroon-vs-Morocco_fc-web.jpg",
+            "team_1": "Cameroon",
+            "team_2": "Morocco",
+            "status": "LIVE",
+            "event_name": "Africa Cup of Nations 2025-26",
+            "match_name": "Cameroon vs Morocco",
+            "match_id": 138388,
+            "startTime": "12:30:00 AM 10-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/3cjKBq4iR-KlNNZUcH7MEQ/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138388_english_hls_b50450f5227461_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
             "title": "Jordan U23 vs Saudi Arabia U23 (AFC U23 Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139260_5822_JOR-U23_SU-U23_fc-web.jpg",
             "team_1": "Jordan U23",
@@ -44,20 +58,6 @@
             "startTime": "10:00:00 PM 09-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/8FqNRkQlR7-S8E7VzOTawA/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139260_english_hls_5dd96706e371962_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Mali vs Senegal (Africa Cup of Nations 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mali-vs-Senegal_fc-web.jpg",
-            "team_1": "Mali",
-            "team_2": "Senegal",
-            "status": "LIVE",
-            "event_name": "Africa Cup of Nations 2025-26",
-            "match_name": "Mali vs Senegal",
-            "match_id": 138387,
-            "startTime": "09:30:00 PM 09-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/nO9v91wvT56b2qlEbuOF6g/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138387_english_hls_a23068726030840_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -85,15 +85,15 @@
         },
         {
             "event_category": "Football",
-            "title": "Cameroon vs Morocco (Africa Cup of Nations 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cameroon-vs-Morocco_fc-web.jpg",
-            "team_1": "Cameroon",
-            "team_2": "Morocco",
+            "title": "Cádiz vs Sporting de Gijón (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/139247_CASACARDS_APP.png",
+            "team_1": "Cádiz",
+            "team_2": "Sporting de Gijón",
             "status": "UPCOMING",
-            "event_name": "Africa Cup of Nations 2025-26",
-            "match_name": "Cameroon vs Morocco",
-            "match_id": 138388,
-            "startTime": "12:30:00 AM 10-01-2026"
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Cádiz vs Sporting de Gijón",
+            "match_id": 139247,
+            "startTime": "01:00:00 AM 10-01-2026"
         },
         {
             "event_category": "Football",
@@ -133,18 +133,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Cádiz vs Sporting de Gijón (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139247_CASACARDS_APP.png",
-            "team_1": "Cádiz",
-            "team_2": "Sporting de Gijón",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Cádiz vs Sporting de Gijón",
-            "match_id": 139247,
-            "startTime": "01:00:00 AM 10-01-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Real Oviedo vs Real Betis (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131012_5427_RO_RB_fc-Web.png",
             "team_1": "Real Oviedo",
@@ -154,18 +142,6 @@
             "match_name": "Real Oviedo vs Real Betis",
             "match_id": 131012,
             "startTime": "06:30:00 PM 10-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Melbourne Victory vs Western Sydney Wanderers (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138820_5802_MLV_SYW_fc-web.jpg",
-            "team_1": "Melbourne Victory",
-            "team_2": "Western Sydney Wanderers",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne Victory vs Western Sydney Wanderers",
-            "match_id": 138820,
-            "startTime": "11:30:00 AM 10-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -181,15 +157,15 @@
         },
         {
             "event_category": "Football",
-            "title": "Macarthur vs Sydney FC (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138821_5802_MAC_SYD_fc-web.jpg",
-            "team_1": "Macarthur",
-            "team_2": "Sydney FC",
+            "title": "Melbourne Victory vs Western Sydney Wanderers (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138820_5802_MLV_SYW_fc-web.jpg",
+            "team_1": "Melbourne Victory",
+            "team_2": "Western Sydney Wanderers",
             "status": "UPCOMING",
             "event_name": "A League 2025-26",
-            "match_name": "Macarthur vs Sydney FC",
-            "match_id": 138821,
-            "startTime": "02:05:00 PM 10-01-2026"
+            "match_name": "Melbourne Victory vs Western Sydney Wanderers",
+            "match_id": 138820,
+            "startTime": "11:30:00 AM 10-01-2026"
         },
         {
             "event_category": "Football",
@@ -205,15 +181,15 @@
         },
         {
             "event_category": "Football",
-            "title": "Perth Glory vs Central Coast Mariners (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138822_5802_PG_CCM_fc-web.jpg",
-            "team_1": "Perth Glory",
-            "team_2": "Central Coast Mariners",
+            "title": "Macarthur vs Sydney FC (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138821_5802_MAC_SYD_fc-web.jpg",
+            "team_1": "Macarthur",
+            "team_2": "Sydney FC",
             "status": "UPCOMING",
             "event_name": "A League 2025-26",
-            "match_name": "Perth Glory vs Central Coast Mariners",
-            "match_id": 138822,
-            "startTime": "04:15:00 PM 10-01-2026"
+            "match_name": "Macarthur vs Sydney FC",
+            "match_id": 138821,
+            "startTime": "02:05:00 PM 10-01-2026"
         },
         {
             "event_category": "Football",
@@ -226,6 +202,18 @@
             "match_name": "Algeria vs Nigeria",
             "match_id": 138389,
             "startTime": "09:30:00 PM 10-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Perth Glory vs Central Coast Mariners (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138822_5802_PG_CCM_fc-web.jpg",
+            "team_1": "Perth Glory",
+            "team_2": "Central Coast Mariners",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Perth Glory vs Central Coast Mariners",
+            "match_id": 138822,
+            "startTime": "04:15:00 PM 10-01-2026"
         },
         {
             "event_category": "Football",
@@ -372,18 +360,6 @@
             "startTime": "01:00:00 PM 10-01-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Centre Court - Day 6 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
-            "team_1": "Centre Court - Day 6",
-            "team_2": "Bengaluru",
-            "status": "UPCOMING",
-            "event_name": "ATP Challenger 125 -  Bengaluru Open",
-            "match_name": "Centre Court - Day 6",
-            "match_id": 139288,
-            "startTime": "04:00:00 PM 10-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Racing Club vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1/139249_CASACARDS_APP.png",
@@ -396,6 +372,18 @@
             "startTime": "01:30:00 AM 11-01-2026"
         },
         {
+            "event_category": "Tennis",
+            "title": "Centre Court - Day 6 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
+            "team_1": "Centre Court - Day 6",
+            "team_2": "Bengaluru",
+            "status": "UPCOMING",
+            "event_name": "ATP Challenger 125 -  Bengaluru Open",
+            "match_name": "Centre Court - Day 6",
+            "match_id": 139288,
+            "startTime": "04:00:00 PM 10-01-2026"
+        },
+        {
             "event_category": "Cricket",
             "title": "Wellington Firebirds vs Northern Districts (Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138746_5800_WF_ND_fc-web_1766641251667.jpg",
@@ -406,6 +394,18 @@
             "match_name": "Wellington Firebirds vs Northern Districts",
             "match_id": 138746,
             "startTime": "08:55:00 AM 11-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Wellington Phoenix vs Adelaide United (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138823_5802_WEL_ADL_fc-web.jpg",
+            "team_1": "Wellington Phoenix",
+            "team_2": "Adelaide United",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Wellington Phoenix vs Adelaide United",
+            "match_id": 138823,
+            "startTime": "07:30:00 AM 11-01-2026"
         }
     ]
 }

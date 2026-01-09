@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "02:19:55 AM 10-01-2026",
+    "last update time": "02:50:24 AM 10-01-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Cameroon vs Morocco (Africa Cup of Nations 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cameroon-vs-Morocco_fc-web.jpg",
-            "team_1": "Cameroon",
-            "team_2": "Morocco",
-            "status": "LIVE",
-            "event_name": "Africa Cup of Nations 2025-26",
-            "match_name": "Cameroon vs Morocco",
-            "match_id": 138388,
-            "startTime": "12:30:00 AM 10-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/3cjKBq4iR-KlNNZUcH7MEQ/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138388_english_hls_b50450f5227461_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Getafe CF vs Real Sociedad (LALIGA 2025-26)",
@@ -167,18 +153,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Perth Glory vs Central Coast Mariners (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138822_5802_PG_CCM_fc-web.jpg",
-            "team_1": "Perth Glory",
-            "team_2": "Central Coast Mariners",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Perth Glory vs Central Coast Mariners",
-            "match_id": 138822,
-            "startTime": "04:15:00 PM 10-01-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Girona FC vs CA Osasuna (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131019_5427_GIR_OSN_fc-Web_1767595548457.png",
             "team_1": "Girona FC",
@@ -188,6 +162,18 @@
             "match_name": "Girona FC vs CA Osasuna",
             "match_id": 131019,
             "startTime": "11:00:00 PM 10-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Perth Glory vs Central Coast Mariners (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138822_5802_PG_CCM_fc-web.jpg",
+            "team_1": "Perth Glory",
+            "team_2": "Central Coast Mariners",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Perth Glory vs Central Coast Mariners",
+            "match_id": 138822,
+            "startTime": "04:15:00 PM 10-01-2026"
         },
         {
             "event_category": "Football",
@@ -334,18 +320,6 @@
             "startTime": "01:00:00 PM 10-01-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Centre Court - Day 6 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
-            "team_1": "Centre Court - Day 6",
-            "team_2": "Bengaluru",
-            "status": "UPCOMING",
-            "event_name": "ATP Challenger 125 -  Bengaluru Open",
-            "match_name": "Centre Court - Day 6",
-            "match_id": 139288,
-            "startTime": "04:00:00 PM 10-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Wellington Firebirds vs Northern Districts (Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138746_5800_WF_ND_fc-web_1766641251667.jpg",
@@ -356,6 +330,18 @@
             "match_name": "Wellington Firebirds vs Northern Districts",
             "match_id": 138746,
             "startTime": "08:55:00 AM 11-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Centre Court - Day 6 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
+            "team_1": "Centre Court - Day 6",
+            "team_2": "Bengaluru",
+            "status": "UPCOMING",
+            "event_name": "ATP Challenger 125 -  Bengaluru Open",
+            "match_name": "Centre Court - Day 6",
+            "match_id": 139288,
+            "startTime": "04:00:00 PM 10-01-2026"
         },
         {
             "event_category": "Football",
@@ -404,6 +390,18 @@
             "match_name": "Noakhali Express vs Dhaka Capitals",
             "match_id": 138939,
             "startTime": "05:30:00 PM 11-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Center Court - Day 7 vs Hong Kong (ATP 250 - Hong Kong)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
+            "team_1": "Center Court - Day 7",
+            "team_2": "Hong Kong",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Hong Kong",
+            "match_name": "Center Court - Day 7",
+            "match_id": 139210,
+            "startTime": "12:00:00 PM 11-01-2026"
         }
     ]
 }

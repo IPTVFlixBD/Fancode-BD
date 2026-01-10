@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:50:03 PM 10-01-2026",
+    "last update time": "06:30:49 PM 10-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,34 @@
             "startTime": "04:30:00 PM 10-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/zY89vQClSfun8pwTjmS8Cg/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139574_english_hls_4f1227598c45864_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Arsenal Women vs Manchester United Women (Women's Super League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139301_5826_ARS-W_MUN-W_FC-Web.jpg",
+            "team_1": "Arsenal Women",
+            "team_2": "Manchester United Women",
+            "status": "LIVE",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "Arsenal Women vs Manchester United Women",
+            "match_id": 139301,
+            "startTime": "06:00:00 PM 10-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/z-Lt9KT0RE-RxHFlfzICpA/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139301_english_hls_9180c8effe6472_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Oviedo vs Real Betis (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131012_5427_RO_RB_fc-Web.png",
+            "team_1": "Real Oviedo",
+            "team_2": "Real Betis",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Oviedo vs Real Betis",
+            "match_id": 131012,
+            "startTime": "06:30:00 PM 10-01-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/131012_english_hls_fe2488cb1637903_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/131012_english_hls_fe2488cb1637903_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -61,20 +89,6 @@
         },
         {
             "event_category": "Tennis",
-            "title": "Center Court - Day 6 vs Hong Kong (ATP 250 - Hong Kong)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
-            "team_1": "Center Court - Day 6",
-            "team_2": "Hong Kong",
-            "status": "LIVE",
-            "event_name": "ATP 250 - Hong Kong",
-            "match_name": "Center Court - Day 6",
-            "match_id": 139209,
-            "startTime": "01:00:00 PM 10-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/dAZzuh_EQ1icr2dK5nVeLw/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139209_english_hls_718840a7e222978_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
             "title": "Centre Court - Day 6 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
             "team_1": "Centre Court - Day 6",
@@ -112,30 +126,6 @@
             "startTime": "08:55:00 AM 11-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Arsenal Women vs Manchester United Women (Women's Super League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139301_5826_ARS-W_MUN-W_FC-Web.jpg",
-            "team_1": "Arsenal Women",
-            "team_2": "Manchester United Women",
-            "status": "UPCOMING",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Arsenal Women vs Manchester United Women",
-            "match_id": 139301,
-            "startTime": "06:00:00 PM 10-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Oviedo vs Real Betis (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131012_5427_RO_RB_fc-Web.png",
-            "team_1": "Real Oviedo",
-            "team_2": "Real Betis",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Oviedo vs Real Betis",
-            "match_id": 131012,
-            "startTime": "06:30:00 PM 10-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Rajshahi Warriors vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138938_5808_DBR_RAN_fc-web_1766733054364.jpg",
@@ -146,6 +136,18 @@
             "match_name": "Rajshahi Warriors vs Rangpur Riders",
             "match_id": 138938,
             "startTime": "12:30:00 PM 11-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "IR Iran U23 vs Uzbekistan U23 (AFC U23 Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139263_5822_IRN-U23_UZB-U23_fc-web.jpg",
+            "team_1": "IR Iran U23",
+            "team_2": "Uzbekistan U23",
+            "status": "UPCOMING",
+            "event_name": "AFC U23 Asian Cup, 2026",
+            "match_name": "IR Iran U23 vs Uzbekistan U23",
+            "match_id": 139263,
+            "startTime": "07:30:00 PM 10-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -232,16 +234,16 @@
             "startTime": "05:30:00 PM 11-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "IR Iran U23 vs Uzbekistan U23 (AFC U23 Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139263_5822_IRN-U23_UZB-U23_fc-web.jpg",
-            "team_1": "IR Iran U23",
-            "team_2": "Uzbekistan U23",
+            "event_category": "Cricket",
+            "title": "Sri Lanka vs Pakistan (Pakistan tour of Sri Lanka, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-Sri-Lanka,-2026-match-card-old-.png",
+            "team_1": "Sri Lanka",
+            "team_2": "Pakistan",
             "status": "UPCOMING",
-            "event_name": "AFC U23 Asian Cup, 2026",
-            "match_name": "IR Iran U23 vs Uzbekistan U23",
-            "match_id": 139263,
-            "startTime": "07:30:00 PM 10-01-2026"
+            "event_name": "Pakistan tour of Sri Lanka, 2026",
+            "match_name": "Sri Lanka vs Pakistan",
+            "match_id": 139217,
+            "startTime": "07:00:00 PM 11-01-2026"
         },
         {
             "event_category": "Football",
@@ -278,18 +280,6 @@
             "match_name": "Racing Club vs Real Zaragoza",
             "match_id": 139249,
             "startTime": "01:30:00 AM 11-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka vs Pakistan (Pakistan tour of Sri Lanka, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-Sri-Lanka,-2026-match-card-old-.png",
-            "team_1": "Sri Lanka",
-            "team_2": "Pakistan",
-            "status": "UPCOMING",
-            "event_name": "Pakistan tour of Sri Lanka, 2026",
-            "match_name": "Sri Lanka vs Pakistan",
-            "match_id": 139217,
-            "startTime": "07:00:00 PM 11-01-2026"
         },
         {
             "event_category": "Football",
@@ -401,18 +391,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Leganés vs Real Valladolid (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139250_CASACARDS_APP.png",
-            "team_1": "Leganés",
-            "team_2": "Real Valladolid",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Leganés vs Real Valladolid",
-            "match_id": 139250,
-            "startTime": "06:30:00 PM 11-01-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Levante vs RCD Espanyol (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131015_5427_LE_ESL_fc-Web.png",
             "team_1": "Levante",
@@ -422,6 +400,18 @@
             "match_name": "Levante vs RCD Espanyol",
             "match_id": 131015,
             "startTime": "08:45:00 PM 11-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Leganés vs Real Valladolid (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/139250_CASACARDS_APP.png",
+            "team_1": "Leganés",
+            "team_2": "Real Valladolid",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Leganés vs Real Valladolid",
+            "match_id": 139250,
+            "startTime": "06:30:00 PM 11-01-2026"
         },
         {
             "event_category": "Football",

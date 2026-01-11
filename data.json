@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "07:29:40 PM 11-01-2026",
+    "last update time": "08:00:18 PM 11-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,62 +33,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Manchester City Women vs Everton Women (Women's Super League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139305_CASACARDS_APP.png",
-            "team_1": "Manchester City Women",
-            "team_2": "Everton Women",
-            "status": "LIVE",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Manchester City Women vs Everton Women",
-            "match_id": 139305,
-            "startTime": "05:30:00 PM 11-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/Nyx0-vFAQm2q6BPBYVOt2Q/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139305_english_hls_0947db94b021175_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Aston Villa Women vs Brighton and Hove Albion Women (Women's Super League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139304_CASACARDS_APP.png",
-            "team_1": "Aston Villa Women",
-            "team_2": "Brighton and Hove Albion Women",
-            "status": "LIVE",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Aston Villa Women vs Brighton and Hove Albion Women",
-            "match_id": 139304,
-            "startTime": "05:30:00 PM 11-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/FH4InG09QaiD0DdifwTTcA/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139304_english_hls_0437188bb360848_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Tottenham Hotspur Women vs Leicester City Women (Women's Super League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139303_CASACARDS_APP.png",
-            "team_1": "Tottenham Hotspur Women",
-            "team_2": "Leicester City Women",
-            "status": "LIVE",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Tottenham Hotspur Women vs Leicester City Women",
-            "match_id": 139303,
-            "startTime": "05:30:00 PM 11-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/BFte73jqRfSqkD_-hyxmuw/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139303_english_hls_b466a7b32b36368_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Chelsea F.C. Women vs West Ham United Women (Women's Super League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139302_CASACARDS_APP.png",
-            "team_1": "Chelsea F.C. Women",
-            "team_2": "West Ham United Women",
-            "status": "LIVE",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Chelsea F.C. Women vs West Ham United Women",
-            "match_id": 139302,
-            "startTime": "05:30:00 PM 11-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/2bmc4WODTeCp2Jb-rY1gDQ/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139302_english_hls_231ffbd8d186245_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Rayo Vallecano vs RCD Mallorca (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131016_5427_RVL_MRC_fc-Web_1767595288796.png",
             "team_1": "Rayo Vallecano",
@@ -100,6 +44,20 @@
             "startTime": "06:30:00 PM 11-01-2026",
             "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/131016_english_hls_dba317f43c54625_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/131016_english_hls_dba317f43c54625_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Liverpool Women vs London City Lionesses (Women's Super League 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/139328_CASACARDS_APP.png",
+            "team_1": "Liverpool Women",
+            "team_2": "London City Lionesses",
+            "status": "LIVE",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "Liverpool Women vs London City Lionesses",
+            "match_id": 139328,
+            "startTime": "08:00:00 PM 11-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/B1W3Jd6ASCuBHs16SJfRJw/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139328_english_hls_d4dd6389ed9929_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -155,15 +113,15 @@
         },
         {
             "event_category": "Football",
-            "title": "Liverpool Women vs London City Lionesses (Women's Super League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139328_CASACARDS_APP.png",
-            "team_1": "Liverpool Women",
-            "team_2": "London City Lionesses",
+            "title": "Levante vs RCD Espanyol (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131015_5427_LE_ESL_fc-Web.png",
+            "team_1": "Levante",
+            "team_2": "RCD Espanyol",
             "status": "UPCOMING",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Liverpool Women vs London City Lionesses",
-            "match_id": 139328,
-            "startTime": "08:00:00 PM 11-01-2026"
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Levante vs RCD Espanyol",
+            "match_id": 131015,
+            "startTime": "08:45:00 PM 11-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -178,16 +136,16 @@
             "startTime": "12:30:00 PM 12-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Levante vs RCD Espanyol (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131015_5427_LE_ESL_fc-Web.png",
-            "team_1": "Levante",
-            "team_2": "RCD Espanyol",
+            "event_category": "Cricket",
+            "title": "Rajshahi Warriors vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138933_5808_DBR_DC_fc-web_1766733054150.jpg",
+            "team_1": "Rajshahi Warriors",
+            "team_2": "Dhaka Capitals",
             "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Levante vs RCD Espanyol",
-            "match_id": 131015,
-            "startTime": "08:45:00 PM 11-01-2026"
+            "event_name": "Bangladesh Premier League, 2025-26",
+            "match_name": "Rajshahi Warriors vs Dhaka Capitals",
+            "match_id": 138933,
+            "startTime": "05:30:00 PM 12-01-2026"
         },
         {
             "event_category": "Football",
@@ -200,18 +158,6 @@
             "match_name": "FC Barcelona vs Real Madrid",
             "match_id": 138959,
             "startTime": "12:30:00 AM 12-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Rajshahi Warriors vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138933_5808_DBR_DC_fc-web_1766733054150.jpg",
-            "team_1": "Rajshahi Warriors",
-            "team_2": "Dhaka Capitals",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh Premier League, 2025-26",
-            "match_name": "Rajshahi Warriors vs Dhaka Capitals",
-            "match_id": 138933,
-            "startTime": "05:30:00 PM 12-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -250,6 +196,18 @@
             "startTime": "08:30:00 PM 12-01-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Al Hilal SFC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Al Hilal SFC",
+            "team_2": "Al-Nassr FC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al Hilal SFC vs Al-Nassr FC",
+            "match_id": 139357,
+            "startTime": "11:00:00 PM 12-01-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "Show Court 1 - Day 1 vs Adelaide (ATP 250 - Adelaide International)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
@@ -272,18 +230,6 @@
             "match_name": "Centre Court - Day 1",
             "match_id": 139532,
             "startTime": "08:30:00 AM 12-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al Hilal SFC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Al Hilal SFC",
-            "team_2": "Al-Nassr FC",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al Hilal SFC vs Al-Nassr FC",
-            "match_id": 139357,
-            "startTime": "11:00:00 PM 12-01-2026"
         },
         {
             "event_category": "Football",
@@ -440,6 +386,54 @@
             "match_name": "ATP 250 - ASB Classic",
             "match_id": 139537,
             "startTime": "03:30:00 PM 13-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Windward Islands Women vs Guyana Women (CWI T20 Blaze 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Windward Islands Women",
+            "team_2": "Guyana Women",
+            "status": "UPCOMING",
+            "event_name": "CWI T20 Blaze 2026",
+            "match_name": "Windward Islands Women vs Guyana Women",
+            "match_id": 139745,
+            "startTime": "07:00:00 PM 13-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "IAS Invincibles vs Majees Titans (Oman Super League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg",
+            "team_1": "IAS Invincibles",
+            "team_2": "Majees Titans",
+            "status": "UPCOMING",
+            "event_name": "Oman Super League T20, 2026",
+            "match_name": "IAS Invincibles vs Majees Titans",
+            "match_id": 139579,
+            "startTime": "09:00:00 PM 13-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Damac vs Al-Ittihad (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Damac",
+            "team_2": "Al-Ittihad",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Damac vs Al-Ittihad",
+            "match_id": 139358,
+            "startTime": "11:00:00 PM 13-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "United Arab Emirates U23 vs Syria U23 (AFC U23 Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139272_5822_UAE-U23_SYR-U23_fc-web.jpg",
+            "team_1": "United Arab Emirates U23",
+            "team_2": "Syria U23",
+            "status": "UPCOMING",
+            "event_name": "AFC U23 Asian Cup, 2026",
+            "match_name": "United Arab Emirates U23 vs Syria U23",
+            "match_id": 139272,
+            "startTime": "10:00:00 PM 13-01-2026"
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "06:40:25 AM 12-01-2026",
+    "last update time": "08:42:16 AM 12-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Auckland Hearts vs Otago Sparks (Women's Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138779_5801_OS-W_AH-W_fc-web_1766596522276.jpg",
-            "team_1": "Auckland Hearts",
-            "team_2": "Otago Sparks",
+            "title": "Otago Volts vs Auckland Aces (Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138747_5800_OV_AA_fc-web_1766641251086.jpg",
+            "team_1": "Otago Volts",
+            "team_2": "Auckland Aces",
             "status": "LIVE",
-            "event_name": "Women's Super Smash, 2025-26",
-            "match_name": "Auckland Hearts vs Otago Sparks",
-            "match_id": 138779,
-            "startTime": "05:10:00 AM 12-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/ybhN7mmeQFeJN7Ey9iWAHg/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138779_english_hls_77ed9fc52439905_1ta-di_h264/index.m3u8"
+            "event_name": "Super Smash, 2025-26",
+            "match_name": "Otago Volts vs Auckland Aces",
+            "match_id": 138747,
+            "startTime": "08:55:00 AM 12-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/UoQQON4BQyO7bjidvLrm1g/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138747_english_hls_4be1ba0b3c24372_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -30,18 +30,6 @@
             "startTime": "04:00:00 AM 12-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/jFqwHGYqTV-oc_qTS_qlIQ/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139536_english_hls_31cccb3ff817193_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Otago Volts vs Auckland Aces (Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138747_5800_OV_AA_fc-web_1766641251086.jpg",
-            "team_1": "Otago Volts",
-            "team_2": "Auckland Aces",
-            "status": "UPCOMING",
-            "event_name": "Super Smash, 2025-26",
-            "match_name": "Otago Volts vs Auckland Aces",
-            "match_id": 138747,
-            "startTime": "08:55:00 AM 12-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -93,6 +81,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Central Hinds vs Northern Brave Women (Women's Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138780_5801_CH-W_NB-W_fc-web_1766596522104.jpg",
+            "team_1": "Central Hinds",
+            "team_2": "Northern Brave Women",
+            "status": "UPCOMING",
+            "event_name": "Women's Super Smash, 2025-26",
+            "match_name": "Central Hinds vs Northern Brave Women",
+            "match_id": 138780,
+            "startTime": "06:40:00 AM 13-01-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Yalla Shabab Giants vs Majees Titans (Oman Super League T20, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg",
             "team_1": "Yalla Shabab Giants",
@@ -114,18 +114,6 @@
             "match_name": "Al Hilal SFC vs Al-Nassr FC",
             "match_id": 139357,
             "startTime": "11:00:00 PM 12-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Central Hinds vs Northern Brave Women (Women's Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138780_5801_CH-W_NB-W_fc-web_1766596522104.jpg",
-            "team_1": "Central Hinds",
-            "team_2": "Northern Brave Women",
-            "status": "UPCOMING",
-            "event_name": "Women's Super Smash, 2025-26",
-            "match_name": "Central Hinds vs Northern Brave Women",
-            "match_id": 138780,
-            "startTime": "06:40:00 AM 13-01-2026"
         },
         {
             "event_category": "Football",
@@ -164,18 +152,6 @@
             "startTime": "10:00:00 PM 12-01-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Central Stags vs Northern Districts (Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138748_5800_CS_ND_fc-web_1766641250992.jpg",
-            "team_1": "Central Stags",
-            "team_2": "Northern Districts",
-            "status": "UPCOMING",
-            "event_name": "Super Smash, 2025-26",
-            "match_name": "Central Stags vs Northern Districts",
-            "match_id": 138748,
-            "startTime": "10:25:00 AM 13-01-2026"
-        },
-        {
             "event_category": "Tennis",
             "title": "Centre Court - Day 1 vs Adelaide (ATP 250 - Adelaide International)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
@@ -188,16 +164,16 @@
             "startTime": "09:30:00 AM 12-01-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Show Court 1 - Day 1 vs Adelaide (ATP 250 - Adelaide International)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
-            "team_1": "Show Court 1 - Day 1",
-            "team_2": "Adelaide",
+            "event_category": "Cricket",
+            "title": "Central Stags vs Northern Districts (Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138748_5800_CS_ND_fc-web_1766641250992.jpg",
+            "team_1": "Central Stags",
+            "team_2": "Northern Districts",
             "status": "UPCOMING",
-            "event_name": "ATP 250 - Adelaide International",
-            "match_name": "Show Court 1 - Day 1",
-            "match_id": 139533,
-            "startTime": "12:00:00 PM 12-01-2026"
+            "event_name": "Super Smash, 2025-26",
+            "match_name": "Central Stags vs Northern Districts",
+            "match_id": 138748,
+            "startTime": "10:25:00 AM 13-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -210,6 +186,18 @@
             "match_name": "Swami Vivekanand vs Rizvi",
             "match_id": 139667,
             "startTime": "09:45:00 AM 13-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Show Court 1 - Day 1 vs Adelaide (ATP 250 - Adelaide International)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
+            "team_1": "Show Court 1 - Day 1",
+            "team_2": "Adelaide",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Adelaide International",
+            "match_name": "Show Court 1 - Day 1",
+            "match_id": 139533,
+            "startTime": "12:00:00 PM 12-01-2026"
         },
         {
             "event_category": "Tennis",
@@ -272,18 +260,6 @@
             "startTime": "05:00:00 PM 13-01-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
-            "team_1": "ATP 250 - ASB Classic",
-            "team_2": "Auckland",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Auckland Open",
-            "match_name": "ATP 250 - ASB Classic",
-            "match_id": 139537,
-            "startTime": "03:30:00 PM 13-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Windward Islands Women vs Guyana Women (CWI T20 Blaze 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -294,6 +270,18 @@
             "match_name": "Windward Islands Women vs Guyana Women",
             "match_id": 139745,
             "startTime": "07:00:00 PM 13-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
+            "team_1": "ATP 250 - ASB Classic",
+            "team_2": "Auckland",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Auckland Open",
+            "match_name": "ATP 250 - ASB Classic",
+            "match_id": 139537,
+            "startTime": "03:30:00 PM 13-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -402,6 +390,18 @@
             "match_name": "Real Sociedad vs CA Osasuna",
             "match_id": 139669,
             "startTime": "01:30:00 AM 14-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Auckland Aces vs Canterbury (Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_fc-web_1766641251656.jpg",
+            "team_1": "Auckland Aces",
+            "team_2": "Canterbury",
+            "status": "UPCOMING",
+            "event_name": "Super Smash, 2025-26",
+            "match_name": "Auckland Aces vs Canterbury",
+            "match_id": 138749,
+            "startTime": "05:10:00 AM 14-01-2026"
         }
     ]
 }

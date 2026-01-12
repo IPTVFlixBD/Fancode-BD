@@ -1,31 +1,17 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:44:55 AM 12-01-2026",
+    "last update time": "12:25:48 PM 12-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Otago Volts vs Auckland Aces (Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138747_5800_OV_AA_fc-web_1766641251086.jpg",
-            "team_1": "Otago Volts",
-            "team_2": "Auckland Aces",
-            "status": "LIVE",
-            "event_name": "Super Smash, 2025-26",
-            "match_name": "Otago Volts vs Auckland Aces",
-            "match_id": 138747,
-            "startTime": "08:55:00 AM 12-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/UoQQON4BQyO7bjidvLrm1g/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138747_english_hls_4be1ba0b3c24372_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sylhet Titans vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
+            "title": "Rangpur Riders vs Sylhet Titans (Bangladesh Premier League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138932_5808_SYL_RAN_fc-web_1766733054172.jpg",
-            "team_1": "Sylhet Titans",
-            "team_2": "Rangpur Riders",
+            "team_1": "Rangpur Riders",
+            "team_2": "Sylhet Titans",
             "status": "LIVE",
             "event_name": "Bangladesh Premier League, 2025-26",
-            "match_name": "Sylhet Titans vs Rangpur Riders",
+            "match_name": "Rangpur Riders vs Sylhet Titans",
             "match_id": 138932,
             "startTime": "12:30:00 PM 12-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/ZHcDWvsLRfWRZFD2s9Rf1Q/master.m3u8",
@@ -72,6 +58,20 @@
             "startTime": "09:30:00 AM 12-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/pKpHVpcWSEmSOQ2XQ4NnRQ/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139532_english_hls_60be8400f426190_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Show Court 1 - Day 1 vs Adelaide (ATP 250 - Adelaide International)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
+            "team_1": "Show Court 1 - Day 1",
+            "team_2": "Adelaide",
+            "status": "LIVE",
+            "event_name": "ATP 250 - Adelaide International",
+            "match_name": "Show Court 1 - Day 1",
+            "match_id": 139533,
+            "startTime": "12:00:00 PM 12-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/r8zOgb9JTd-Zme93fSvxIg/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139533_english_hls_fe149482c026737_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -122,18 +122,6 @@
             "startTime": "08:30:00 PM 12-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Al Hilal SFC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
-            "src": "https://images.fancode.com/aig/match/v1/139357_CASACARDS_APP.png",
-            "team_1": "Al Hilal SFC",
-            "team_2": "Al-Nassr FC",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al Hilal SFC vs Al-Nassr FC",
-            "match_id": 139357,
-            "startTime": "11:00:00 PM 12-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Central Stags vs Northern Districts (Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138748_5800_CS_ND_fc-web_1766641250992.jpg",
@@ -147,8 +135,20 @@
         },
         {
             "event_category": "Football",
+            "title": "Al Hilal SFC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
+            "src": "https://images.fancode.com/aig/match/v1/139357_CASACARDS_APP.png",
+            "team_1": "Al Hilal SFC",
+            "team_2": "Al-Nassr FC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al Hilal SFC vs Al-Nassr FC",
+            "match_id": 139357,
+            "startTime": "11:00:00 PM 12-01-2026"
+        },
+        {
+            "event_category": "Football",
             "title": "Sevilla FC vs RC Celta (LALIGA 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/131013_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131019_5427_GIR_OSN_fc-Web_1768200454376.png",
             "team_1": "Sevilla FC",
             "team_2": "RC Celta",
             "status": "UPCOMING",
@@ -182,18 +182,6 @@
             "startTime": "10:00:00 PM 12-01-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Show Court 1 - Day 1 vs Adelaide (ATP 250 - Adelaide International)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
-            "team_1": "Show Court 1 - Day 1",
-            "team_2": "Adelaide",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Adelaide International",
-            "match_name": "Show Court 1 - Day 1",
-            "match_id": 139533,
-            "startTime": "12:00:00 PM 12-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Swami Vivekanand vs Rizvi (Giles Shield 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
@@ -204,6 +192,18 @@
             "match_name": "Swami Vivekanand vs Rizvi",
             "match_id": 139667,
             "startTime": "09:45:00 AM 13-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Oman Development Team vs Renaissance Challengers (Oman Super League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg",
+            "team_1": "Oman Development Team",
+            "team_2": "Renaissance Challengers",
+            "status": "UPCOMING",
+            "event_name": "Oman Super League T20, 2026",
+            "match_name": "Oman Development Team vs Renaissance Challengers",
+            "match_id": 139578,
+            "startTime": "04:00:00 PM 13-01-2026"
         },
         {
             "event_category": "Tennis",
@@ -228,18 +228,6 @@
             "match_name": "Centre Court - Day 2",
             "match_id": 139534,
             "startTime": "05:00:00 AM 13-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Oman Development Team vs Renaissance Challengers (Oman Super League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg",
-            "team_1": "Oman Development Team",
-            "team_2": "Renaissance Challengers",
-            "status": "UPCOMING",
-            "event_name": "Oman Super League T20, 2026",
-            "match_name": "Oman Development Team vs Renaissance Challengers",
-            "match_id": 139578,
-            "startTime": "04:00:00 PM 13-01-2026"
         },
         {
             "event_category": "Football",
@@ -408,6 +396,18 @@
             "match_name": "Auckland Aces vs Canterbury",
             "match_id": 138749,
             "startTime": "05:10:00 AM 14-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Trinidad and Tobago Women vs Barbados Women (CWI T20 Blaze 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Trinidad and Tobago Women",
+            "team_2": "Barbados Women",
+            "status": "UPCOMING",
+            "event_name": "CWI T20 Blaze 2026",
+            "match_name": "Trinidad and Tobago Women vs Barbados Women",
+            "match_id": 139747,
+            "startTime": "04:30:00 AM 14-01-2026"
         }
     ]
 }

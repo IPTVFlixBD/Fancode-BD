@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "08:26:52 AM 13-01-2026",
+    "last update time": "09:27:57 AM 13-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "04:00:00 AM 13-01-2026",
             "dai_url": "https://bd-mc-fdlive.fancode.com/s3/53d0a95d-be66-44b8-b9ef-71a778a8b56e/index.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/s3/53d0a95d-be66-44b8-b9ef-71a778a8b56e/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Show Court 1 - Day 2 vs Adelaide (ATP 250 - Adelaide International)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
+            "team_1": "Show Court 1 - Day 2",
+            "team_2": "Adelaide",
+            "status": "LIVE",
+            "event_name": "ATP 250 - Adelaide International",
+            "match_name": "Show Court 1 - Day 2",
+            "match_id": 139535,
+            "startTime": "06:00:00 AM 13-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/MFvE-fczS7eNyNnDe76t5Q/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139535_english_hls_ad9d8e1ce860874_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -63,23 +77,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
             "team_1": "V N Sule",
             "team_2": "Dyandeep Seva Mandal",
-            "status": "PAUSED",
+            "status": "LIVE",
             "event_name": "Giles Shield 2026",
             "match_name": "V N Sule vs Dyandeep Seva Mandal",
             "match_id": 139666,
-            "startTime": "09:30:00 AM 12-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Auckland Aces vs Canterbury (Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_fc-web_1766641251656.jpg",
-            "team_1": "Auckland Aces",
-            "team_2": "Canterbury",
-            "status": "UPCOMING",
-            "event_name": "Super Smash, 2025-26",
-            "match_name": "Auckland Aces vs Canterbury",
-            "match_id": 138749,
-            "startTime": "05:10:00 AM 14-01-2026"
+            "startTime": "09:30:00 AM 12-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/FxPRf-LpRDy8MUFZjSBLgQ/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139666_english_hls_653eb329b995755_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -92,6 +96,18 @@
             "match_name": "Swami Vivekanand vs Rizvi",
             "match_id": 139667,
             "startTime": "09:45:00 AM 13-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Auckland Aces vs Canterbury (Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_fc-web_1766641251656.jpg",
+            "team_1": "Auckland Aces",
+            "team_2": "Canterbury",
+            "status": "UPCOMING",
+            "event_name": "Super Smash, 2025-26",
+            "match_name": "Auckland Aces vs Canterbury",
+            "match_id": 138749,
+            "startTime": "05:10:00 AM 14-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -130,18 +146,6 @@
             "startTime": "09:00:00 PM 13-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Damac vs Al-Ittihad (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Damac",
-            "team_2": "Al-Ittihad",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Damac vs Al-Ittihad",
-            "match_id": 139358,
-            "startTime": "11:00:00 PM 13-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Jamaica Women vs Leeward Islands Women (CWI T20 Blaze 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -152,6 +156,18 @@
             "match_name": "Jamaica Women vs Leeward Islands Women",
             "match_id": 139746,
             "startTime": "12:00:00 AM 14-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Damac vs Al-Ittihad (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Damac",
+            "team_2": "Al-Ittihad",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Damac vs Al-Ittihad",
+            "match_id": 139358,
+            "startTime": "11:00:00 PM 13-01-2026"
         },
         {
             "event_category": "Football",
@@ -214,6 +230,18 @@
             "startTime": "09:20:00 AM 14-01-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Trinidad and Tobago Women vs Barbados Women (CWI T20 Blaze 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Trinidad and Tobago Women",
+            "team_2": "Barbados Women",
+            "status": "UPCOMING",
+            "event_name": "CWI T20 Blaze 2026",
+            "match_name": "Trinidad and Tobago Women vs Barbados Women",
+            "match_id": 139747,
+            "startTime": "04:30:00 AM 14-01-2026"
+        },
+        {
             "event_category": "Football",
             "title": "IR Iran U23 vs Lebanon U23 (AFC U23 Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139270_5822_IRN-U23_LEB-U23_fc-web.jpg",
@@ -238,18 +266,6 @@
             "startTime": "05:00:00 PM 13-01-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Trinidad and Tobago Women vs Barbados Women (CWI T20 Blaze 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Trinidad and Tobago Women",
-            "team_2": "Barbados Women",
-            "status": "UPCOMING",
-            "event_name": "CWI T20 Blaze 2026",
-            "match_name": "Trinidad and Tobago Women vs Barbados Women",
-            "match_id": 139747,
-            "startTime": "04:30:00 AM 14-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "United Arab Emirates U23 vs Syria U23 (AFC U23 Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139272_5822_UAE-U23_SYR-U23_fc-web.jpg",
@@ -272,18 +288,6 @@
             "match_name": "Japan U23 vs Qatar U23",
             "match_id": 139271,
             "startTime": "10:00:00 PM 13-01-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Show Court 1 - Day 2 vs Adelaide (ATP 250 - Adelaide International)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
-            "team_1": "Show Court 1 - Day 2",
-            "team_2": "Adelaide",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Adelaide International",
-            "match_name": "Show Court 1 - Day 2",
-            "match_id": 139535,
-            "startTime": "06:00:00 AM 13-01-2026"
         },
         {
             "event_category": "Tennis",

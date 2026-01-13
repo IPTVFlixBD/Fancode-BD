@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "06:06:43 PM 13-01-2026",
+    "last update time": "06:47:22 PM 13-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "04:00:00 PM 13-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/GUnrrKPnSxurHarE_xpU5A/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139578_english_hls_ec30856ae549689_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Windward Islands Women vs Guyana Women (CWI T20 Blaze 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+            "team_1": "Windward Islands Women",
+            "team_2": "Guyana Women",
+            "status": "LIVE",
+            "event_name": "CWI T20 Blaze 2026",
+            "match_name": "Windward Islands Women vs Guyana Women",
+            "match_id": 139745,
+            "startTime": "07:00:00 PM 13-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/1ryOXWArSk-erkmFKP9_zA/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139745_english_hls_d1cc286a141232_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -95,18 +109,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Windward Islands Women vs Guyana Women (CWI T20 Blaze 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
-            "team_1": "Windward Islands Women",
-            "team_2": "Guyana Women",
-            "status": "UPCOMING",
-            "event_name": "CWI T20 Blaze 2026",
-            "match_name": "Windward Islands Women vs Guyana Women",
-            "match_id": 139745,
-            "startTime": "07:00:00 PM 13-01-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "IAS Invincibles vs Majees Titans (Oman Super League T20, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg",
             "team_1": "IAS Invincibles",
@@ -180,7 +182,7 @@
         {
             "event_category": "Football",
             "title": "Cultural Leonesa vs Athletic Club (Copa del Rey, 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139670_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139670_5806_CL_ATH_FC-Web_1768309588454.jpg",
             "team_1": "Cultural Leonesa",
             "team_2": "Athletic Club",
             "status": "UPCOMING",
@@ -192,7 +194,7 @@
         {
             "event_category": "Football",
             "title": "Real Sociedad vs CA Osasuna (Copa del Rey, 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139669_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139669_5806_RS_OSN_FC-Web.jpg",
             "team_1": "Real Sociedad",
             "team_2": "CA Osasuna",
             "status": "UPCOMING",

@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "10:20:56 PM 13-01-2026",
+    "last update time": "10:51:25 PM 13-01-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Windward Islands Women vs Guyana Women (CWI T20 Blaze 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
-            "team_1": "Windward Islands Women",
-            "team_2": "Guyana Women",
-            "status": "LIVE",
-            "event_name": "CWI T20 Blaze 2026",
-            "match_name": "Windward Islands Women vs Guyana Women",
-            "match_id": 139745,
-            "startTime": "07:00:00 PM 13-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/1ryOXWArSk-erkmFKP9_zA/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139745_english_hls_d1cc286a141232_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "IAS Invincibles vs Majees Titans (Oman Super League T20, 2026)",
@@ -30,6 +16,20 @@
             "startTime": "09:00:00 PM 13-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/rtfmYb_FTRSC12meoYOS0Q/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139579_english_hls_e863ca214f34866_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Damac vs Al-Ittihad (Roshn Saudi League 2025-2026)",
+            "src": "https://images.fancode.com/aig/match/v1/139358_CASACARDS_APP.png",
+            "team_1": "Damac",
+            "team_2": "Al-Ittihad",
+            "status": "LIVE",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Damac vs Al-Ittihad",
+            "match_id": 139358,
+            "startTime": "11:00:00 PM 13-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/GVK3d0InTQCn1mz2uWExKA/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139358_english_hls_434953ab6540532_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -106,18 +106,6 @@
             "match_name": "Auckland Hearts vs Canterbury Magicians",
             "match_id": 138781,
             "startTime": "09:20:00 AM 14-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Damac vs Al-Ittihad (Roshn Saudi League 2025-2026)",
-            "src": "https://images.fancode.com/aig/match/v1/139358_CASACARDS_APP.png",
-            "team_1": "Damac",
-            "team_2": "Al-Ittihad",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Damac vs Al-Ittihad",
-            "match_id": 139358,
-            "startTime": "11:00:00 PM 13-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -252,42 +240,6 @@
             "startTime": "04:00:00 AM 14-01-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Jupiter vs New York vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Jupiter vs New York",
-            "team_2": "Florida",
-            "status": "UPCOMING",
-            "event_name": "TGL Season 2",
-            "match_name": "Jupiter vs New York",
-            "match_id": 139166,
-            "startTime": "05:30:00 AM 14-01-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Show Court 1 - Day 3 vs Adelaide (ATP 250 - Adelaide International)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
-            "team_1": "Show Court 1 - Day 3",
-            "team_2": "Adelaide",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Adelaide International",
-            "match_name": "Show Court 1 - Day 3",
-            "match_id": 139565,
-            "startTime": "06:00:00 AM 14-01-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Centre Court - Day 3 vs Adelaide (ATP 250 - Adelaide International)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
-            "team_1": "Centre Court - Day 3",
-            "team_2": "Adelaide",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Adelaide International",
-            "match_name": "Centre Court - Day 3",
-            "match_id": 139564,
-            "startTime": "10:00:00 AM 14-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Nigeria vs Morocco (Africa Cup of Nations 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Morocco_fc-web.jpg",
@@ -346,6 +298,42 @@
             "match_name": "Deportivo Alaves vs Rayo Vallecano",
             "match_id": 139672,
             "startTime": "01:30:00 AM 15-01-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Jupiter vs New York vs Florida (TGL Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "Jupiter vs New York",
+            "team_2": "Florida",
+            "status": "UPCOMING",
+            "event_name": "TGL Season 2",
+            "match_name": "Jupiter vs New York",
+            "match_id": 139166,
+            "startTime": "05:30:00 AM 14-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Show Court 1 - Day 3 vs Adelaide (ATP 250 - Adelaide International)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
+            "team_1": "Show Court 1 - Day 3",
+            "team_2": "Adelaide",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Adelaide International",
+            "match_name": "Show Court 1 - Day 3",
+            "match_id": 139565,
+            "startTime": "06:00:00 AM 14-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Centre Court - Day 3 vs Adelaide (ATP 250 - Adelaide International)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
+            "team_1": "Centre Court - Day 3",
+            "team_2": "Adelaide",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Adelaide International",
+            "match_name": "Centre Court - Day 3",
+            "match_id": 139564,
+            "startTime": "10:00:00 AM 14-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -442,6 +430,18 @@
             "match_name": "Barbados Women vs Jamaica Women",
             "match_id": 139748,
             "startTime": "07:00:00 PM 15-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
+            "team_1": "ATP 250 - ASB Classic",
+            "team_2": "Auckland",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Auckland Open",
+            "match_name": "ATP 250 - ASB Classic",
+            "match_id": 139539,
+            "startTime": "03:30:00 PM 15-01-2026"
         }
     ]
 }

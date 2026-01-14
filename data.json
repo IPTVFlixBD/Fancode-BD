@@ -1,8 +1,50 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "08:51:59 AM 14-01-2026",
+    "last update time": "09:53:07 AM 14-01-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Canterbury Magicians vs Auckland Hearts (Women's Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138781_5801_AH-W_CM-W_fc-web_1766596522091.jpg",
+            "team_1": "Canterbury Magicians",
+            "team_2": "Auckland Hearts",
+            "status": "LIVE",
+            "event_name": "Women's Super Smash, 2025-26",
+            "match_name": "Canterbury Magicians vs Auckland Hearts",
+            "match_id": 138781,
+            "startTime": "09:20:00 AM 14-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/jOsqMZDLTZG3Hvm5eB8n8w/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138781_english_hls_960565f4f325901_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "V N Sule vs Dyandeep Seva Mandal (Giles Shield 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
+            "team_1": "V N Sule",
+            "team_2": "Dyandeep Seva Mandal",
+            "status": "LIVE",
+            "event_name": "Giles Shield 2026",
+            "match_name": "V N Sule vs Dyandeep Seva Mandal",
+            "match_id": 139666,
+            "startTime": "09:30:00 AM 12-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/CxLTrQL0Sxqrf_3nmUD_dA/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139666_english_hls_653eb329b973182_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Swami Vivekanand vs Rizvi (Giles Shield 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
+            "team_1": "Swami Vivekanand",
+            "team_2": "Rizvi",
+            "status": "LIVE",
+            "event_name": "Giles Shield 2026",
+            "match_name": "Swami Vivekanand vs Rizvi",
+            "match_id": 139667,
+            "startTime": "09:45:00 AM 13-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/AGIBKB8DT5i4wztbfTNEDA/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139667_english_hls_e061157e2f95075_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Tennis",
             "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
@@ -32,40 +74,18 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139565_english_hls_a0240f661f82860_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Auckland Hearts vs Canterbury Magicians (Women's Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138781_5801_AH-W_CM-W_fc-web_1766596522091.jpg",
-            "team_1": "Auckland Hearts",
-            "team_2": "Canterbury Magicians",
-            "status": "UPCOMING",
-            "event_name": "Women's Super Smash, 2025-26",
-            "match_name": "Auckland Hearts vs Canterbury Magicians",
-            "match_id": 138781,
-            "startTime": "09:20:00 AM 14-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "V N Sule vs Dyandeep Seva Mandal (Giles Shield 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
-            "team_1": "V N Sule",
-            "team_2": "Dyandeep Seva Mandal",
-            "status": "PAUSED",
-            "event_name": "Giles Shield 2026",
-            "match_name": "V N Sule vs Dyandeep Seva Mandal",
-            "match_id": 139666,
-            "startTime": "09:30:00 AM 12-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Swami Vivekanand vs Rizvi (Giles Shield 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
-            "team_1": "Swami Vivekanand",
-            "team_2": "Rizvi",
-            "status": "PAUSED",
-            "event_name": "Giles Shield 2026",
-            "match_name": "Swami Vivekanand vs Rizvi",
-            "match_id": 139667,
-            "startTime": "09:45:00 AM 13-01-2026"
+            "event_category": "Tennis",
+            "title": "Centre Court - Day 3 vs Adelaide (ATP 250 - Adelaide International)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
+            "team_1": "Centre Court - Day 3",
+            "team_2": "Adelaide",
+            "status": "LIVE",
+            "event_name": "ATP 250 - Adelaide International",
+            "match_name": "Centre Court - Day 3",
+            "match_id": 139564,
+            "startTime": "10:00:00 AM 14-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/i_fimnfVTz6ttBrCaY-_nQ/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139564_english_hls_2b2cc4717a48829_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -102,6 +122,18 @@
             "match_name": "Al-Ahli Saudi FC vs Al Taawoun",
             "match_id": 139359,
             "startTime": "11:00:00 PM 14-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Otago Volts vs Wellington Firebirds (Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138750_5800_OV_WF_fc-web_1766641250975.jpg",
+            "team_1": "Otago Volts",
+            "team_2": "Wellington Firebirds",
+            "status": "UPCOMING",
+            "event_name": "Super Smash, 2025-26",
+            "match_name": "Otago Volts vs Wellington Firebirds",
+            "match_id": 138750,
+            "startTime": "08:55:00 AM 15-01-2026"
         },
         {
             "event_category": "Football",
@@ -164,18 +196,6 @@
             "startTime": "01:30:00 AM 15-01-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Otago Volts vs Wellington Firebirds (Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138750_5800_OV_WF_fc-web_1766641250975.jpg",
-            "team_1": "Otago Volts",
-            "team_2": "Wellington Firebirds",
-            "status": "UPCOMING",
-            "event_name": "Super Smash, 2025-26",
-            "match_name": "Otago Volts vs Wellington Firebirds",
-            "match_id": 138750,
-            "startTime": "08:55:00 AM 15-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Thailand U23 vs China PR U23 (AFC U23 Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139274_5822_THA-U23_CHN-U23_fc-web.jpg",
@@ -212,16 +232,16 @@
             "startTime": "12:30:00 PM 15-01-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Centre Court - Day 3 vs Adelaide (ATP 250 - Adelaide International)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
-            "team_1": "Centre Court - Day 3",
-            "team_2": "Adelaide",
+            "event_category": "Cricket",
+            "title": "Rajshahi Warriors vs Sylhet Titans (Bangladesh Premier League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138935_5808_DBR_SYL_fc-web_1766733054259.jpg",
+            "team_1": "Rajshahi Warriors",
+            "team_2": "Sylhet Titans",
             "status": "UPCOMING",
-            "event_name": "ATP 250 - Adelaide International",
-            "match_name": "Centre Court - Day 3",
-            "match_id": 139564,
-            "startTime": "10:00:00 AM 14-01-2026"
+            "event_name": "Bangladesh Premier League, 2025-26",
+            "match_name": "Rajshahi Warriors vs Sylhet Titans",
+            "match_id": 138935,
+            "startTime": "05:30:00 PM 15-01-2026"
         },
         {
             "event_category": "Tennis",
@@ -246,18 +266,6 @@
             "match_name": "Centre Court - Day 4",
             "match_id": 139566,
             "startTime": "06:30:00 AM 15-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Rajshahi Warriors vs Sylhet Titans (Bangladesh Premier League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138935_5808_DBR_SYL_fc-web_1766733054259.jpg",
-            "team_1": "Rajshahi Warriors",
-            "team_2": "Sylhet Titans",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh Premier League, 2025-26",
-            "match_name": "Rajshahi Warriors vs Sylhet Titans",
-            "match_id": 138935,
-            "startTime": "05:30:00 PM 15-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -426,6 +434,18 @@
             "match_name": "Rangpur Riders vs Dhaka Capitals",
             "match_id": 138928,
             "startTime": "01:30:00 PM 16-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Chattogram Royals vs Rajshahi Warriors (Bangladesh Premier League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138929_5808_CCH_DBR_fc-web_1766733054169.jpg",
+            "team_1": "Chattogram Royals",
+            "team_2": "Rajshahi Warriors",
+            "status": "UPCOMING",
+            "event_name": "Bangladesh Premier League, 2025-26",
+            "match_name": "Chattogram Royals vs Rajshahi Warriors",
+            "match_id": 138929,
+            "startTime": "06:30:00 PM 16-01-2026"
         }
     ]
 }

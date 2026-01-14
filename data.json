@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "07:10:25 AM 14-01-2026",
+    "last update time": "08:51:59 AM 14-01-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Canterbury vs Auckland Aces (Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_fc-web_1766641251656.jpg",
-            "team_1": "Canterbury",
-            "team_2": "Auckland Aces",
-            "status": "LIVE",
-            "event_name": "Super Smash, 2025-26",
-            "match_name": "Canterbury vs Auckland Aces",
-            "match_id": 138749,
-            "startTime": "05:10:00 AM 14-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/Z8bgbrROT_Wvozn-fxikeg/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138749_english_hls_48464bcb1d93181_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Trinidad and Tobago Women vs Barbados Women (CWI T20 Blaze 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
-            "team_1": "Trinidad and Tobago Women",
-            "team_2": "Barbados Women",
-            "status": "LIVE",
-            "event_name": "CWI T20 Blaze 2026",
-            "match_name": "Trinidad and Tobago Women vs Barbados Women",
-            "match_id": 139747,
-            "startTime": "04:30:00 AM 14-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/Fh5BgqAqSSCbbSMONM50uw/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139747_english_hls_96592331e222434_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
@@ -44,20 +16,6 @@
             "startTime": "04:00:00 AM 14-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/stbSBSmaTq-JQ5U3KNHxaQ/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139538_english_hls_c6f5ec0eb789572_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Jupiter vs New York vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Jupiter vs New York",
-            "team_2": "Florida",
-            "status": "LIVE",
-            "event_name": "TGL Season 2",
-            "match_name": "Jupiter vs New York",
-            "match_id": 139166,
-            "startTime": "05:30:00 AM 14-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/FwRK_j5AQRSaFw3Lxpx-yA/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139166_english_hls_b0f80b410417709_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -206,6 +164,18 @@
             "startTime": "01:30:00 AM 15-01-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Otago Volts vs Wellington Firebirds (Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138750_5800_OV_WF_fc-web_1766641250975.jpg",
+            "team_1": "Otago Volts",
+            "team_2": "Wellington Firebirds",
+            "status": "UPCOMING",
+            "event_name": "Super Smash, 2025-26",
+            "match_name": "Otago Volts vs Wellington Firebirds",
+            "match_id": 138750,
+            "startTime": "08:55:00 AM 15-01-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Thailand U23 vs China PR U23 (AFC U23 Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139274_5822_THA-U23_CHN-U23_fc-web.jpg",
@@ -228,18 +198,6 @@
             "match_name": "Iraq U23 vs Australia U23",
             "match_id": 139273,
             "startTime": "05:00:00 PM 14-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Otago Volts vs Wellington Firebirds (Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138750_5800_OV_WF_fc-web_1766641250975.jpg",
-            "team_1": "Otago Volts",
-            "team_2": "Wellington Firebirds",
-            "status": "UPCOMING",
-            "event_name": "Super Smash, 2025-26",
-            "match_name": "Otago Volts vs Wellington Firebirds",
-            "match_id": 138750,
-            "startTime": "08:55:00 AM 15-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -444,6 +402,30 @@
             "match_name": "World Feed - Day 1",
             "match_id": 139772,
             "startTime": "05:30:00 AM 16-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Centre Court - Day 5 vs Adelaide (ATP 250 - Adelaide International)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
+            "team_1": "Centre Court - Day 5",
+            "team_2": "Adelaide",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Adelaide International",
+            "match_name": "Centre Court - Day 5",
+            "match_id": 139568,
+            "startTime": "07:00:00 AM 16-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rangpur Riders vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138928_5808_RAN_DC_fc-web_1766733054101.jpg",
+            "team_1": "Rangpur Riders",
+            "team_2": "Dhaka Capitals",
+            "status": "UPCOMING",
+            "event_name": "Bangladesh Premier League, 2025-26",
+            "match_name": "Rangpur Riders vs Dhaka Capitals",
+            "match_id": 138928,
+            "startTime": "01:30:00 PM 16-01-2026"
         }
     ]
 }

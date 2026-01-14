@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "12:22:41 AM 15-01-2026",
+    "last update time": "12:53:09 AM 15-01-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Senegal vs Egypt (Africa Cup of Nations 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Senegal-vs-Egypt_fc-web.jpg",
-            "team_1": "Senegal",
-            "team_2": "Egypt",
-            "status": "LIVE",
-            "event_name": "Africa Cup of Nations 2025-26",
-            "match_name": "Senegal vs Egypt",
-            "match_id": 138391,
-            "startTime": "10:30:00 PM 14-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/7sDgJuNARMuckhwD2-D-fA/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138391_english_hls_468a4aabcc41921_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Al-Ahli Saudi FC vs Al Taawoun (Roshn Saudi League 2025-2026)",
@@ -80,18 +66,6 @@
             "startTime": "12:30:00 PM 15-01-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Rajshahi Warriors vs Sylhet Titans (Bangladesh Premier League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138935_5808_DBR_SYL_fc-web_1766733054259.jpg",
-            "team_1": "Rajshahi Warriors",
-            "team_2": "Sylhet Titans",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh Premier League, 2025-26",
-            "match_name": "Rajshahi Warriors vs Sylhet Titans",
-            "match_id": 138935,
-            "startTime": "05:30:00 PM 15-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Nigeria vs Morocco (Africa Cup of Nations 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Morocco_fc-web.jpg",
@@ -150,6 +124,18 @@
             "match_name": "Deportivo Alaves vs Rayo Vallecano",
             "match_id": 139672,
             "startTime": "01:30:00 AM 15-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rajshahi Warriors vs Sylhet Titans (Bangladesh Premier League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138935_5808_DBR_SYL_fc-web_1766733054259.jpg",
+            "team_1": "Rajshahi Warriors",
+            "team_2": "Sylhet Titans",
+            "status": "UPCOMING",
+            "event_name": "Bangladesh Premier League, 2025-26",
+            "match_name": "Rajshahi Warriors vs Sylhet Titans",
+            "match_id": 138935,
+            "startTime": "05:30:00 PM 15-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -248,18 +234,6 @@
             "startTime": "06:00:00 AM 15-01-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Show Court 1 - Day 4 vs Adelaide (ATP 250 - Adelaide International)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
-            "team_1": "Show Court 1 - Day 4",
-            "team_2": "Adelaide",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Adelaide International",
-            "match_name": "Show Court 1 - Day 4",
-            "match_id": 139567,
-            "startTime": "10:00:00 AM 15-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Central Hinds vs Auckland Hearts (Women's Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138783_5801_CH-W_AH-W_fc-web_1766596522088.jpg",
@@ -270,6 +244,18 @@
             "match_name": "Central Hinds vs Auckland Hearts",
             "match_id": 138783,
             "startTime": "06:40:00 AM 16-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Show Court 1 - Day 4 vs Adelaide (ATP 250 - Adelaide International)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
+            "team_1": "Show Court 1 - Day 4",
+            "team_2": "Adelaide",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Adelaide International",
+            "match_name": "Show Court 1 - Day 4",
+            "match_id": 139567,
+            "startTime": "10:00:00 AM 15-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -380,18 +366,6 @@
             "startTime": "05:00:00 PM 16-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Perth Glory vs Brisbane Roar (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Perth Glory",
-            "team_2": "Brisbane Roar",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Perth Glory vs Brisbane Roar",
-            "match_id": 139385,
-            "startTime": "04:15:00 PM 16-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Oman Super League T20, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg",
@@ -402,6 +376,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 139582,
             "startTime": "07:30:00 PM 16-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Perth Glory vs Brisbane Roar (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Perth Glory",
+            "team_2": "Brisbane Roar",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Perth Glory vs Brisbane Roar",
+            "match_id": 139385,
+            "startTime": "04:15:00 PM 16-01-2026"
         },
         {
             "event_category": "Tennis",
@@ -438,6 +424,18 @@
             "match_name": "Al-Ittihad vs Al-Ettifaq",
             "match_id": 139360,
             "startTime": "11:00:00 PM 16-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "RCD Espanyol vs Girona FC (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131029_5427_ESL_GIR_fc-Web_1768307626387.png",
+            "team_1": "RCD Espanyol",
+            "team_2": "Girona FC",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "RCD Espanyol vs Girona FC",
+            "match_id": 131029,
+            "startTime": "01:30:00 AM 17-01-2026"
         }
     ]
 }

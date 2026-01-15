@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "07:39:09 PM 15-01-2026",
+    "last update time": "08:09:33 PM 15-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -43,18 +43,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Rangpur Riders vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138928_5808_RAN_DC_fc-web_1766733054101.jpg",
-            "team_1": "Rangpur Riders",
-            "team_2": "Dhaka Capitals",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh Premier League, 2025-26",
-            "match_name": "Rangpur Riders vs Dhaka Capitals",
-            "match_id": 138928,
-            "startTime": "01:30:00 PM 16-01-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Renaissance Challengers vs IAS Invincibles (Oman Super League T20, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg",
             "team_1": "Renaissance Challengers",
@@ -64,6 +52,18 @@
             "match_name": "Renaissance Challengers vs IAS Invincibles",
             "match_id": 139581,
             "startTime": "09:00:00 PM 15-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rangpur Riders vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138928_5808_RAN_DC_fc-web_1766733054101.jpg",
+            "team_1": "Rangpur Riders",
+            "team_2": "Dhaka Capitals",
+            "status": "UPCOMING",
+            "event_name": "Bangladesh Premier League, 2025-26",
+            "match_name": "Rangpur Riders vs Dhaka Capitals",
+            "match_id": 138928,
+            "startTime": "01:30:00 PM 16-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -186,6 +186,18 @@
             "startTime": "05:30:00 AM 16-01-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Al-Ittihad vs Al-Ettifaq (Roshn Saudi League 2025-2026)",
+            "src": "https://images.fancode.com/aig/match/v1/139360_CASACARDS_APP.png",
+            "team_1": "Al-Ittihad",
+            "team_2": "Al-Ettifaq",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Ittihad vs Al-Ettifaq",
+            "match_id": 139360,
+            "startTime": "11:00:00 PM 16-01-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "Centre Court - Day 5 vs Adelaide (ATP 250 - Adelaide International)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
@@ -199,30 +211,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Perth Glory vs Brisbane Roar (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Perth Glory",
-            "team_2": "Brisbane Roar",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Perth Glory vs Brisbane Roar",
-            "match_id": 139385,
-            "startTime": "04:15:00 PM 16-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al-Ittihad vs Al-Ettifaq (Roshn Saudi League 2025-2026)",
-            "src": "https://images.fancode.com/aig/match/v1/139360_CASACARDS_APP.png",
-            "team_1": "Al-Ittihad",
-            "team_2": "Al-Ettifaq",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al-Ittihad vs Al-Ettifaq",
-            "match_id": 139360,
-            "startTime": "11:00:00 PM 16-01-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Vietnam U23 vs United Arab Emirates U23 (AFC U23 Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
             "team_1": "Vietnam U23",
@@ -232,6 +220,18 @@
             "match_name": "Vietnam U23 vs United Arab Emirates U23",
             "match_id": 139276,
             "startTime": "09:00:00 PM 16-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Perth Glory vs Brisbane Roar (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Perth Glory",
+            "team_2": "Brisbane Roar",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Perth Glory vs Brisbane Roar",
+            "match_id": 139385,
+            "startTime": "04:15:00 PM 16-01-2026"
         },
         {
             "event_category": "Tennis",

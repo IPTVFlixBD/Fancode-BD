@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "08:40:57 PM 16-01-2026",
+    "last update time": "09:01:16 PM 16-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,6 +32,20 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139582_english_hls_6ece3b177a59256_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Vietnam U23 vs United Arab Emirates U23 (AFC U23 Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Vietnam-U23_vs_UAE23_fc-web.jpg",
+            "team_1": "Vietnam U23",
+            "team_2": "United Arab Emirates U23",
+            "status": "LIVE",
+            "event_name": "AFC U23 Asian Cup, 2026",
+            "match_name": "Vietnam U23 vs United Arab Emirates U23",
+            "match_id": 139276,
+            "startTime": "09:00:00 PM 16-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/FTvEwDNVRb6GaHoe83czCQ/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139276_english_hls_89fca343c586276_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Rangpur Riders vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138928_5808_RAN_DC_fc-web_1766733054101.jpg",
@@ -42,18 +56,6 @@
             "match_name": "Rangpur Riders vs Dhaka Capitals",
             "match_id": 138928,
             "startTime": "12:30:00 PM 17-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Vietnam U23 vs United Arab Emirates U23 (AFC U23 Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Vietnam-U23_vs_UAE23_fc-web.jpg",
-            "team_1": "Vietnam U23",
-            "team_2": "United Arab Emirates U23",
-            "status": "UPCOMING",
-            "event_name": "AFC U23 Asian Cup, 2026",
-            "match_name": "Vietnam U23 vs United Arab Emirates U23",
-            "match_id": 139276,
-            "startTime": "09:00:00 PM 16-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -165,18 +167,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Uzbekistan U23 vs China PR U23 (AFC U23 Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Uzbekistan-U23_vs_ChinaPR_fc-web.jpg",
-            "team_1": "Uzbekistan U23",
-            "team_2": "China PR U23",
-            "status": "UPCOMING",
-            "event_name": "AFC U23 Asian Cup, 2026",
-            "match_name": "Uzbekistan U23 vs China PR U23",
-            "match_id": 139277,
-            "startTime": "05:00:00 PM 17-01-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Oxford United vs Bristol City F.C. (EFL Championship 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
             "team_1": "Oxford United",
@@ -186,6 +176,18 @@
             "match_name": "Oxford United vs Bristol City F.C.",
             "match_id": 139915,
             "startTime": "08:30:00 PM 17-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Uzbekistan U23 vs China PR U23 (AFC U23 Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Uzbekistan-U23_vs_ChinaPR_fc-web.jpg",
+            "team_1": "Uzbekistan U23",
+            "team_2": "China PR U23",
+            "status": "UPCOMING",
+            "event_name": "AFC U23 Asian Cup, 2026",
+            "match_name": "Uzbekistan U23 vs China PR U23",
+            "match_id": 139277,
+            "startTime": "05:00:00 PM 17-01-2026"
         },
         {
             "event_category": "Football",
@@ -284,18 +286,6 @@
             "startTime": "11:00:00 PM 17-01-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Featured Group - Day 2 vs Hawaii (Sony Open in Hawaii 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg",
-            "team_1": "Featured Group - Day 2",
-            "team_2": "Hawaii",
-            "status": "UPCOMING",
-            "event_name": "Sony Open in Hawaii 2026",
-            "match_name": "Featured Group - Day 2",
-            "match_id": 139778,
-            "startTime": "10:30:00 PM 16-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Australia U23 vs Korea Republic U23 (AFC U23 Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-U23_vs_KoraRepublicU23_fc-web.jpg",
@@ -306,6 +296,18 @@
             "match_name": "Australia U23 vs Korea Republic U23",
             "match_id": 139278,
             "startTime": "09:00:00 PM 17-01-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Group - Day 2 vs Hawaii (Sony Open in Hawaii 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg",
+            "team_1": "Featured Group - Day 2",
+            "team_2": "Hawaii",
+            "status": "UPCOMING",
+            "event_name": "Sony Open in Hawaii 2026",
+            "match_name": "Featured Group - Day 2",
+            "match_id": 139778,
+            "startTime": "10:30:00 PM 16-01-2026"
         },
         {
             "event_category": "Golf",
@@ -320,18 +322,6 @@
             "startTime": "05:30:00 AM 17-01-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
-            "team_1": "ATP 250 - ASB Classic",
-            "team_2": "Auckland",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Auckland Open",
-            "match_name": "ATP 250 - ASB Classic",
-            "match_id": 139541,
-            "startTime": "06:30:00 AM 17-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Barbados Women vs Windward Islands Women (CWI T20 Blaze 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
@@ -342,6 +332,18 @@
             "match_name": "Barbados Women vs Windward Islands Women",
             "match_id": 139752,
             "startTime": "12:00:00 AM 18-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
+            "team_1": "ATP 250 - ASB Classic",
+            "team_2": "Auckland",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Auckland Open",
+            "match_name": "ATP 250 - ASB Classic",
+            "match_id": 139541,
+            "startTime": "06:30:00 AM 17-01-2026"
         },
         {
             "event_category": "Tennis",

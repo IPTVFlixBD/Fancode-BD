@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "06:47:48 AM 16-01-2026",
+    "last update time": "08:39:38 AM 16-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "06:40:00 AM 16-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/55bH9D5-TjKp3boqRk4Hqg/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138783_english_hls_51f56fa1f749915_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Guyana Women vs Leeward Islands Women (CWI T20 Blaze 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
-            "team_1": "Guyana Women",
-            "team_2": "Leeward Islands Women",
-            "status": "LIVE",
-            "event_name": "CWI T20 Blaze 2026",
-            "match_name": "Guyana Women vs Leeward Islands Women",
-            "match_id": 139750,
-            "startTime": "04:30:00 AM 16-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/m968vLPQT-iQB7LvwJi0bw/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139750_english_hls_fb738124fe13447_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -124,19 +110,19 @@
         {
             "event_category": "Football",
             "title": "West Bromwich Albion F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1/139913_CASACARDS_APP.png",
             "team_1": "West Bromwich Albion F.C.",
             "team_2": "Middlesbrough F.C.",
             "status": "UPCOMING",
             "event_name": "EFL Championship 2025-26",
             "match_name": "West Bromwich Albion F.C. vs Middlesbrough F.C.",
-            "match_id": 139335,
+            "match_id": 139913,
             "startTime": "01:30:00 AM 17-01-2026"
         },
         {
             "event_category": "Football",
             "title": "Japan U23 vs Jordan U23 (AFC U23 Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1/139275_CASACARDS_APP.png",
             "team_1": "Japan U23",
             "team_2": "Jordan U23",
             "status": "UPCOMING",
@@ -148,7 +134,7 @@
         {
             "event_category": "Football",
             "title": "Vietnam U23 vs United Arab Emirates U23 (AFC U23 Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1/139276_CASACARDS_APP.png",
             "team_1": "Vietnam U23",
             "team_2": "United Arab Emirates U23",
             "status": "UPCOMING",
@@ -206,6 +192,18 @@
             "startTime": "01:15:00 AM 17-01-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Rangpur Riders vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138928_5808_RAN_DC_fc-web_1766733054101.jpg",
+            "team_1": "Rangpur Riders",
+            "team_2": "Dhaka Capitals",
+            "status": "UPCOMING",
+            "event_name": "Bangladesh Premier League, 2025-26",
+            "match_name": "Rangpur Riders vs Dhaka Capitals",
+            "match_id": 138928,
+            "startTime": "12:30:00 PM 17-01-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Melbourne City vs Auckland (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -228,30 +226,6 @@
             "match_name": "Perth Glory vs Brisbane Roar",
             "match_id": 139385,
             "startTime": "04:15:00 PM 16-01-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Centre Court - Day 5 vs Adelaide (ATP 250 - Adelaide International)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
-            "team_1": "Centre Court - Day 5",
-            "team_2": "Adelaide",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Adelaide International",
-            "match_name": "Centre Court - Day 5",
-            "match_id": 139568,
-            "startTime": "08:00:00 AM 16-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Rangpur Riders vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138928_5808_RAN_DC_fc-web_1766733054101.jpg",
-            "team_1": "Rangpur Riders",
-            "team_2": "Dhaka Capitals",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh Premier League, 2025-26",
-            "match_name": "Rangpur Riders vs Dhaka Capitals",
-            "match_id": 138928,
-            "startTime": "12:30:00 PM 17-01-2026"
         },
         {
             "event_category": "Golf",
@@ -340,19 +314,19 @@
         {
             "event_category": "Football",
             "title": "Coventry City Football Club vs Leicester City F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1/139914_CASACARDS_APP.png",
             "team_1": "Coventry City Football Club",
             "team_2": "Leicester City F.C.",
             "status": "UPCOMING",
             "event_name": "EFL Championship 2025-26",
             "match_name": "Coventry City Football Club vs Leicester City F.C.",
-            "match_id": 139336,
+            "match_id": 139914,
             "startTime": "06:00:00 PM 17-01-2026"
         },
         {
             "event_category": "Football",
             "title": "Uzbekistan U23 vs China PR U23 (AFC U23 Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1/139277_CASACARDS_APP.png",
             "team_1": "Uzbekistan U23",
             "team_2": "China PR U23",
             "status": "UPCOMING",
@@ -386,6 +360,18 @@
             "startTime": "07:00:00 PM 17-01-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Oxford United vs Bristol City F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Oxford United",
+            "team_2": "Bristol City F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Oxford United vs Bristol City F.C.",
+            "match_id": 139915,
+            "startTime": "08:30:00 PM 17-01-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
@@ -396,18 +382,6 @@
             "match_name": "ATP 250 - ASB Classic",
             "match_id": 139541,
             "startTime": "03:30:00 PM 17-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Oxford United vs Bristol City F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Oxford United",
-            "team_2": "Bristol City F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Oxford United vs Bristol City F.C.",
-            "match_id": 139337,
-            "startTime": "08:30:00 PM 17-01-2026"
         },
         {
             "event_category": "Football",
@@ -436,7 +410,7 @@
         {
             "event_category": "Football",
             "title": "Australia U23 vs Korea Republic U23 (AFC U23 Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1/139278_CASACARDS_APP.png",
             "team_1": "Australia U23",
             "team_2": "Korea Republic U23",
             "status": "UPCOMING",
@@ -444,6 +418,30 @@
             "match_name": "Australia U23 vs Korea Republic U23",
             "match_id": 139278,
             "startTime": "09:00:00 PM 17-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "CA Osasuna vs Real Oviedo (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131021_5427_OSN_RO_fc-Web.png",
+            "team_1": "CA Osasuna",
+            "team_2": "Real Oviedo",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "CA Osasuna vs Real Oviedo",
+            "match_id": 131021,
+            "startTime": "11:00:00 PM 17-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Nassr FC vs Al-Shabab FC (Roshn Saudi League 2025-2026)",
+            "src": "https://images.fancode.com/aig/match/v1/139822_CASACARDS_APP.png",
+            "team_1": "Al-Nassr FC",
+            "team_2": "Al-Shabab FC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Nassr FC vs Al-Shabab FC",
+            "match_id": 139822,
+            "startTime": "11:00:00 PM 17-01-2026"
         }
     ]
 }

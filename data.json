@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "06:08:43 PM 16-01-2026",
+    "last update time": "06:49:21 PM 16-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,18 +32,16 @@
             "adfree_url": "https://bddia-mpv2.fancode.com/out/v1/ap-south-1/139275_english_139275/ad-h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Perth Glory vs Brisbane Roar (A League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139385_CASACARDS_APP.png",
-            "team_1": "Perth Glory",
-            "team_2": "Brisbane Roar",
-            "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Perth Glory vs Brisbane Roar",
-            "match_id": 139385,
-            "startTime": "04:15:00 PM 16-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/O9_CNTgPQ9S01_NAYuWAcA/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139385_english_hls_0ea117155f37264_1ta-di_h264/index.m3u8"
+            "event_category": "Cricket",
+            "title": "Yalla Shabab Giants vs Oman Development Team (Oman Super League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg",
+            "team_1": "Yalla Shabab Giants",
+            "team_2": "Oman Development Team",
+            "status": "UPCOMING",
+            "event_name": "Oman Super League T20, 2026",
+            "match_name": "Yalla Shabab Giants vs Oman Development Team",
+            "match_id": 139582,
+            "startTime": "07:30:00 PM 16-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -56,18 +54,6 @@
             "match_name": "Rangpur Riders vs Dhaka Capitals",
             "match_id": 138928,
             "startTime": "12:30:00 PM 17-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Yalla Shabab Giants vs Oman Development Team (Oman Super League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg",
-            "team_1": "Yalla Shabab Giants",
-            "team_2": "Oman Development Team",
-            "status": "UPCOMING",
-            "event_name": "Oman Super League T20, 2026",
-            "match_name": "Yalla Shabab Giants vs Oman Development Team",
-            "match_id": 139582,
-            "startTime": "07:30:00 PM 16-01-2026"
         },
         {
             "event_category": "Football",
@@ -203,6 +189,18 @@
         },
         {
             "event_category": "Football",
+            "title": "Oxford United vs Bristol City F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Oxford United",
+            "team_2": "Bristol City F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Oxford United vs Bristol City F.C.",
+            "match_id": 139915,
+            "startTime": "08:30:00 PM 17-01-2026"
+        },
+        {
+            "event_category": "Football",
             "title": "Western Sydney Wanderers vs Newcastle Jets (A League 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1/139386_CASACARDS_APP.png",
             "team_1": "Western Sydney Wanderers",
@@ -215,6 +213,18 @@
         },
         {
             "event_category": "Football",
+            "title": "RCD Mallorca vs Athletic Club (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131023_5427_MRC_ATH_fc-Web.png",
+            "team_1": "RCD Mallorca",
+            "team_2": "Athletic Club",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "RCD Mallorca vs Athletic Club",
+            "match_id": 131023,
+            "startTime": "08:45:00 PM 17-01-2026"
+        },
+        {
+            "event_category": "Football",
             "title": "Central Coast Mariners vs Macarthur (A League 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1/139387_CASACARDS_APP.png",
             "team_1": "Central Coast Mariners",
@@ -224,18 +234,6 @@
             "match_name": "Central Coast Mariners vs Macarthur",
             "match_id": 139387,
             "startTime": "12:30:00 PM 17-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Oxford United vs Bristol City F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Oxford United",
-            "team_2": "Bristol City F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Oxford United vs Bristol City F.C.",
-            "match_id": 139915,
-            "startTime": "08:30:00 PM 17-01-2026"
         },
         {
             "event_category": "Golf",
@@ -251,27 +249,15 @@
         },
         {
             "event_category": "Football",
-            "title": "RCD Mallorca vs Athletic Club (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131023_5427_MRC_ATH_fc-Web.png",
-            "team_1": "RCD Mallorca",
-            "team_2": "Athletic Club",
+            "title": "Egypt vs Nigeria (Africa Cup of Nations 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Egypt-VS-Image-Nigeria_fc-web.jpg",
+            "team_1": "Egypt",
+            "team_2": "Nigeria",
             "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "RCD Mallorca vs Athletic Club",
-            "match_id": 131023,
-            "startTime": "08:45:00 PM 17-01-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "World Feed - Day 2 vs Hawaii (Sony Open in Hawaii 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg",
-            "team_1": "World Feed - Day 2",
-            "team_2": "Hawaii",
-            "status": "UPCOMING",
-            "event_name": "Sony Open in Hawaii 2026",
-            "match_name": "World Feed - Day 2",
-            "match_id": 139773,
-            "startTime": "05:30:00 AM 17-01-2026"
+            "event_name": "Africa Cup of Nations 2025-26",
+            "match_name": "Egypt vs Nigeria",
+            "match_id": 138393,
+            "startTime": "09:30:00 PM 17-01-2026"
         },
         {
             "event_category": "Football",
@@ -286,6 +272,18 @@
             "startTime": "02:05:00 PM 17-01-2026"
         },
         {
+            "event_category": "Golf",
+            "title": "World Feed - Day 2 vs Hawaii (Sony Open in Hawaii 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg",
+            "team_1": "World Feed - Day 2",
+            "team_2": "Hawaii",
+            "status": "UPCOMING",
+            "event_name": "Sony Open in Hawaii 2026",
+            "match_name": "World Feed - Day 2",
+            "match_id": 139773,
+            "startTime": "05:30:00 AM 17-01-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
@@ -296,18 +294,6 @@
             "match_name": "ATP 250 - ASB Classic",
             "match_id": 139541,
             "startTime": "06:30:00 AM 17-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Egypt vs Nigeria (Africa Cup of Nations 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Egypt-VS-Image-Nigeria_fc-web.jpg",
-            "team_1": "Egypt",
-            "team_2": "Nigeria",
-            "status": "UPCOMING",
-            "event_name": "Africa Cup of Nations 2025-26",
-            "match_name": "Egypt vs Nigeria",
-            "match_id": 138393,
-            "startTime": "09:30:00 PM 17-01-2026"
         },
         {
             "event_category": "Tennis",
@@ -428,6 +414,18 @@
             "match_name": "Almería vs Deportivo La Coruna",
             "match_id": 139788,
             "startTime": "01:30:00 AM 18-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jamaica Women vs Guyana Women (CWI T20 Blaze 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+            "team_1": "Jamaica Women",
+            "team_2": "Guyana Women",
+            "status": "UPCOMING",
+            "event_name": "CWI T20 Blaze 2026",
+            "match_name": "Jamaica Women vs Guyana Women",
+            "match_id": 139753,
+            "startTime": "04:30:00 AM 18-01-2026"
         }
     ]
 }

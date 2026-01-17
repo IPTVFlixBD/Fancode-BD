@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "06:29:31 AM 17-01-2026",
+    "last update time": "08:21:08 AM 17-01-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -71,6 +71,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Otago Sparks vs Northern Brave Women (Women's Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138784_5801_OS-W_NB-W_fc-web_1766596522109.jpg",
+            "team_1": "Otago Sparks",
+            "team_2": "Northern Brave Women",
+            "status": "UPCOMING",
+            "event_name": "Women's Super Smash, 2025-26",
+            "match_name": "Otago Sparks vs Northern Brave Women",
+            "match_id": 138784,
+            "startTime": "05:10:00 AM 18-01-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Leeward Islands Women vs Trinidad and Tobago Women (CWI T20 Blaze 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
             "team_1": "Leeward Islands Women",
@@ -104,18 +116,6 @@
             "match_name": "Real Madrid vs Levante",
             "match_id": 131025,
             "startTime": "06:30:00 PM 17-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Otago Sparks vs Northern Brave Women (Women's Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138784_5801_OS-W_NB-W_fc-web_1766596522109.jpg",
-            "team_1": "Otago Sparks",
-            "team_2": "Northern Brave Women",
-            "status": "UPCOMING",
-            "event_name": "Women's Super Smash, 2025-26",
-            "match_name": "Otago Sparks vs Northern Brave Women",
-            "match_id": 138784,
-            "startTime": "05:10:00 AM 18-01-2026"
         },
         {
             "event_category": "Football",
@@ -214,6 +214,18 @@
             "startTime": "01:30:00 AM 18-01-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Otago Volts vs Northern Districts (Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138752_5800_OV_ND_fc-web_1766641251141.jpg",
+            "team_1": "Otago Volts",
+            "team_2": "Northern Districts",
+            "status": "UPCOMING",
+            "event_name": "Super Smash, 2025-26",
+            "match_name": "Otago Volts vs Northern Districts",
+            "match_id": 138752,
+            "startTime": "08:55:00 AM 18-01-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Uzbekistan U23 vs China PR U23 (AFC U23 Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Uzbekistan-U23_vs_ChinaPR_fc-web.jpg",
@@ -224,18 +236,6 @@
             "match_name": "Uzbekistan U23 vs China PR U23",
             "match_id": 139277,
             "startTime": "05:00:00 PM 17-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Australia U23 vs Korea Republic U23 (AFC U23 Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-U23_vs_KoraRepublicU23_fc-web.jpg",
-            "team_1": "Australia U23",
-            "team_2": "Korea Republic U23",
-            "status": "UPCOMING",
-            "event_name": "AFC U23 Asian Cup, 2026",
-            "match_name": "Australia U23 vs Korea Republic U23",
-            "match_id": 139278,
-            "startTime": "09:00:00 PM 17-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -250,16 +250,16 @@
             "startTime": "04:30:00 AM 18-01-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Otago Volts vs Northern Districts (Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138752_5800_OV_ND_fc-web_1766641251141.jpg",
-            "team_1": "Otago Volts",
-            "team_2": "Northern Districts",
+            "event_category": "Football",
+            "title": "Australia U23 vs Korea Republic U23 (AFC U23 Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-U23_vs_KoraRepublicU23_fc-web.jpg",
+            "team_1": "Australia U23",
+            "team_2": "Korea Republic U23",
             "status": "UPCOMING",
-            "event_name": "Super Smash, 2025-26",
-            "match_name": "Otago Volts vs Northern Districts",
-            "match_id": 138752,
-            "startTime": "08:55:00 AM 18-01-2026"
+            "event_name": "AFC U23 Asian Cup, 2026",
+            "match_name": "Australia U23 vs Korea Republic U23",
+            "match_id": 139278,
+            "startTime": "09:00:00 PM 17-01-2026"
         },
         {
             "event_category": "Football",
@@ -296,6 +296,30 @@
             "match_name": "Mexico Legends vs International Legends",
             "match_id": 139922,
             "startTime": "06:30:00 AM 18-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "USA Women vs Bangladesh Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
+            "team_1": "USA Women",
+            "team_2": "Bangladesh Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
+            "match_name": "USA Women vs Bangladesh Women",
+            "match_id": 139219,
+            "startTime": "08:45:00 AM 18-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Zimbabwe Women vs Netherlands Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Zimbabwe Women",
+            "team_2": "Netherlands Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
+            "match_name": "Zimbabwe Women vs Netherlands Women",
+            "match_id": 139218,
+            "startTime": "08:45:00 AM 18-01-2026"
         },
         {
             "event_category": "Football",
@@ -335,27 +359,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "USA Women vs Bangladesh Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
-            "team_1": "USA Women",
-            "team_2": "Bangladesh Women",
+            "title": "Rangpur Riders vs Noakhali Express (Bangladesh Premier League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138936_5808_RAN_NOE_fc-web_1766733054201.jpg",
+            "team_1": "Rangpur Riders",
+            "team_2": "Noakhali Express",
             "status": "UPCOMING",
-            "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
-            "match_name": "USA Women vs Bangladesh Women",
-            "match_id": 139219,
-            "startTime": "08:45:00 AM 18-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Zimbabwe Women vs Netherlands Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Zimbabwe Women",
-            "team_2": "Netherlands Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
-            "match_name": "Zimbabwe Women vs Netherlands Women",
-            "match_id": 139218,
-            "startTime": "08:45:00 AM 18-01-2026"
+            "event_name": "Bangladesh Premier League, 2025-26",
+            "match_name": "Rangpur Riders vs Noakhali Express",
+            "match_id": 138936,
+            "startTime": "12:30:00 PM 18-01-2026"
         },
         {
             "event_category": "Tennis",
@@ -368,18 +380,6 @@
             "match_name": "Centre Court - Day 6",
             "match_id": 139569,
             "startTime": "10:00:00 AM 17-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Rangpur Riders vs Noakhali Express (Bangladesh Premier League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138936_5808_RAN_NOE_fc-web_1766733054201.jpg",
-            "team_1": "Rangpur Riders",
-            "team_2": "Noakhali Express",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh Premier League, 2025-26",
-            "match_name": "Rangpur Riders vs Noakhali Express",
-            "match_id": 138936,
-            "startTime": "12:30:00 PM 18-01-2026"
         },
         {
             "event_category": "Golf",

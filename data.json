@@ -1,21 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:14:46 AM 20-01-2026",
+    "last update time": "11:45:15 AM 20-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Queensland Fire vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
-            "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
-            "team_1": "Queensland Fire",
-            "team_2": "South Australian Scorpions",
+            "title": "Sylhet Titans vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138927_5808_SYL_RAN_fc-web_1766733054374.jpg",
+            "team_1": "Sylhet Titans",
+            "team_2": "Rangpur Riders",
             "status": "LIVE",
-            "event_name": "Women's National Cricket League, 2025-26",
-            "match_name": "Queensland Fire vs South Australian Scorpions",
-            "match_id": 133968,
-            "startTime": "05:00:00 AM 20-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/wXzx2Gc5QXqXLpnPcatjuQ/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/133968_english_hls_efb12067e159158_1ta-di_h264/index.m3u8"
+            "event_name": "Bangladesh Premier League, 2025-26",
+            "match_name": "Sylhet Titans vs Rangpur Riders",
+            "match_id": 138946,
+            "startTime": "12:30:00 PM 20-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/fe8B0nLMT5G0Mx8J2UdUyw/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -61,18 +61,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Sylhet Titans vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138927_5808_SYL_RAN_fc-web_1766733054374.jpg",
-            "team_1": "Sylhet Titans",
-            "team_2": "Rangpur Riders",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh Premier League, 2025-26",
-            "match_name": "Sylhet Titans vs Rangpur Riders",
-            "match_id": 138946,
-            "startTime": "12:30:00 PM 20-01-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Rajshahi Warriors vs Chattogram Royals (Bangladesh Premier League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138944_5808_DBR_CCH_fc-web_1766733054162.jpg",
             "team_1": "Rajshahi Warriors",
@@ -82,18 +70,6 @@
             "match_name": "Rajshahi Warriors vs Chattogram Royals",
             "match_id": 138947,
             "startTime": "05:30:00 PM 20-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Canterbury Magicians vs Otago Sparks (Women's Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138787_5801_CM-W_OS-W_fc-web_1766596522283.jpg",
-            "team_1": "Canterbury Magicians",
-            "team_2": "Otago Sparks",
-            "status": "UPCOMING",
-            "event_name": "Women's Super Smash, 2025-26",
-            "match_name": "Canterbury Magicians vs Otago Sparks",
-            "match_id": 138787,
-            "startTime": "06:40:00 AM 21-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -120,6 +96,18 @@
             "startTime": "12:45:00 PM 20-01-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Canterbury Magicians vs Otago Sparks (Women's Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138787_5801_CM-W_OS-W_fc-web_1766596522283.jpg",
+            "team_1": "Canterbury Magicians",
+            "team_2": "Otago Sparks",
+            "status": "UPCOMING",
+            "event_name": "Women's Super Smash, 2025-26",
+            "match_name": "Canterbury Magicians vs Otago Sparks",
+            "match_id": 138787,
+            "startTime": "06:40:00 AM 21-01-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Al-Ahli Saudi FC vs Al-Khaleej (Roshn Saudi League 2025-2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ahli-Saudi-FC-vs-Al-Khaleej_FC-web.jpg",
@@ -132,18 +120,6 @@
             "startTime": "11:00:00 PM 20-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Wrexham A.F.C. vs Leicester City F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139917_5489_WRX_LEI_FC-Web.jpg",
-            "team_1": "Wrexham A.F.C.",
-            "team_2": "Leicester City F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Wrexham A.F.C. vs Leicester City F.C.",
-            "match_id": 139917,
-            "startTime": "01:30:00 AM 21-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Canterbury vs Otago Volts (Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138755_5800_CTB_OV_fc-web_1766641251123.jpg",
@@ -154,6 +130,18 @@
             "match_name": "Canterbury vs Otago Volts",
             "match_id": 138755,
             "startTime": "10:25:00 AM 21-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Wrexham A.F.C. vs Leicester City F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139917_5489_WRX_LEI_FC-Web.jpg",
+            "team_1": "Wrexham A.F.C.",
+            "team_2": "Leicester City F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Wrexham A.F.C. vs Leicester City F.C.",
+            "match_id": 139917,
+            "startTime": "01:30:00 AM 21-01-2026"
         },
         {
             "event_category": "Football",
@@ -418,6 +406,18 @@
             "match_name": "Main Feed - Day 1",
             "match_id": 139990,
             "startTime": "10:00:00 PM 22-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Lincoln City F.C. vs Burton Albion (League One 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Lincoln City F.C.",
+            "team_2": "Burton Albion",
+            "status": "UPCOMING",
+            "event_name": "League One 2025-26",
+            "match_name": "Lincoln City F.C. vs Burton Albion",
+            "match_id": 140014,
+            "startTime": "01:30:00 AM 23-01-2026"
         }
     ]
 }

@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "07:11:07 AM 20-01-2026",
+    "last update time": "08:52:47 AM 20-01-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Northern Brave Women vs Central Hinds (Women's Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138786_5801_NB-W_CH-W_fc-web_1766596522273.jpg",
-            "team_1": "Northern Brave Women",
-            "team_2": "Central Hinds",
-            "status": "LIVE",
-            "event_name": "Women's Super Smash, 2025-26",
-            "match_name": "Northern Brave Women vs Central Hinds",
-            "match_id": 138786,
-            "startTime": "06:40:00 AM 20-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/0AWSzrd0R_eTK8ELf1WUJQ/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138786_english_hls_720891e92c62599_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "ACT Meteors vs New South Wales Breakers (Women's National Cricket League, 2025-26)",
@@ -33,20 +19,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Jamaica Women vs Windward Islands Women (CWI T20 Blaze 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
-            "team_1": "Jamaica Women",
-            "team_2": "Windward Islands Women",
-            "status": "LIVE",
-            "event_name": "CWI T20 Blaze 2026",
-            "match_name": "Jamaica Women vs Windward Islands Women",
-            "match_id": 139756,
-            "startTime": "04:30:00 AM 20-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/KEGqU5S0Ru2sEElafxA1QQ/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139756_english_hls_d450f93a9e4784_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Queensland Fire vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
             "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
             "team_1": "Queensland Fire",
@@ -58,6 +30,34 @@
             "startTime": "05:00:00 AM 20-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/wXzx2Gc5QXqXLpnPcatjuQ/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/133968_english_hls_efb12067e159158_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Thailand Women vs Zimbabwe Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/05_Zimbabwe-Women-vs-Thailand-Women_1768652645043.png",
+            "team_1": "Thailand Women",
+            "team_2": "Zimbabwe Women",
+            "status": "LIVE",
+            "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
+            "match_name": "Thailand Women vs Zimbabwe Women",
+            "match_id": 139223,
+            "startTime": "08:45:00 AM 20-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/vjnXlVG4Tq2tPljjfoHfEw/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139223_english_hls_fb34769ddd64567_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh Women vs Papua New Guinea Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/06_Papua-New-Guinea-Women-vs-Bangladesh-Women_1768652698103.png",
+            "team_1": "Bangladesh Women",
+            "team_2": "Papua New Guinea Women",
+            "status": "LIVE",
+            "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
+            "match_name": "Bangladesh Women vs Papua New Guinea Women",
+            "match_id": 139222,
+            "startTime": "08:45:00 AM 20-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/keCXVqMqQ6aDw11qFQaKRg/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139222_english_hls_e5da087ff762368_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -94,30 +94,6 @@
             "match_name": "Rajshahi Warriors vs Chattogram Royals",
             "match_id": 138947,
             "startTime": "05:30:00 PM 20-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Zimbabwe Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/05_Zimbabwe-Women-vs-Thailand-Women_1768652645043.png",
-            "team_1": "Zimbabwe Women",
-            "team_2": "Thailand Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
-            "match_name": "Zimbabwe Women vs Thailand Women",
-            "match_id": 139223,
-            "startTime": "08:45:00 AM 20-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Papua New Guinea Women vs Bangladesh Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/06_Papua-New-Guinea-Women-vs-Bangladesh-Women_1768652698103.png",
-            "team_1": "Papua New Guinea Women",
-            "team_2": "Bangladesh Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
-            "match_name": "Papua New Guinea Women vs Bangladesh Women",
-            "match_id": 139222,
-            "startTime": "08:45:00 AM 20-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -430,6 +406,30 @@
             "match_name": "Bangladesh Women vs Namibia Women",
             "match_id": 139228,
             "startTime": "12:45:00 PM 22-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Afghanistan vs West Indies (Afghanistan vs West Indies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-WI_web.jpg",
+            "team_1": "Afghanistan",
+            "team_2": "West Indies",
+            "status": "UPCOMING",
+            "event_name": "Afghanistan vs West Indies 2026",
+            "match_name": "Afghanistan vs West Indies",
+            "match_id": 139300,
+            "startTime": "08:00:00 PM 22-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Qadsiah FC vs Al-Ittihad (Roshn Saudi League 2025-2026)",
+            "src": "https://images.fancode.com/aig/match/v1/139826_CASACARDS_APP.png",
+            "team_1": "Al-Qadsiah FC",
+            "team_2": "Al-Ittihad",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Qadsiah FC vs Al-Ittihad",
+            "match_id": 139826,
+            "startTime": "11:00:00 PM 22-01-2026"
         }
     ]
 }

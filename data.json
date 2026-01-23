@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "01:41:56 PM 23-01-2026",
+    "last update time": "02:12:22 PM 23-01-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Newcastle Jets vs Wellington Phoenix (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139390_5802_NJ_WEL_FC-Web.jpg",
+            "team_1": "Newcastle Jets",
+            "team_2": "Wellington Phoenix",
+            "status": "LIVE",
+            "event_name": "A League 2025-26",
+            "match_name": "Newcastle Jets vs Wellington Phoenix",
+            "match_id": 139390,
+            "startTime": "02:05:00 PM 23-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/ydXSve4gQWiQBN8_AkV01A/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139390_english_hls_7c09f6371540836_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Wellington Firebirds vs Canterbury (Super Smash, 2025-26)",
@@ -40,18 +54,6 @@
             "match_name": "Central Hinds vs Otago Sparks",
             "match_id": 138790,
             "startTime": "06:40:00 AM 24-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Newcastle Jets vs Wellington Phoenix (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139390_5802_NJ_WEL_FC-Web.jpg",
-            "team_1": "Newcastle Jets",
-            "team_2": "Wellington Phoenix",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Newcastle Jets vs Wellington Phoenix",
-            "match_id": 139390,
-            "startTime": "02:05:00 PM 23-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -139,6 +141,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Sri Lanka vs England (England tour of Sri Lanka, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3).png",
+            "team_1": "Sri Lanka",
+            "team_2": "England",
+            "status": "UPCOMING",
+            "event_name": "England tour of Sri Lanka, 2026",
+            "match_name": "Sri Lanka vs England",
+            "match_id": 139290,
+            "startTime": "02:30:00 PM 24-01-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Papua New Guinea Women vs Namibia Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/13_Papua-New-Guinea-Women-vs-Namibia-Women_1768653441341.png",
             "team_1": "Papua New Guinea Women",
@@ -172,18 +186,6 @@
             "match_name": "Vietnam U23 vs Korea Republic U23",
             "match_id": 139281,
             "startTime": "08:30:00 PM 23-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka vs England (England tour of Sri Lanka, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3).png",
-            "team_1": "Sri Lanka",
-            "team_2": "England",
-            "status": "UPCOMING",
-            "event_name": "England tour of Sri Lanka, 2026",
-            "match_name": "Sri Lanka vs England",
-            "match_id": 139290,
-            "startTime": "02:30:00 PM 24-01-2026"
         },
         {
             "event_category": "Football",

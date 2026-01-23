@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "04:24:44 PM 23-01-2026",
+    "last update time": "04:45:04 PM 23-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138929_5808_CCH_DBR_fc-web_1766733054169.jpg",
             "team_1": "Chattogram Royals",
             "team_2": "Rajshahi Warriors",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Bangladesh Premier League, 2025-26",
             "match_name": "Chattogram Royals vs Rajshahi Warriors",
             "match_id": 138949,
-            "startTime": "05:30:00 PM 23-01-2026"
+            "startTime": "05:30:00 PM 23-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/-6tPxcxdSciN9fjrkB4v5Q/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138949_english_hls_f7e380fec481055_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -64,18 +66,6 @@
             "startTime": "12:00:00 AM 24-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Everton Women vs Brighton and Hove Albion Women (Women's Super League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139329_5826_EVE-W_BHA-W_FC-Web_1768309283456.jpg",
-            "team_1": "Everton Women",
-            "team_2": "Brighton and Hove Albion Women",
-            "status": "UPCOMING",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Everton Women vs Brighton and Hove Albion Women",
-            "match_id": 139329,
-            "startTime": "12:30:00 AM 24-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sri Lanka vs England (England tour of Sri Lanka, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3).png",
@@ -86,6 +76,18 @@
             "match_name": "Sri Lanka vs England",
             "match_id": 139290,
             "startTime": "02:30:00 PM 24-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Everton Women vs Brighton and Hove Albion Women (Women's Super League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139329_5826_EVE-W_BHA-W_FC-Web_1768309283456.jpg",
+            "team_1": "Everton Women",
+            "team_2": "Brighton and Hove Albion Women",
+            "status": "UPCOMING",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "Everton Women vs Brighton and Hove Albion Women",
+            "match_id": 139329,
+            "startTime": "12:30:00 AM 24-01-2026"
         },
         {
             "event_category": "Football",

@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "07:25:53 PM 27-01-2026",
+    "last update time": "08:06:30 PM 27-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "02:30:00 PM 27-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1769547050~acl=/*~id=67551255025184234283288383274013~hmac=29fb044d9db921d9213773e8391e8e86b36deaa54532315132e59ea9f4fbdd50"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Gurugram Thunders vs Pune Panthers (World Legends Pro T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140081_5928_GT_PPT_FC-Web.jpg",
-            "team_1": "Gurugram Thunders",
-            "team_2": "Pune Panthers",
-            "status": "LIVE",
-            "event_name": "World Legends Pro T20 League, 2026",
-            "match_name": "Gurugram Thunders vs Pune Panthers",
-            "match_id": 140074,
-            "startTime": "02:30:00 PM 27-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/xAHn8IbaRPmKeFLClNmuGw/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140074_english_hls_b67341f10193939_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -102,18 +88,16 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139763_english_hls_325ca8f34621196_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Futsal",
-            "title": "Indonesia vs Korea Republic (AFC Futsal Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-            "team_1": "Indonesia",
-            "team_2": "Korea Republic",
-            "status": "LIVE",
-            "event_name": "AFC Futsal Asian Cup, 2026",
-            "match_name": "Indonesia vs Korea Republic",
-            "match_id": 139884,
-            "startTime": "05:30:00 PM 27-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/z8XCzhuiRzyXBdxZ7IRpHQ/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139884_english_hls_fde81787c1332_1ta-di_h264/index.m3u8"
+            "event_category": "Cricket",
+            "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Emirates Blues",
+            "status": "UPCOMING",
+            "event_name": "Emirates D10, 2026",
+            "match_name": "Abu Dhabi vs Emirates Blues",
+            "match_id": 139589,
+            "startTime": "09:00:00 PM 27-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -126,18 +110,6 @@
             "match_name": "Dubai Royals vs Gurugram Thunders",
             "match_id": 140076,
             "startTime": "02:30:00 PM 28-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Emirates Blues",
-            "status": "UPCOMING",
-            "event_name": "Emirates D10, 2026",
-            "match_name": "Abu Dhabi vs Emirates Blues",
-            "match_id": 139589,
-            "startTime": "09:00:00 PM 27-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -189,18 +161,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "USA Women vs Netherlands Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
-            "team_1": "USA Women",
-            "team_2": "Netherlands Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
-            "match_name": "USA Women vs Netherlands Women",
-            "match_id": 139240,
-            "startTime": "12:45:00 PM 28-01-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Delhi Warriors vs Pune Panthers (World Legends Pro T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140077_5928_DW_GT_FC-Web.jpg",
             "team_1": "Delhi Warriors",
@@ -210,6 +170,18 @@
             "match_name": "Delhi Warriors vs Pune Panthers",
             "match_id": 140077,
             "startTime": "07:30:00 PM 28-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "USA Women vs Netherlands Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
+            "team_1": "USA Women",
+            "team_2": "Netherlands Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
+            "match_name": "USA Women vs Netherlands Women",
+            "match_id": 139240,
+            "startTime": "12:45:00 PM 28-01-2026"
         },
         {
             "event_category": "Football",
@@ -272,30 +244,6 @@
             "startTime": "11:00:00 PM 28-01-2026"
         },
         {
-            "event_category": "Padel",
-            "title": "ADV vs Team Bella (Hexagon Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139848_5896_ADV_TEB_FC-Web.jpg",
-            "team_1": "ADV",
-            "team_2": "Team Bella",
-            "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026",
-            "match_name": "ADV vs Team Bella",
-            "match_id": 139848,
-            "startTime": "11:00:00 AM 28-01-2026"
-        },
-        {
-            "event_category": "Padel",
-            "title": "Rafa Nadal Academy Team vs Leven (Hexagon Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139842_5896_RNA_LEV_FC-Web.jpg",
-            "team_1": "Rafa Nadal Academy Team",
-            "team_2": "Leven",
-            "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026",
-            "match_name": "Rafa Nadal Academy Team vs Leven",
-            "match_id": 139842,
-            "startTime": "11:00:00 AM 28-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Abu Dhabi vs Ajman (Emirates D10, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
@@ -306,6 +254,30 @@
             "match_name": "Abu Dhabi vs Ajman",
             "match_id": 139594,
             "startTime": "11:15:00 PM 28-01-2026"
+        },
+        {
+            "event_category": "Padel",
+            "title": "ADV vs Team Bella (Hexagon Cup 2026 DNU)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139848_5896_ADV_TEB_FC-Web.jpg",
+            "team_1": "ADV",
+            "team_2": "Team Bella",
+            "status": "UPCOMING",
+            "event_name": "Hexagon Cup 2026 DNU",
+            "match_name": "ADV vs Team Bella",
+            "match_id": 139848,
+            "startTime": "11:00:00 AM 28-01-2026"
+        },
+        {
+            "event_category": "Padel",
+            "title": "Rafa Nadal Academy Team vs Leven (Hexagon Cup 2026 DNU)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139842_5896_RNA_LEV_FC-Web.jpg",
+            "team_1": "Rafa Nadal Academy Team",
+            "team_2": "Leven",
+            "status": "UPCOMING",
+            "event_name": "Hexagon Cup 2026 DNU",
+            "match_name": "Rafa Nadal Academy Team vs Leven",
+            "match_id": 139842,
+            "startTime": "11:00:00 AM 28-01-2026"
         },
         {
             "event_category": "Futsal",
@@ -321,36 +293,36 @@
         },
         {
             "event_category": "Padel",
-            "title": "Hexagon Team vs Robert Lewandoswki Academy Team (Hexagon Cup 2026)",
+            "title": "Hexagon Team vs Robert Lewandoswki Academy Team (Hexagon Cup 2026 DNU)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139849_5896_HEX_RL9_FC-Web.jpg",
             "team_1": "Hexagon Team",
             "team_2": "Robert Lewandoswki Academy Team",
             "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026",
+            "event_name": "Hexagon Cup 2026 DNU",
             "match_name": "Hexagon Team vs Robert Lewandoswki Academy Team",
             "match_id": 139849,
             "startTime": "12:00:00 PM 28-01-2026"
         },
         {
             "event_category": "Padel",
-            "title": "KRU Padel vs Leven (Hexagon Cup 2026)",
+            "title": "KRU Padel vs Leven (Hexagon Cup 2026 DNU)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139843_5896_KRU_LEV_FC-Web.jpg",
             "team_1": "KRU Padel",
             "team_2": "Leven",
             "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026",
+            "event_name": "Hexagon Cup 2026 DNU",
             "match_name": "KRU Padel vs Leven",
             "match_id": 139843,
             "startTime": "12:00:00 PM 28-01-2026"
         },
         {
             "event_category": "Padel",
-            "title": "Rafa Nadal Academy Team vs Robert Lewandoswki Academy Team (Hexagon Cup 2026)",
+            "title": "Rafa Nadal Academy Team vs Robert Lewandoswki Academy Team (Hexagon Cup 2026 DNU)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139844_5896_RNA_RL9_FC-Web.jpg",
             "team_1": "Rafa Nadal Academy Team",
             "team_2": "Robert Lewandoswki Academy Team",
             "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026",
+            "event_name": "Hexagon Cup 2026 DNU",
             "match_name": "Rafa Nadal Academy Team vs Robert Lewandoswki Academy Team",
             "match_id": 139844,
             "startTime": "01:00:00 PM 28-01-2026"
@@ -369,24 +341,24 @@
         },
         {
             "event_category": "Padel",
-            "title": "KRU Padel vs 10 Padel (Hexagon Cup 2026)",
+            "title": "KRU Padel vs 10 Padel (Hexagon Cup 2026 DNU)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139845_5896_KRU_XPA_FC-Web.jpg",
             "team_1": "KRU Padel",
             "team_2": "10 Padel",
             "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026",
+            "event_name": "Hexagon Cup 2026 DNU",
             "match_name": "KRU Padel vs 10 Padel",
             "match_id": 139845,
             "startTime": "02:00:00 PM 28-01-2026"
         },
         {
             "event_category": "Padel",
-            "title": "ADV vs Hexagon Team (Hexagon Cup 2026)",
+            "title": "ADV vs Hexagon Team (Hexagon Cup 2026 DNU)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139846_5896_ADV_HEX_FC-Web.jpg",
             "team_1": "ADV",
             "team_2": "Hexagon Team",
             "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026",
+            "event_name": "Hexagon Cup 2026 DNU",
             "match_name": "ADV vs Hexagon Team",
             "match_id": 139846,
             "startTime": "03:00:00 PM 28-01-2026"
@@ -405,12 +377,12 @@
         },
         {
             "event_category": "Padel",
-            "title": "ADV vs Robert Lewandoswki Academy Team (Hexagon Cup 2026)",
+            "title": "ADV vs Robert Lewandoswki Academy Team (Hexagon Cup 2026 DNU)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139847_5896_ADV_RL9_FC-Web.jpg",
             "team_1": "ADV",
             "team_2": "Robert Lewandoswki Academy Team",
             "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026",
+            "event_name": "Hexagon Cup 2026 DNU",
             "match_name": "ADV vs Robert Lewandoswki Academy Team",
             "match_id": 139847,
             "startTime": "04:00:00 PM 28-01-2026"
@@ -428,6 +400,30 @@
             "startTime": "05:30:00 PM 28-01-2026"
         },
         {
+            "event_category": "Live events",
+            "title": "Day 1 - Court 1 vs Madrid, Spain (Hexagon Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+            "team_1": "Day 1 - Court 1",
+            "team_2": "Madrid, Spain",
+            "status": "UPCOMING",
+            "event_name": "Hexagon Cup 2026",
+            "match_name": "Day 1 - Court 1",
+            "match_id": 140162,
+            "startTime": "03:30:00 PM 28-01-2026"
+        },
+        {
+            "event_category": "Live events",
+            "title": "Day 1 - Court 2 vs Madrid, Spain (Hexagon Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+            "team_1": "Day 1 - Court 2",
+            "team_2": "Madrid, Spain",
+            "status": "UPCOMING",
+            "event_name": "Hexagon Cup 2026",
+            "match_name": "Day 1 - Court 2",
+            "match_id": 140161,
+            "startTime": "03:30:00 PM 28-01-2026"
+        },
+        {
             "event_category": "Cricket",
             "title": "Rajasthan Lions vs Dubai Royals (World Legends Pro T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140078_5928_PPT_DR_FC-Web.jpg",
@@ -441,26 +437,14 @@
         },
         {
             "event_category": "Padel",
-            "title": "10 Padel vs Robert Lewandoswki Academy Team (Hexagon Cup 2026)",
+            "title": "10 Padel vs Robert Lewandoswki Academy Team (Hexagon Cup 2026 DNU)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139857_5896_XPA_RL9_FC-Web.jpg",
             "team_1": "10 Padel",
             "team_2": "Robert Lewandoswki Academy Team",
             "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026",
+            "event_name": "Hexagon Cup 2026 DNU",
             "match_name": "10 Padel vs Robert Lewandoswki Academy Team",
             "match_id": 139857,
-            "startTime": "11:00:00 AM 29-01-2026"
-        },
-        {
-            "event_category": "Padel",
-            "title": "Rafa Nadal Academy Team vs Hexagon Team (Hexagon Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139850_5896_RNA_HEX_FC-Web.jpg",
-            "team_1": "Rafa Nadal Academy Team",
-            "team_2": "Hexagon Team",
-            "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026",
-            "match_name": "Rafa Nadal Academy Team vs Hexagon Team",
-            "match_id": 139850,
             "startTime": "11:00:00 AM 29-01-2026"
         }
     ]

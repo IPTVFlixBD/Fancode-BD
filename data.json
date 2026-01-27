@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "01:19:57 PM 27-01-2026",
+    "last update time": "01:50:26 PM 27-01-2026",
     "matches": [
-        {
-            "event_category": "Futsal",
-            "title": "Thailand vs Lebanon (AFC Futsal Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-            "team_1": "Thailand",
-            "team_2": "Lebanon",
-            "status": "LIVE",
-            "event_name": "AFC Futsal Asian Cup, 2026",
-            "match_name": "Thailand vs Lebanon",
-            "match_id": 139881,
-            "startTime": "11:30:00 AM 27-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/xt-LuBlxTRuapOjzHW9xHg/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139881_english_hls_69601d2b6b37596_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Futsal",
             "title": "Iraq vs Kyrgyz Republic (AFC Futsal Asian Cup, 2026)",
@@ -224,30 +210,6 @@
             "startTime": "12:45:00 PM 28-01-2026"
         },
         {
-            "event_category": "Futsal",
-            "title": "Vietnam vs Kuwait (AFC Futsal Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-            "team_1": "Vietnam",
-            "team_2": "Kuwait",
-            "status": "UPCOMING",
-            "event_name": "AFC Futsal Asian Cup, 2026",
-            "match_name": "Vietnam vs Kuwait",
-            "match_id": 139883,
-            "startTime": "03:30:00 PM 27-01-2026"
-        },
-        {
-            "event_category": "Futsal",
-            "title": "Indonesia vs Korea Republic (AFC Futsal Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-            "team_1": "Indonesia",
-            "team_2": "Korea Republic",
-            "status": "UPCOMING",
-            "event_name": "AFC Futsal Asian Cup, 2026",
-            "match_name": "Indonesia vs Korea Republic",
-            "match_id": 139884,
-            "startTime": "05:30:00 PM 27-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sharjah vs Dubai (Emirates D10, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
@@ -270,6 +232,30 @@
             "match_name": "Delhi Warriors vs Gurugram Thunders",
             "match_id": 140077,
             "startTime": "07:30:00 PM 28-01-2026"
+        },
+        {
+            "event_category": "Futsal",
+            "title": "Vietnam vs Kuwait (AFC Futsal Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+            "team_1": "Vietnam",
+            "team_2": "Kuwait",
+            "status": "UPCOMING",
+            "event_name": "AFC Futsal Asian Cup, 2026",
+            "match_name": "Vietnam vs Kuwait",
+            "match_id": 139883,
+            "startTime": "03:30:00 PM 27-01-2026"
+        },
+        {
+            "event_category": "Futsal",
+            "title": "Indonesia vs Korea Republic (AFC Futsal Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+            "team_1": "Indonesia",
+            "team_2": "Korea Republic",
+            "status": "UPCOMING",
+            "event_name": "AFC Futsal Asian Cup, 2026",
+            "match_name": "Indonesia vs Korea Republic",
+            "match_id": 139884,
+            "startTime": "05:30:00 PM 27-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -438,6 +424,18 @@
             "match_name": "Al-Ahli Saudi FC vs Al-Ettifaq",
             "match_id": 139830,
             "startTime": "11:00:00 PM 28-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Abu Dhabi vs Ajman (Emirates D10, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Ajman",
+            "status": "UPCOMING",
+            "event_name": "Emirates D10, 2026",
+            "match_name": "Abu Dhabi vs Ajman",
+            "match_id": 139594,
+            "startTime": "11:15:00 PM 28-01-2026"
         },
         {
             "event_category": "Futsal",

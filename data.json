@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "12:41:08 AM 29-01-2026",
+    "last update time": "01:11:35 AM 29-01-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Abu Dhabi vs Ajman (Emirates D10, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Ajman",
-            "status": "LIVE",
-            "event_name": "Emirates D10, 2026",
-            "match_name": "Abu Dhabi vs Ajman",
-            "match_id": 139594,
-            "startTime": "11:15:00 PM 28-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/gDGTQy3dRUmTgu4OXozHHQ/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139594_english_hls_7e2b5254b735858_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al-Ahli Saudi FC vs Al-Ettifaq (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139830_5655_AAS_ETT_FC-Web.jpg",
-            "team_1": "Al-Ahli Saudi FC",
-            "team_2": "Al-Ettifaq",
-            "status": "LIVE",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al-Ahli Saudi FC vs Al-Ettifaq",
-            "match_id": 139830,
-            "startTime": "11:00:00 PM 28-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/8tBAnNhLRnSqHRZ7KjwXsw/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139830_english_hls_f7d82cc74420589_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Padel",
             "title": "Day 1 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)",
@@ -44,6 +16,20 @@
             "startTime": "03:30:00 PM 28-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/O9KkPMg3Q72zWLzbUGrALw/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140162_english_hls_6cd8476ea644007_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Abu Dhabi vs Ajman (Emirates D10, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Ajman",
+            "status": "LIVE",
+            "event_name": "Emirates D10, 2026",
+            "match_name": "Abu Dhabi vs Ajman",
+            "match_id": 139594,
+            "startTime": "11:15:00 PM 28-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/gDGTQy3dRUmTgu4OXozHHQ/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139594_english_hls_7e2b5254b735858_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -274,6 +260,18 @@
             "startTime": "11:00:00 PM 29-01-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Auckland Hearts vs Northern Brave Women (Women's Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138763_5801_NB-W_AH-W_fc-web_1766596522051.jpg",
+            "team_1": "Auckland Hearts",
+            "team_2": "Northern Brave Women",
+            "status": "UPCOMING",
+            "event_name": "Women's Super Smash, 2025-26",
+            "match_name": "Auckland Hearts vs Northern Brave Women",
+            "match_id": 138793,
+            "startTime": "06:40:00 AM 30-01-2026"
+        },
+        {
             "event_category": "Padel",
             "title": "10 Padel vs Robert Lewandoswki Academy Team (Hexagon Cup 2026 DNU)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139857_5896_XPA_RL9_FC-Web.jpg",
@@ -308,18 +306,6 @@
             "match_name": "Lebanon vs Vietnam",
             "match_id": 139889,
             "startTime": "11:30:00 AM 29-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Auckland Hearts vs Northern Brave Women (Women's Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138763_5801_NB-W_AH-W_fc-web_1766596522051.jpg",
-            "team_1": "Auckland Hearts",
-            "team_2": "Northern Brave Women",
-            "status": "UPCOMING",
-            "event_name": "Women's Super Smash, 2025-26",
-            "match_name": "Auckland Hearts vs Northern Brave Women",
-            "match_id": 138793,
-            "startTime": "06:40:00 AM 30-01-2026"
         },
         {
             "event_category": "Padel",
@@ -382,6 +368,18 @@
             "startTime": "03:00:00 PM 29-01-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Iron Titans vs Royal Falcons (Pro10 Malaysia, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Iron Titans",
+            "team_2": "Royal Falcons",
+            "status": "UPCOMING",
+            "event_name": "Pro10 Malaysia, 2026",
+            "match_name": "Iron Titans vs Royal Falcons",
+            "match_id": 140170,
+            "startTime": "07:30:00 AM 30-01-2026"
+        },
+        {
             "event_category": "Futsal",
             "title": "Kuwait vs Thailand (AFC Futsal Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
@@ -418,6 +416,18 @@
             "startTime": "04:00:00 PM 29-01-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Tasmania Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
+            "team_1": "Tasmania Women",
+            "team_2": "Western Australia Women",
+            "status": "UPCOMING",
+            "event_name": "Women's National Cricket League, 2025-26",
+            "match_name": "Tasmania Women vs Western Australia Women",
+            "match_id": 133973,
+            "startTime": "05:00:00 AM 30-01-2026"
+        },
+        {
             "event_category": "Padel",
             "title": "Rafa Nadal Academy Team vs ADV (Hexagon Cup 2026 DNU)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139856_5896_RNA_ADV_FC-Web.jpg",
@@ -440,18 +450,6 @@
             "match_name": "Kyrgyz Republic vs Indonesia",
             "match_id": 139892,
             "startTime": "05:30:00 PM 29-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Iron Titans vs Royal Falcons (Pro10 Malaysia, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Iron Titans",
-            "team_2": "Royal Falcons",
-            "status": "UPCOMING",
-            "event_name": "Pro10 Malaysia, 2026",
-            "match_name": "Iron Titans vs Royal Falcons",
-            "match_id": 140170,
-            "startTime": "07:30:00 AM 30-01-2026"
         }
     ]
 }

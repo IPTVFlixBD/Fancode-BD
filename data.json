@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "01:21:46 AM 29-01-2026",
+    "last update time": "01:42:06 AM 29-01-2026",
     "matches": [
-        {
-            "event_category": "Padel",
-            "title": "Day 1 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
-            "team_1": "Day 1 - Centre Court",
-            "team_2": "Madrid, Spain",
-            "status": "LIVE",
-            "event_name": "Hexagon Cup 2026",
-            "match_name": "Day 1 - Centre Court",
-            "match_id": 140162,
-            "startTime": "03:30:00 PM 28-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/O9KkPMg3Q72zWLzbUGrALw/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140162_english_hls_6cd8476ea644007_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Rajasthan Lions vs Dubai Royals (World Legends Pro T20 League, 2026)",
@@ -258,6 +244,18 @@
             "startTime": "06:40:00 AM 30-01-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Iron Titans vs Royal Falcons (Pro10 Malaysia, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Iron Titans",
+            "team_2": "Royal Falcons",
+            "status": "UPCOMING",
+            "event_name": "Pro10 Malaysia, 2026",
+            "match_name": "Iron Titans vs Royal Falcons",
+            "match_id": 140170,
+            "startTime": "07:30:00 AM 30-01-2026"
+        },
+        {
             "event_category": "Padel",
             "title": "10 Padel vs Robert Lewandoswki Academy Team (Hexagon Cup 2026 DNU)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139857_5896_XPA_RL9_FC-Web.jpg",
@@ -343,15 +341,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Iron Titans vs Royal Falcons (Pro10 Malaysia, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Iron Titans",
-            "team_2": "Royal Falcons",
+            "title": "Tasmania Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
+            "team_1": "Tasmania Women",
+            "team_2": "Western Australia Women",
             "status": "UPCOMING",
-            "event_name": "Pro10 Malaysia, 2026",
-            "match_name": "Iron Titans vs Royal Falcons",
-            "match_id": 140170,
-            "startTime": "07:30:00 AM 30-01-2026"
+            "event_name": "Women's National Cricket League, 2025-26",
+            "match_name": "Tasmania Women vs Western Australia Women",
+            "match_id": 133973,
+            "startTime": "05:00:00 AM 30-01-2026"
         },
         {
             "event_category": "Padel",
@@ -402,18 +400,6 @@
             "startTime": "04:00:00 PM 29-01-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Tasmania Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
-            "team_1": "Tasmania Women",
-            "team_2": "Western Australia Women",
-            "status": "UPCOMING",
-            "event_name": "Women's National Cricket League, 2025-26",
-            "match_name": "Tasmania Women vs Western Australia Women",
-            "match_id": 133973,
-            "startTime": "05:00:00 AM 30-01-2026"
-        },
-        {
             "event_category": "Padel",
             "title": "Rafa Nadal Academy Team vs ADV (Hexagon Cup 2026 DNU)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139856_5896_RNA_ADV_FC-Web.jpg",
@@ -436,6 +422,18 @@
             "match_name": "Kyrgyz Republic vs Indonesia",
             "match_id": 139892,
             "startTime": "05:30:00 PM 29-01-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed - Day 1 vs Torrey Pines Golf Course  (Farmers Insurance Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-.png",
+            "team_1": "Main Feed - Day 1",
+            "team_2": "Torrey Pines Golf Course ",
+            "status": "UPCOMING",
+            "event_name": "Farmers Insurance Open 2026",
+            "match_name": "Main Feed - Day 1",
+            "match_id": 140021,
+            "startTime": "10:30:00 PM 29-01-2026"
         }
     ]
 }

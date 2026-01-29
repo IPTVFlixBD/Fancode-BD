@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "02:02:42 PM 29-01-2026",
+    "last update time": "02:43:04 PM 29-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -177,6 +177,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Shadow Blazers vs Thunder Strikers (Pro10 Malaysia, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Shadow Blazers",
+            "team_2": "Thunder Strikers",
+            "status": "UPCOMING",
+            "event_name": "Pro10 Malaysia, 2026",
+            "match_name": "Shadow Blazers vs Thunder Strikers",
+            "match_id": 140172,
+            "startTime": "12:15:00 PM 30-01-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Ajman vs Sharjah (Emirates D10, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
             "team_1": "Ajman",
@@ -201,18 +213,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Shadow Blazers vs Thunder Strikers (Pro10 Malaysia, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Shadow Blazers",
-            "team_2": "Thunder Strikers",
-            "status": "UPCOMING",
-            "event_name": "Pro10 Malaysia, 2026",
-            "match_name": "Shadow Blazers vs Thunder Strikers",
-            "match_id": 140172,
-            "startTime": "12:15:00 PM 30-01-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Tasmania Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
             "team_1": "Tasmania Women",
@@ -222,6 +222,18 @@
             "match_name": "Tasmania Women vs Western Australia Women",
             "match_id": 133973,
             "startTime": "05:00:00 AM 30-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Maharashtra Tycoons vs Delhi Warriors (World Legends Pro T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140080_5928_MTY_DW_FC-Web_1769654116007.jpg",
+            "team_1": "Maharashtra Tycoons",
+            "team_2": "Delhi Warriors",
+            "status": "UPCOMING",
+            "event_name": "World Legends Pro T20 League, 2026",
+            "match_name": "Maharashtra Tycoons vs Delhi Warriors",
+            "match_id": 140080,
+            "startTime": "02:30:00 PM 30-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -246,18 +258,6 @@
             "match_name": "Bangladesh Women vs Scotland Women",
             "match_id": 139241,
             "startTime": "08:45:00 AM 30-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Maharashtra Tycoons vs Delhi Warriors (World Legends Pro T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140080_5928_MTY_DW_FC-Web_1769654116007.jpg",
-            "team_1": "Maharashtra Tycoons",
-            "team_2": "Delhi Warriors",
-            "status": "UPCOMING",
-            "event_name": "World Legends Pro T20 League, 2026",
-            "match_name": "Maharashtra Tycoons vs Delhi Warriors",
-            "match_id": 140080,
-            "startTime": "02:30:00 PM 30-01-2026"
         },
         {
             "event_category": "Padel",
@@ -356,6 +356,30 @@
             "startTime": "03:00:00 PM 29-01-2026"
         },
         {
+            "event_category": "Futsal",
+            "title": "Kuwait vs Thailand (AFC Futsal Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+            "team_1": "Kuwait",
+            "team_2": "Thailand",
+            "status": "UPCOMING",
+            "event_name": "AFC Futsal Asian Cup, 2026",
+            "match_name": "Kuwait vs Thailand",
+            "match_id": 139891,
+            "startTime": "03:30:00 PM 29-01-2026"
+        },
+        {
+            "event_category": "Padel",
+            "title": "Day 2 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
+            "team_1": "Day 2 - Centre Court",
+            "team_2": "Madrid, Spain",
+            "status": "UPCOMING",
+            "event_name": "Hexagon Cup 2026",
+            "match_name": "Day 2 - Centre Court",
+            "match_id": 140164,
+            "startTime": "03:30:00 PM 29-01-2026"
+        },
+        {
             "event_category": "Cricket",
             "title": "USA Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
@@ -393,18 +417,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Abu Dhabi vs Emirates Red (Emirates D10, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Emirates Red",
-            "status": "UPCOMING",
-            "event_name": "Emirates D10, 2026",
-            "match_name": "Abu Dhabi vs Emirates Red",
-            "match_id": 139599,
-            "startTime": "04:30:00 PM 30-01-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Pune Panthers vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140081_5928_PPT_RLS_FC-Web_1769654908421.jpg",
             "team_1": "Pune Panthers",
@@ -416,28 +428,28 @@
             "startTime": "07:30:00 PM 30-01-2026"
         },
         {
-            "event_category": "Futsal",
-            "title": "Kuwait vs Thailand (AFC Futsal Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-            "team_1": "Kuwait",
-            "team_2": "Thailand",
+            "event_category": "Cricket",
+            "title": "Abu Dhabi vs Emirates Red (Emirates D10, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Emirates Red",
             "status": "UPCOMING",
-            "event_name": "AFC Futsal Asian Cup, 2026",
-            "match_name": "Kuwait vs Thailand",
-            "match_id": 139891,
-            "startTime": "03:30:00 PM 29-01-2026"
+            "event_name": "Emirates D10, 2026",
+            "match_name": "Abu Dhabi vs Emirates Red",
+            "match_id": 139599,
+            "startTime": "04:30:00 PM 30-01-2026"
         },
         {
-            "event_category": "Padel",
-            "title": "Day 2 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
-            "team_1": "Day 2 - Centre Court",
-            "team_2": "Madrid, Spain",
+            "event_category": "Football",
+            "title": "Adelaide United vs Macarthur (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139397_5802_ADL_MAC_FC-Web.jpg",
+            "team_1": "Adelaide United",
+            "team_2": "Macarthur",
             "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026",
-            "match_name": "Day 2 - Centre Court",
-            "match_id": 140164,
-            "startTime": "03:30:00 PM 29-01-2026"
+            "event_name": "A League 2025-26",
+            "match_name": "Adelaide United vs Macarthur",
+            "match_id": 139397,
+            "startTime": "02:35:00 PM 30-01-2026"
         },
         {
             "event_category": "Padel",
@@ -450,18 +462,6 @@
             "match_name": "KRU Padel vs Robert Lewandoswki Academy Team",
             "match_id": 139855,
             "startTime": "04:00:00 PM 29-01-2026"
-        },
-        {
-            "event_category": "Padel",
-            "title": "Rafa Nadal Academy Team vs ADV (Hexagon Cup 2026 DNU)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139856_5896_RNA_ADV_FC-Web.jpg",
-            "team_1": "Rafa Nadal Academy Team",
-            "team_2": "ADV",
-            "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026 DNU",
-            "match_name": "Rafa Nadal Academy Team vs ADV",
-            "match_id": 139856,
-            "startTime": "05:00:00 PM 29-01-2026"
         }
     ]
 }

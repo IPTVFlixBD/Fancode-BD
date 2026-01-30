@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "10:37:27 AM 30-01-2026",
+    "last update time": "11:28:03 AM 30-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,6 +60,34 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139241_english_hls_6864bb79d198978_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Wellington Phoenix vs Melbourne City (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Wellington-Phoenix-vs-Melbourne-City_fc-web.jpg",
+            "team_1": "Wellington Phoenix",
+            "team_2": "Melbourne City",
+            "status": "LIVE",
+            "event_name": "A League 2025-26",
+            "match_name": "Wellington Phoenix vs Melbourne City",
+            "match_id": 139396,
+            "startTime": "11:30:00 AM 30-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/SxA6jociR0aE-Cep6BIojw/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139396_english_hls_9b3723b4c441716_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Futsal",
+            "title": "Saudi Arabia vs IR Iran (AFC Futsal Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+            "team_1": "Saudi Arabia",
+            "team_2": "IR Iran",
+            "status": "LIVE",
+            "event_name": "AFC Futsal Asian Cup, 2026",
+            "match_name": "Saudi Arabia vs IR Iran",
+            "match_id": 139893,
+            "startTime": "11:30:00 AM 30-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/bRsQDmEwT4WNvbsxV9jfhg/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139893_english_hls_fd95d45e3a10803_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Maharashtra Tycoons vs Delhi Warriors (World Legends Pro T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140080_5928_MTY_DW_FC-Web_1769654116007.jpg",
@@ -106,18 +134,6 @@
             "match_name": "Wellington Blaze vs TBC",
             "match_id": 138794,
             "startTime": "06:40:00 AM 31-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Wellington Phoenix vs Melbourne City (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Wellington-Phoenix-vs-Melbourne-City_fc-web.jpg",
-            "team_1": "Wellington Phoenix",
-            "team_2": "Melbourne City",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Wellington Phoenix vs Melbourne City",
-            "match_id": 139396,
-            "startTime": "11:30:00 AM 30-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -204,30 +220,6 @@
             "startTime": "11:00:00 PM 30-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "RCD Espanyol vs Deportivo Alaves (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131049_5427_ESL_ALA_FC-Web.png",
-            "team_1": "RCD Espanyol",
-            "team_2": "Deportivo Alaves",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "RCD Espanyol vs Deportivo Alaves",
-            "match_id": 131049,
-            "startTime": "01:30:00 AM 31-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Bristol City F.C. vs Derby County Football Club (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139345_5489_BRI_DER_FC-Web.jpg",
-            "team_1": "Bristol City F.C.",
-            "team_2": "Derby County Football Club",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Bristol City F.C. vs Derby County Football Club",
-            "match_id": 139345,
-            "startTime": "01:30:00 AM 31-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Royal Falcons vs Thunder Strikers (Pro10 Malaysia, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -253,15 +245,27 @@
         },
         {
             "event_category": "Football",
-            "title": "Adelaide United vs Macarthur (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139397_5802_ADL_MAC_FC-Web.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Macarthur",
+            "title": "RCD Espanyol vs Deportivo Alaves (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131049_5427_ESL_ALA_FC-Web.png",
+            "team_1": "RCD Espanyol",
+            "team_2": "Deportivo Alaves",
             "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Adelaide United vs Macarthur",
-            "match_id": 139397,
-            "startTime": "02:35:00 PM 30-01-2026"
+            "event_name": "LALIGA 2025-26",
+            "match_name": "RCD Espanyol vs Deportivo Alaves",
+            "match_id": 131049,
+            "startTime": "01:30:00 AM 31-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Bristol City F.C. vs Derby County Football Club (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139345_5489_BRI_DER_FC-Web.jpg",
+            "team_1": "Bristol City F.C.",
+            "team_2": "Derby County Football Club",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Bristol City F.C. vs Derby County Football Club",
+            "match_id": 139345,
+            "startTime": "01:30:00 AM 31-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -276,28 +280,28 @@
             "startTime": "11:30:00 AM 31-01-2026"
         },
         {
-            "event_category": "Padel",
-            "title": "10 Padel vs Robert Lewandoswki Academy Team (Hexagon Cup 2026 DNU)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139857_5896_XPA_RL9_FC-Web.jpg",
-            "team_1": "10 Padel",
-            "team_2": "Robert Lewandoswki Academy Team",
+            "event_category": "Football",
+            "title": "Adelaide United vs Macarthur (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139397_5802_ADL_MAC_FC-Web.jpg",
+            "team_1": "Adelaide United",
+            "team_2": "Macarthur",
             "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026 DNU",
-            "match_name": "10 Padel vs Robert Lewandoswki Academy Team",
-            "match_id": 139857,
-            "startTime": "11:00:00 AM 29-01-2026"
+            "event_name": "A League 2025-26",
+            "match_name": "Adelaide United vs Macarthur",
+            "match_id": 139397,
+            "startTime": "02:35:00 PM 30-01-2026"
         },
         {
-            "event_category": "Padel",
-            "title": "Rafa Nadal Academy Team vs Hexagon Team (Hexagon Cup 2026 DNU)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139850_5896_RNA_HEX_FC-Web.jpg",
-            "team_1": "Rafa Nadal Academy Team",
-            "team_2": "Hexagon Team",
+            "event_category": "Cricket",
+            "title": "Iron Titans vs Shadow Blazers (Pro10 Malaysia, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Iron Titans",
+            "team_2": "Shadow Blazers",
             "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026 DNU",
-            "match_name": "Rafa Nadal Academy Team vs Hexagon Team",
-            "match_id": 139850,
-            "startTime": "11:00:00 AM 29-01-2026"
+            "event_name": "Pro10 Malaysia, 2026",
+            "match_name": "Iron Titans vs Shadow Blazers",
+            "match_id": 140175,
+            "startTime": "12:15:00 PM 31-01-2026"
         },
         {
             "event_category": "Padel",
@@ -372,6 +376,18 @@
             "startTime": "05:00:00 PM 29-01-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Real Sociedad B vs Las Palmas (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/140013_CASACARDS_APP.png",
+            "team_1": "Real Sociedad B",
+            "team_2": "Las Palmas",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Real Sociedad B vs Las Palmas",
+            "match_id": 140013,
+            "startTime": "01:00:00 AM 31-01-2026"
+        },
+        {
             "event_category": "Cricket",
             "title": "Iron Titans vs Royal Falcons (Pro10 Malaysia, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -420,16 +436,28 @@
             "startTime": "11:00:00 AM 30-01-2026"
         },
         {
-            "event_category": "Futsal",
-            "title": "Saudi Arabia vs IR Iran (AFC Futsal Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-            "team_1": "Saudi Arabia",
-            "team_2": "IR Iran",
+            "event_category": "Padel",
+            "title": "ADV vs Hexagon Team (Hexagon Cup 2026 DNU)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139866_5896_ADV_HEX_FC-Web.jpg",
+            "team_1": "ADV",
+            "team_2": "Hexagon Team",
             "status": "UPCOMING",
-            "event_name": "AFC Futsal Asian Cup, 2026",
-            "match_name": "Saudi Arabia vs IR Iran",
-            "match_id": 139893,
-            "startTime": "11:30:00 AM 30-01-2026"
+            "event_name": "Hexagon Cup 2026 DNU",
+            "match_name": "ADV vs Hexagon Team",
+            "match_id": 139866,
+            "startTime": "12:00:00 PM 30-01-2026"
+        },
+        {
+            "event_category": "Padel",
+            "title": "10 Padel vs Robert Lewandoswki Academy Team (Hexagon Cup 2026 DNU)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139860_5896_XPA_RL9_FC-Web.jpg",
+            "team_1": "10 Padel",
+            "team_2": "Robert Lewandoswki Academy Team",
+            "status": "UPCOMING",
+            "event_name": "Hexagon Cup 2026 DNU",
+            "match_name": "10 Padel vs Robert Lewandoswki Academy Team",
+            "match_id": 139860,
+            "startTime": "12:00:00 PM 30-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -442,30 +470,6 @@
             "match_name": "Shadow Blazers vs Thunder Strikers",
             "match_id": 140172,
             "startTime": "12:15:00 PM 30-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Iron Titans vs Shadow Blazers (Pro10 Malaysia, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Iron Titans",
-            "team_2": "Shadow Blazers",
-            "status": "UPCOMING",
-            "event_name": "Pro10 Malaysia, 2026",
-            "match_name": "Iron Titans vs Shadow Blazers",
-            "match_id": 140175,
-            "startTime": "12:15:00 PM 31-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Sociedad B vs Las Palmas (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/140013_CASACARDS_APP.png",
-            "team_1": "Real Sociedad B",
-            "team_2": "Las Palmas",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Sociedad B vs Las Palmas",
-            "match_id": 140013,
-            "startTime": "01:00:00 AM 31-01-2026"
         }
     ]
 }

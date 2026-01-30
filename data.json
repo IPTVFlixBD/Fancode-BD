@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "02:20:12 PM 30-01-2026",
+    "last update time": "02:50:34 PM 30-01-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Maharashtra Tycoons vs Delhi Warriors (World Legends Pro T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140080_5928_MTY_DW_FC-Web_1769654116007.jpg",
+            "team_1": "Maharashtra Tycoons",
+            "team_2": "Delhi Warriors",
+            "status": "LIVE",
+            "event_name": "World Legends Pro T20 League, 2026",
+            "match_name": "Maharashtra Tycoons vs Delhi Warriors",
+            "match_id": 140080,
+            "startTime": "02:30:00 PM 30-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/5Sr43ae0RNqMI_tLqonURQ/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140080_english_hls_f547f7669e52892_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "USA Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
@@ -44,20 +58,6 @@
             "startTime": "01:30:00 PM 30-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/UmdzmF1-Q6yty-lk7v6JNA/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139894_english_hls_3aab23c1d721010_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Maharashtra Tycoons vs Delhi Warriors (World Legends Pro T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140080_5928_MTY_DW_FC-Web_1769654116007.jpg",
-            "team_1": "Maharashtra Tycoons",
-            "team_2": "Delhi Warriors",
-            "status": "LIVE",
-            "event_name": "World Legends Pro T20 League, 2026",
-            "match_name": "Maharashtra Tycoons vs Delhi Warriors",
-            "match_id": 140080,
-            "startTime": "02:30:00 PM 30-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/5Sr43ae0RNqMI_tLqonURQ/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140080_english_hls_f547f7669e52892_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -192,6 +192,18 @@
             "startTime": "11:00:00 PM 30-01-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Royal Falcons vs Shadow Blazers (Pro10 Malaysia, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140303_5946_RLF_SBZ_fc-web.jpg",
+            "team_1": "Royal Falcons",
+            "team_2": "Shadow Blazers",
+            "status": "UPCOMING",
+            "event_name": "Pro10 Malaysia, 2026",
+            "match_name": "Royal Falcons vs Shadow Blazers",
+            "match_id": 140303,
+            "startTime": "10:00:00 AM 31-01-2026"
+        },
+        {
             "event_category": "Football",
             "title": "RCD Espanyol vs Deportivo Alaves (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131049_5427_ESL_ALA_FC-Web.png",
@@ -217,15 +229,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Royal Falcons vs Shadow Blazers (Pro10 Malaysia, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140303_5946_RLF_SBZ_fc-web.jpg",
-            "team_1": "Royal Falcons",
-            "team_2": "Shadow Blazers",
+            "title": "Gurugram Thunders vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140082_5928_GT_RLS_FC-Web_1769655566346.jpg",
+            "team_1": "Gurugram Thunders",
+            "team_2": "Rajasthan Lions",
             "status": "UPCOMING",
-            "event_name": "Pro10 Malaysia, 2026",
-            "match_name": "Royal Falcons vs Shadow Blazers",
-            "match_id": 140303,
-            "startTime": "10:00:00 AM 31-01-2026"
+            "event_name": "World Legends Pro T20 League, 2026",
+            "match_name": "Gurugram Thunders vs Rajasthan Lions",
+            "match_id": 140082,
+            "startTime": "02:30:00 PM 31-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -238,18 +250,6 @@
             "match_name": "Shadow Blazers vs Iron Titans",
             "match_id": 140304,
             "startTime": "12:15:00 PM 31-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Gurugram Thunders vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140082_5928_GT_RLS_FC-Web_1769655566346.jpg",
-            "team_1": "Gurugram Thunders",
-            "team_2": "Rajasthan Lions",
-            "status": "UPCOMING",
-            "event_name": "World Legends Pro T20 League, 2026",
-            "match_name": "Gurugram Thunders vs Rajasthan Lions",
-            "match_id": 140082,
-            "startTime": "02:30:00 PM 31-01-2026"
         },
         {
             "event_category": "Football",
@@ -384,6 +384,30 @@
             "startTime": "03:00:00 PM 30-01-2026"
         },
         {
+            "event_category": "Futsal",
+            "title": "Malaysia vs Afghanistan (AFC Futsal Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+            "team_1": "Malaysia",
+            "team_2": "Afghanistan",
+            "status": "UPCOMING",
+            "event_name": "AFC Futsal Asian Cup, 2026",
+            "match_name": "Malaysia vs Afghanistan",
+            "match_id": 139895,
+            "startTime": "03:30:00 PM 30-01-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 3 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
+            "team_1": "Day 3 - Centre Court",
+            "team_2": "Madrid, Spain",
+            "status": "UPCOMING",
+            "event_name": "Hexagon Cup 2026",
+            "match_name": "Day 3 - Centre Court",
+            "match_id": 140166,
+            "startTime": "03:30:00 PM 30-01-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Newcastle Jets vs Brisbane Roar (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139398_5802_NJ_BRB_FC-Web.jpg",
@@ -430,30 +454,6 @@
             "match_name": "Sydney FC vs Western Sydney Wanderers",
             "match_id": 139399,
             "startTime": "02:05:00 PM 31-01-2026"
-        },
-        {
-            "event_category": "Futsal",
-            "title": "Malaysia vs Afghanistan (AFC Futsal Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-            "team_1": "Malaysia",
-            "team_2": "Afghanistan",
-            "status": "UPCOMING",
-            "event_name": "AFC Futsal Asian Cup, 2026",
-            "match_name": "Malaysia vs Afghanistan",
-            "match_id": 139895,
-            "startTime": "03:30:00 PM 30-01-2026"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Day 3 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
-            "team_1": "Day 3 - Centre Court",
-            "team_2": "Madrid, Spain",
-            "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026",
-            "match_name": "Day 3 - Centre Court",
-            "match_id": 140166,
-            "startTime": "03:30:00 PM 30-01-2026"
         }
     ]
 }

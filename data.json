@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "02:50:34 PM 30-01-2026",
+    "last update time": "03:20:59 PM 30-01-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Maharashtra Tycoons vs Delhi Warriors (World Legends Pro T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140080_5928_MTY_DW_FC-Web_1769654116007.jpg",
-            "team_1": "Maharashtra Tycoons",
-            "team_2": "Delhi Warriors",
-            "status": "LIVE",
-            "event_name": "World Legends Pro T20 League, 2026",
-            "match_name": "Maharashtra Tycoons vs Delhi Warriors",
-            "match_id": 140080,
-            "startTime": "02:30:00 PM 30-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/5Sr43ae0RNqMI_tLqonURQ/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140080_english_hls_f547f7669e52892_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "USA Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
@@ -58,6 +44,48 @@
             "startTime": "01:30:00 PM 30-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/UmdzmF1-Q6yty-lk7v6JNA/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139894_english_hls_3aab23c1d721010_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Futsal",
+            "title": "Malaysia vs Afghanistan (AFC Futsal Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+            "team_1": "Malaysia",
+            "team_2": "Afghanistan",
+            "status": "LIVE",
+            "event_name": "AFC Futsal Asian Cup, 2026",
+            "match_name": "Malaysia vs Afghanistan",
+            "match_id": 139895,
+            "startTime": "03:30:00 PM 30-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/3V359igUTlSXDplf94OC-A/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139895_english_hls_81ef4b717c17538_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 3 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
+            "team_1": "Day 3 - Centre Court",
+            "team_2": "Madrid, Spain",
+            "status": "LIVE",
+            "event_name": "Hexagon Cup 2026",
+            "match_name": "Day 3 - Centre Court",
+            "match_id": 140166,
+            "startTime": "03:30:00 PM 30-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/-wnlpdMWRhadw_P68bOf9Q/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140166_english_hls_03a071c2e382439_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Maharashtra Tycoons vs Delhi Warriors (World Legends Pro T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140080_5928_MTY_DW_FC-Web_1769654116007.jpg",
+            "team_1": "Maharashtra Tycoons",
+            "team_2": "Delhi Warriors",
+            "status": "LIVE",
+            "event_name": "World Legends Pro T20 League, 2026",
+            "match_name": "Maharashtra Tycoons vs Delhi Warriors",
+            "match_id": 140080,
+            "startTime": "02:30:00 PM 30-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/5Sr43ae0RNqMI_tLqonURQ/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140080_english_hls_f547f7669e52892_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -109,18 +137,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Iron Titans vs Royal Falcons (Pro10 Malaysia, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140302_5946_ITT_RLF_fc-web.jpg",
-            "team_1": "Iron Titans",
-            "team_2": "Royal Falcons",
-            "status": "UPCOMING",
-            "event_name": "Pro10 Malaysia, 2026",
-            "match_name": "Iron Titans vs Royal Falcons",
-            "match_id": 140302,
-            "startTime": "07:30:00 AM 31-01-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "United Arab Emirates vs Ireland (Ireland tour of United Arab Emirates, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-tour-of-UAE-old-match-card-.png",
             "team_1": "United Arab Emirates",
@@ -130,6 +146,18 @@
             "match_name": "United Arab Emirates vs Ireland",
             "match_id": 140133,
             "startTime": "11:30:00 AM 31-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Iron Titans vs Royal Falcons (Pro10 Malaysia, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140302_5946_ITT_RLF_fc-web.jpg",
+            "team_1": "Iron Titans",
+            "team_2": "Royal Falcons",
+            "status": "UPCOMING",
+            "event_name": "Pro10 Malaysia, 2026",
+            "match_name": "Iron Titans vs Royal Falcons",
+            "match_id": 140302,
+            "startTime": "07:30:00 AM 31-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -180,18 +208,6 @@
             "startTime": "11:15:00 PM 30-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Al-Kholood Club vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139832_5655_ALK_ANF_FC-Web.jpg",
-            "team_1": "Al-Kholood Club",
-            "team_2": "Al-Nassr FC",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al-Kholood Club vs Al-Nassr FC",
-            "match_id": 139832,
-            "startTime": "11:00:00 PM 30-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Royal Falcons vs Shadow Blazers (Pro10 Malaysia, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140303_5946_RLF_SBZ_fc-web.jpg",
@@ -202,6 +218,18 @@
             "match_name": "Royal Falcons vs Shadow Blazers",
             "match_id": 140303,
             "startTime": "10:00:00 AM 31-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Kholood Club vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139832_5655_ALK_ANF_FC-Web.jpg",
+            "team_1": "Al-Kholood Club",
+            "team_2": "Al-Nassr FC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Kholood Club vs Al-Nassr FC",
+            "match_id": 139832,
+            "startTime": "11:00:00 PM 30-01-2026"
         },
         {
             "event_category": "Football",
@@ -262,18 +290,6 @@
             "match_name": "Real Sociedad B vs Las Palmas",
             "match_id": 140013,
             "startTime": "01:00:00 AM 31-01-2026"
-        },
-        {
-            "event_category": "Padel",
-            "title": "10 Padel vs Leven (Hexagon Cup 2026 DNU)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139854_5896_XPA_LEV_FC-Web.jpg",
-            "team_1": "10 Padel",
-            "team_2": "Leven",
-            "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026 DNU",
-            "match_name": "10 Padel vs Leven",
-            "match_id": 139854,
-            "startTime": "03:00:00 PM 29-01-2026"
         },
         {
             "event_category": "Padel",
@@ -384,28 +400,16 @@
             "startTime": "03:00:00 PM 30-01-2026"
         },
         {
-            "event_category": "Futsal",
-            "title": "Malaysia vs Afghanistan (AFC Futsal Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-            "team_1": "Malaysia",
-            "team_2": "Afghanistan",
+            "event_category": "Padel",
+            "title": "KRU Padel vs Team Bella (Hexagon Cup 2026 DNU)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139864_5896_KRU_TEB_FC-Web.jpg",
+            "team_1": "KRU Padel",
+            "team_2": "Team Bella",
             "status": "UPCOMING",
-            "event_name": "AFC Futsal Asian Cup, 2026",
-            "match_name": "Malaysia vs Afghanistan",
-            "match_id": 139895,
-            "startTime": "03:30:00 PM 30-01-2026"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Day 3 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
-            "team_1": "Day 3 - Centre Court",
-            "team_2": "Madrid, Spain",
-            "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026",
-            "match_name": "Day 3 - Centre Court",
-            "match_id": 140166,
-            "startTime": "03:30:00 PM 30-01-2026"
+            "event_name": "Hexagon Cup 2026 DNU",
+            "match_name": "KRU Padel vs Team Bella",
+            "match_id": 139864,
+            "startTime": "04:00:00 PM 30-01-2026"
         },
         {
             "event_category": "Football",

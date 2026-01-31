@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "01:57:56 PM 31-01-2026",
+    "last update time": "02:18:39 PM 31-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "11:30:00 AM 31-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/MSblrMLoR2CiMDsE7WFuhQ/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140133_english_hls_f6a6ca5d1458083_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rajasthan Lions vs Gurugram Thunders (World Legends Pro T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140082_5928_GT_RLS_FC-Web_1769655566346.jpg",
+            "team_1": "Rajasthan Lions",
+            "team_2": "Gurugram Thunders",
+            "status": "LIVE",
+            "event_name": "World Legends Pro T20 League, 2026",
+            "match_name": "Rajasthan Lions vs Gurugram Thunders",
+            "match_id": 140082,
+            "startTime": "02:30:00 PM 31-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/13Thp4n-T72g16BE0lGKiQ/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140082_english_hls_e6ba31439b63607_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -128,34 +142,6 @@
             "startTime": "01:30:00 PM 31-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/SacGXpfGTwy0Uz9Mu_IURQ/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139897_english_hls_8d0f8dbf7f58784_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Canterbury vs Northern Districts (Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138759_5800_CTB_ND_fc-web_1766641251700.jpg",
-            "team_1": "Canterbury",
-            "team_2": "Northern Districts",
-            "status": "LIVE",
-            "event_name": "Super Smash, 2025-26",
-            "match_name": "Canterbury vs Northern Districts",
-            "match_id": 138762,
-            "startTime": "10:25:00 AM 31-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/AhMW91aORCu2Ce7TmnbC1Q/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138762_english_hls_ca9a13406282789_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Gurugram Thunders vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140082_5928_GT_RLS_FC-Web_1769655566346.jpg",
-            "team_1": "Gurugram Thunders",
-            "team_2": "Rajasthan Lions",
-            "status": "LIVE",
-            "event_name": "World Legends Pro T20 League, 2026",
-            "match_name": "Gurugram Thunders vs Rajasthan Lions",
-            "match_id": 140082,
-            "startTime": "02:30:00 PM 31-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/13Thp4n-T72g16BE0lGKiQ/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140082_english_hls_e6ba31439b63607_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -327,6 +313,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Pune Panthers vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140084_5928_PPT_RLS_FC-Web_1769806239385.jpg",
+            "team_1": "Pune Panthers",
+            "team_2": "Rajasthan Lions",
+            "status": "UPCOMING",
+            "event_name": "World Legends Pro T20 League, 2026",
+            "match_name": "Pune Panthers vs Rajasthan Lions",
+            "match_id": 140084,
+            "startTime": "02:30:00 PM 01-02-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Ireland Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
             "team_1": "Ireland Women",
@@ -348,18 +346,6 @@
             "match_name": "Bangladesh Women vs Netherlands Women",
             "match_id": 139244,
             "startTime": "08:45:00 AM 01-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Pune Panthers vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140084_5928_PPT_RLS_FC-Web_1769806239385.jpg",
-            "team_1": "Pune Panthers",
-            "team_2": "Rajasthan Lions",
-            "status": "UPCOMING",
-            "event_name": "World Legends Pro T20 League, 2026",
-            "match_name": "Pune Panthers vs Rajasthan Lions",
-            "match_id": 140084,
-            "startTime": "02:30:00 PM 01-02-2026"
         },
         {
             "event_category": "Football",
@@ -384,18 +370,6 @@
             "match_name": "Cultural Leonesa vs Deportivo La Coruna",
             "match_id": 140010,
             "startTime": "11:00:00 PM 31-01-2026"
-        },
-        {
-            "event_category": "Padel",
-            "title": "Hexagon Team vs Leven (Hexagon Cup 2026 DNU)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139862_5896_HEX_LEV_FC-Web.jpg",
-            "team_1": "Hexagon Team",
-            "team_2": "Leven",
-            "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026 DNU",
-            "match_name": "Hexagon Team vs Leven",
-            "match_id": 139862,
-            "startTime": "02:00:00 PM 30-01-2026"
         },
         {
             "event_category": "Padel",
@@ -480,6 +454,30 @@
             "match_name": "KRU Padel vs Hexagon Team",
             "match_id": 139869,
             "startTime": "01:00:00 PM 31-01-2026"
+        },
+        {
+            "event_category": "Padel",
+            "title": "KRU Padel vs ADV (Hexagon Cup 2026 DNU)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139870_5896_KRU_ADV_FC-Web.jpg",
+            "team_1": "KRU Padel",
+            "team_2": "ADV",
+            "status": "UPCOMING",
+            "event_name": "Hexagon Cup 2026 DNU",
+            "match_name": "KRU Padel vs ADV",
+            "match_id": 139870,
+            "startTime": "02:00:00 PM 31-01-2026"
+        },
+        {
+            "event_category": "Padel",
+            "title": "Team Bella vs Leven (Hexagon Cup 2026 DNU)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139871_5896_TEB_LEV_FC-Web.jpg",
+            "team_1": "Team Bella",
+            "team_2": "Leven",
+            "status": "UPCOMING",
+            "event_name": "Hexagon Cup 2026 DNU",
+            "match_name": "Team Bella vs Leven",
+            "match_id": 139871,
+            "startTime": "03:00:00 PM 31-01-2026"
         }
     ]
 }

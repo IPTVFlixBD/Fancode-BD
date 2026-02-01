@@ -1,8 +1,36 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "08:02:38 AM 01-02-2026",
+    "last update time": "10:14:02 AM 01-02-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Ireland Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
+            "team_1": "Ireland Women",
+            "team_2": "Thailand Women",
+            "status": "LIVE",
+            "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
+            "match_name": "Ireland Women vs Thailand Women",
+            "match_id": 139245,
+            "startTime": "08:45:00 AM 01-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/PMm7J17vSaiNT801MeCLVw/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139245_english_hls_278f26aeba82824_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh Women vs Netherlands Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
+            "team_1": "Bangladesh Women",
+            "team_2": "Netherlands Women",
+            "status": "LIVE",
+            "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
+            "match_name": "Bangladesh Women vs Netherlands Women",
+            "match_id": 139244,
+            "startTime": "08:45:00 AM 01-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/hc6UF82mQkaw-milpFU_TQ/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139244_english_hls_515354912e6599_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Golf",
             "title": "Day 2 vs Bangkok (Icons of Football, 2026)",
@@ -16,6 +44,62 @@
             "startTime": "06:30:00 AM 01-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/1u_VMhJqR06pYCdAK6i2_A/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140137_english_hls_522d87a71977305_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 2 - Table 1 vs Chennai (Dream Sports Championship Table Tennis 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
+            "team_1": "Day 2 - Table 1",
+            "team_2": "Chennai",
+            "status": "LIVE",
+            "event_name": "Dream Sports Championship Table Tennis 2026",
+            "match_name": "Day 2 - Table 1",
+            "match_id": 140310,
+            "startTime": "10:00:00 AM 01-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/OnQqWeJkRL2u6LdUyonM0A/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140310_english_hls_3ee3474aad8037_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 2 - Table 2 vs Chennai (Dream Sports Championship Table Tennis 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
+            "team_1": "Day 2 - Table 2",
+            "team_2": "Chennai",
+            "status": "LIVE",
+            "event_name": "Dream Sports Championship Table Tennis 2026",
+            "match_name": "Day 2 - Table 2",
+            "match_id": 140333,
+            "startTime": "10:00:00 AM 01-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/ygvFFV5IRr-PmrYDw8Hc0g/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140333_english_hls_518e0f687f63025_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 2 - Table 3 vs Chennai (Dream Sports Championship Table Tennis 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
+            "team_1": "Day 2 - Table 3",
+            "team_2": "Chennai",
+            "status": "LIVE",
+            "event_name": "Dream Sports Championship Table Tennis 2026",
+            "match_name": "Day 2 - Table 3",
+            "match_id": 140332,
+            "startTime": "10:00:00 AM 01-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/05-r2w15QX-Jx38kk3bIng/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140332_english_hls_35577dde3679087_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 2 - Table 4 vs Chennai (Dream Sports Championship Table Tennis 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
+            "team_1": "Day 2 - Table 4",
+            "team_2": "Chennai",
+            "status": "LIVE",
+            "event_name": "Dream Sports Championship Table Tennis 2026",
+            "match_name": "Day 2 - Table 4",
+            "match_id": 140331,
+            "startTime": "10:00:00 AM 01-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/oV2tPaVcQIGBcbytoTg9cA/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140331_english_hls_79f72b1c5435_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -52,30 +136,6 @@
             "match_name": "Delhi Warriors vs Gurugram Thunders",
             "match_id": 140085,
             "startTime": "07:30:00 PM 01-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ireland Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
-            "team_1": "Ireland Women",
-            "team_2": "Thailand Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
-            "match_name": "Ireland Women vs Thailand Women",
-            "match_id": 139245,
-            "startTime": "08:45:00 AM 01-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh Women vs Netherlands Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png",
-            "team_1": "Bangladesh Women",
-            "team_2": "Netherlands Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
-            "match_name": "Bangladesh Women vs Netherlands Women",
-            "match_id": 139244,
-            "startTime": "08:45:00 AM 01-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -330,18 +390,6 @@
             "startTime": "07:30:00 AM 01-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Granada vs Racing de Santander (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/140011_CASACARDS_APP.png",
-            "team_1": "Granada",
-            "team_2": "Racing de Santander",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Granada vs Racing de Santander",
-            "match_id": 140011,
-            "startTime": "01:30:00 AM 02-02-2026"
-        },
-        {
             "event_category": "Padel",
             "title": "TBC vs TBC (Hexagon Cup 2026 DNU)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_padel-tennis-old.jpg",
@@ -354,52 +402,28 @@
             "startTime": "10:00:00 AM 01-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 2 - Table 1 vs Chennai (Dream Sports Championship Table Tennis 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-            "team_1": "Day 2 - Table 1",
-            "team_2": "Chennai",
+            "event_category": "Football",
+            "title": "Granada vs Racing de Santander (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/140011_CASACARDS_APP.png",
+            "team_1": "Granada",
+            "team_2": "Racing de Santander",
             "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Table Tennis 2026",
-            "match_name": "Day 2 - Table 1",
-            "match_id": 140310,
-            "startTime": "10:00:00 AM 01-02-2026"
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Granada vs Racing de Santander",
+            "match_id": 140011,
+            "startTime": "01:30:00 AM 02-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 2 - Table 2 vs Chennai (Dream Sports Championship Table Tennis 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-            "team_1": "Day 2 - Table 2",
-            "team_2": "Chennai",
+            "event_category": "Cricket",
+            "title": "Rajasthan Lions vs Delhi Warriors (World Legends Pro T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140086_5928_RLS_DW_FC-Web_1769807667662.jpg",
+            "team_1": "Rajasthan Lions",
+            "team_2": "Delhi Warriors",
             "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Table Tennis 2026",
-            "match_name": "Day 2 - Table 2",
-            "match_id": 140333,
-            "startTime": "10:00:00 AM 01-02-2026"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Day 2 - Table 3 vs Chennai (Dream Sports Championship Table Tennis 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-            "team_1": "Day 2 - Table 3",
-            "team_2": "Chennai",
-            "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Table Tennis 2026",
-            "match_name": "Day 2 - Table 3",
-            "match_id": 140332,
-            "startTime": "10:00:00 AM 01-02-2026"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Day 2 - Table 4 vs Chennai (Dream Sports Championship Table Tennis 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-            "team_1": "Day 2 - Table 4",
-            "team_2": "Chennai",
-            "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Table Tennis 2026",
-            "match_name": "Day 2 - Table 4",
-            "match_id": 140331,
-            "startTime": "10:00:00 AM 01-02-2026"
+            "event_name": "World Legends Pro T20 League, 2026",
+            "match_name": "Rajasthan Lions vs Delhi Warriors",
+            "match_id": 140086,
+            "startTime": "02:30:00 PM 02-02-2026"
         },
         {
             "event_category": "Padel",
@@ -448,18 +472,6 @@
             "match_name": "TBC vs TBC",
             "match_id": 139877,
             "startTime": "02:00:00 PM 01-02-2026"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Day 5 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
-            "team_1": "Day 5 - Centre Court",
-            "team_2": "Madrid, Spain",
-            "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026",
-            "match_name": "Day 5 - Centre Court",
-            "match_id": 140169,
-            "startTime": "02:30:00 PM 01-02-2026"
         }
     ]
 }

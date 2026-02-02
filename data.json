@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "04:23:22 AM 03-02-2026",
+    "last update time": "05:03:48 AM 03-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,18 +18,18 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/133974_english_hls_12c298881216202_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Tennis",
-            "title": "Day 1 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Montpellier, France",
+            "event_category": "Cricket",
+            "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
+            "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+            "team_1": "Victoria Women",
+            "team_2": "South Australian Scorpions",
             "status": "LIVE",
-            "event_name": "ATP 250 - Open Occitanie 2026",
-            "match_name": "Day 1",
-            "match_id": 140180,
-            "startTime": "09:00:00 PM 02-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/pG6TfFW2SMKV4Qn5WTvkug/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140180_english_hls_5fdb02fc4b8945_1ta-di_h264/index.m3u8"
+            "event_name": "Women's National Cricket League, 2025-26",
+            "match_name": "Victoria Women vs South Australian Scorpions",
+            "match_id": 133975,
+            "startTime": "05:00:00 AM 03-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/bhD1SBZhS2KurEo3im3a6g/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/133975_english_hls_57fcb2cdc799757_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -80,18 +80,6 @@
             "match_name": "Delhi Warriors vs Dubai Royals",
             "match_id": 140089,
             "startTime": "07:30:00 PM 03-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "South Australian Scorpions vs Victoria Women (Women's National Cricket League, 2025-26)",
-            "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
-            "team_1": "South Australian Scorpions",
-            "team_2": "Victoria Women",
-            "status": "UPCOMING",
-            "event_name": "Women's National Cricket League, 2025-26",
-            "match_name": "South Australian Scorpions vs Victoria Women",
-            "match_id": 133975,
-            "startTime": "05:00:00 AM 03-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -440,6 +428,18 @@
             "match_name": "Quarter - Finals",
             "match_id": 140343,
             "startTime": "03:00:00 PM 04-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ajman vs Dubai (Emirates D10, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+            "team_1": "Ajman",
+            "team_2": "Dubai",
+            "status": "UPCOMING",
+            "event_name": "Emirates D10, 2026",
+            "match_name": "Ajman vs Dubai",
+            "match_id": 139617,
+            "startTime": "09:00:00 PM 04-02-2026"
         }
     ]
 }

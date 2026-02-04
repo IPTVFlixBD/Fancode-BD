@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "08:01:28 AM 04-02-2026",
+    "last update time": "09:42:41 AM 04-02-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Tasmania Women vs ACT Meteors (Women's National Cricket League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
+            "team_1": "Tasmania Women",
+            "team_2": "ACT Meteors",
+            "status": "LIVE",
+            "event_name": "Women's National Cricket League, 2025-26",
+            "match_name": "Tasmania Women vs ACT Meteors",
+            "match_id": 133976,
+            "startTime": "08:30:00 AM 04-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/Ojir9xMoQaaioEDStm-BUw/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/133976_english_hls_ec5ef1c66e88949_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Football",
             "title": "Olimpia vs Club América (CONCACAF Champions Cup 2026)",
@@ -18,6 +32,76 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140369_english_hls_0d2061b4d259765_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "San Diego vs Pumas UNAM (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/03_San-Diego-vs-Pumas-UNAM_1770142761000.png",
+            "team_1": "San Diego",
+            "team_2": "Pumas UNAM",
+            "status": "LIVE",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "San Diego vs Pumas UNAM",
+            "match_id": 140370,
+            "startTime": "09:30:00 AM 04-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/9ZFgy3tkQM6d-s7zHhlqmA/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140370_english_hls_826cbd474579774_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 5 - Table 1 vs Chennai (Dream Sports Championship Table Tennis 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
+            "team_1": "Day 5 - Table 1",
+            "team_2": "Chennai",
+            "status": "LIVE",
+            "event_name": "Dream Sports Championship Table Tennis 2026",
+            "match_name": "Day 5 - Table 1",
+            "match_id": 140313,
+            "startTime": "09:00:00 AM 04-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/NGz0sn0PTJa87ET_-5Fx1Q/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140313_english_hls_0a52d15e6275475_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 5 - Table 2 vs Chennai (Dream Sports Championship Table Tennis 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
+            "team_1": "Day 5 - Table 2",
+            "team_2": "Chennai",
+            "status": "LIVE",
+            "event_name": "Dream Sports Championship Table Tennis 2026",
+            "match_name": "Day 5 - Table 2",
+            "match_id": 140342,
+            "startTime": "09:00:00 AM 04-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/_KfP_2hFQ3ygHiVPAhyb4A/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140342_english_hls_e2edbb6c9b83471_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 5 - Table 3 vs Chennai (Dream Sports Championship Table Tennis 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
+            "team_1": "Day 5 - Table 3",
+            "team_2": "Chennai",
+            "status": "LIVE",
+            "event_name": "Dream Sports Championship Table Tennis 2026",
+            "match_name": "Day 5 - Table 3",
+            "match_id": 140341,
+            "startTime": "09:00:00 AM 04-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/rU0q1H_ETrOK9VJf4v-Lvg/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140341_english_hls_ac9b6722859462_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 5 - Table 4 vs Chennai (Dream Sports Championship Table Tennis 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
+            "team_1": "Day 5 - Table 4",
+            "team_2": "Chennai",
+            "status": "LIVE",
+            "event_name": "Dream Sports Championship Table Tennis 2026",
+            "match_name": "Day 5 - Table 4",
+            "match_id": 140340,
+            "startTime": "09:00:00 AM 04-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/PHskGF3kQqWcMhWdKFar5Q/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140340_english_hls_e2decf2e6b85181_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Pune Panthers vs Dubai Royals (World Legends Pro T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140083_5928_DR_PPT_FC-Web_1769805880964.jpg",
@@ -28,18 +112,6 @@
             "match_name": "Pune Panthers vs Dubai Royals",
             "match_id": 140090,
             "startTime": "07:30:00 PM 04-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tasmania Women vs ACT Meteors (Women's National Cricket League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
-            "team_1": "Tasmania Women",
-            "team_2": "ACT Meteors",
-            "status": "UPCOMING",
-            "event_name": "Women's National Cricket League, 2025-26",
-            "match_name": "Tasmania Women vs ACT Meteors",
-            "match_id": 133976,
-            "startTime": "08:30:00 AM 04-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -138,18 +210,6 @@
             "startTime": "01:30:00 AM 05-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "San Diego vs Pumas UNAM (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/03_San-Diego-vs-Pumas-UNAM_1770142761000.png",
-            "team_1": "San Diego",
-            "team_2": "Pumas UNAM",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "San Diego vs Pumas UNAM",
-            "match_id": 140370,
-            "startTime": "09:30:00 AM 04-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "New South Wales Breakers vs Queensland Fire (Women's National Cricket League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
@@ -160,54 +220,6 @@
             "match_name": "New South Wales Breakers vs Queensland Fire",
             "match_id": 133977,
             "startTime": "04:30:00 AM 05-02-2026"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Day 5 - Table 1 vs Chennai (Dream Sports Championship Table Tennis 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-            "team_1": "Day 5 - Table 1",
-            "team_2": "Chennai",
-            "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Table Tennis 2026",
-            "match_name": "Day 5 - Table 1",
-            "match_id": 140313,
-            "startTime": "09:00:00 AM 04-02-2026"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Day 5 - Table 2 vs Chennai (Dream Sports Championship Table Tennis 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-            "team_1": "Day 5 - Table 2",
-            "team_2": "Chennai",
-            "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Table Tennis 2026",
-            "match_name": "Day 5 - Table 2",
-            "match_id": 140342,
-            "startTime": "09:00:00 AM 04-02-2026"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Day 5 - Table 3 vs Chennai (Dream Sports Championship Table Tennis 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-            "team_1": "Day 5 - Table 3",
-            "team_2": "Chennai",
-            "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Table Tennis 2026",
-            "match_name": "Day 5 - Table 3",
-            "match_id": 140341,
-            "startTime": "09:00:00 AM 04-02-2026"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Day 5 - Table 4 vs Chennai (Dream Sports Championship Table Tennis 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-            "team_1": "Day 5 - Table 4",
-            "team_2": "Chennai",
-            "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Table Tennis 2026",
-            "match_name": "Day 5 - Table 4",
-            "match_id": 140340,
-            "startTime": "09:00:00 AM 04-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -270,6 +282,18 @@
             "startTime": "08:00:00 AM 05-02-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Vancouver FC vs Cruz Azul (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/05_Vancouver-FC-vs-Cruz-Azul_1770142969524.png",
+            "team_1": "Vancouver FC",
+            "team_2": "Cruz Azul",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Vancouver FC vs Cruz Azul",
+            "match_id": 140372,
+            "startTime": "08:30:00 AM 05-02-2026"
+        },
+        {
             "event_category": "Live Events",
             "title": "Day 1 vs Delhi (Asian Rifle & Pistol Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-Sporty-.png",
@@ -292,18 +316,6 @@
             "match_name": "Quarter - Finals",
             "match_id": 140343,
             "startTime": "03:00:00 PM 04-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Vancouver FC vs Cruz Azul (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/05_Vancouver-FC-vs-Cruz-Azul_1770142969524.png",
-            "team_1": "Vancouver FC",
-            "team_2": "Cruz Azul",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Vancouver FC vs Cruz Azul",
-            "match_id": 140372,
-            "startTime": "08:30:00 AM 05-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -355,13 +367,13 @@
         },
         {
             "event_category": "Futsal",
-            "title": "TBC vs TBC (AFC Futsal Asian Cup, 2026)",
+            "title": "Iraq vs IR Iran (AFC Futsal Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Iraq",
+            "team_2": "IR Iran",
             "status": "UPCOMING",
             "event_name": "AFC Futsal Asian Cup, 2026",
-            "match_name": "TBC vs TBC",
+            "match_name": "Iraq vs IR Iran",
             "match_id": 139909,
             "startTime": "01:30:00 PM 05-02-2026"
         },
@@ -391,13 +403,13 @@
         },
         {
             "event_category": "Futsal",
-            "title": "TBC vs TBC (AFC Futsal Asian Cup, 2026)",
+            "title": "Indonesia vs Japan (AFC Futsal Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Indonesia",
+            "team_2": "Japan",
             "status": "UPCOMING",
             "event_name": "AFC Futsal Asian Cup, 2026",
-            "match_name": "TBC vs TBC",
+            "match_name": "Indonesia vs Japan",
             "match_id": 139910,
             "startTime": "05:30:00 PM 05-02-2026"
         },

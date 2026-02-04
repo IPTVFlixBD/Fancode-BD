@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:33:48 AM 04-02-2026",
+    "last update time": "12:34:26 PM 04-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "08:30:00 AM 04-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/Ojir9xMoQaaioEDStm-BUw/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/133976_english_hls_ec5ef1c66e88949_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "San Diego vs Pumas UNAM (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/03_San-Diego-vs-Pumas-UNAM_1770142761000.png",
-            "team_1": "San Diego",
-            "team_2": "Pumas UNAM",
-            "status": "LIVE",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "San Diego vs Pumas UNAM",
-            "match_id": 140370,
-            "startTime": "09:30:00 AM 04-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/9ZFgy3tkQM6d-s7zHhlqmA/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140370_english_hls_826cbd474579774_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Live Events",
@@ -86,6 +72,20 @@
             "startTime": "09:00:00 AM 04-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/PHskGF3kQqWcMhWdKFar5Q/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140340_english_hls_e2decf2e6b85181_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 1 vs Delhi (Asian Rifle & Pistol Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card_1770185442984.png",
+            "team_1": "Day 1",
+            "team_2": "Delhi",
+            "status": "LIVE",
+            "event_name": "Asian Rifle & Pistol Championship 2026",
+            "match_name": "Day 1",
+            "match_id": 140319,
+            "startTime": "11:50:00 AM 04-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/jgX7hEzrTyeO2CkE7Ay8zw/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140319_english_hls_29bbe4b83322381_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -220,18 +220,6 @@
             "startTime": "05:00:00 AM 05-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 1 vs Delhi (Asian Rifle & Pistol Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-Sporty-.png",
-            "team_1": "Day 1",
-            "team_2": "Delhi",
-            "status": "UPCOMING",
-            "event_name": "Asian Rifle & Pistol Championship 2026",
-            "match_name": "Day 1",
-            "match_id": 140319,
-            "startTime": "11:50:00 AM 04-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Victoria vs Queensland (Sheffield Shield, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134033_5609_VCT_QUN_fc-Web.jpg",
@@ -341,13 +329,13 @@
         },
         {
             "event_category": "Live Events",
-            "title": "Day 6 vs Chennai (Dream Sports Championship Table Tennis 2026)",
+            "title": "Semi - Finals vs Chennai (Dream Sports Championship Table Tennis 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-            "team_1": "Day 6",
+            "team_1": "Semi - Finals",
             "team_2": "Chennai",
             "status": "UPCOMING",
             "event_name": "Dream Sports Championship Table Tennis 2026",
-            "match_name": "Day 6",
+            "match_name": "Semi - Finals",
             "match_id": 140314,
             "startTime": "12:00:00 PM 05-02-2026"
         },
@@ -377,13 +365,13 @@
         },
         {
             "event_category": "Live Events",
-            "title": "Dream Sports Championship 2026 - Table Tennis vs Chennai (Dream Sports Championship Table Tennis 2026)",
+            "title": "Finals vs Chennai (Dream Sports Championship Table Tennis 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-2026---Table-Tennisold-match-card.png",
-            "team_1": "Dream Sports Championship 2026 - Table Tennis",
+            "team_1": "Finals",
             "team_2": "Chennai",
             "status": "UPCOMING",
             "event_name": "Dream Sports Championship Table Tennis 2026",
-            "match_name": "Dream Sports Championship 2026 - Table Tennis",
+            "match_name": "Finals",
             "match_id": 140344,
             "startTime": "05:00:00 PM 05-02-2026"
         },
@@ -434,6 +422,18 @@
             "match_name": "Day 4",
             "match_id": 140183,
             "startTime": "06:00:00 PM 05-02-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed - Day 1 vs TPC Scottsdale (WM Phoenix Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web_1770182154885.jpg",
+            "team_1": "Main Feed - Day 1",
+            "team_2": "TPC Scottsdale",
+            "status": "UPCOMING",
+            "event_name": "WM Phoenix Open 2026",
+            "match_name": "Main Feed - Day 1",
+            "match_id": 140392,
+            "startTime": "07:45:00 PM 05-02-2026"
         }
     ]
 }

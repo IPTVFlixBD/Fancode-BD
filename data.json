@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:20:18 PM 09-02-2026",
+    "last update time": "06:41:10 PM 09-02-2026",
     "matches": [
-        {
-            "event_category": "Live Events",
-            "title": "Day 1 vs Strikers Cup (Strikers Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Strikers-Cup-2026_fc-web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Strikers Cup",
-            "status": "LIVE",
-            "event_name": "Strikers Cup 2026",
-            "match_name": "Day 1",
-            "match_id": 140315,
-            "startTime": "08:30:00 AM 09-02-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
         {
             "event_category": "Tennis",
             "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
@@ -28,8 +14,8 @@
             "match_name": "World Feed",
             "match_id": 140194,
             "startTime": "05:30:00 PM 09-02-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/N32BhraRRQWEVem-4bc7xw/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140194_english_hls_314df8104326579_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -42,8 +28,8 @@
             "match_name": "Centre Court",
             "match_id": 140541,
             "startTime": "05:30:00 PM 09-02-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/Il0Jojv7RDK0FEOGWBrakw/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140541_english_hls_fecb6abd2f83486_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -84,7 +70,7 @@
         {
             "event_category": "Football",
             "title": "Shabab Al Ahli vs Al Hilal SFC (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/10_Shabab-Al-Ahli-vs-Al-Ahli_1770634417417.png",
+            "src": "https://images.fancode.com/aig/match/v1770641873635/136081_CASACARDS_APP.png",
             "team_1": "Shabab Al Ahli",
             "team_2": "Al Hilal SFC",
             "status": "UPCOMING",
@@ -92,6 +78,18 @@
             "match_name": "Shabab Al Ahli vs Al Hilal SFC",
             "match_id": 136081,
             "startTime": "09:30:00 PM 09-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New South Wales vs South Australia (One Day Cup, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/New-South-Wales-vs-South-Australia_fc-web.jpg",
+            "team_1": "New South Wales",
+            "team_2": "South Australia",
+            "status": "UPCOMING",
+            "event_name": "One Day Cup, 2025-26",
+            "match_name": "New South Wales vs South Australia",
+            "match_id": 133943,
+            "startTime": "04:30:00 AM 10-02-2026"
         },
         {
             "event_category": "Football",
@@ -116,18 +114,6 @@
             "match_name": "Sheffield United F.C. vs Middlesbrough F.C.",
             "match_id": 139352,
             "startTime": "01:30:00 AM 10-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New South Wales vs South Australia (One Day Cup, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/New-South-Wales-vs-South-Australia_fc-web.jpg",
-            "team_1": "New South Wales",
-            "team_2": "South Australia",
-            "status": "UPCOMING",
-            "event_name": "One Day Cup, 2025-26",
-            "match_name": "New South Wales vs South Australia",
-            "match_id": 133943,
-            "startTime": "04:30:00 AM 10-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -250,6 +236,30 @@
             "startTime": "11:30:00 PM 09-02-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Tractor vs Al Sadd (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/15_Tractor-SC-vs-Al-Sadd_1770635555960.png",
+            "team_1": "Tractor",
+            "team_2": "Al Sadd",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Tractor vs Al Sadd",
+            "match_id": 136083,
+            "startTime": "09:30:00 PM 10-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Esteghlal FC vs Al Hussein (AFC Champions League Two 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/140052_CASACARDS_APP.png",
+            "team_1": "Esteghlal FC",
+            "team_2": "Al Hussein",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Esteghlal FC vs Al Hussein",
+            "match_id": 140052,
+            "startTime": "07:15:00 PM 10-02-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "The Bay vs Los Angeles vs Florida (TGL Season 2)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
@@ -274,30 +284,6 @@
             "startTime": "08:30:00 AM 10-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Esteghlal FC vs Al Hussein (AFC Champions League Two 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/140052_CASACARDS_APP.png",
-            "team_1": "Esteghlal FC",
-            "team_2": "Al Hussein",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Esteghlal FC vs Al Hussein",
-            "match_id": 140052,
-            "startTime": "07:15:00 PM 10-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Tractor vs Al Sadd (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/15_Tractor-SC-vs-Al-Sadd_1770635555960.png",
-            "team_1": "Tractor",
-            "team_2": "Al Sadd",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Tractor vs Al Sadd",
-            "match_id": 136083,
-            "startTime": "09:30:00 PM 10-02-2026"
-        },
-        {
             "event_category": "Live Events",
             "title": "Day 7 vs Delhi (Asian Rifle & Pistol Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
@@ -308,6 +294,18 @@
             "match_name": "Day 7",
             "match_id": 140325,
             "startTime": "12:05:00 PM 10-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "AL Zawraa SC vs Al Wasl (AFC Champions League Two 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/140053_CASACARDS_APP.png",
+            "team_1": "AL Zawraa SC",
+            "team_2": "Al Wasl",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "AL Zawraa SC vs Al Wasl",
+            "match_id": 140053,
+            "startTime": "09:30:00 PM 10-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -344,18 +342,6 @@
             "match_name": "Centre Court",
             "match_id": 140542,
             "startTime": "02:30:00 PM 10-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "AL Zawraa SC vs Al Wasl (AFC Champions League Two 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/140053_CASACARDS_APP.png",
-            "team_1": "AL Zawraa SC",
-            "team_2": "Al Wasl",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "AL Zawraa SC vs Al Wasl",
-            "match_id": 140053,
-            "startTime": "09:30:00 PM 10-02-2026"
         },
         {
             "event_category": "Football",
@@ -456,7 +442,7 @@
         {
             "event_category": "Football",
             "title": "Pumas UNAM vs San Diego (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140373_5954_UNAM_SD_FC-Web.jpg",
             "team_1": "Pumas UNAM",
             "team_2": "San Diego",
             "status": "UPCOMING",
@@ -464,6 +450,18 @@
             "match_name": "Pumas UNAM vs San Diego",
             "match_id": 140373,
             "startTime": "06:30:00 AM 11-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Tigres vs Forge (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140374_5954_TIG_FOR_FC-Web.jpg",
+            "team_1": "Tigres",
+            "team_2": "Forge",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Tigres vs Forge",
+            "match_id": 140374,
+            "startTime": "08:30:00 AM 11-02-2026"
         }
     ]
 }

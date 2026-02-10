@@ -1,21 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "10:47:28 AM 10-02-2026",
+    "last update time": "11:58:15 AM 10-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "South Australia vs New South Wales (One Day Cup, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/New-South-Wales-vs-South-Australia_fc-web.jpg",
-            "team_1": "South Australia",
-            "team_2": "New South Wales",
+            "title": "Tasmania vs Western Australia (One Day Cup, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Western-Australia-vs-Tasmania_fc-web.jpg",
+            "team_1": "Tasmania",
+            "team_2": "Western Australia",
             "status": "LIVE",
             "event_name": "One Day Cup, 2025-26",
-            "match_name": "South Australia vs New South Wales",
-            "match_id": 133943,
-            "startTime": "04:30:00 AM 10-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/VE4NzIhdTZK60nE3FYJPcQ/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/133943_english_hls_9eed4fb7a459528_1ta-di_h264/index.m3u8"
+            "match_name": "Tasmania vs Western Australia",
+            "match_id": 133945,
+            "startTime": "11:30:00 AM 10-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/R18nUOgFTpSxvKNL0gOZ8Q/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/133945_english_hls_a1fc7b8e5440632_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Live Events",
@@ -32,16 +32,18 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140316_english_hls_30686eed2f55810_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Western Australia vs Tasmania (One Day Cup, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Western-Australia-vs-Tasmania_fc-web.jpg",
-            "team_1": "Western Australia",
-            "team_2": "Tasmania",
-            "status": "UPCOMING",
-            "event_name": "One Day Cup, 2025-26",
-            "match_name": "Western Australia vs Tasmania",
-            "match_id": 133945,
-            "startTime": "11:30:00 AM 10-02-2026"
+            "event_category": "Live Events",
+            "title": "Day 7 vs Delhi (Asian Rifle & Pistol Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
+            "team_1": "Day 7",
+            "team_2": "Delhi",
+            "status": "LIVE",
+            "event_name": "Asian Rifle & Pistol Championship 2026",
+            "match_name": "Day 7",
+            "match_id": 140325,
+            "startTime": "12:05:00 PM 10-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/66u8srErQ5OtyxpKQsRWhQ/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140325_english_hls_7127e52b4197504_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -186,18 +188,6 @@
             "match_name": "Tigres vs Forge",
             "match_id": 140374,
             "startTime": "08:30:00 AM 11-02-2026"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Day 7 vs Delhi (Asian Rifle & Pistol Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
-            "team_1": "Day 7",
-            "team_2": "Delhi",
-            "status": "UPCOMING",
-            "event_name": "Asian Rifle & Pistol Championship 2026",
-            "match_name": "Day 7",
-            "match_id": 140325,
-            "startTime": "12:05:00 PM 10-02-2026"
         },
         {
             "event_category": "Tennis",

@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "01:08:19 AM 11-02-2026",
+    "last update time": "01:48:50 AM 11-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -30,6 +30,20 @@
             "startTime": "01:15:00 AM 11-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/YTlPjxBxTvKa5At3vsUWrw/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139000_english_hls_1da02b1cf413076_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Birmingham City F.C. vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Birmingham-City-vs-West-Bromwich-Albion_fc-web..jpg",
+            "team_1": "Birmingham City F.C.",
+            "team_2": "West Bromwich Albion F.C.",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Birmingham City F.C. vs West Bromwich Albion F.C.",
+            "match_id": 140526,
+            "startTime": "01:30:00 AM 11-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/cfbnucigTueTirVQlCOx3Q/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140526_english_hls_7ec81e5ae713868_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -114,18 +128,6 @@
             "startTime": "11:30:00 PM 10-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/BiV8d4hgSKajwqFibP24Rw/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140532_english_hls_84aec1c2ec1801_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Birmingham City F.C. vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Birmingham-City-vs-West-Bromwich-Albion_fc-web..jpg",
-            "team_1": "Birmingham City F.C.",
-            "team_2": "West Bromwich Albion F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Birmingham City F.C. vs West Bromwich Albion F.C.",
-            "match_id": 140526,
-            "startTime": "01:30:00 AM 11-02-2026"
         },
         {
             "event_category": "Football",
@@ -441,6 +443,18 @@
         },
         {
             "event_category": "Live Events",
+            "title": "Day 1 vs Chennai (WTT Star Contenders)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+            "team_1": "Day 1",
+            "team_2": "Chennai",
+            "status": "UPCOMING",
+            "event_name": "WTT Star Contenders",
+            "match_name": "Day 1",
+            "match_id": 140603,
+            "startTime": "11:00:00 AM 12-02-2026"
+        },
+        {
+            "event_category": "Live Events",
             "title": "Day 9 vs Delhi (Asian Rifle & Pistol Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
             "team_1": "Day 9",
@@ -462,18 +476,6 @@
             "match_name": "Pohang Steelers vs Gamba Osaka",
             "match_id": 140058,
             "startTime": "03:30:00 PM 12-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-            "team_1": "World Feed",
-            "team_2": "Rotterdam, Netherlands",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - ABN AMRO Open 2026",
-            "match_name": "World Feed",
-            "match_id": 140197,
-            "startTime": "02:30:00 PM 12-02-2026"
         }
     ]
 }

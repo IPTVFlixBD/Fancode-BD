@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "10:01:08 AM 12-02-2026",
+    "last update time": "11:11:54 AM 12-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Monterrey vs Club Xelaju (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140376_5954_MONT_CXE_FC-Web.jpg",
-            "team_1": "Monterrey",
-            "team_2": "Club Xelaju",
-            "status": "LIVE",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Monterrey vs Club Xelaju",
-            "match_id": 140376,
-            "startTime": "08:30:00 AM 12-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/GIh54XkRTz-Y-rnH396Zcg/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140376_english_hls_aae92af61836356_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Grandstand vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
-            "team_1": "Grandstand",
-            "team_2": "Dallas, United States",
-            "status": "LIVE",
-            "event_name": "ATP 500 - Nexo Dallas Open 2026",
-            "match_name": "Grandstand",
-            "match_id": 140534,
-            "startTime": "11:30:00 PM 11-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/mn8itEwyT2SzvANvme72eg/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140534_english_hls_b71d88a261499_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Live Events",
             "title": "Day 4 vs Delhi (Strikers Cup 2026)",
@@ -44,6 +16,20 @@
             "startTime": "09:00:00 AM 12-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/mwOWR_yQQjSwueAXPKFduQ/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140318_english_hls_d621b5dcd676482_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 1 vs Chennai (WTT Star Contenders)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg",
+            "team_1": "Day 1",
+            "team_2": "Chennai",
+            "status": "LIVE",
+            "event_name": "WTT Star Contenders",
+            "match_name": "Day 1",
+            "match_id": 140603,
+            "startTime": "11:00:00 AM 12-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/6tx4qwOvTfugtjUUe8rRYw/master.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140603_english_hls_9af047dcaa91442_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -107,15 +93,15 @@
         },
         {
             "event_category": "Live Events",
-            "title": "Day 1 vs Chennai (WTT Star Contenders)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Chennai",
+            "title": "Day 9 vs Delhi (Asian Rifle & Pistol Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
+            "team_1": "Day 9",
+            "team_2": "Delhi",
             "status": "UPCOMING",
-            "event_name": "WTT Star Contenders",
-            "match_name": "Day 1",
-            "match_id": 140603,
-            "startTime": "11:00:00 AM 12-02-2026"
+            "event_name": "Asian Rifle & Pistol Championship 2026",
+            "match_name": "Day 9",
+            "match_id": 140327,
+            "startTime": "12:00:00 PM 12-02-2026"
         },
         {
             "event_category": "Football",
@@ -130,16 +116,16 @@
             "startTime": "06:30:00 AM 13-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 9 vs Delhi (Asian Rifle & Pistol Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
-            "team_1": "Day 9",
-            "team_2": "Delhi",
+            "event_category": "Cricket",
+            "title": "Australia Governor Generals XI vs India Women (Governor General’s XI vs India 2026 - Women)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Governor_web.jpg",
+            "team_1": "Australia Governor Generals XI",
+            "team_2": "India Women",
             "status": "UPCOMING",
-            "event_name": "Asian Rifle & Pistol Championship 2026",
-            "match_name": "Day 9",
-            "match_id": 140327,
-            "startTime": "12:00:00 PM 12-02-2026"
+            "event_name": "Governor General’s XI vs India 2026 - Women",
+            "match_name": "Australia Governor Generals XI vs India Women",
+            "match_id": 140367,
+            "startTime": "01:35:00 PM 13-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -298,18 +284,6 @@
             "startTime": "11:45:00 PM 12-02-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Australia Governor Generals XI vs India Women (Governor General’s XI vs India 2026 - Women)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Governor_web.jpg",
-            "team_1": "Australia Governor Generals XI",
-            "team_2": "India Women",
-            "status": "UPCOMING",
-            "event_name": "Governor General’s XI vs India 2026 - Women",
-            "match_name": "Australia Governor Generals XI vs India Women",
-            "match_id": 140367,
-            "startTime": "01:35:00 PM 13-02-2026"
-        },
-        {
             "event_category": "Golf",
             "title": "World Feed - Day 1 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
@@ -334,18 +308,6 @@
             "startTime": "02:05:00 PM 13-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 2 vs Chennai (WTT Star Contenders)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg",
-            "team_1": "Day 2",
-            "team_2": "Chennai",
-            "status": "UPCOMING",
-            "event_name": "WTT Star Contenders",
-            "match_name": "Day 2",
-            "match_id": 140604,
-            "startTime": "11:00:00 AM 13-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Perth Glory vs Newcastle Jets (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139409_5802_PG_NJ_1770721949114.png",
@@ -356,6 +318,18 @@
             "match_name": "Perth Glory vs Newcastle Jets",
             "match_id": 139409,
             "startTime": "04:15:00 PM 13-02-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 2 vs Chennai (WTT Star Contenders)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg",
+            "team_1": "Day 2",
+            "team_2": "Chennai",
+            "status": "UPCOMING",
+            "event_name": "WTT Star Contenders",
+            "match_name": "Day 2",
+            "match_id": 140604,
+            "startTime": "11:00:00 AM 13-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -464,6 +438,18 @@
             "match_name": "Almería vs FC Andorra",
             "match_id": 140420,
             "startTime": "01:00:00 AM 14-02-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed - Day 2 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
+            "team_1": "Main Feed - Day 2",
+            "team_2": "Pebble Beach Golf Links, Spyglass Hill Golf Course",
+            "status": "UPCOMING",
+            "event_name": "AT&T Pebble Beach Pro-Am 2026",
+            "match_name": "Main Feed - Day 2",
+            "match_id": 140628,
+            "startTime": "10:15:00 PM 13-02-2026"
         }
     ]
 }

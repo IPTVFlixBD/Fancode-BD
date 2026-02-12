@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "03:14:31 AM 13-02-2026",
+    "last update time": "03:44:49 AM 13-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Atletico de Madrid Femenino vs Manchester United Women (UEFA Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-Femenino-vs-Manchester-United-Women_fc-web.jpg",
-            "team_1": "Atletico de Madrid Femenino",
-            "team_2": "Manchester United Women",
-            "status": "LIVE",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Atletico de Madrid Femenino vs Manchester United Women",
-            "match_id": 140415,
-            "startTime": "01:30:00 AM 13-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140415_english_hls_1e34e8855356994_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140415_english_hls_1e34e8855356994_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Atletico de Madrid vs FC Barcelona (Copa del Rey, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140523_5806_ATL_BAR_FC-Web.jpg",
-            "team_1": "Atletico de Madrid",
-            "team_2": "FC Barcelona",
-            "status": "LIVE",
-            "event_name": "Copa del Rey, 2025-26",
-            "match_name": "Atletico de Madrid vs FC Barcelona",
-            "match_id": 140523,
-            "startTime": "01:30:00 AM 13-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140523_english_hls_9c326c2b0e2981_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140523_english_hls_9c326c2b0e2981_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
@@ -186,6 +158,34 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140044_english_hls_adcc9f0bfe76431_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Atletico de Madrid Femenino vs Manchester United Women (UEFA Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-Femenino-vs-Manchester-United-Women_fc-web.jpg",
+            "team_1": "Atletico de Madrid Femenino",
+            "team_2": "Manchester United Women",
+            "status": "LIVE",
+            "event_name": "UEFA Women's Champions League 2025-26",
+            "match_name": "Atletico de Madrid Femenino vs Manchester United Women",
+            "match_id": 140415,
+            "startTime": "01:30:00 AM 13-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140415_english_hls_1e34e8855356994_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140415_english_hls_1e34e8855356994_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Atletico de Madrid vs FC Barcelona (Copa del Rey, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140523_5806_ATL_BAR_FC-Web.jpg",
+            "team_1": "Atletico de Madrid",
+            "team_2": "FC Barcelona",
+            "status": "LIVE",
+            "event_name": "Copa del Rey, 2025-26",
+            "match_name": "Atletico de Madrid vs FC Barcelona",
+            "match_id": 140523,
+            "startTime": "01:30:00 AM 13-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140523_english_hls_9c326c2b0e2981_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140523_english_hls_9c326c2b0e2981_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Australia Governor Generals XI vs India Women (Governor General’s XI vs India 2026 - Women)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Governor_web.jpg",
@@ -223,18 +223,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Western Sydney Wanderers vs Wellington Phoenix (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139408_5802_SYW_WEL_1770721836090.png",
-            "team_1": "Western Sydney Wanderers",
-            "team_2": "Wellington Phoenix",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Western Sydney Wanderers vs Wellington Phoenix",
-            "match_id": 139408,
-            "startTime": "02:05:00 PM 13-02-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Al-Ittihad vs Al-Fayha FC (Roshn Saudi League 2025-2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ittihad-vs-Al-Fayha-FC_fc-web.jpg",
             "team_1": "Al-Ittihad",
@@ -244,6 +232,18 @@
             "match_name": "Al-Ittihad vs Al-Fayha FC",
             "match_id": 139840,
             "startTime": "11:00:00 PM 13-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Western Sydney Wanderers vs Wellington Phoenix (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139408_5802_SYW_WEL_1770721836090.png",
+            "team_1": "Western Sydney Wanderers",
+            "team_2": "Wellington Phoenix",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Western Sydney Wanderers vs Wellington Phoenix",
+            "match_id": 139408,
+            "startTime": "02:05:00 PM 13-02-2026"
         },
         {
             "event_category": "Football",

@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "08:29:27 PM 12-02-2026",
+    "last update time": "09:30:05 PM 12-02-2026",
     "matches": [
-        {
-            "event_category": "Live Events",
-            "title": "Day 1 vs Chennai (WTT Star Contenders)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Chennai",
-            "status": "LIVE",
-            "event_name": "WTT Star Contenders",
-            "match_name": "Day 1",
-            "match_id": 140603,
-            "startTime": "11:00:00 AM 12-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/v42zJUl-RkOyVa3J_0cDFw/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140603_english_hls_9af047dcaa91442_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
@@ -72,6 +58,20 @@
             "startTime": "08:30:00 PM 12-02-2026",
             "dai_url": "https://bddia-mpv2.fancode.com/out/v1/ap-south-1/139559_english_888691/ad-h264/index.m3u8",
             "adfree_url": "https://bddia-mpv2.fancode.com/out/v1/ap-south-1/139559_english_888691/ad-h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Cancha Guillermo Vilas vs Buenos Aires, Argentina (ATP 250 - IEB+ Argentina Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png",
+            "team_1": "Cancha Guillermo Vilas",
+            "team_2": "Buenos Aires, Argentina",
+            "status": "LIVE",
+            "event_name": "ATP 250 - IEB+ Argentina Open 2026",
+            "match_name": "Cancha Guillermo Vilas",
+            "match_id": 140204,
+            "startTime": "09:30:00 PM 12-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140204_english_hls_eb22ca9e4848101_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140204_english_hls_eb22ca9e4848101_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -134,16 +134,16 @@
             "startTime": "06:30:00 AM 13-02-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Cancha Guillermo Vilas vs Buenos Aires, Argentina (ATP 250 - IEB+ Argentina Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png",
-            "team_1": "Cancha Guillermo Vilas",
-            "team_2": "Buenos Aires, Argentina",
+            "event_category": "Golf",
+            "title": "Main Feed - Day 1 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
+            "team_1": "Main Feed - Day 1",
+            "team_2": "Pebble Beach Golf Links, Spyglass Hill Golf Course",
             "status": "UPCOMING",
-            "event_name": "ATP 250 - IEB+ Argentina Open 2026",
-            "match_name": "Cancha Guillermo Vilas",
-            "match_id": 140204,
-            "startTime": "09:30:00 PM 12-02-2026"
+            "event_name": "AT&T Pebble Beach Pro-Am 2026",
+            "match_name": "Main Feed - Day 1",
+            "match_id": 140624,
+            "startTime": "10:15:00 PM 12-02-2026"
         },
         {
             "event_category": "Football",
@@ -192,18 +192,6 @@
             "match_name": "Al-Ittihad vs Al-Fayha FC",
             "match_id": 139840,
             "startTime": "11:00:00 PM 13-02-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 1 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
-            "team_1": "Main Feed - Day 1",
-            "team_2": "Pebble Beach Golf Links, Spyglass Hill Golf Course",
-            "status": "UPCOMING",
-            "event_name": "AT&T Pebble Beach Pro-Am 2026",
-            "match_name": "Main Feed - Day 1",
-            "match_id": 140624,
-            "startTime": "10:15:00 PM 12-02-2026"
         },
         {
             "event_category": "Golf",
@@ -314,6 +302,18 @@
             "startTime": "02:30:00 PM 13-02-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Elche CF vs CA Osasuna (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131065_5427_ELC_OSN_FC-Web.png",
+            "team_1": "Elche CF",
+            "team_2": "CA Osasuna",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Elche CF vs CA Osasuna",
+            "match_id": 131065,
+            "startTime": "01:30:00 AM 14-02-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 3 vs Riyadh Golf Club (PIF Saudi Ladies International 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770293026599.png",
@@ -336,18 +336,6 @@
             "match_name": "World Feed",
             "match_id": 140549,
             "startTime": "04:30:00 PM 13-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Elche CF vs CA Osasuna (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131065_5427_ELC_OSN_FC-Web.png",
-            "team_1": "Elche CF",
-            "team_2": "CA Osasuna",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Elche CF vs CA Osasuna",
-            "match_id": 131065,
-            "startTime": "01:30:00 AM 14-02-2026"
         },
         {
             "event_category": "Football",
@@ -468,6 +456,18 @@
             "match_name": "World Feed - Day 2",
             "match_id": 140045,
             "startTime": "01:30:00 AM 14-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne Victory vs Brisbane Roar (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139410_5802_MLV_BRB_1770722069741.png",
+            "team_1": "Melbourne Victory",
+            "team_2": "Brisbane Roar",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne Victory vs Brisbane Roar",
+            "match_id": 139410,
+            "startTime": "11:30:00 AM 14-02-2026"
         }
     ]
 }

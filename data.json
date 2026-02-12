@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "03:44:49 AM 13-02-2026",
+    "last update time": "04:15:08 AM 13-02-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -44,20 +44,6 @@
             "startTime": "09:30:00 PM 12-02-2026",
             "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140204_english_hls_eb22ca9e4848101_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140204_english_hls_eb22ca9e4848101_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 1 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
-            "team_1": "Main Feed - Day 1",
-            "team_2": "Pebble Beach Golf Links, Spyglass Hill Golf Course",
-            "status": "LIVE",
-            "event_name": "AT&T Pebble Beach Pro-Am 2026",
-            "match_name": "Main Feed - Day 1",
-            "match_id": 140624,
-            "startTime": "10:15:00 PM 12-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/9f3VM2W1QgOjTLr050UsVg/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140624_english_hls_d638bafaa498103_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -156,34 +142,6 @@
             "startTime": "01:30:00 AM 13-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/opEl3FCyQraw7yfLs-uAOQ/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140044_english_hls_adcc9f0bfe76431_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Atletico de Madrid Femenino vs Manchester United Women (UEFA Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-Femenino-vs-Manchester-United-Women_fc-web.jpg",
-            "team_1": "Atletico de Madrid Femenino",
-            "team_2": "Manchester United Women",
-            "status": "LIVE",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Atletico de Madrid Femenino vs Manchester United Women",
-            "match_id": 140415,
-            "startTime": "01:30:00 AM 13-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140415_english_hls_1e34e8855356994_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140415_english_hls_1e34e8855356994_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Atletico de Madrid vs FC Barcelona (Copa del Rey, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140523_5806_ATL_BAR_FC-Web.jpg",
-            "team_1": "Atletico de Madrid",
-            "team_2": "FC Barcelona",
-            "status": "LIVE",
-            "event_name": "Copa del Rey, 2025-26",
-            "match_name": "Atletico de Madrid vs FC Barcelona",
-            "match_id": 140523,
-            "startTime": "01:30:00 AM 13-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140523_english_hls_9c326c2b0e2981_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140523_english_hls_9c326c2b0e2981_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -484,6 +442,42 @@
             "match_name": "Mohun Bagan Super Giants vs Kerala Blasters FC",
             "match_id": 140404,
             "startTime": "05:00:00 PM 14-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "RCD Espanyol vs RC Celta (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131064_5427_ESL_CEV_FC-Web.png",
+            "team_1": "RCD Espanyol",
+            "team_2": "RC Celta",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "RCD Espanyol vs RC Celta",
+            "match_id": 131064,
+            "startTime": "06:30:00 PM 14-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Stevenage vs Huddersfield Town A.F.C. (League One 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png",
+            "team_1": "Stevenage",
+            "team_2": "Huddersfield Town A.F.C.",
+            "status": "UPCOMING",
+            "event_name": "League One 2025-26",
+            "match_name": "Stevenage vs Huddersfield Town A.F.C.",
+            "match_id": 140016,
+            "startTime": "06:00:00 PM 14-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "FC Goa vs Inter Kashi FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140432_5956_FCG_IK_fc-web_1770791891991.jpg",
+            "team_1": "FC Goa",
+            "team_2": "Inter Kashi FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "FC Goa vs Inter Kashi FC",
+            "match_id": 140432,
+            "startTime": "07:30:00 PM 14-02-2026"
         }
     ]
 }

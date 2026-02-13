@@ -1,21 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:25:50 AM 13-02-2026",
+    "last update time": "07:57:19 AM 13-02-2026",
     "matches": [
         {
-            "event_category": "Tennis",
-            "title": "Cancha Guillermo Vilas vs Buenos Aires, Argentina (ATP 250 - IEB+ Argentina Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png",
-            "team_1": "Cancha Guillermo Vilas",
-            "team_2": "Buenos Aires, Argentina",
+            "event_category": "Football",
+            "title": "Cruz Azul vs Vancouver FC (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140377_5954_CRU_VFC_FC-Web.jpg",
+            "team_1": "Cruz Azul",
+            "team_2": "Vancouver FC",
             "status": "LIVE",
-            "event_name": "ATP 250 - IEB+ Argentina Open 2026",
-            "match_name": "Cancha Guillermo Vilas",
-            "match_id": 140204,
-            "startTime": "09:30:00 PM 12-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140204_english_hls_eb22ca9e4848101_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140204_english_hls_eb22ca9e4848101_1ta-di_h264/index.m3u8"
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Cruz Azul vs Vancouver FC",
+            "match_id": 140377,
+            "startTime": "06:30:00 AM 13-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140377_english_hls_dcf5d316e965867_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140377_english_hls_dcf5d316e965867_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -44,20 +44,6 @@
             "startTime": "11:30:00 PM 12-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/f2JmCdCYT4mWhSUBDyjBfA/master.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140537_english_hls_5078e07a4116414_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Grandstand vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
-            "team_1": "Grandstand",
-            "team_2": "Dallas, United States",
-            "status": "LIVE",
-            "event_name": "ATP 500 - Nexo Dallas Open 2026",
-            "match_name": "Grandstand",
-            "match_id": 140536,
-            "startTime": "11:30:00 PM 12-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/clG1vI7pQ0qo_QYy_KRdAg/master.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140536_english_hls_fc49a5919f41331_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -111,15 +97,15 @@
         },
         {
             "event_category": "Football",
-            "title": "Cruz Azul vs Vancouver FC (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140377_5954_CRU_VFC_FC-Web.jpg",
-            "team_1": "Cruz Azul",
-            "team_2": "Vancouver FC",
+            "title": "Elche CF vs CA Osasuna (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131065_5427_ELC_OSN_FC-Web.png",
+            "team_1": "Elche CF",
+            "team_2": "CA Osasuna",
             "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Cruz Azul vs Vancouver FC",
-            "match_id": 140377,
-            "startTime": "06:30:00 AM 13-02-2026"
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Elche CF vs CA Osasuna",
+            "match_id": 131065,
+            "startTime": "01:30:00 AM 14-02-2026"
         },
         {
             "event_category": "Football",
@@ -144,18 +130,6 @@
             "match_name": "Perth Glory vs Newcastle Jets",
             "match_id": 139409,
             "startTime": "04:15:00 PM 13-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Elche CF vs CA Osasuna (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131065_5427_ELC_OSN_FC-Web.png",
-            "team_1": "Elche CF",
-            "team_2": "CA Osasuna",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Elche CF vs CA Osasuna",
-            "match_id": 131065,
-            "startTime": "01:30:00 AM 14-02-2026"
         },
         {
             "event_category": "Football",
@@ -191,7 +165,19 @@
             "event_name": "ATP 500 - ABN AMRO Open 2026",
             "match_name": "Centre Court",
             "match_id": 140198,
-            "startTime": "02:30:00 PM 13-02-2026"
+            "startTime": "03:30:00 PM 13-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+            "team_1": "World Feed",
+            "team_2": "Rotterdam, Netherlands",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - ABN AMRO Open 2026",
+            "match_name": "World Feed",
+            "match_id": 140549,
+            "startTime": "03:30:00 PM 13-02-2026"
         },
         {
             "event_category": "Golf",
@@ -204,18 +190,6 @@
             "match_name": "Day 3",
             "match_id": 140111,
             "startTime": "04:00:00 PM 13-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-            "team_1": "World Feed",
-            "team_2": "Rotterdam, Netherlands",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - ABN AMRO Open 2026",
-            "match_name": "World Feed",
-            "match_id": 140549,
-            "startTime": "04:30:00 PM 13-02-2026"
         },
         {
             "event_category": "Formula 1",
@@ -239,7 +213,7 @@
             "event_name": "ATP 250 - IEB+ Argentina Open 2026",
             "match_name": "Cancha Guillermo Vilas",
             "match_id": 140205,
-            "startTime": "08:30:00 PM 13-02-2026"
+            "startTime": "09:30:00 PM 13-02-2026"
         },
         {
             "event_category": "Golf",
@@ -252,30 +226,6 @@
             "match_name": "Main Feed - Day 2",
             "match_id": 140628,
             "startTime": "10:15:00 PM 13-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "World Feed vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770112378426.png",
-            "team_1": "World Feed",
-            "team_2": "Dallas, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Nexo Dallas Open 2026",
-            "match_name": "World Feed",
-            "match_id": 140191,
-            "startTime": "10:30:00 PM 13-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Center Court vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
-            "src": " https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
-            "team_1": "Center Court",
-            "team_2": "Dallas, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Nexo Dallas Open 2026",
-            "match_name": "Center Court",
-            "match_id": 140538,
-            "startTime": "10:30:00 PM 13-02-2026"
         },
         {
             "event_category": "Golf",
@@ -300,6 +250,30 @@
             "match_name": "Featured Holes - Day 2",
             "match_id": 140627,
             "startTime": "11:00:00 PM 13-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "World Feed vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770112378426.png",
+            "team_1": "World Feed",
+            "team_2": "Dallas, United States",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Nexo Dallas Open 2026",
+            "match_name": "World Feed",
+            "match_id": 140191,
+            "startTime": "11:30:00 PM 13-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Center Court vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
+            "src": " https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
+            "team_1": "Center Court",
+            "team_2": "Dallas, United States",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Nexo Dallas Open 2026",
+            "match_name": "Center Court",
+            "match_id": 140538,
+            "startTime": "11:30:00 PM 13-02-2026"
         },
         {
             "event_category": "Golf",
@@ -350,6 +324,18 @@
             "startTime": "02:05:00 PM 14-02-2026"
         },
         {
+            "event_category": "Tennis",
+            "title": "Court 1 vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+            "team_1": "Court 1",
+            "team_2": "Rotterdam, Netherlands",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - ABN AMRO Open 2026",
+            "match_name": "Court 1",
+            "match_id": 140639,
+            "startTime": "03:30:00 PM 13-02-2026"
+        },
+        {
             "event_category": "Live Events",
             "title": "Day 3 vs Chennai (WTT Star Contenders)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg",
@@ -372,6 +358,18 @@
             "match_name": "Mohun Bagan Super Giants vs Kerala Blasters FC",
             "match_id": 140404,
             "startTime": "05:00:00 PM 14-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Grandstand vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
+            "src": "  https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
+            "team_1": "Grandstand",
+            "team_2": "Dallas, United States",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Nexo Dallas Open 2026",
+            "match_name": "Grandstand",
+            "match_id": 140640,
+            "startTime": "01:30:00 AM 14-02-2026"
         },
         {
             "event_category": "Football",
@@ -458,16 +456,16 @@
             "startTime": "04:30:00 PM 14-02-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-            "team_1": "World Feed",
-            "team_2": "Rotterdam, Netherlands",
+            "event_category": "Football",
+            "title": "Sevilla FC vs Deportivo Alaves (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131069_5427_SEV_ALA_FC-Web.png",
+            "team_1": "Sevilla FC",
+            "team_2": "Deportivo Alaves",
             "status": "UPCOMING",
-            "event_name": "ATP 500 - ABN AMRO Open 2026",
-            "match_name": "World Feed",
-            "match_id": 140550,
-            "startTime": "06:30:00 PM 14-02-2026"
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Sevilla FC vs Deportivo Alaves",
+            "match_id": 131069,
+            "startTime": "11:00:00 PM 14-02-2026"
         }
     ]
 }

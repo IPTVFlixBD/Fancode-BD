@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "01:00:51 PM 13-02-2026",
+    "last update time": "01:31:15 PM 13-02-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Australia Governor Generals XI vs India Women (Governor General’s XI vs India 2026 - Women)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Governor_web.jpg",
+            "team_1": "Australia Governor Generals XI",
+            "team_2": "India Women",
+            "status": "LIVE",
+            "event_name": "Governor General’s XI vs India 2026 - Women",
+            "match_name": "Australia Governor Generals XI vs India Women",
+            "match_id": 140367,
+            "startTime": "01:35:00 PM 13-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140367_english_hls_f6facd47f467778_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140367_english_hls_f6facd47f467778_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Golf",
             "title": "World Feed - Day 1 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)",
@@ -19,10 +33,10 @@
         },
         {
             "event_category": "Live Events",
-            "title": "Day 2 vs Chennai (WTT Star Contenders)",
+            "title": "Day 2 vs WTT Star Contenders (WTT Star Contenders)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg",
             "team_1": "Day 2",
-            "team_2": "Chennai",
+            "team_2": "WTT Star Contenders",
             "status": "LIVE",
             "event_name": "WTT Star Contenders",
             "match_name": "Day 2",
@@ -32,16 +46,16 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140604_english_hls_1cda6b52b860477_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Australia Governor Generals XI vs India Women (Governor General’s XI vs India 2026 - Women)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Governor_web.jpg",
-            "team_1": "Australia Governor Generals XI",
-            "team_2": "India Women",
+            "event_category": "Football",
+            "title": "Western Sydney Wanderers vs Wellington Phoenix (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139408_5802_SYW_WEL_1770721836090.png",
+            "team_1": "Western Sydney Wanderers",
+            "team_2": "Wellington Phoenix",
             "status": "UPCOMING",
-            "event_name": "Governor General’s XI vs India 2026 - Women",
-            "match_name": "Australia Governor Generals XI vs India Women",
-            "match_id": 140367,
-            "startTime": "01:35:00 PM 13-02-2026"
+            "event_name": "A League 2025-26",
+            "match_name": "Western Sydney Wanderers vs Wellington Phoenix",
+            "match_id": 139408,
+            "startTime": "02:05:00 PM 13-02-2026"
         },
         {
             "event_category": "Football",
@@ -78,18 +92,6 @@
             "match_name": "Elche CF vs CA Osasuna",
             "match_id": 131065,
             "startTime": "01:30:00 AM 14-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Western Sydney Wanderers vs Wellington Phoenix (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139408_5802_SYW_WEL_1770721836090.png",
-            "team_1": "Western Sydney Wanderers",
-            "team_2": "Wellington Phoenix",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Western Sydney Wanderers vs Wellington Phoenix",
-            "match_id": 139408,
-            "startTime": "02:05:00 PM 13-02-2026"
         },
         {
             "event_category": "Football",
@@ -236,6 +238,18 @@
             "startTime": "11:00:00 PM 13-02-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Sydney FC vs Adelaide United (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139411_5802_SYD_ADL_1770722182837.png",
+            "team_1": "Sydney FC",
+            "team_2": "Adelaide United",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney FC vs Adelaide United",
+            "match_id": 139411,
+            "startTime": "02:05:00 PM 14-02-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "World Feed vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770112378426.png",
@@ -297,18 +311,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Sydney FC vs Adelaide United (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139411_5802_SYD_ADL_1770722182837.png",
-            "team_1": "Sydney FC",
-            "team_2": "Adelaide United",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney FC vs Adelaide United",
-            "match_id": 139411,
-            "startTime": "02:05:00 PM 14-02-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Mohun Bagan Super Giants vs Kerala Blasters FC (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140404_5956_MBSG_KBFC_fc-web_1770790221294.jpg",
             "team_1": "Mohun Bagan Super Giants",
@@ -333,10 +335,10 @@
         },
         {
             "event_category": "Live Events",
-            "title": "Day 3 vs Chennai (WTT Star Contenders)",
+            "title": "Day 3 vs WTT Star Contenders (WTT Star Contenders)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg",
             "team_1": "Day 3",
-            "team_2": "Chennai",
+            "team_2": "WTT Star Contenders",
             "status": "UPCOMING",
             "event_name": "WTT Star Contenders",
             "match_name": "Day 3",

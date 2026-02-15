@@ -1,21 +1,35 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:27:24 AM 15-02-2026",
+    "last update time": "07:28:37 AM 15-02-2026",
     "matches": [
         {
-            "event_category": "Golf",
-            "title": "World Feed - Day 3 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
-            "team_1": "World Feed - Day 3",
-            "team_2": "Pebble Beach Golf Links, Spyglass Hill Golf Course",
+            "event_category": "Cricket",
+            "title": "Diasqua Little Sai Wan Cricket Club Women vs Lantau Cricket Club Women (Women's Premier League T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WPL_web.jpg",
+            "team_1": "Diasqua Little Sai Wan Cricket Club Women",
+            "team_2": "Lantau Cricket Club Women",
             "status": "LIVE",
-            "event_name": "AT&T Pebble Beach Pro-Am 2026",
-            "match_name": "World Feed - Day 3",
-            "match_id": 140046,
-            "startTime": "11:30:00 PM 14-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140046_english_hls_c85246ed16995_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140046_english_hls_c85246ed16995_1ta-di_h264/index.m3u8"
+            "event_name": "Women's Premier League T20 2026",
+            "match_name": "Diasqua Little Sai Wan Cricket Club Women vs Lantau Cricket Club Women",
+            "match_id": 140607,
+            "startTime": "07:00:00 AM 15-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140607_english_hls_1ccf0d358961357_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140607_english_hls_1ccf0d358961357_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Craigengower Cricket Club Women vs Kowloon Cricket Club Women (Women's Premier League T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WPL_web_2.jpg",
+            "team_1": "Craigengower Cricket Club Women",
+            "team_2": "Kowloon Cricket Club Women",
+            "status": "LIVE",
+            "event_name": "Women's Premier League T20 2026",
+            "match_name": "Craigengower Cricket Club Women vs Kowloon Cricket Club Women",
+            "match_id": 140608,
+            "startTime": "07:30:00 AM 15-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140608_english_hls_227984fbb031210_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140608_english_hls_227984fbb031210_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -44,30 +58,6 @@
             "startTime": "11:30:00 PM 14-02-2026",
             "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140539_english_hls_005a5b548062917_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140539_english_hls_005a5b548062917_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Diasqua Little Sai Wan Cricket Club Women vs Lantau Cricket Club Women (Women's Premier League T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WPL_web.jpg",
-            "team_1": "Diasqua Little Sai Wan Cricket Club Women",
-            "team_2": "Lantau Cricket Club Women",
-            "status": "UPCOMING",
-            "event_name": "Women's Premier League T20 2026",
-            "match_name": "Diasqua Little Sai Wan Cricket Club Women vs Lantau Cricket Club Women",
-            "match_id": 140607,
-            "startTime": "07:00:00 AM 15-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Craigengower Cricket Club Women vs Kowloon Cricket Club Women (Women's Premier League T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WPL_web_2.jpg",
-            "team_1": "Craigengower Cricket Club Women",
-            "team_2": "Kowloon Cricket Club Women",
-            "status": "UPCOMING",
-            "event_name": "Women's Premier League T20 2026",
-            "match_name": "Craigengower Cricket Club Women vs Kowloon Cricket Club Women",
-            "match_id": 140608,
-            "startTime": "07:30:00 AM 15-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -286,6 +276,18 @@
             "startTime": "11:00:00 AM 15-02-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Western Australia vs Victoria (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134036_5609_WAU_VCT_fc-Web.jpg",
+            "team_1": "Western Australia",
+            "team_2": "Victoria",
+            "status": "UPCOMING",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Western Australia vs Victoria",
+            "match_id": 134036,
+            "startTime": "08:00:00 AM 16-02-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "Centre Court vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
@@ -358,6 +360,18 @@
             "startTime": "10:30:00 PM 15-02-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Tasmania vs New South Wales (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134037_5609_TAS_NSW_fc-Web.jpg",
+            "team_1": "Tasmania",
+            "team_2": "New South Wales",
+            "status": "UPCOMING",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Tasmania vs New South Wales",
+            "match_id": 134037,
+            "startTime": "09:00:00 AM 16-02-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "World Feed - Day 4 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
@@ -406,30 +420,6 @@
             "startTime": "11:30:00 PM 15-02-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Western Australia vs Victoria (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134036_5609_WAU_VCT_fc-Web.jpg",
-            "team_1": "Western Australia",
-            "team_2": "Victoria",
-            "status": "UPCOMING",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Western Australia vs Victoria",
-            "match_id": 134036,
-            "startTime": "08:00:00 AM 16-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tasmania vs New South Wales (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134037_5609_TAS_NSW_fc-Web.jpg",
-            "team_1": "Tasmania",
-            "team_2": "New South Wales",
-            "status": "UPCOMING",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Tasmania vs New South Wales",
-            "match_id": 134037,
-            "startTime": "09:00:00 AM 16-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Odisha FC vs Punjab FC (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140435_5956_ODS_PFC_fc-web.jpg",
@@ -440,6 +430,18 @@
             "match_name": "Odisha FC vs Punjab FC",
             "match_id": 140435,
             "startTime": "05:00:00 PM 16-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "East Bengal FC vs NorthEast United FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140436_5956_EBFC_NEUFC_fc-web.jpg",
+            "team_1": "East Bengal FC",
+            "team_2": "NorthEast United FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "East Bengal FC vs NorthEast United FC",
+            "match_id": 140436,
+            "startTime": "07:30:00 PM 16-02-2026"
         },
         {
             "event_category": "Live Events",
@@ -454,16 +456,16 @@
             "startTime": "09:00:00 AM 16-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "East Bengal FC vs NorthEast United FC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140436_5956_EBFC_NEUFC_fc-web.jpg",
-            "team_1": "East Bengal FC",
-            "team_2": "NorthEast United FC",
+            "event_category": "Tennis",
+            "title": "ATP 500 - Qatar ExxonMobil Open vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-old-match-card-.jpg",
+            "team_1": "ATP 500 - Qatar ExxonMobil Open",
+            "team_2": "Doha, Qatar",
             "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "East Bengal FC vs NorthEast United FC",
-            "match_id": 140436,
-            "startTime": "07:30:00 PM 16-02-2026"
+            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
+            "match_name": "ATP 500 - Qatar ExxonMobil Open",
+            "match_id": 140208,
+            "startTime": "04:30:00 PM 16-02-2026"
         }
     ]
 }

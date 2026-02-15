@@ -1,75 +1,49 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "07:28:37 AM 15-02-2026",
+    "last update time": "11:00:44 AM 15-02-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Diasqua Little Sai Wan Cricket Club Women vs Lantau Cricket Club Women (Women's Premier League T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WPL_web.jpg",
-            "team_1": "Diasqua Little Sai Wan Cricket Club Women",
-            "team_2": "Lantau Cricket Club Women",
-            "status": "LIVE",
-            "event_name": "Women's Premier League T20 2026",
-            "match_name": "Diasqua Little Sai Wan Cricket Club Women vs Lantau Cricket Club Women",
-            "match_id": 140607,
-            "startTime": "07:00:00 AM 15-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140607_english_hls_1ccf0d358961357_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140607_english_hls_1ccf0d358961357_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Craigengower Cricket Club Women vs Kowloon Cricket Club Women (Women's Premier League T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WPL_web_2.jpg",
-            "team_1": "Craigengower Cricket Club Women",
-            "team_2": "Kowloon Cricket Club Women",
-            "status": "LIVE",
-            "event_name": "Women's Premier League T20 2026",
-            "match_name": "Craigengower Cricket Club Women vs Kowloon Cricket Club Women",
-            "match_id": 140608,
-            "startTime": "07:30:00 AM 15-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140608_english_hls_227984fbb031210_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140608_english_hls_227984fbb031210_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "World Feed vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770112378426.png",
-            "team_1": "World Feed",
-            "team_2": "Dallas, United States",
-            "status": "LIVE",
-            "event_name": "ATP 500 - Nexo Dallas Open 2026",
-            "match_name": "World Feed",
-            "match_id": 140192,
-            "startTime": "11:30:00 PM 14-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140192_english_hls_93b44f9a9140314_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140192_english_hls_93b44f9a9140314_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Centre Court vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
-            "src": "  https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
-            "team_1": "Centre Court",
-            "team_2": "Dallas, United States",
-            "status": "LIVE",
-            "event_name": "ATP 500 - Nexo Dallas Open 2026",
-            "match_name": "Centre Court",
-            "match_id": 140539,
-            "startTime": "11:30:00 PM 14-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140539_english_hls_005a5b548062917_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140539_english_hls_005a5b548062917_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Diasqua Little Sai Wan Cricket Club vs United Services Recreation Club (Premier League T20 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Premier-League-T20-2026-old-match-card.jpg",
             "team_1": "Diasqua Little Sai Wan Cricket Club",
             "team_2": "United Services Recreation Club",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Premier League T20 2026",
             "match_name": "Diasqua Little Sai Wan Cricket Club vs United Services Recreation Club",
             "match_id": 140614,
-            "startTime": "11:00:00 AM 15-02-2026"
+            "startTime": "11:00:00 AM 15-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140614_english_hls_574303ab2249962_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140614_english_hls_574303ab2249962_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Legends League Cricket Auction 2026 vs Delhi (Legends League Cricket Auction 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+            "team_1": "Legends League Cricket Auction 2026",
+            "team_2": "Delhi",
+            "status": "LIVE",
+            "event_name": "Legends League Cricket Auction 2026",
+            "match_name": "Legends League Cricket Auction 2026",
+            "match_id": 140642,
+            "startTime": "10:30:00 AM 15-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140642_english_hls_c700c4eccd7171_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140642_english_hls_c700c4eccd7171_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 4 vs WTT Star Contenders (WTT Star Contenders)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg",
+            "team_1": "Day 4",
+            "team_2": "WTT Star Contenders",
+            "status": "LIVE",
+            "event_name": "WTT Star Contenders",
+            "match_name": "Day 4",
+            "match_id": 140606,
+            "startTime": "11:00:00 AM 15-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140606_english_hls_2934273f9e52001_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140606_english_hls_2934273f9e52001_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -86,7 +60,7 @@
         {
             "event_category": "Football",
             "title": "Jamshedpur FC vs Mohammedan SC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140433_5956_JFC_MSC_fc-web-(1).jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140433_5956_JFC_MSC_fc-web.jpg",
             "team_1": "Jamshedpur FC",
             "team_2": "Mohammedan SC",
             "status": "UPCOMING",
@@ -158,7 +132,7 @@
         {
             "event_category": "Football",
             "title": "Bengaluru FC vs Sporting Club Delhi (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140434_5956_BFC_SCD_fc-web-(1).jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140434_5956_BFC_SCD_fc-web_1771131079325.jpg",
             "team_1": "Bengaluru FC",
             "team_2": "Sporting Club Delhi",
             "status": "UPCOMING",
@@ -252,30 +226,6 @@
             "startTime": "05:30:00 AM 16-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Legends League Cricket Auction 2026 vs Delhi (Legends League Cricket Auction 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
-            "team_1": "Legends League Cricket Auction 2026",
-            "team_2": "Delhi",
-            "status": "UPCOMING",
-            "event_name": "Legends League Cricket Auction 2026",
-            "match_name": "Legends League Cricket Auction 2026",
-            "match_id": 140642,
-            "startTime": "10:30:00 AM 15-02-2026"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Day 4 vs WTT Star Contenders (WTT Star Contenders)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WTT_web.jpg",
-            "team_1": "Day 4",
-            "team_2": "WTT Star Contenders",
-            "status": "UPCOMING",
-            "event_name": "WTT Star Contenders",
-            "match_name": "Day 4",
-            "match_id": 140606,
-            "startTime": "11:00:00 AM 15-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Western Australia vs Victoria (Sheffield Shield, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134036_5609_WAU_VCT_fc-Web.jpg",
@@ -288,6 +238,18 @@
             "startTime": "08:00:00 AM 16-02-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Tasmania vs New South Wales (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134037_5609_TAS_NSW_fc-Web.jpg",
+            "team_1": "Tasmania",
+            "team_2": "New South Wales",
+            "status": "UPCOMING",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Tasmania vs New South Wales",
+            "match_id": 134037,
+            "startTime": "09:00:00 AM 16-02-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "Centre Court vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
@@ -297,7 +259,7 @@
             "event_name": "ATP 500 - ABN AMRO Open 2026",
             "match_name": "Centre Court",
             "match_id": 140200,
-            "startTime": "04:30:00 PM 15-02-2026"
+            "startTime": "05:30:00 PM 15-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -309,7 +271,7 @@
             "event_name": "ATP 500 - ABN AMRO Open 2026",
             "match_name": "World Feed",
             "match_id": 140551,
-            "startTime": "07:00:00 PM 15-02-2026"
+            "startTime": "05:30:00 PM 15-02-2026"
         },
         {
             "event_category": "Golf",
@@ -321,19 +283,7 @@
             "event_name": "AT&T Pebble Beach Pro-Am 2026",
             "match_name": "Main Feed - Day 4",
             "match_id": 140636,
-            "startTime": "09:30:00 PM 15-02-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Holes - Day 4 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
-            "team_1": "Featured Holes - Day 4",
-            "team_2": "Pebble Beach Golf Links, Spyglass Hill Golf Course",
-            "status": "UPCOMING",
-            "event_name": "AT&T Pebble Beach Pro-Am 2026",
-            "match_name": "Featured Holes - Day 4",
-            "match_id": 140633,
-            "startTime": "10:00:00 PM 15-02-2026"
+            "startTime": "08:45:00 PM 15-02-2026"
         },
         {
             "event_category": "Golf",
@@ -345,7 +295,19 @@
             "event_name": "AT&T Pebble Beach Pro-Am 2026",
             "match_name": "Featured Groups - Day 4",
             "match_id": 140635,
-            "startTime": "10:15:00 PM 15-02-2026"
+            "startTime": "08:45:00 PM 15-02-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Holes - Day 4 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
+            "team_1": "Featured Holes - Day 4",
+            "team_2": "Pebble Beach Golf Links, Spyglass Hill Golf Course",
+            "status": "UPCOMING",
+            "event_name": "AT&T Pebble Beach Pro-Am 2026",
+            "match_name": "Featured Holes - Day 4",
+            "match_id": 140633,
+            "startTime": "09:30:00 PM 15-02-2026"
         },
         {
             "event_category": "Golf",
@@ -357,19 +319,19 @@
             "event_name": "AT&T Pebble Beach Pro-Am 2026",
             "match_name": "Marquee Feed - Day 4",
             "match_id": 140634,
-            "startTime": "10:30:00 PM 15-02-2026"
+            "startTime": "09:45:00 PM 15-02-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Tasmania vs New South Wales (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134037_5609_TAS_NSW_fc-Web.jpg",
-            "team_1": "Tasmania",
-            "team_2": "New South Wales",
+            "event_category": "Tennis",
+            "title": "Cancha Guillermo Vilas vs Buenos Aires, Argentina (ATP 250 - IEB+ Argentina Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png",
+            "team_1": "Cancha Guillermo Vilas",
+            "team_2": "Buenos Aires, Argentina",
             "status": "UPCOMING",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Tasmania vs New South Wales",
-            "match_id": 134037,
-            "startTime": "09:00:00 AM 16-02-2026"
+            "event_name": "ATP 250 - IEB+ Argentina Open 2026",
+            "match_name": "Cancha Guillermo Vilas",
+            "match_id": 140207,
+            "startTime": "10:00:00 PM 15-02-2026"
         },
         {
             "event_category": "Golf",
@@ -393,19 +355,7 @@
             "event_name": "ATP 500 - Nexo Dallas Open 2026",
             "match_name": "World Feed",
             "match_id": 140193,
-            "startTime": "11:30:00 PM 15-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Cancha Guillermo Vilas vs Buenos Aires, Argentina (ATP 250 - IEB+ Argentina Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png",
-            "team_1": "Cancha Guillermo Vilas",
-            "team_2": "Buenos Aires, Argentina",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - IEB+ Argentina Open 2026",
-            "match_name": "Cancha Guillermo Vilas",
-            "match_id": 140207,
-            "startTime": "11:30:00 PM 15-02-2026"
+            "startTime": "12:30:00 AM 16-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -417,7 +367,7 @@
             "event_name": "ATP 500 - Nexo Dallas Open 2026",
             "match_name": "Center Court",
             "match_id": 140540,
-            "startTime": "11:30:00 PM 15-02-2026"
+            "startTime": "12:30:00 AM 16-02-2026"
         },
         {
             "event_category": "Football",
@@ -444,6 +394,54 @@
             "startTime": "07:30:00 PM 16-02-2026"
         },
         {
+            "event_category": "Tennis",
+            "title": "ATP 500 - Qatar ExxonMobil Open vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-old-match-card-.jpg",
+            "team_1": "ATP 500 - Qatar ExxonMobil Open",
+            "team_2": "Doha, Qatar",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
+            "match_name": "ATP 500 - Qatar ExxonMobil Open",
+            "match_id": 140208,
+            "startTime": "03:00:00 PM 16-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Ahli Saudi FC vs Shabab Al Ahli (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/19_Al-Ahli-vs-Shabab-Al-Ahli_1770636035481.png",
+            "team_1": "Al-Ahli Saudi FC",
+            "team_2": "Shabab Al Ahli",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Al-Ahli Saudi FC vs Shabab Al Ahli",
+            "match_id": 136086,
+            "startTime": "09:30:00 PM 16-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sharjah vs Nasaf (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/20_Sharjah-vs-Nasaf_1770636128937.png",
+            "team_1": "Sharjah",
+            "team_2": "Nasaf",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Sharjah vs Nasaf",
+            "match_id": 136085,
+            "startTime": "09:30:00 PM 16-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - Rio Open Presented by Claro 2026 vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png",
+            "team_1": "ATP 500 - Rio Open Presented by Claro 2026",
+            "team_2": "Rio de Janeiro, Brazil",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+            "match_name": "ATP 500 - Rio Open Presented by Claro 2026",
+            "match_id": 140285,
+            "startTime": "04:30:00 PM 16-02-2026"
+        },
+        {
             "event_category": "Live Events",
             "title": "Day 1 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
@@ -456,16 +454,16 @@
             "startTime": "09:00:00 AM 16-02-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "ATP 500 - Qatar ExxonMobil Open vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-old-match-card-.jpg",
-            "team_1": "ATP 500 - Qatar ExxonMobil Open",
-            "team_2": "Doha, Qatar",
+            "event_category": "Football",
+            "title": "Al Shorta vs Al Duhail (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/21_Al-Shorta-vs-Al-Duhail_1770636215875.png",
+            "team_1": "Al Shorta",
+            "team_2": "Al Duhail",
             "status": "UPCOMING",
-            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
-            "match_name": "ATP 500 - Qatar ExxonMobil Open",
-            "match_id": 140208,
-            "startTime": "04:30:00 PM 16-02-2026"
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Al Shorta vs Al Duhail",
+            "match_id": 136088,
+            "startTime": "11:45:00 PM 16-02-2026"
         }
     ]
 }

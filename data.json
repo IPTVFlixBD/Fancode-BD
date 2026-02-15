@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:59:31 PM 15-02-2026",
+    "last update time": "12:29:50 AM 16-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -102,16 +102,32 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140047_english_hls_b8c1b71f8b46629_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Victoria Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
-            "team_1": "Victoria Women",
-            "team_2": "Western Australia Women",
-            "status": "UPCOMING",
-            "event_name": "Women's National Cricket League, 2025-26",
-            "match_name": "Victoria Women vs Western Australia Women",
-            "match_id": 133981,
-            "startTime": "04:30:00 AM 16-02-2026"
+            "event_category": "Tennis",
+            "title": "World Feed vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770112378426.png",
+            "team_1": "World Feed",
+            "team_2": "Dallas, United States",
+            "status": "LIVE",
+            "event_name": "ATP 500 - Nexo Dallas Open 2026",
+            "match_name": "World Feed",
+            "match_id": 140193,
+            "startTime": "12:30:00 AM 16-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140193_english_hls_0b8cd9bb0c16093_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140193_english_hls_0b8cd9bb0c16093_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Center Court vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
+            "team_1": "Center Court",
+            "team_2": "Dallas, United States",
+            "status": "LIVE",
+            "event_name": "ATP 500 - Nexo Dallas Open 2026",
+            "match_name": "Center Court",
+            "match_id": 140540,
+            "startTime": "12:30:00 AM 16-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140540_english_hls_893261ee9183734_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140540_english_hls_893261ee9183734_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -127,18 +143,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Odisha FC vs Punjab FC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140435_5956_ODS_PFC_fc-web.jpg",
-            "team_1": "Odisha FC",
-            "team_2": "Punjab FC",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "Odisha FC vs Punjab FC",
-            "match_id": 140435,
-            "startTime": "05:00:00 PM 16-02-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Castellón vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1770347072507/140421_CASACARDS_APP.png",
             "team_1": "Castellón",
@@ -151,6 +155,30 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Victoria Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
+            "team_1": "Victoria Women",
+            "team_2": "Western Australia Women",
+            "status": "UPCOMING",
+            "event_name": "Women's National Cricket League, 2025-26",
+            "match_name": "Victoria Women vs Western Australia Women",
+            "match_id": 133981,
+            "startTime": "04:30:00 AM 16-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Odisha FC vs Punjab FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140435_5956_ODS_PFC_fc-web.jpg",
+            "team_1": "Odisha FC",
+            "team_2": "Punjab FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "Odisha FC vs Punjab FC",
+            "match_id": 140435,
+            "startTime": "05:00:00 PM 16-02-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Queensland vs South Australia (Sheffield Shield, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134035_5609_QUN_SAU_fc-Web.jpg",
             "team_1": "Queensland",
@@ -160,6 +188,18 @@
             "match_name": "Queensland vs South Australia",
             "match_id": 134035,
             "startTime": "05:30:00 AM 16-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "East Bengal FC vs NorthEast United FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140436_5956_EBFC_NEUFC_fc-web.jpg",
+            "team_1": "East Bengal FC",
+            "team_2": "NorthEast United FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "East Bengal FC vs NorthEast United FC",
+            "match_id": 140436,
+            "startTime": "07:30:00 PM 16-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -184,42 +224,6 @@
             "match_name": "Tasmania vs New South Wales",
             "match_id": 134037,
             "startTime": "09:00:00 AM 16-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "East Bengal FC vs NorthEast United FC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140436_5956_EBFC_NEUFC_fc-web.jpg",
-            "team_1": "East Bengal FC",
-            "team_2": "NorthEast United FC",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "East Bengal FC vs NorthEast United FC",
-            "match_id": 140436,
-            "startTime": "07:30:00 PM 16-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "World Feed vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770112378426.png",
-            "team_1": "World Feed",
-            "team_2": "Dallas, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Nexo Dallas Open 2026",
-            "match_name": "World Feed",
-            "match_id": 140193,
-            "startTime": "12:30:00 AM 16-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Center Court vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
-            "team_1": "Center Court",
-            "team_2": "Dallas, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Nexo Dallas Open 2026",
-            "match_name": "Center Court",
-            "match_id": 140540,
-            "startTime": "12:30:00 AM 16-02-2026"
         },
         {
             "event_category": "Football",
@@ -292,6 +296,18 @@
             "match_name": "Coventry City Football Club vs Middlesbrough F.C.",
             "match_id": 139356,
             "startTime": "01:30:00 AM 17-02-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 1 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
+            "team_1": "Day 1",
+            "team_2": "Polo Gorund, Delhi University",
+            "status": "UPCOMING",
+            "event_name": "Apti Cup T20 Tournament",
+            "match_name": "Day 1",
+            "match_id": 140599,
+            "startTime": "09:00:00 AM 16-02-2026"
         },
         {
             "event_category": "Football",
@@ -390,18 +406,6 @@
             "startTime": "12:00:00 AM 17-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 1 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Polo Gorund, Delhi University",
-            "status": "UPCOMING",
-            "event_name": "Apti Cup T20 Tournament",
-            "match_name": "Day 1",
-            "match_id": 140599,
-            "startTime": "09:00:00 AM 16-02-2026"
-        },
-        {
             "event_category": "Tennis",
             "title": "Quadra 1 vs Rio (ATP 500 - Rio Open Presented by Claro 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
@@ -438,6 +442,18 @@
             "startTime": "12:00:00 AM 17-02-2026"
         },
         {
+            "event_category": "Live Events",
+            "title": "Day 2 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
+            "team_1": "Day 2",
+            "team_2": "Polo Gorund, Delhi University",
+            "status": "UPCOMING",
+            "event_name": "Apti Cup T20 Tournament",
+            "match_name": "Day 2",
+            "match_id": 140600,
+            "startTime": "09:00:00 AM 17-02-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Sydney FC vs Auckland (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138808_5802_SYD_AFC_1770724351931.png",
@@ -459,18 +475,6 @@
             "event_name": "AFC Champions League Elite 2025-26",
             "match_name": "Seoul vs Sanfrecce Hiroshima",
             "match_id": 136038,
-            "startTime": "03:30:00 PM 17-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Machida Zelvia vs Chengdu Rongcheng (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/24_Machida-Zelvia-vs-Chengdu-Rongcheng_1770636387098.png",
-            "team_1": "Machida Zelvia",
-            "team_2": "Chengdu Rongcheng",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Machida Zelvia vs Chengdu Rongcheng",
-            "match_id": 136037,
             "startTime": "03:30:00 PM 17-02-2026"
         }
     ]

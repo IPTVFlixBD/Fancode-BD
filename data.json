@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "02:22:43 PM 15-02-2026",
+    "last update time": "03:03:05 PM 15-02-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Diasqua Little Sai Wan Cricket Club vs United Services Recreation Club (Premier League T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Premier-League-T20-2026-old-match-card.jpg",
-            "team_1": "Diasqua Little Sai Wan Cricket Club",
-            "team_2": "United Services Recreation Club",
-            "status": "LIVE",
-            "event_name": "Premier League T20 2026",
-            "match_name": "Diasqua Little Sai Wan Cricket Club vs United Services Recreation Club",
-            "match_id": 140614,
-            "startTime": "11:00:00 AM 15-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140614_english_hls_574303ab2249962_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140614_english_hls_574303ab2249962_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Pakistan Association Cricket Club vs Kowloon Cricket Club (Premier League T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/_Premier-League-T20-2026-2nd-old-card-.jpg",
-            "team_1": "Pakistan Association Cricket Club",
-            "team_2": "Kowloon Cricket Club",
-            "status": "LIVE",
-            "event_name": "Premier League T20 2026",
-            "match_name": "Pakistan Association Cricket Club vs Kowloon Cricket Club",
-            "match_id": 140615,
-            "startTime": "11:30:00 AM 15-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140615_english_hls_14d520d75750282_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140615_english_hls_14d520d75750282_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Live Events",
             "title": "Legends League Cricket Auction 2026 vs Delhi (Legends League Cricket Auction 2026)",
@@ -252,6 +224,18 @@
             "startTime": "09:00:00 AM 16-02-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Odisha FC vs Punjab FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140435_5956_ODS_PFC_fc-web.jpg",
+            "team_1": "Odisha FC",
+            "team_2": "Punjab FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "Odisha FC vs Punjab FC",
+            "match_id": 140435,
+            "startTime": "05:00:00 PM 16-02-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "Centre Court vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
@@ -274,18 +258,6 @@
             "match_name": "World Feed",
             "match_id": 140551,
             "startTime": "05:30:00 PM 15-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Odisha FC vs Punjab FC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140435_5956_ODS_PFC_fc-web.jpg",
-            "team_1": "Odisha FC",
-            "team_2": "Punjab FC",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "Odisha FC vs Punjab FC",
-            "match_id": 140435,
-            "startTime": "05:00:00 PM 16-02-2026"
         },
         {
             "event_category": "Golf",
@@ -432,6 +404,42 @@
             "startTime": "03:00:00 PM 16-02-2026"
         },
         {
+            "event_category": "Tennis",
+            "title": "Grandstand 1 vs Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "Grandstand 1",
+            "team_2": "Qatar",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
+            "match_name": "Grandstand 1",
+            "match_id": 140646,
+            "startTime": "03:00:00 PM 16-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Center Court vs Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "Center Court",
+            "team_2": "Qatar",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
+            "match_name": "Center Court",
+            "match_id": 140645,
+            "startTime": "03:00:00 PM 16-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Grandstand 2 vs Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "Grandstand 2",
+            "team_2": "Qatar",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
+            "match_name": "Grandstand 2",
+            "match_id": 140644,
+            "startTime": "03:00:00 PM 16-02-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Al Shorta vs Al Duhail (AFC Champions League Elite 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/21_Al-Shorta-vs-Al-Duhail_1770636215875.png",
@@ -454,18 +462,6 @@
             "match_name": "Al Hilal SFC vs Al Wahda",
             "match_id": 136087,
             "startTime": "11:45:00 PM 16-02-2026"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Day 1 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Polo Gorund, Delhi University",
-            "status": "UPCOMING",
-            "event_name": "Apti Cup T20 Tournament",
-            "match_name": "Day 1",
-            "match_id": 140599,
-            "startTime": "09:00:00 AM 16-02-2026"
         }
     ]
 }

@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "03:21:36 AM 16-02-2026",
+    "last update time": "03:41:48 AM 16-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "RCD Mallorca vs Real Betis (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131063_5427_MRC_RB_FC-Web.png",
-            "team_1": "RCD Mallorca",
-            "team_2": "Real Betis",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "RCD Mallorca vs Real Betis",
-            "match_id": 131063,
-            "startTime": "01:30:00 AM 16-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/131063_english_hls_18b125469d63809_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/131063_english_hls_18b125469d63809_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Castellón vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
@@ -33,20 +19,6 @@
         },
         {
             "event_category": "Golf",
-            "title": "Main Feed - Day 4 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
-            "team_1": "Main Feed - Day 4",
-            "team_2": "Pebble Beach Golf Links, Spyglass Hill Golf Course",
-            "status": "LIVE",
-            "event_name": "AT&T Pebble Beach Pro-Am 2026",
-            "match_name": "Main Feed - Day 4",
-            "match_id": 140636,
-            "startTime": "08:45:00 PM 15-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140636_english_hls_20ce3a0acd64349_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140636_english_hls_20ce3a0acd64349_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
             "title": "Featured Groups - Day 4 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
             "team_1": "Featured Groups - Day 4",
@@ -58,20 +30,6 @@
             "startTime": "08:45:00 PM 15-02-2026",
             "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140635_english_hls_60d6d34c0a69172_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140635_english_hls_60d6d34c0a69172_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Holes - Day 4 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
-            "team_1": "Featured Holes - Day 4",
-            "team_2": "Pebble Beach Golf Links, Spyglass Hill Golf Course",
-            "status": "LIVE",
-            "event_name": "AT&T Pebble Beach Pro-Am 2026",
-            "match_name": "Featured Holes - Day 4",
-            "match_id": 140633,
-            "startTime": "09:30:00 PM 15-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140633_english_hls_73efc4916865633_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140633_english_hls_73efc4916865633_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -100,6 +58,20 @@
             "startTime": "12:30:00 AM 16-02-2026",
             "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140540_english_hls_893261ee9183734_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140540_english_hls_893261ee9183734_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "RCD Mallorca vs Real Betis (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131063_5427_MRC_RB_FC-Web.png",
+            "team_1": "RCD Mallorca",
+            "team_2": "Real Betis",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "RCD Mallorca vs Real Betis",
+            "match_id": 131063,
+            "startTime": "01:30:00 AM 16-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/131063_english_hls_18b125469d63809_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/131063_english_hls_18b125469d63809_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -471,6 +443,30 @@
             "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
             "match_name": "Grandstand 1",
             "match_id": 140649,
+            "startTime": "03:00:00 PM 17-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Center Court vs Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "Center Court",
+            "team_2": "Qatar",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
+            "match_name": "Center Court",
+            "match_id": 140648,
+            "startTime": "03:00:00 PM 17-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "World Feed  vs Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "World Feed ",
+            "team_2": "Qatar",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
+            "match_name": "World Feed ",
+            "match_id": 140647,
             "startTime": "03:00:00 PM 17-02-2026"
         }
     ]

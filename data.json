@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "08:21:47 PM 16-02-2026",
+    "last update time": "09:02:14 PM 16-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -197,18 +197,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Real Sociedad vs Málaga (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1770347072514/140423_CASACARDS_APP.png",
-            "team_1": "Real Sociedad",
-            "team_2": "Málaga",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Sociedad vs Málaga",
-            "match_id": 140423,
-            "startTime": "01:00:00 AM 17-02-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Seoul vs Sanfrecce Hiroshima (AFC Champions League Elite 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/23_Seoul-vs-Sanfrecce-Hiroshima_1770636487538.png",
             "team_1": "Seoul",
@@ -230,6 +218,30 @@
             "match_name": "Machida Zelvia vs Chengdu Rongcheng",
             "match_id": 136037,
             "startTime": "03:30:00 PM 17-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Sociedad vs Málaga (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1770347072514/140423_CASACARDS_APP.png",
+            "team_1": "Real Sociedad",
+            "team_2": "Málaga",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Real Sociedad vs Málaga",
+            "match_id": 140423,
+            "startTime": "01:00:00 AM 17-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court A Feed vs Delray Beach, United States (ATP 250 - Delray Beach Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Delray-Beach-Open-2026--old-card.png",
+            "team_1": "Court A Feed",
+            "team_2": "Delray Beach, United States",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Delray Beach Open 2026",
+            "match_name": "Court A Feed",
+            "match_id": 140295,
+            "startTime": "09:30:00 PM 16-02-2026"
         },
         {
             "event_category": "Football",
@@ -293,18 +305,6 @@
         },
         {
             "event_category": "Tennis",
-            "title": "Court A Feed vs Delray Beach, United States (ATP 250 - Delray Beach Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Delray-Beach-Open-2026--old-card.png",
-            "team_1": "Court A Feed",
-            "team_2": "Delray Beach, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Delray Beach Open 2026",
-            "match_name": "Court A Feed",
-            "match_id": 140295,
-            "startTime": "09:30:00 PM 16-02-2026"
-        },
-        {
-            "event_category": "Tennis",
             "title": "World Feed vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png",
             "team_1": "World Feed",
@@ -352,18 +352,6 @@
             "startTime": "02:30:00 AM 17-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 2 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
-            "team_1": "Day 2",
-            "team_2": "Polo Gorund, Delhi University",
-            "status": "UPCOMING",
-            "event_name": "Apti Cup T20 Tournament",
-            "match_name": "Day 2",
-            "match_id": 140600,
-            "startTime": "09:00:00 AM 17-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Al Wasl vs AL Zawraa SC (AFC Champions League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140060_5648_AWL_ALZ_FC-Web.jpg",
@@ -376,9 +364,21 @@
             "startTime": "09:30:00 PM 17-02-2026"
         },
         {
+            "event_category": "Live Events",
+            "title": "Day 2 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
+            "team_1": "Day 2",
+            "team_2": "Polo Gorund, Delhi University",
+            "status": "UPCOMING",
+            "event_name": "Apti Cup T20 Tournament",
+            "match_name": "Day 2",
+            "match_id": 140600,
+            "startTime": "09:00:00 AM 17-02-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "Grandstand 1 vs Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-old-match-card-_1771246185234.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-old-match-card-_1771255801669.jpg",
             "team_1": "Grandstand 1",
             "team_2": "Qatar",
             "status": "UPCOMING",
@@ -412,18 +412,6 @@
             "startTime": "03:00:00 PM 17-02-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Grandstand 3 vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-old-match-card-.jpg",
-            "team_1": "Grandstand 3",
-            "team_2": "Doha, Qatar",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
-            "match_name": "Grandstand 3",
-            "match_id": 140209,
-            "startTime": "04:30:00 PM 17-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Al Hussein vs Esteghlal FC (AFC Champions League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140061_5648_HUS_ESG_FC-Web.jpg",
@@ -434,6 +422,18 @@
             "match_name": "Al Hussein vs Esteghlal FC",
             "match_id": 140061,
             "startTime": "11:45:00 PM 17-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Grandstand 3 vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-old-match-card-.jpg",
+            "team_1": "Grandstand 3",
+            "team_2": "Doha, Qatar",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
+            "match_name": "Grandstand 3",
+            "match_id": 140209,
+            "startTime": "04:30:00 PM 17-02-2026"
         },
         {
             "event_category": "Football",

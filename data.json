@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "10:33:19 PM 16-02-2026",
+    "last update time": "11:13:46 PM 16-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -197,18 +197,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Real Sociedad vs Málaga (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1770347072514/140423_CASACARDS_APP.png",
-            "team_1": "Real Sociedad",
-            "team_2": "Málaga",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Sociedad vs Málaga",
-            "match_id": 140423,
-            "startTime": "01:00:00 AM 17-02-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Johor Darul Ta'zim vs Vissel Kobe (AFC Champions League Elite 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/25_Johor-Darul-Ta'zim-vs-Vissel-Kobe_1770636633495.png",
             "team_1": "Johor Darul Ta'zim",
@@ -230,6 +218,18 @@
             "match_name": "Buriram United vs Shanghai Shenhua",
             "match_id": 136039,
             "startTime": "05:45:00 PM 17-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Sociedad vs Málaga (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1770347072514/140423_CASACARDS_APP.png",
+            "team_1": "Real Sociedad",
+            "team_2": "Málaga",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Real Sociedad vs Málaga",
+            "match_id": 140423,
+            "startTime": "01:00:00 AM 17-02-2026"
         },
         {
             "event_category": "Football",
@@ -328,18 +328,6 @@
             "startTime": "02:30:00 AM 17-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 2 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
-            "team_1": "Day 2",
-            "team_2": "Polo Gorund, Delhi University",
-            "status": "UPCOMING",
-            "event_name": "Apti Cup T20 Tournament",
-            "match_name": "Day 2",
-            "match_id": 140600,
-            "startTime": "09:00:00 AM 17-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Al Hussein vs Esteghlal FC (AFC Champions League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140061_5648_HUS_ESG_FC-Web.jpg",
@@ -350,6 +338,18 @@
             "match_name": "Al Hussein vs Esteghlal FC",
             "match_id": 140061,
             "startTime": "11:45:00 PM 17-02-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 2 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
+            "team_1": "Day 2",
+            "team_2": "Polo Gorund, Delhi University",
+            "status": "UPCOMING",
+            "event_name": "Apti Cup T20 Tournament",
+            "match_name": "Day 2",
+            "match_id": 140600,
+            "startTime": "09:00:00 AM 17-02-2026"
         },
         {
             "event_category": "Live Events",
@@ -398,6 +398,18 @@
             "match_name": "World Feed ",
             "match_id": 140647,
             "startTime": "03:00:00 PM 17-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Grandstand 2 vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-old-match-card-_1771246185234.jpg",
+            "team_1": "Grandstand 2",
+            "team_2": "Doha, Qatar",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
+            "match_name": "Grandstand 2",
+            "match_id": 140751,
+            "startTime": "04:00:00 PM 17-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -457,18 +469,6 @@
             "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
             "match_name": "World Feed",
             "match_id": 140656,
-            "startTime": "12:00:00 AM 18-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Quadra 4 vs Rio (ATP 500 - Rio Open Presented by Claro 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1771227556428.png",
-            "team_1": "Quadra 4",
-            "team_2": "Rio",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-            "match_name": "Quadra 4",
-            "match_id": 140655,
             "startTime": "12:00:00 AM 18-02-2026"
         }
     ]

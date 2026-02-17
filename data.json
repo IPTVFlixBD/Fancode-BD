@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "10:58:41 PM 17-02-2026",
+    "last update time": "11:59:21 PM 17-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Al Gharafa vs Tractor (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770636792120.png",
-            "team_1": "Al Gharafa",
-            "team_2": "Tractor",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Al Gharafa vs Tractor",
-            "match_id": 136090,
-            "startTime": "09:30:00 PM 17-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/136090_english_hls_60f0c9b33549529_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136090_english_hls_60f0c9b33549529_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al Sadd vs Al-Ittihad (AFC Champions League Elite 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1771347383365/136089_CASACARDS_APP.png",
-            "team_1": "Al Sadd",
-            "team_2": "Al-Ittihad",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Al Sadd vs Al-Ittihad",
-            "match_id": 136089,
-            "startTime": "09:30:00 PM 17-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/136089_english_hls_03bb8331a220163_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/136089_english_hls_03bb8331a220163_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Al Wasl vs AL Zawraa SC (AFC Champions League Two 2025-26)",
@@ -46,18 +18,18 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140060_english_hls_0bb6bf1bb521155_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Tennis",
-            "title": "Grandstand 1 vs Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771298305039.jpg",
-            "team_1": "Grandstand 1",
-            "team_2": "Qatar",
+            "event_category": "Football",
+            "title": "Al Hussein vs Esteghlal FC (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140061_5648_HUS_ESG_FC-Web.jpg",
+            "team_1": "Al Hussein",
+            "team_2": "Esteghlal FC",
             "status": "LIVE",
-            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
-            "match_name": "Grandstand 1",
-            "match_id": 140649,
-            "startTime": "04:00:00 PM 17-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140649_english_hls_250f5c06b551175_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140649_english_hls_250f5c06b551175_1ta-di_h264/index.m3u8"
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Al Hussein vs Esteghlal FC",
+            "match_id": 140061,
+            "startTime": "11:45:00 PM 17-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140061_english_hls_db731f332072640_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140061_english_hls_db731f332072640_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -102,18 +74,6 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Al Hussein vs Esteghlal FC (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140061_5648_HUS_ESG_FC-Web.jpg",
-            "team_1": "Al Hussein",
-            "team_2": "Esteghlal FC",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Al Hussein vs Esteghlal FC",
-            "match_id": 140061,
-            "startTime": "11:45:00 PM 17-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Victoria Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
@@ -124,6 +84,30 @@
             "match_name": "Victoria Women vs Western Australia Women",
             "match_id": 133984,
             "startTime": "04:30:00 AM 18-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne City vs Gangwon (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/29_Melbourne-City-vs-Gangwon_1770636939459.png",
+            "team_1": "Melbourne City",
+            "team_2": "Gangwon",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Melbourne City vs Gangwon",
+            "match_id": 136042,
+            "startTime": "03:30:00 PM 18-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Shanghai Port vs Ulsan HD (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/30_Shanghai-Port-vs-Ulsan-HD_1770636853402.png",
+            "team_1": "Shanghai Port",
+            "team_2": "Ulsan HD",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Shanghai Port vs Ulsan HD",
+            "match_id": 136041,
+            "startTime": "03:30:00 PM 18-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -160,30 +144,6 @@
             "match_name": "Tasmania vs New South Wales",
             "match_id": 134037,
             "startTime": "09:00:00 AM 16-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Melbourne City vs Gangwon (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/29_Melbourne-City-vs-Gangwon_1770636939459.png",
-            "team_1": "Melbourne City",
-            "team_2": "Gangwon",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Melbourne City vs Gangwon",
-            "match_id": 136042,
-            "startTime": "03:30:00 PM 18-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Shanghai Port vs Ulsan HD (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/30_Shanghai-Port-vs-Ulsan-HD_1770636853402.png",
-            "team_1": "Shanghai Port",
-            "team_2": "Ulsan HD",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Shanghai Port vs Ulsan HD",
-            "match_id": 136041,
-            "startTime": "03:30:00 PM 18-02-2026"
         },
         {
             "event_category": "Football",
@@ -294,6 +254,30 @@
             "startTime": "01:30:00 AM 19-02-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Al-Nassr FC vs FC Arkadag (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC--AL-Nassr-v-FK-Arkadag--old-match-card.jpg",
+            "team_1": "Al-Nassr FC",
+            "team_2": "FC Arkadag",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Al-Nassr FC vs FC Arkadag",
+            "match_id": 140065,
+            "startTime": "11:45:00 PM 18-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Ahli (QAT) vs Sepahan (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140064_5648_ASC_SEP_FC-Web.jpg",
+            "team_1": "Al Ahli (QAT)",
+            "team_2": "Sepahan",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Al Ahli (QAT) vs Sepahan",
+            "match_id": 140064,
+            "startTime": "11:45:00 PM 18-02-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "Qaudra 1 vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png",
@@ -366,30 +350,6 @@
             "startTime": "09:00:00 AM 18-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Al-Nassr FC vs FC Arkadag (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC--AL-Nassr-v-FK-Arkadag--old-match-card.jpg",
-            "team_1": "Al-Nassr FC",
-            "team_2": "FC Arkadag",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Al-Nassr FC vs FC Arkadag",
-            "match_id": 140065,
-            "startTime": "11:45:00 PM 18-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al Ahli (QAT) vs Sepahan (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140064_5648_ASC_SEP_FC-Web.jpg",
-            "team_1": "Al Ahli (QAT)",
-            "team_2": "Sepahan",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Al Ahli (QAT) vs Sepahan",
-            "match_id": 140064,
-            "startTime": "11:45:00 PM 18-02-2026"
-        },
-        {
             "event_category": "Formula 1",
             "title": "Day 1 vs Bahrain International Circuit (F1 ARAMCO PRE-SEASON TESTING 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_web_1770205109895.jpg",
@@ -400,6 +360,18 @@
             "match_name": "Day 1",
             "match_id": 139561,
             "startTime": "12:30:00 PM 18-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Aberdeen vs Motherwell (Scottish Cup 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Aberdeen",
+            "team_2": "Motherwell",
+            "status": "UPCOMING",
+            "event_name": "Scottish Cup 2025-26",
+            "match_name": "Aberdeen vs Motherwell",
+            "match_id": 140293,
+            "startTime": "01:15:00 AM 19-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -451,18 +423,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Aberdeen vs Motherwell (Scottish Cup 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Aberdeen",
-            "team_2": "Motherwell",
-            "status": "UPCOMING",
-            "event_name": "Scottish Cup 2025-26",
-            "match_name": "Aberdeen vs Motherwell",
-            "match_id": 140293,
-            "startTime": "01:15:00 AM 19-02-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Defense Force vs Philadelphia Union (CONCACAF Champions Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140380_5954_DEF_PU_FC-Web.jpg",
             "team_1": "Defense Force",
@@ -472,6 +432,42 @@
             "match_name": "Defense Force vs Philadelphia Union",
             "match_id": 140380,
             "startTime": "04:30:00 AM 19-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court A Feed vs Delray Beach, United States (ATP 250 - Delray Beach Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Delray-Beach-Open-2026--old-card.png",
+            "team_1": "Court A Feed",
+            "team_2": "Delray Beach, United States",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Delray Beach Open 2026",
+            "match_name": "Court A Feed",
+            "match_id": 140297,
+            "startTime": "11:30:00 PM 18-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "World Feed vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png",
+            "team_1": "World Feed",
+            "team_2": "Rio de Janeiro, Brazil",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+            "match_name": "World Feed",
+            "match_id": 140287,
+            "startTime": "01:00:00 AM 19-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Quadra 2 vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1771258095221.png",
+            "team_1": "Quadra 2",
+            "team_2": "Rio de Janeiro, Brazil",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+            "match_name": "Quadra 2",
+            "match_id": 140749,
+            "startTime": "01:00:00 AM 19-02-2026"
         }
     ]
 }

@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "01:02:19 PM 17-02-2026",
+    "last update time": "01:32:36 PM 17-02-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Queensland vs South Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134035_5609_QUN_SAU_fc-Web.jpg",
-            "team_1": "Queensland",
-            "team_2": "South Australia",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Queensland vs South Australia",
-            "match_id": 134035,
-            "startTime": "05:30:00 AM 16-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/134035_english_hls_1afd89d14d51593_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/134035_english_hls_1afd89d14d51593_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Victoria vs Western Australia (Sheffield Shield, 2025-26)",
@@ -46,6 +32,20 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/134037_english_hls_26ae0af60c38725_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Sydney FC vs Auckland (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138808_5802_SYD_AFC_1770724351931.png",
+            "team_1": "Sydney FC",
+            "team_2": "Auckland",
+            "status": "LIVE",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney FC vs Auckland",
+            "match_id": 138808,
+            "startTime": "01:30:00 PM 17-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/138808_english_hls_c885c46e606308_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138808_english_hls_c885c46e606308_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Live Events",
             "title": "Day 2 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
@@ -58,18 +58,6 @@
             "startTime": "09:00:00 AM 17-02-2026",
             "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140600_english_hls_6b62fe153b82281_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140600_english_hls_6b62fe153b82281_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sydney FC vs Auckland (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138808_5802_SYD_AFC_1770724351931.png",
-            "team_1": "Sydney FC",
-            "team_2": "Auckland",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney FC vs Auckland",
-            "match_id": 138808,
-            "startTime": "01:30:00 PM 17-02-2026"
         },
         {
             "event_category": "Football",
@@ -154,6 +142,18 @@
             "match_name": "Victoria Women vs Western Australia Women",
             "match_id": 133984,
             "startTime": "04:30:00 AM 18-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Queensland vs South Australia (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134035_5609_QUN_SAU_fc-Web.jpg",
+            "team_1": "Queensland",
+            "team_2": "South Australia",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Queensland vs South Australia",
+            "match_id": 134035,
+            "startTime": "05:30:00 AM 16-02-2026"
         },
         {
             "event_category": "Football",

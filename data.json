@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:59:21 PM 17-02-2026",
+    "last update time": "12:49:52 AM 18-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Al Wasl vs AL Zawraa SC (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140060_5648_AWL_ALZ_FC-Web.jpg",
-            "team_1": "Al Wasl",
-            "team_2": "AL Zawraa SC",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Al Wasl vs AL Zawraa SC",
-            "match_id": 140060,
-            "startTime": "09:30:00 PM 17-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140060_english_hls_0bb6bf1bb521155_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140060_english_hls_0bb6bf1bb521155_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Al Hussein vs Esteghlal FC (AFC Champions League Two 2025-26)",
@@ -72,6 +58,88 @@
             "startTime": "09:30:00 PM 17-02-2026",
             "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140296_english_hls_9b76968d5074560_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Qaudra 1 vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png",
+            "team_1": "Qaudra 1",
+            "team_2": "Rio de Janeiro, Brazil",
+            "status": "LIVE",
+            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+            "match_name": "Qaudra 1",
+            "match_id": 140286,
+            "startTime": "01:00:00 AM 18-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140286_english_hls_97cbc4efc975587_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "World Feed vs Rio (ATP 500 - Rio Open Presented by Claro 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1771227556428.png",
+            "team_1": "World Feed",
+            "team_2": "Rio",
+            "status": "LIVE",
+            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+            "match_name": "World Feed",
+            "match_id": 140656,
+            "startTime": "01:00:00 AM 18-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140656_english_hls_d0b11efc7361302_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Quadra 4 vs Rio (ATP 500 - Rio Open Presented by Claro 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1771227556428.png",
+            "team_1": "Quadra 4",
+            "team_2": "Rio",
+            "status": "LIVE",
+            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+            "match_name": "Quadra 4",
+            "match_id": 140655,
+            "startTime": "01:00:00 AM 18-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140655_english_hls_1fe984173d91515_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Quadra 2 vs Rio (ATP 500 - Rio Open Presented by Claro 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1771227556428.png",
+            "team_1": "Quadra 2",
+            "team_2": "Rio",
+            "status": "LIVE",
+            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+            "match_name": "Quadra 2",
+            "match_id": 140654,
+            "startTime": "01:00:00 AM 18-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140654_english_hls_7fcd49e7fc88358_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140654_english_hls_7fcd49e7fc88358_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Quadra Guga Kuerten vs Rio (ATP 500 - Rio Open Presented by Claro 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1771227556428.png",
+            "team_1": "Quadra Guga Kuerten",
+            "team_2": "Rio",
+            "status": "LIVE",
+            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+            "match_name": "Quadra Guga Kuerten",
+            "match_id": 140653,
+            "startTime": "01:00:00 AM 18-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140653_english_hls_858561e08624721_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140653_english_hls_858561e08624721_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Blackpool vs Mansfield Town (League One 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png",
+            "team_1": "Blackpool",
+            "team_2": "Mansfield Town",
+            "status": "UPCOMING",
+            "event_name": "League One 2025-26",
+            "match_name": "Blackpool vs Mansfield Town",
+            "match_id": 140017,
+            "startTime": "01:30:00 AM 18-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -144,18 +212,6 @@
             "match_name": "Tasmania vs New South Wales",
             "match_id": 134037,
             "startTime": "09:00:00 AM 16-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Blackpool vs Mansfield Town (League One 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png",
-            "team_1": "Blackpool",
-            "team_2": "Mansfield Town",
-            "status": "UPCOMING",
-            "event_name": "League One 2025-26",
-            "match_name": "Blackpool vs Mansfield Town",
-            "match_id": 140017,
-            "startTime": "01:30:00 AM 18-02-2026"
         },
         {
             "event_category": "Football",
@@ -278,64 +334,16 @@
             "startTime": "11:45:00 PM 18-02-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Qaudra 1 vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png",
-            "team_1": "Qaudra 1",
-            "team_2": "Rio de Janeiro, Brazil",
+            "event_category": "Football",
+            "title": "Aberdeen vs Motherwell (Scottish Cup 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Aberdeen",
+            "team_2": "Motherwell",
             "status": "UPCOMING",
-            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-            "match_name": "Qaudra 1",
-            "match_id": 140286,
-            "startTime": "01:00:00 AM 18-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "World Feed vs Rio (ATP 500 - Rio Open Presented by Claro 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1771227556428.png",
-            "team_1": "World Feed",
-            "team_2": "Rio",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-            "match_name": "World Feed",
-            "match_id": 140656,
-            "startTime": "01:00:00 AM 18-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Quadra 4 vs Rio (ATP 500 - Rio Open Presented by Claro 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1771227556428.png",
-            "team_1": "Quadra 4",
-            "team_2": "Rio",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-            "match_name": "Quadra 4",
-            "match_id": 140655,
-            "startTime": "01:00:00 AM 18-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Quadra 2 vs Rio (ATP 500 - Rio Open Presented by Claro 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1771227556428.png",
-            "team_1": "Quadra 2",
-            "team_2": "Rio",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-            "match_name": "Quadra 2",
-            "match_id": 140654,
-            "startTime": "01:00:00 AM 18-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Quadra Guga Kuerten vs Rio (ATP 500 - Rio Open Presented by Claro 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1771227556428.png",
-            "team_1": "Quadra Guga Kuerten",
-            "team_2": "Rio",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-            "match_name": "Quadra Guga Kuerten",
-            "match_id": 140653,
-            "startTime": "01:00:00 AM 18-02-2026"
+            "event_name": "Scottish Cup 2025-26",
+            "match_name": "Aberdeen vs Motherwell",
+            "match_id": 140293,
+            "startTime": "01:15:00 AM 19-02-2026"
         },
         {
             "event_category": "Live Events",
@@ -360,18 +368,6 @@
             "match_name": "Day 1",
             "match_id": 139561,
             "startTime": "12:30:00 PM 18-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Aberdeen vs Motherwell (Scottish Cup 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Aberdeen",
-            "team_2": "Motherwell",
-            "status": "UPCOMING",
-            "event_name": "Scottish Cup 2025-26",
-            "match_name": "Aberdeen vs Motherwell",
-            "match_id": 140293,
-            "startTime": "01:15:00 AM 19-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -467,6 +463,18 @@
             "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
             "match_name": "Quadra 2",
             "match_id": 140749,
+            "startTime": "01:00:00 AM 19-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Quadra 1 vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1771258095221.png",
+            "team_1": "Quadra 1",
+            "team_2": "Rio de Janeiro, Brazil",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+            "match_name": "Quadra 1",
+            "match_id": 140748,
             "startTime": "01:00:00 AM 19-02-2026"
         }
     ]

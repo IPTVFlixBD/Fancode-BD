@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "07:48:58 AM 17-02-2026",
+    "last update time": "09:50:17 AM 17-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,46 +32,32 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/134036_english_hls_ab6f47f92034501_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Tennis",
-            "title": "Court A Feed vs Delray Beach, United States (ATP 250 - Delray Beach Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Delray-Beach-Open-2026--old-card.png",
-            "team_1": "Court A Feed",
-            "team_2": "Delray Beach, United States",
+            "event_category": "Cricket",
+            "title": "Tasmania vs New South Wales (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134037_5609_TAS_NSW_fc-Web.jpg",
+            "team_1": "Tasmania",
+            "team_2": "New South Wales",
             "status": "LIVE",
-            "event_name": "ATP 250 - Delray Beach Open 2026",
-            "match_name": "Court A Feed",
-            "match_id": 140295,
-            "startTime": "09:30:00 PM 16-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140295_english_hls_f3b17e180e56333_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140295_english_hls_f3b17e180e56333_1ta-di_h264/index.m3u8"
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Tasmania vs New South Wales",
+            "match_id": 134037,
+            "startTime": "09:00:00 AM 16-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/134037_english_hls_26ae0af60c38725_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/134037_english_hls_26ae0af60c38725_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Tennis",
-            "title": "World Feed vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png",
-            "team_1": "World Feed",
-            "team_2": "Rio de Janeiro, Brazil",
+            "event_category": "Live Events",
+            "title": "Day 2 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
+            "team_1": "Day 2",
+            "team_2": "Polo Gorund, Delhi University",
             "status": "LIVE",
-            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-            "match_name": "World Feed",
-            "match_id": 140285,
-            "startTime": "01:00:00 AM 17-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140285_english_hls_549feed20283193_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140285_english_hls_549feed20283193_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Quadra Guga Kuerten vs Rio (ATP 500 - Rio Open Presented by Claro 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1771227556428.png",
-            "team_1": "Quadra Guga Kuerten",
-            "team_2": "Rio",
-            "status": "LIVE",
-            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-            "match_name": "Quadra Guga Kuerten",
-            "match_id": 140650,
-            "startTime": "01:00:00 AM 17-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140650_english_hls_30300ce3d690494_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140650_english_hls_30300ce3d690494_1ta-di_h264/index.m3u8"
+            "event_name": "Apti Cup T20 Tournament",
+            "match_name": "Day 2",
+            "match_id": 140600,
+            "startTime": "09:00:00 AM 17-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140600_english_hls_6b62fe153b82281_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140600_english_hls_6b62fe153b82281_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -147,15 +133,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Tasmania vs New South Wales (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134037_5609_TAS_NSW_fc-Web.jpg",
-            "team_1": "Tasmania",
-            "team_2": "New South Wales",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Tasmania vs New South Wales",
-            "match_id": 134037,
-            "startTime": "09:00:00 AM 16-02-2026"
+            "title": "Victoria Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+            "team_1": "Victoria Women",
+            "team_2": "Western Australia Women",
+            "status": "UPCOMING",
+            "event_name": "Women's National Cricket League, 2025-26",
+            "match_name": "Victoria Women vs Western Australia Women",
+            "match_id": 133984,
+            "startTime": "04:30:00 AM 18-02-2026"
         },
         {
             "event_category": "Football",
@@ -168,18 +154,6 @@
             "match_name": "Sydney FC vs Auckland",
             "match_id": 138808,
             "startTime": "01:30:00 PM 17-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Victoria Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
-            "team_1": "Victoria Women",
-            "team_2": "Western Australia Women",
-            "status": "UPCOMING",
-            "event_name": "Women's National Cricket League, 2025-26",
-            "match_name": "Victoria Women vs Western Australia Women",
-            "match_id": 133984,
-            "startTime": "04:30:00 AM 18-02-2026"
         },
         {
             "event_category": "Football",
@@ -230,16 +204,16 @@
             "startTime": "06:30:00 AM 18-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 2 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
-            "team_1": "Day 2",
-            "team_2": "Polo Gorund, Delhi University",
+            "event_category": "Football",
+            "title": "Real España vs Los Angeles Football Club (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140379_5954_RE_LAF_FC-Web.jpg",
+            "team_1": "Real España",
+            "team_2": "Los Angeles Football Club",
             "status": "UPCOMING",
-            "event_name": "Apti Cup T20 Tournament",
-            "match_name": "Day 2",
-            "match_id": 140600,
-            "startTime": "09:00:00 AM 17-02-2026"
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Real España vs Los Angeles Football Club",
+            "match_id": 140379,
+            "startTime": "08:30:00 AM 18-02-2026"
         },
         {
             "event_category": "Live Events",
@@ -256,7 +230,7 @@
         {
             "event_category": "Tennis",
             "title": "Grandstand 1 vs Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771256547378.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771298305039.jpg",
             "team_1": "Grandstand 1",
             "team_2": "Qatar",
             "status": "UPCOMING",
@@ -268,7 +242,7 @@
         {
             "event_category": "Tennis",
             "title": "Center Court vs Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771256547378.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771298305039.jpg",
             "team_1": "Center Court",
             "team_2": "Qatar",
             "status": "UPCOMING",
@@ -280,7 +254,7 @@
         {
             "event_category": "Tennis",
             "title": "World Feed  vs Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771256547378.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771298305039.jpg",
             "team_1": "World Feed ",
             "team_2": "Qatar",
             "status": "UPCOMING",
@@ -304,7 +278,7 @@
         {
             "event_category": "Tennis",
             "title": "Grandstand 3 vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771256547378.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771298305039.jpg",
             "team_1": "Grandstand 3",
             "team_2": "Doha, Qatar",
             "status": "UPCOMING",
@@ -312,18 +286,6 @@
             "match_name": "Grandstand 3",
             "match_id": 140209,
             "startTime": "04:30:00 PM 17-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real España vs Los Angeles Football Club (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140379_5954_RE_LAF_FC-Web.jpg",
-            "team_1": "Real España",
-            "team_2": "Los Angeles Football Club",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Real España vs Los Angeles Football Club",
-            "match_id": 140379,
-            "startTime": "08:30:00 AM 18-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -386,18 +348,6 @@
             "startTime": "12:00:00 AM 18-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 3 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
-            "team_1": "Day 3",
-            "team_2": "Polo Gorund, Delhi University",
-            "status": "UPCOMING",
-            "event_name": "Apti Cup T20 Tournament",
-            "match_name": "Day 3",
-            "match_id": 140601,
-            "startTime": "09:00:00 AM 18-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Melbourne City vs Gangwon (AFC Champions League Elite 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/29_Melbourne-City-vs-Gangwon_1770636939459.png",
@@ -420,6 +370,18 @@
             "match_name": "Shanghai Port vs Ulsan HD",
             "match_id": 136041,
             "startTime": "03:30:00 PM 18-02-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 3 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
+            "team_1": "Day 3",
+            "team_2": "Polo Gorund, Delhi University",
+            "status": "UPCOMING",
+            "event_name": "Apti Cup T20 Tournament",
+            "match_name": "Day 3",
+            "match_id": 140601,
+            "startTime": "09:00:00 AM 18-02-2026"
         },
         {
             "event_category": "Formula 1",
@@ -460,13 +422,49 @@
         {
             "event_category": "Tennis",
             "title": "World Feed vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771256547378.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771298305039.jpg",
             "team_1": "World Feed",
             "team_2": "Doha, Qatar",
             "status": "UPCOMING",
             "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
             "match_name": "World Feed",
             "match_id": 140210,
+            "startTime": "04:00:00 PM 18-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Grandstand 3 vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771298305039.jpg",
+            "team_1": "Grandstand 3",
+            "team_2": "Doha, Qatar",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
+            "match_name": "Grandstand 3",
+            "match_id": 140746,
+            "startTime": "04:00:00 PM 18-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Centre Court vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771298305039.jpg",
+            "team_1": "Centre Court",
+            "team_2": "Doha, Qatar",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
+            "match_name": "Centre Court",
+            "match_id": 140745,
+            "startTime": "04:00:00 PM 18-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Grandstand 1 vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771298305039.jpg",
+            "team_1": "Grandstand 1",
+            "team_2": "Doha, Qatar",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
+            "match_name": "Grandstand 1",
+            "match_id": 140744,
             "startTime": "04:00:00 PM 18-02-2026"
         }
     ]

@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "10:40:26 AM 19-02-2026",
+    "last update time": "11:41:01 AM 19-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,18 +18,16 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/134037_english_hls_26ae0af60c14372_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "CS Cartagines vs Vancouver Whitecaps FC (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140382_5954_CSC_VAN_FC-Web.jpg",
-            "team_1": "CS Cartagines",
-            "team_2": "Vancouver Whitecaps FC",
-            "status": "LIVE",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "CS Cartagines vs Vancouver Whitecaps FC",
-            "match_id": 140382,
-            "startTime": "08:30:00 AM 19-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140382_english_hls_831c93db4672027_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140382_english_hls_831c93db4672027_1ta-di_h264/index.m3u8"
+            "event_category": "Cricket",
+            "title": "Maties Cricket Club vs Paarl CC (Boland T20 Super League Finals 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140659_5968_MAT_PRC_FC-Web.jpg",
+            "team_1": "Maties Cricket Club",
+            "team_2": "Paarl CC",
+            "status": "UPCOMING",
+            "event_name": "Boland T20 Super League Finals 2026",
+            "match_name": "Maties Cricket Club vs Paarl CC",
+            "match_id": 140659,
+            "startTime": "10:00:00 PM 19-02-2026"
         },
         {
             "event_category": "Football",
@@ -56,18 +54,6 @@
             "startTime": "07:30:00 PM 19-02-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Maties Cricket Club vs Paarl CC (Boland T20 Super League Finals 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140659_5968_MAT_PRC_FC-Web.jpg",
-            "team_1": "Maties Cricket Club",
-            "team_2": "Paarl CC",
-            "status": "UPCOMING",
-            "event_name": "Boland T20 Super League Finals 2026",
-            "match_name": "Maties Cricket Club vs Paarl CC",
-            "match_id": 140659,
-            "startTime": "10:00:00 PM 19-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Juventus Women vs VfL Wolfsburg Women (UEFA Women's Champions League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/VfL-Wolfsburg-Women-vs-Juventus-Women_fc-web.jpg",
@@ -82,7 +68,7 @@
         {
             "event_category": "Football",
             "title": "Al-Ahli Saudi FC vs Al-Najmah SC (Roshn Saudi League 2025-2026)",
-            "src": "https://images.fancode.com/aig/match/v1771475847172/140697_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140697_5655_AAS_ALN_fc-web.jpg",
             "team_1": "Al-Ahli Saudi FC",
             "team_2": "Al-Najmah SC",
             "status": "UPCOMING",
@@ -128,16 +114,16 @@
             "startTime": "03:30:00 PM 19-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 4 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
-            "team_1": "Day 4",
-            "team_2": "Polo Gorund, Delhi University",
+            "event_category": "Formula 1",
+            "title": "Day 2 vs Bahrain International Circuit (F1 ARAMCO PRE-SEASON TESTING 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_web_1770205109895.jpg",
+            "team_1": "Day 2",
+            "team_2": "Bahrain International Circuit",
             "status": "UPCOMING",
-            "event_name": "Apti Cup T20 Tournament",
-            "match_name": "Day 4",
-            "match_id": 140602,
-            "startTime": "11:00:00 AM 19-02-2026"
+            "event_name": "F1 ARAMCO PRE-SEASON TESTING 2026",
+            "match_name": "Day 2",
+            "match_id": 139562,
+            "startTime": "12:30:00 PM 19-02-2026"
         },
         {
             "event_category": "Football",
@@ -152,16 +138,16 @@
             "startTime": "06:30:00 AM 20-02-2026"
         },
         {
-            "event_category": "Formula 1",
-            "title": "Day 2 vs Bahrain International Circuit (F1 ARAMCO PRE-SEASON TESTING 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_web_1770205109895.jpg",
-            "team_1": "Day 2",
-            "team_2": "Bahrain International Circuit",
+            "event_category": "Live Events",
+            "title": "Day 4 vs Polo Gorund, Delhi University (Apti Cup T20 Tournament)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Apti_cup_web.jpg",
+            "team_1": "Day 4",
+            "team_2": "Polo Gorund, Delhi University",
             "status": "UPCOMING",
-            "event_name": "F1 ARAMCO PRE-SEASON TESTING 2026",
-            "match_name": "Day 2",
-            "match_id": 139562,
-            "startTime": "12:30:00 PM 19-02-2026"
+            "event_name": "Apti Cup T20 Tournament",
+            "match_name": "Day 4",
+            "match_id": 140602,
+            "startTime": "01:30:00 PM 19-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -173,7 +159,7 @@
             "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
             "match_name": "World Feed",
             "match_id": 140211,
-            "startTime": "06:30:00 PM 19-02-2026"
+            "startTime": "05:30:00 PM 19-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -185,7 +171,7 @@
             "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
             "match_name": "Grandstand 1",
             "match_id": 140756,
-            "startTime": "06:30:00 PM 19-02-2026"
+            "startTime": "05:30:00 PM 19-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -197,7 +183,7 @@
             "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
             "match_name": "Center Court",
             "match_id": 140755,
-            "startTime": "06:30:00 PM 19-02-2026"
+            "startTime": "05:30:00 PM 19-02-2026"
         },
         {
             "event_category": "Golf",
@@ -392,18 +378,6 @@
             "startTime": "05:30:00 PM 20-02-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 2 vs The Riviera Country Club (The Genesis Invitational 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
-            "team_1": "Main Feed - Day 2",
-            "team_2": "The Riviera Country Club",
-            "status": "UPCOMING",
-            "event_name": "The Genesis Invitational 2026",
-            "match_name": "Main Feed - Day 2",
-            "match_id": 140569,
-            "startTime": "08:45:00 PM 20-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Athletic Club vs Elche CF (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131075_5427_ATH_ELC_FC-Web.png",
@@ -426,6 +400,18 @@
             "match_name": "Blackburn Rovers F.C. vs Preston North End F.C.",
             "match_id": 140122,
             "startTime": "01:30:00 AM 21-02-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed - Day 2 vs The Riviera Country Club (The Genesis Invitational 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
+            "team_1": "Main Feed - Day 2",
+            "team_2": "The Riviera Country Club",
+            "status": "UPCOMING",
+            "event_name": "The Genesis Invitational 2026",
+            "match_name": "Main Feed - Day 2",
+            "match_id": 140569,
+            "startTime": "08:45:00 PM 20-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -462,6 +448,18 @@
             "match_name": "World Feed",
             "match_id": 140212,
             "startTime": "10:00:00 PM 20-02-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Groups - Day 2 vs The Riviera Country Club (The Genesis Invitational 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
+            "team_1": "Featured Groups - Day 2",
+            "team_2": "The Riviera Country Club",
+            "status": "UPCOMING",
+            "event_name": "The Genesis Invitational 2026",
+            "match_name": "Featured Groups - Day 2",
+            "match_id": 140571,
+            "startTime": "10:15:00 PM 20-02-2026"
         }
     ]
 }

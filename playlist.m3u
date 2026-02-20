@@ -2,9 +2,6 @@
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies, -2026-old-card_1771585889068.jpg" group-title="Fancode-Cricket"- Sri Lanka Women vs West Indies Women (Sri Lanka Women tour of West Indies- 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140138_english_hls_74b6af168927832_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140660_5968_PRC_VDCC_FC-Web.jpg" group-title="Fancode-Cricket", Paarl CC vs Van der Stel Cricket Club (Boland T20 Super League Finals 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/140660_english_hls_e500227d8f13427_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140438_5956_MSC_FCG_fc-web_1771412946373.jpg" group-title="Fancode-Football", Mohammedan SC vs FC Goa (ISL 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/140438_english_hls_1ef5e3ce9a66094_1ta-di_h264/index.m3u8
 
@@ -16,3 +13,12 @@ https://bddia-mpv2.fancode.com/out/v1/ap-south-1/139563_english_164866/ad-h264/i
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open, ATP-500-Revised-old-match-card-_1771348773886.jpg" group-title="Fancode-Tennis"- Center Court vs Doha- Qatar (ATP 500 - Qatar ExxonMobil Open 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/140757_english_hls_a0e3f712395899_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png" group-title="Fancode-Golf", Featured Groups - Day 2 vs The Riviera Country Club (The Genesis Invitational 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140571_english_hls_8df7ce99ba86559_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png" group-title="Fancode-Golf", Marquee Group - Day 2 vs The Riviera Country Club (The Genesis Invitational 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140570_english_hls_db62e78e2a67743_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png" group-title="Fancode-Golf", Main Feed - Day 2 vs The Riviera Country Club (The Genesis Invitational 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/140569_english_hls_2201b7773938313_1ta-di_h264/index.m3u8

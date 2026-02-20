@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "09:52:40 PM 20-02-2026",
+    "last update time": "10:33:08 PM 20-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -200,16 +200,16 @@
             "startTime": "12:30:00 PM 21-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Ceuta vs Granada (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1770347072513/140424_CASACARDS_APP.png",
-            "team_1": "Ceuta",
-            "team_2": "Granada",
+            "event_category": "Cricket",
+            "title": "Van der Stel Cricket Club vs Vredenburg/Saldanha CC (Boland T20 Super League Finals 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140679_5968_VDCC_VDS_FC-Web.jpg",
+            "team_1": "Van der Stel Cricket Club",
+            "team_2": "Vredenburg/Saldanha CC",
             "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Ceuta vs Granada",
-            "match_id": 140424,
-            "startTime": "01:00:00 AM 21-02-2026"
+            "event_name": "Boland T20 Super League Finals 2026",
+            "match_name": "Van der Stel Cricket Club vs Vredenburg/Saldanha CC",
+            "match_id": 140679,
+            "startTime": "05:30:00 PM 21-02-2026"
         },
         {
             "event_category": "Football",
@@ -224,28 +224,16 @@
             "startTime": "05:00:00 PM 21-02-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Van der Stel Cricket Club vs Vredenburg/Saldanha CC (Boland T20 Super League Finals 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140679_5968_VDCC_VDS_FC-Web.jpg",
-            "team_1": "Van der Stel Cricket Club",
-            "team_2": "Vredenburg/Saldanha CC",
-            "status": "UPCOMING",
-            "event_name": "Boland T20 Super League Finals 2026",
-            "match_name": "Van der Stel Cricket Club vs Vredenburg/Saldanha CC",
-            "match_id": 140679,
-            "startTime": "05:30:00 PM 21-02-2026"
-        },
-        {
             "event_category": "Football",
-            "title": "Wellington Phoenix vs Auckland (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139413_5802_WEL_AFC_1770722675928.png",
-            "team_1": "Wellington Phoenix",
-            "team_2": "Auckland",
+            "title": "Ceuta vs Granada (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1770347072513/140424_CASACARDS_APP.png",
+            "team_1": "Ceuta",
+            "team_2": "Granada",
             "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Wellington Phoenix vs Auckland",
-            "match_id": 139413,
-            "startTime": "09:30:00 AM 21-02-2026"
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Ceuta vs Granada",
+            "match_id": 140424,
+            "startTime": "01:00:00 AM 21-02-2026"
         },
         {
             "event_category": "Football",
@@ -261,15 +249,15 @@
         },
         {
             "event_category": "Football",
-            "title": "Sydney FC vs Brisbane Roar (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139414_5802_SYD_BRB_1770723002209.png",
-            "team_1": "Sydney FC",
-            "team_2": "Brisbane Roar",
+            "title": "Wellington Phoenix vs Auckland (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139413_5802_WEL_AFC_1770722675928.png",
+            "team_1": "Wellington Phoenix",
+            "team_2": "Auckland",
             "status": "UPCOMING",
             "event_name": "A League 2025-26",
-            "match_name": "Sydney FC vs Brisbane Roar",
-            "match_id": 139414,
-            "startTime": "11:30:00 AM 21-02-2026"
+            "match_name": "Wellington Phoenix vs Auckland",
+            "match_id": 139413,
+            "startTime": "09:30:00 AM 21-02-2026"
         },
         {
             "event_category": "Football",
@@ -285,15 +273,15 @@
         },
         {
             "event_category": "Football",
-            "title": "Melbourne City vs Melbourne Victory (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139415_5802_MLC_MLV_1770723177598.png",
-            "team_1": "Melbourne City",
-            "team_2": "Melbourne Victory",
+            "title": "Sydney FC vs Brisbane Roar (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139414_5802_SYD_BRB_1770723002209.png",
+            "team_1": "Sydney FC",
+            "team_2": "Brisbane Roar",
             "status": "UPCOMING",
             "event_name": "A League 2025-26",
-            "match_name": "Melbourne City vs Melbourne Victory",
-            "match_id": 139415,
-            "startTime": "02:05:00 PM 21-02-2026"
+            "match_name": "Sydney FC vs Brisbane Roar",
+            "match_id": 139414,
+            "startTime": "11:30:00 AM 21-02-2026"
         },
         {
             "event_category": "Football",
@@ -306,6 +294,18 @@
             "match_name": "Jamshedpur FC vs Punjab FC",
             "match_id": 140440,
             "startTime": "07:30:00 PM 21-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne City vs Melbourne Victory (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139415_5802_MLC_MLV_1770723177598.png",
+            "team_1": "Melbourne City",
+            "team_2": "Melbourne Victory",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne City vs Melbourne Victory",
+            "match_id": 139415,
+            "startTime": "02:05:00 PM 21-02-2026"
         },
         {
             "event_category": "Football",
@@ -380,6 +380,30 @@
             "startTime": "08:45:00 PM 21-02-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Al-Nassr FC vs Al-Hazem FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140699_5655_ANF_HAZ_fc-web_1771482156495.jpg",
+            "team_1": "Al-Nassr FC",
+            "team_2": "Al-Hazem FC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Nassr FC vs Al-Hazem FC",
+            "match_id": 140699,
+            "startTime": "12:30:00 AM 22-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Hilal SFC vs Al-Ittihad (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140698_5655_AHS_ITT_fc-web.jpg",
+            "team_1": "Al Hilal SFC",
+            "team_2": "Al-Ittihad",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al Hilal SFC vs Al-Ittihad",
+            "match_id": 140698,
+            "startTime": "12:30:00 AM 22-02-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "Quadra 1 vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png",
@@ -429,30 +453,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Al-Nassr FC vs Al-Hazem FC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140699_5655_ANF_HAZ_fc-web_1771482156495.jpg",
-            "team_1": "Al-Nassr FC",
-            "team_2": "Al-Hazem FC",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al-Nassr FC vs Al-Hazem FC",
-            "match_id": 140699,
-            "startTime": "12:30:00 AM 22-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al Hilal SFC vs Al-Ittihad (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140698_5655_AHS_ITT_fc-web.jpg",
-            "team_1": "Al Hilal SFC",
-            "team_2": "Al-Ittihad",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al Hilal SFC vs Al-Ittihad",
-            "match_id": 140698,
-            "startTime": "12:30:00 AM 22-02-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Atletico de Madrid vs RCD Espanyol (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131076_5427_ATL_ESL_FC-Web.png",
             "team_1": "Atletico de Madrid",
@@ -464,16 +464,16 @@
             "startTime": "01:30:00 AM 22-02-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
-            "team_1": "Main Feed - Day 3",
-            "team_2": "The Riviera Country Club",
+            "event_category": "Cricket",
+            "title": "ACT Meteors vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
+            "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+            "team_1": "ACT Meteors",
+            "team_2": "South Australian Scorpions",
             "status": "UPCOMING",
-            "event_name": "The Genesis Invitational 2026",
-            "match_name": "Main Feed - Day 3",
-            "match_id": 140572,
-            "startTime": "08:45:00 PM 21-02-2026"
+            "event_name": "Women's National Cricket League, 2025-26",
+            "match_name": "ACT Meteors vs South Australian Scorpions",
+            "match_id": 133982,
+            "startTime": "04:30:00 AM 22-02-2026"
         }
     ]
 }

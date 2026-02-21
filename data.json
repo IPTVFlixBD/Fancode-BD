@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "08:49:27 AM 21-02-2026",
+    "last update time": "10:10:15 AM 21-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -46,18 +46,18 @@
             "adfree_url": null
         },
         {
-            "event_category": "Tennis",
-            "title": "Center Court vs Delray Beach, United States (ATP 250 - Delray Beach Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Delray-Beach-Open-2026--old-card.png",
-            "team_1": "Center Court",
-            "team_2": "Delray Beach, United States",
+            "event_category": "Football",
+            "title": "Wellington Phoenix vs Auckland (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139413_5802_WEL_AFC_1770722675928.png",
+            "team_1": "Wellington Phoenix",
+            "team_2": "Auckland",
             "status": "LIVE",
-            "event_name": "ATP 250 - Delray Beach Open 2026",
-            "match_name": "Center Court",
-            "match_id": 140299,
-            "startTime": "09:30:00 PM 20-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140299_english_hls_add56807e482715_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140299_english_hls_add56807e482715_1ta-di_h264/index.m3u8"
+            "event_name": "A League 2025-26",
+            "match_name": "Wellington Phoenix vs Auckland",
+            "match_id": 139413,
+            "startTime": "09:30:00 AM 21-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/139413_english_hls_c160005ede19078_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139413_english_hls_c160005ede19078_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -72,18 +72,6 @@
             "startTime": "01:30:00 AM 21-02-2026",
             "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140289_english_hls_dfd9e8fb3e20043_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140289_english_hls_dfd9e8fb3e20043_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Wellington Phoenix vs Auckland (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139413_5802_WEL_AFC_1770722675928.png",
-            "team_1": "Wellington Phoenix",
-            "team_2": "Auckland",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Wellington Phoenix vs Auckland",
-            "match_id": 139413,
-            "startTime": "09:30:00 AM 21-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -131,6 +119,18 @@
             "event_name": "ISL 2025-26",
             "match_name": "East Bengal FC vs Sporting Club Delhi",
             "match_id": 140439,
+            "startTime": "05:00:00 PM 21-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "East Bengal FC vs Sporting Club Delhi (ISL 2025-26  - Regional)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "East Bengal FC",
+            "team_2": "Sporting Club Delhi",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26  - Regional",
+            "match_name": "East Bengal FC vs Sporting Club Delhi",
+            "match_id": 140886,
             "startTime": "05:00:00 PM 21-02-2026"
         },
         {
@@ -254,6 +254,18 @@
             "startTime": "01:30:00 AM 22-02-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "ACT Meteors vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
+            "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+            "team_1": "ACT Meteors",
+            "team_2": "South Australian Scorpions",
+            "status": "UPCOMING",
+            "event_name": "Women's National Cricket League, 2025-26",
+            "match_name": "ACT Meteors vs South Australian Scorpions",
+            "match_id": 133982,
+            "startTime": "04:30:00 AM 22-02-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Sydney FC vs Brisbane Roar (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139414_5802_SYD_BRB_1770723002209.png",
@@ -276,30 +288,6 @@
             "match_name": "Melbourne City vs Melbourne Victory",
             "match_id": 139415,
             "startTime": "02:05:00 PM 21-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "ACT Meteors vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
-            "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
-            "team_1": "ACT Meteors",
-            "team_2": "South Australian Scorpions",
-            "status": "UPCOMING",
-            "event_name": "Women's National Cricket League, 2025-26",
-            "match_name": "ACT Meteors vs South Australian Scorpions",
-            "match_id": 133982,
-            "startTime": "04:30:00 AM 22-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "East Bengal FC vs Sporting Club Delhi (ISL 2025-26  - Regional)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "East Bengal FC",
-            "team_2": "Sporting Club Delhi",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26  - Regional",
-            "match_name": "East Bengal FC vs Sporting Club Delhi",
-            "match_id": 140886,
-            "startTime": "05:00:00 PM 21-02-2026"
         },
         {
             "event_category": "Football",
@@ -360,6 +348,18 @@
             "match_name": "United Services Recreation Club vs Kowloon Cricket Club",
             "match_id": 140616,
             "startTime": "11:30:00 AM 22-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Vredenburg/Saldanha CC vs Maties Cricket Club (Boland T20 Super League Finals 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140681_5968_VDS_MAT_FC-Web.jpg",
+            "team_1": "Vredenburg/Saldanha CC",
+            "team_2": "Maties Cricket Club",
+            "status": "UPCOMING",
+            "event_name": "Boland T20 Super League Finals 2026",
+            "match_name": "Vredenburg/Saldanha CC vs Maties Cricket Club",
+            "match_id": 140681,
+            "startTime": "12:30:00 PM 22-02-2026"
         },
         {
             "event_category": "Golf",
@@ -434,16 +434,16 @@
             "startTime": "11:30:00 PM 21-02-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Vredenburg/Saldanha CC vs Maties Cricket Club (Boland T20 Super League Finals 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140681_5968_VDS_MAT_FC-Web.jpg",
-            "team_1": "Vredenburg/Saldanha CC",
-            "team_2": "Maties Cricket Club",
+            "event_category": "Football",
+            "title": "Central Coast Mariners vs Western Sydney Wanderers (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139416_5802_CCM_SYW_1770723544582.png",
+            "team_1": "Central Coast Mariners",
+            "team_2": "Western Sydney Wanderers",
             "status": "UPCOMING",
-            "event_name": "Boland T20 Super League Finals 2026",
-            "match_name": "Vredenburg/Saldanha CC vs Maties Cricket Club",
-            "match_id": 140681,
-            "startTime": "12:30:00 PM 22-02-2026"
+            "event_name": "A League 2025-26",
+            "match_name": "Central Coast Mariners vs Western Sydney Wanderers",
+            "match_id": 139416,
+            "startTime": "11:30:00 AM 22-02-2026"
         },
         {
             "event_category": "Tennis",

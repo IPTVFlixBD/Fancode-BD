@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:19:06 PM 22-02-2026",
+    "last update time": "06:09:36 PM 22-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,6 +60,20 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140125_english_hls_b464520a9b8646_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Getafe CF vs Sevilla FC (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131070_5427_GEF_SEV_FC-Web.png",
+            "team_1": "Getafe CF",
+            "team_2": "Sevilla FC",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Getafe CF vs Sevilla FC",
+            "match_id": 131070,
+            "startTime": "06:30:00 PM 22-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/131070_english_hls_0a2a3cfc7877198_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/131070_english_hls_0a2a3cfc7877198_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "West Indies Women vs Sri Lanka Women (Sri Lanka Women tour of West Indies, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card_1771585889068.jpg",
@@ -82,18 +96,6 @@
             "match_name": "Maties Cricket Club vs Paarl East Cricket Club",
             "match_id": 140683,
             "startTime": "10:00:00 PM 22-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Getafe CF vs Sevilla FC (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131070_5427_GEF_SEV_FC-Web.png",
-            "team_1": "Getafe CF",
-            "team_2": "Sevilla FC",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Getafe CF vs Sevilla FC",
-            "match_id": 131070,
-            "startTime": "06:30:00 PM 22-02-2026"
         },
         {
             "event_category": "Football",
@@ -144,18 +146,6 @@
             "startTime": "11:00:00 PM 22-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Villarreal CF vs Valencia CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131072_5427_VIL_VAL_FC-Web.png",
-            "team_1": "Villarreal CF",
-            "team_2": "Valencia CF",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Villarreal CF vs Valencia CF",
-            "match_id": 131072,
-            "startTime": "01:30:00 AM 23-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "New South Wales Breakers vs Tasmania Women (Women's National Cricket League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
@@ -166,6 +156,18 @@
             "match_name": "New South Wales Breakers vs Tasmania Women",
             "match_id": 133983,
             "startTime": "04:30:00 AM 23-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Villarreal CF vs Valencia CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131072_5427_VIL_VAL_FC-Web.png",
+            "team_1": "Villarreal CF",
+            "team_2": "Valencia CF",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Villarreal CF vs Valencia CF",
+            "match_id": 131072,
+            "startTime": "01:30:00 AM 23-02-2026"
         },
         {
             "event_category": "Football",
@@ -237,6 +239,18 @@
             "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
             "match_name": "Quadra Guga Kuerten",
             "match_id": 140762,
+            "startTime": "07:30:00 PM 22-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - Rio Open Presented by Claro 2026 vs RIO (ATP 500 - Rio Open Presented by Claro 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png",
+            "team_1": "ATP 500 - Rio Open Presented by Claro 2026",
+            "team_2": "RIO",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+            "match_name": "ATP 500 - Rio Open Presented by Claro 2026",
+            "match_id": 140904,
             "startTime": "07:30:00 PM 22-02-2026"
         },
         {
@@ -348,18 +362,6 @@
             "startTime": "01:30:00 AM 24-02-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "ATP 500 - Rio Open Presented by Claro 2026 vs RIO (ATP 500 - Rio Open Presented by Claro 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png",
-            "team_1": "ATP 500 - Rio Open Presented by Claro 2026",
-            "team_2": "RIO",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-            "match_name": "ATP 500 - Rio Open Presented by Claro 2026",
-            "match_id": 140904,
-            "startTime": "07:30:00 PM 22-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Cádiz vs Real Sociedad B (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1770347072509/140427_CASACARDS_APP.png",
@@ -396,6 +398,18 @@
             "startTime": "09:30:00 PM 23-02-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "ACT Meteors vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+            "team_1": "ACT Meteors",
+            "team_2": "South Australian Scorpions",
+            "status": "UPCOMING",
+            "event_name": "Women's National Cricket League, 2025-26",
+            "match_name": "ACT Meteors vs South Australian Scorpions",
+            "match_id": 133985,
+            "startTime": "04:30:00 AM 24-02-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "New Court - 1 vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
@@ -418,18 +432,6 @@
             "match_name": "World Feed",
             "match_id": 140891,
             "startTime": "03:30:00 PM 23-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "ACT Meteors vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
-            "team_1": "ACT Meteors",
-            "team_2": "South Australian Scorpions",
-            "status": "UPCOMING",
-            "event_name": "Women's National Cricket League, 2025-26",
-            "match_name": "ACT Meteors vs South Australian Scorpions",
-            "match_id": 133985,
-            "startTime": "04:30:00 AM 24-02-2026"
         },
         {
             "event_category": "Golf",

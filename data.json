@@ -1,20 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "02:06:53 PM 24-02-2026",
+    "last update time": "02:57:26 PM 24-02-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
-            "team_1": "England Lions",
-            "team_2": "Pakistan Shaheens",
-            "status": "UPCOMING",
-            "event_name": "England Lions and Pakistan Shaheens tour of UAE",
-            "match_name": "England Lions vs Pakistan Shaheens",
-            "match_id": 140663,
-            "startTime": "09:00:00 PM 24-02-2026"
-        },
         {
             "event_category": "Cricket",
             "title": "New Zealand Women vs Zimbabwe Women (Zimbabwe Women tour of New Zealand, 2026)",
@@ -26,6 +14,18 @@
             "match_name": "New Zealand Women vs Zimbabwe Women",
             "match_id": 140593,
             "startTime": "11:45:00 AM 25-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
+            "team_1": "England Lions",
+            "team_2": "Pakistan Shaheens",
+            "status": "UPCOMING",
+            "event_name": "England Lions and Pakistan Shaheens tour of UAE",
+            "match_name": "England Lions vs Pakistan Shaheens",
+            "match_id": 140663,
+            "startTime": "09:00:00 PM 24-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -100,54 +100,6 @@
             "startTime": "10:45:00 AM 25-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Nashville SC vs Athletics Ottawa (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140384_5954_NSH_ATO_FC-Web.jpg",
-            "team_1": "Nashville SC",
-            "team_2": "Athletics Ottawa",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Nashville SC vs Athletics Ottawa",
-            "match_id": 140384,
-            "startTime": "06:30:00 AM 25-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bhutan vs Bahrain (Thailand Open Men's T20I Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Bhutan",
-            "team_2": "Bahrain",
-            "status": "UPCOMING",
-            "event_name": "Thailand Open Men's T20I Series 2026",
-            "match_name": "Bhutan vs Bahrain",
-            "match_id": 140670,
-            "startTime": "12:00:00 PM 25-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Los Angeles Football Club vs Real España (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140385_5954_LAF_RE_FC-Web.jpg",
-            "team_1": "Los Angeles Football Club",
-            "team_2": "Real España",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Los Angeles Football Club vs Real España",
-            "match_id": 140385,
-            "startTime": "08:30:00 AM 25-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "West Indies Women vs Sri Lanka Women (Sri Lanka Women tour of West Indies, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card_1771585889068.jpg",
-            "team_1": "West Indies Women",
-            "team_2": "Sri Lanka Women",
-            "status": "UPCOMING",
-            "event_name": "Sri Lanka Women tour of West Indies, 2026",
-            "match_name": "West Indies Women vs Sri Lanka Women",
-            "match_id": 140140,
-            "startTime": "07:00:00 PM 25-02-2026"
-        },
-        {
             "event_category": "Tennis",
             "title": "Court 2 vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
@@ -194,6 +146,54 @@
             "match_name": "Centre Court",
             "match_id": 140893,
             "startTime": "03:30:00 PM 24-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bhutan vs Bahrain (Thailand Open Men's T20I Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Bhutan",
+            "team_2": "Bahrain",
+            "status": "UPCOMING",
+            "event_name": "Thailand Open Men's T20I Series 2026",
+            "match_name": "Bhutan vs Bahrain",
+            "match_id": 140670,
+            "startTime": "12:00:00 PM 25-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Nashville SC vs Athletics Ottawa (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140384_5954_NSH_ATO_FC-Web.jpg",
+            "team_1": "Nashville SC",
+            "team_2": "Athletics Ottawa",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Nashville SC vs Athletics Ottawa",
+            "match_id": 140384,
+            "startTime": "06:30:00 AM 25-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Los Angeles Football Club vs Real España (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140385_5954_LAF_RE_FC-Web.jpg",
+            "team_1": "Los Angeles Football Club",
+            "team_2": "Real España",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Los Angeles Football Club vs Real España",
+            "match_id": 140385,
+            "startTime": "08:30:00 AM 25-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies Women vs Sri Lanka Women (Sri Lanka Women tour of West Indies, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card_1771585889068.jpg",
+            "team_1": "West Indies Women",
+            "team_2": "Sri Lanka Women",
+            "status": "UPCOMING",
+            "event_name": "Sri Lanka Women tour of West Indies, 2026",
+            "match_name": "West Indies Women vs Sri Lanka Women",
+            "match_id": 140140,
+            "startTime": "07:00:00 PM 25-02-2026"
         },
         {
             "event_category": "Tennis",

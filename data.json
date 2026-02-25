@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "03:26:45 AM 26-02-2026",
+    "last update time": "04:07:14 AM 26-02-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -16,20 +16,6 @@
             "startTime": "09:30:00 PM 25-02-2026",
             "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140359_english_hls_2abd95dd1c70831_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140359_english_hls_2abd95dd1c70831_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Stoke City F.C. vs Oxford United (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140127_5489_STK_OU_fc-web.jpg",
-            "team_1": "Stoke City F.C.",
-            "team_2": "Oxford United",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Stoke City F.C. vs Oxford United",
-            "match_id": 140127,
-            "startTime": "01:30:00 AM 26-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140127_english_hls_d53fd6ce9b73074_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140127_english_hls_d53fd6ce9b73074_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -260,6 +246,18 @@
             "startTime": "05:00:00 PM 26-02-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Japan vs Bhutan (Thailand Open Men's T20I Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140673_5970_JPN_BHU_fc-web.jpg",
+            "team_1": "Japan",
+            "team_2": "Bhutan",
+            "status": "UPCOMING",
+            "event_name": "Thailand Open Men's T20I Series 2026",
+            "match_name": "Japan vs Bhutan",
+            "match_id": 140673,
+            "startTime": "07:30:00 AM 27-02-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "Featured Holes - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
@@ -282,18 +280,6 @@
             "match_name": "Marquee Group - Day 1",
             "match_id": 140765,
             "startTime": "05:15:00 PM 26-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Japan vs Bhutan (Thailand Open Men's T20I Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140673_5970_JPN_BHU_fc-web.jpg",
-            "team_1": "Japan",
-            "team_2": "Bhutan",
-            "status": "UPCOMING",
-            "event_name": "Thailand Open Men's T20I Series 2026",
-            "match_name": "Japan vs Bhutan",
-            "match_id": 140673,
-            "startTime": "07:30:00 AM 27-02-2026"
         },
         {
             "event_category": "Football",
@@ -356,6 +342,18 @@
             "startTime": "11:30:00 AM 27-02-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Thailand vs Bahrain (Thailand Open Men's T20I Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140674_5970_TL_BAH_fc-web.jpg",
+            "team_1": "Thailand",
+            "team_2": "Bahrain",
+            "status": "UPCOMING",
+            "event_name": "Thailand Open Men's T20I Series 2026",
+            "match_name": "Thailand vs Bahrain",
+            "match_id": 140674,
+            "startTime": "12:00:00 PM 27-02-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "World Feed vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
@@ -404,18 +402,6 @@
             "startTime": "05:30:00 AM 27-02-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Thailand vs Bahrain (Thailand Open Men's T20I Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140674_5970_TL_BAH_fc-web.jpg",
-            "team_1": "Thailand",
-            "team_2": "Bahrain",
-            "status": "UPCOMING",
-            "event_name": "Thailand Open Men's T20I Series 2026",
-            "match_name": "Thailand vs Bahrain",
-            "match_id": 140674,
-            "startTime": "12:00:00 PM 27-02-2026"
-        },
-        {
             "event_category": "MotoGP",
             "title": "Day 1 vs Buriram International Circuit (PT GRAND PRIX OF THAILAND 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png",
@@ -438,6 +424,18 @@
             "match_name": "Melbourne Victory vs Adelaide United",
             "match_id": 139418,
             "startTime": "02:05:00 PM 27-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "East Bengal FC vs Jamshedpur FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140446_5956_EBFC_JFC_fc-web_1771412946536.jpg",
+            "team_1": "East Bengal FC",
+            "team_2": "Jamshedpur FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "East Bengal FC vs Jamshedpur FC",
+            "match_id": 140446,
+            "startTime": "05:00:00 PM 27-02-2026"
         }
     ]
 }

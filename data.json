@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "12:03:46 AM 26-02-2026",
+    "last update time": "01:04:42 AM 26-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "10:00:00 PM 25-02-2026",
             "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140686_english_hls_c5394d336f3763_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140686_english_hls_c5394d336f3763_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Najmah SC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138439_5655_ALN_ANF_fc-web.jpg",
+            "team_1": "Al-Najmah SC",
+            "team_2": "Al-Nassr FC",
+            "status": "LIVE",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Najmah SC vs Al-Nassr FC",
+            "match_id": 138439,
+            "startTime": "12:30:00 AM 26-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/138439_english_hls_94a73cefca77173_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/138439_english_hls_94a73cefca77173_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -75,15 +89,15 @@
         },
         {
             "event_category": "Football",
-            "title": "Al-Najmah SC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138439_5655_ALN_ANF_fc-web.jpg",
-            "team_1": "Al-Najmah SC",
-            "team_2": "Al-Nassr FC",
+            "title": "Stoke City F.C. vs Oxford United (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140127_5489_STK_OU_fc-web.jpg",
+            "team_1": "Stoke City F.C.",
+            "team_2": "Oxford United",
             "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al-Najmah SC vs Al-Nassr FC",
-            "match_id": 138439,
-            "startTime": "12:30:00 AM 26-02-2026"
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Stoke City F.C. vs Oxford United",
+            "match_id": 140127,
+            "startTime": "01:30:00 AM 26-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -96,18 +110,6 @@
             "match_name": "Thailand vs Bhutan",
             "match_id": 140671,
             "startTime": "07:30:00 AM 26-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Stoke City F.C. vs Oxford United (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140127_5489_STK_OU_fc-web.jpg",
-            "team_1": "Stoke City F.C.",
-            "team_2": "Oxford United",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Stoke City F.C. vs Oxford United",
-            "match_id": 140127,
-            "startTime": "01:30:00 AM 26-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -135,6 +137,18 @@
         },
         {
             "event_category": "Football",
+            "title": "FC Goa vs Sporting Club Delhi (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140445_5956_FCG_SCD_fc-web_1771412946473.jpg",
+            "team_1": "FC Goa",
+            "team_2": "Sporting Club Delhi",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "FC Goa vs Sporting Club Delhi",
+            "match_id": 140445,
+            "startTime": "07:30:00 PM 26-02-2026"
+        },
+        {
+            "event_category": "Football",
             "title": "FC Cincinnati vs O&M FC (CONCACAF Champions Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140386_5954_CIN_OMF_FC-Web.jpg",
             "team_1": "FC Cincinnati",
@@ -156,18 +170,6 @@
             "match_name": "Vancouver Whitecaps FC vs CS Cartagines",
             "match_id": 140387,
             "startTime": "08:00:00 AM 26-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "FC Goa vs Sporting Club Delhi (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140445_5956_FCG_SCD_fc-web_1771412946473.jpg",
-            "team_1": "FC Goa",
-            "team_2": "Sporting Club Delhi",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "FC Goa vs Sporting Club Delhi",
-            "match_id": 140445,
-            "startTime": "07:30:00 PM 26-02-2026"
         },
         {
             "event_category": "Football",

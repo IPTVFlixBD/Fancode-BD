@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:57:16 PM 25-02-2026",
+    "last update time": "07:08:33 PM 25-02-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka Women vs West Indies Women (Sri Lanka Women tour of West Indies, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card_1771585889068.jpg",
+            "team_1": "Sri Lanka Women",
+            "team_2": "West Indies Women",
+            "status": "LIVE",
+            "event_name": "Sri Lanka Women tour of West Indies, 2026",
+            "match_name": "Sri Lanka Women vs West Indies Women",
+            "match_id": 140140,
+            "startTime": "07:00:00 PM 25-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140140_english_hls_62d5e081c554465_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140140_english_hls_62d5e081c554465_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Tennis",
             "title": "New Court 1 vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
@@ -58,18 +72,6 @@
             "startTime": "03:30:00 PM 25-02-2026",
             "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140897_english_hls_24b0c1bdd696559_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140897_english_hls_24b0c1bdd696559_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "West Indies Women vs Sri Lanka Women (Sri Lanka Women tour of West Indies, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card_1771585889068.jpg",
-            "team_1": "West Indies Women",
-            "team_2": "Sri Lanka Women",
-            "status": "UPCOMING",
-            "event_name": "Sri Lanka Women tour of West Indies, 2026",
-            "match_name": "West Indies Women vs Sri Lanka Women",
-            "match_id": 140140,
-            "startTime": "07:00:00 PM 25-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -204,6 +206,18 @@
             "startTime": "09:30:00 PM 25-02-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Van der Stel Cricket Club vs Paarl CC (Boland T20 Super League Finals 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140687_5968_VDCC_PRC_FC-Web.jpg",
+            "team_1": "Van der Stel Cricket Club",
+            "team_2": "Paarl CC",
+            "status": "UPCOMING",
+            "event_name": "Boland T20 Super League Finals 2026",
+            "match_name": "Van der Stel Cricket Club vs Paarl CC",
+            "match_id": 140687,
+            "startTime": "10:00:00 PM 26-02-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "Cancha 1 vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
@@ -264,18 +278,6 @@
             "startTime": "05:30:00 AM 26-02-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Van der Stel Cricket Club vs Paarl CC (Boland T20 Super League Finals 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140687_5968_VDCC_PRC_FC-Web.jpg",
-            "team_1": "Van der Stel Cricket Club",
-            "team_2": "Paarl CC",
-            "status": "UPCOMING",
-            "event_name": "Boland T20 Super League Finals 2026",
-            "match_name": "Van der Stel Cricket Club vs Paarl CC",
-            "match_id": 140687,
-            "startTime": "10:00:00 PM 26-02-2026"
-        },
-        {
             "event_category": "Tennis",
             "title": "New Court 1 vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
@@ -310,6 +312,18 @@
             "match_name": "Centre Court",
             "match_id": 140900,
             "startTime": "03:30:00 PM 26-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Riyadh SC vs Al-Ahli Saudi FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140701_5655_ALR_AAS_fc-web.jpg",
+            "team_1": "Al-Riyadh SC",
+            "team_2": "Al-Ahli Saudi FC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Riyadh SC vs Al-Ahli Saudi FC",
+            "match_id": 140701,
+            "startTime": "12:30:00 AM 27-02-2026"
         },
         {
             "event_category": "Golf",
@@ -358,18 +372,6 @@
             "match_name": "Marquee Group - Day 1",
             "match_id": 140765,
             "startTime": "05:15:00 PM 26-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al-Riyadh SC vs Al-Ahli Saudi FC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140701_5655_ALR_AAS_fc-web.jpg",
-            "team_1": "Al-Riyadh SC",
-            "team_2": "Al-Ahli Saudi FC",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al-Riyadh SC vs Al-Ahli Saudi FC",
-            "match_id": 140701,
-            "startTime": "12:30:00 AM 27-02-2026"
         },
         {
             "event_category": "Tennis",

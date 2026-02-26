@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "10:40:17 AM 26-02-2026",
+    "last update time": "11:30:44 AM 26-02-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Thailand vs Bhutan (Thailand Open Men's T20I Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140671_5970_TL_BHU_fc-web.jpg",
-            "team_1": "Thailand",
-            "team_2": "Bhutan",
-            "status": "LIVE",
-            "event_name": "Thailand Open Men's T20I Series 2026",
-            "match_name": "Thailand vs Bhutan",
-            "match_id": 140671,
-            "startTime": "07:30:00 AM 26-02-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
         {
             "event_category": "Cricket",
             "title": "Hong Kong, China vs Kuwait (Men's T20I Series 2026)",
@@ -28,8 +14,8 @@
             "match_name": "Hong Kong, China vs Kuwait",
             "match_id": 140880,
             "startTime": "10:45:00 AM 26-02-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140880_english_hls_0cd60c3b2a42599_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140880_english_hls_0cd60c3b2a42599_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -42,8 +28,8 @@
             "match_name": "LA Galaxy vs Sporting SM",
             "match_id": 140388,
             "startTime": "10:00:00 AM 26-02-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140388_english_hls_faa934c73050670_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140388_english_hls_faa934c73050670_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -56,22 +42,8 @@
             "match_name": "Cancha 1",
             "match_id": 140353,
             "startTime": "05:30:00 AM 26-02-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Grandstand vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
-            "team_1": "Grandstand",
-            "team_2": "Acapulco, Mexico",
-            "status": "LIVE",
-            "event_name": "ATP 500 - Abierto Mexicano Telcel",
-            "match_name": "Grandstand",
-            "match_id": 140838,
-            "startTime": "05:30:00 AM 26-02-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140353_english_hls_bbf29cfbab84904_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140353_english_hls_bbf29cfbab84904_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -84,8 +56,8 @@
             "match_name": "Estadio",
             "match_id": 140837,
             "startTime": "05:30:00 AM 26-02-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140837_english_hls_7088112fd980269_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140837_english_hls_7088112fd980269_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -98,8 +70,22 @@
             "match_name": "World Feed",
             "match_id": 140839,
             "startTime": "05:30:00 AM 26-02-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140839_english_hls_3f302e8a6c36632_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140839_english_hls_3f302e8a6c36632_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Thailand vs Bhutan (Thailand Open Men's T20I Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140671_5970_TL_BHU_fc-web.jpg",
+            "team_1": "Thailand",
+            "team_2": "Bhutan",
+            "status": "LIVE",
+            "event_name": "Thailand Open Men's T20I Series 2026",
+            "match_name": "Thailand vs Bhutan",
+            "match_id": 140671,
+            "startTime": "07:30:00 AM 26-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140671_english_hls_9d535828fd86518_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140671_english_hls_9d535828fd86518_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -114,18 +100,6 @@
             "startTime": "12:00:00 PM 26-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "FC Goa vs Sporting Club Delhi (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140445_5956_FCG_SCD_fc-web_1771412946473.jpg",
-            "team_1": "FC Goa",
-            "team_2": "Sporting Club Delhi",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "FC Goa vs Sporting Club Delhi",
-            "match_id": 140445,
-            "startTime": "07:30:00 PM 26-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Van der Stel Cricket Club vs Paarl CC (Boland T20 Super League Finals 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140687_5968_VDCC_PRC_FC-Web.jpg",
@@ -136,6 +110,18 @@
             "match_name": "Van der Stel Cricket Club vs Paarl CC",
             "match_id": 140687,
             "startTime": "10:00:00 PM 26-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "FC Goa vs Sporting Club Delhi (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140445_5956_FCG_SCD_fc-web_1771412946473.jpg",
+            "team_1": "FC Goa",
+            "team_2": "Sporting Club Delhi",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "FC Goa vs Sporting Club Delhi",
+            "match_id": 140445,
+            "startTime": "07:30:00 PM 26-02-2026"
         },
         {
             "event_category": "Football",
@@ -378,18 +364,6 @@
             "startTime": "02:05:00 PM 27-02-2026"
         },
         {
-            "event_category": "MotoGP",
-            "title": "Day 1 vs Buriram International Circuit (PT GRAND PRIX OF THAILAND 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png",
-            "team_1": "Day 1",
-            "team_2": "Buriram International Circuit",
-            "status": "UPCOMING",
-            "event_name": "PT GRAND PRIX OF THAILAND 2026",
-            "match_name": "Thailand GP",
-            "match_id": 139924,
-            "startTime": "09:15:00 AM 27-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "East Bengal FC vs Jamshedpur FC (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140446_5956_EBFC_JFC_fc-web_1771412946536.jpg",
@@ -400,6 +374,18 @@
             "match_name": "East Bengal FC vs Jamshedpur FC",
             "match_id": 140446,
             "startTime": "05:00:00 PM 27-02-2026"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 1 vs Buriram International Circuit (PT GRAND PRIX OF THAILAND 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png",
+            "team_1": "Day 1",
+            "team_2": "Buriram International Circuit",
+            "status": "UPCOMING",
+            "event_name": "PT GRAND PRIX OF THAILAND 2026",
+            "match_name": "Thailand GP",
+            "match_id": 139924,
+            "startTime": "09:15:00 AM 27-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -448,6 +434,18 @@
             "match_name": "Main Feed - Day 2",
             "match_id": 140769,
             "startTime": "04:15:00 PM 27-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Vredenburg/Saldanha CC vs Van der Stel Cricket Club (Boland T20 Super League Finals 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140689_5968_VDS_VDCC_FC-Web.jpg",
+            "team_1": "Vredenburg/Saldanha CC",
+            "team_2": "Van der Stel Cricket Club",
+            "status": "UPCOMING",
+            "event_name": "Boland T20 Super League Finals 2026",
+            "match_name": "Vredenburg/Saldanha CC vs Van der Stel Cricket Club",
+            "match_id": 140689,
+            "startTime": "10:00:00 PM 27-02-2026"
         }
     ]
 }

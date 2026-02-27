@@ -1,35 +1,35 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "04:21:27 PM 27-02-2026",
+    "last update time": "05:01:51 PM 27-02-2026",
     "matches": [
         {
-            "event_category": "Cricket",
-            "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
-            "team_1": "England Lions",
-            "team_2": "Pakistan Shaheens",
+            "event_category": "Football",
+            "title": "East Bengal FC vs Jamshedpur FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140446_5956_EBFC_JFC_fc-web-(2).jpg",
+            "team_1": "East Bengal FC",
+            "team_2": "Jamshedpur FC",
             "status": "LIVE",
-            "event_name": "England Lions and Pakistan Shaheens tour of UAE",
-            "match_name": "England Lions vs Pakistan Shaheens",
-            "match_id": 140664,
-            "startTime": "11:30:00 AM 27-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140664_english_hls_c6d012446437197_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140664_english_hls_c6d012446437197_1ta-di_h264/index.m3u8"
+            "event_name": "ISL 2025-26",
+            "match_name": "East Bengal FC vs Jamshedpur FC",
+            "match_id": 140446,
+            "startTime": "05:00:00 PM 27-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140446_english_hls_622b4e9fc94478_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140446_english_hls_622b4e9fc94478_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
-            "title": "Melbourne Victory vs Adelaide United (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139418_5802_MLV_ADL_1770723740129.png",
-            "team_1": "Melbourne Victory",
-            "team_2": "Adelaide United",
+            "title": "East Bengal FC vs Jamshedpur FC (ISL 2025-26  - Regional)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140446_5956_EBFC_JFC_fc-web-(1).jpg",
+            "team_1": "East Bengal FC",
+            "team_2": "Jamshedpur FC",
             "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne Victory vs Adelaide United",
-            "match_id": 139418,
-            "startTime": "02:05:00 PM 27-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/139418_english_hls_ee35c9f6d587051_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139418_english_hls_ee35c9f6d587051_1ta-di_h264/index.m3u8"
+            "event_name": "ISL 2025-26  - Regional",
+            "match_name": "East Bengal FC vs Jamshedpur FC",
+            "match_id": 141086,
+            "startTime": "05:00:00 PM 27-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/141086_bengali_hls_4ecea82e2954892_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/141086_bengali_hls_4ecea82e2954892_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -46,28 +46,32 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140349_english_hls_a633bbf89a85870_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "East Bengal FC vs Jamshedpur FC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140446_5956_EBFC_JFC_fc-web_1771412946536.jpg",
-            "team_1": "East Bengal FC",
-            "team_2": "Jamshedpur FC",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "East Bengal FC vs Jamshedpur FC",
-            "match_id": 140446,
-            "startTime": "05:00:00 PM 27-02-2026"
+            "event_category": "Golf",
+            "title": "Featured Holes - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+            "team_1": "Featured Holes - Day 2",
+            "team_2": "PGA National Resort, Florida",
+            "status": "LIVE",
+            "event_name": "Cognizant Classic in The Palm Beaches 2026",
+            "match_name": "Featured Holes - Day 2",
+            "match_id": 140770,
+            "startTime": "05:15:00 PM 27-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140770_english_hls_ac44dd81619611_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "East Bengal FC vs Jamshedpur FC (ISL 2025-26  - Regional)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140446_5956_EBFC_JFC_fc-web_1772172328696.jpg",
-            "team_1": "East Bengal FC",
-            "team_2": "Jamshedpur FC",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26  - Regional",
-            "match_name": "East Bengal FC vs Jamshedpur FC",
-            "match_id": 141086,
-            "startTime": "05:00:00 PM 27-02-2026"
+            "event_category": "Golf",
+            "title": "Main Feed - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+            "team_1": "Main Feed - Day 2",
+            "team_2": "PGA National Resort, Florida",
+            "status": "LIVE",
+            "event_name": "Cognizant Classic in The Palm Beaches 2026",
+            "match_name": "Main Feed - Day 2",
+            "match_id": 140769,
+            "startTime": "05:15:00 PM 27-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -178,18 +182,6 @@
             "startTime": "12:00:00 PM 28-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Albacete vs Almería (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1772160982913/140821_CASACARDS_APP.png",
-            "team_1": "Albacete",
-            "team_2": "Almería",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Albacete vs Almería",
-            "match_id": 140821,
-            "startTime": "01:00:00 AM 28-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Van der Stel Cricket Club vs Paarl East Cricket Club (Boland T20 Super League Finals 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140690_5968_VDCC_PECC_FC-Web.jpg",
@@ -202,28 +194,40 @@
             "startTime": "12:30:00 PM 28-02-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Featured Holes - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-            "team_1": "Featured Holes - Day 2",
-            "team_2": "PGA National Resort, Florida",
+            "event_category": "Football",
+            "title": "Albacete vs Almería (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1772160982913/140821_CASACARDS_APP.png",
+            "team_1": "Albacete",
+            "team_2": "Almería",
             "status": "UPCOMING",
-            "event_name": "Cognizant Classic in The Palm Beaches 2026",
-            "match_name": "Featured Holes - Day 2",
-            "match_id": 140770,
-            "startTime": "05:15:00 PM 27-02-2026"
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Albacete vs Almería",
+            "match_id": 140821,
+            "startTime": "01:00:00 AM 28-02-2026"
         },
         {
             "event_category": "Golf",
-            "title": "Main Feed - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
+            "title": "Marquee Group - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-            "team_1": "Main Feed - Day 2",
+            "team_1": "Marquee Group - Day 2",
             "team_2": "PGA National Resort, Florida",
             "status": "UPCOMING",
             "event_name": "Cognizant Classic in The Palm Beaches 2026",
-            "match_name": "Main Feed - Day 2",
-            "match_id": 140769,
-            "startTime": "05:15:00 PM 27-02-2026"
+            "match_name": "Marquee Group - Day 2",
+            "match_id": 140772,
+            "startTime": "06:00:00 PM 27-02-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Groups - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+            "team_1": "Featured Groups - Day 2",
+            "team_2": "PGA National Resort, Florida",
+            "status": "UPCOMING",
+            "event_name": "Cognizant Classic in The Palm Beaches 2026",
+            "match_name": "Featured Groups - Day 2",
+            "match_id": 140771,
+            "startTime": "06:00:00 PM 27-02-2026"
         },
         {
             "event_category": "Football",
@@ -334,28 +338,40 @@
             "startTime": "06:30:00 PM 28-02-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Marquee Group - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-            "team_1": "Marquee Group - Day 2",
-            "team_2": "PGA National Resort, Florida",
+            "event_category": "Cricket",
+            "title": "West Indies Women vs Sri Lanka Women (Sri Lanka Women tour of West Indies, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card-(1).jpg",
+            "team_1": "West Indies Women",
+            "team_2": "Sri Lanka Women",
             "status": "UPCOMING",
-            "event_name": "Cognizant Classic in The Palm Beaches 2026",
-            "match_name": "Marquee Group - Day 2",
-            "match_id": 140772,
-            "startTime": "06:00:00 PM 27-02-2026"
+            "event_name": "Sri Lanka Women tour of West Indies, 2026",
+            "match_name": "West Indies Women vs Sri Lanka Women",
+            "match_id": 140141,
+            "startTime": "10:30:00 PM 28-02-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Featured Groups - Day 2 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
-            "team_1": "Featured Groups - Day 2",
-            "team_2": "PGA National Resort, Florida",
+            "event_category": "Football",
+            "title": "Mohun Bagan Super Giant vs Mohammedan SC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140449_5956_MBSG_MSC_fc-web_1771412946544.jpg",
+            "team_1": "Mohun Bagan Super Giant",
+            "team_2": "Mohammedan SC",
             "status": "UPCOMING",
-            "event_name": "Cognizant Classic in The Palm Beaches 2026",
-            "match_name": "Featured Groups - Day 2",
-            "match_id": 140771,
-            "startTime": "06:00:00 PM 27-02-2026"
+            "event_name": "ISL 2025-26",
+            "match_name": "Mohun Bagan Super Giant vs Mohammedan SC",
+            "match_id": 140449,
+            "startTime": "07:30:00 PM 28-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Mohun Bagan Super Giant vs Mohammedan SC (ISL 2025-26  - Regional)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Mohun Bagan Super Giant",
+            "team_2": "Mohammedan SC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26  - Regional",
+            "match_name": "Mohun Bagan Super Giant vs Mohammedan SC",
+            "match_id": 141088,
+            "startTime": "07:30:00 PM 28-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -394,42 +410,6 @@
             "startTime": "12:30:00 AM 28-02-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "West Indies Women vs Sri Lanka Women (Sri Lanka Women tour of West Indies, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card-(1).jpg",
-            "team_1": "West Indies Women",
-            "team_2": "Sri Lanka Women",
-            "status": "UPCOMING",
-            "event_name": "Sri Lanka Women tour of West Indies, 2026",
-            "match_name": "West Indies Women vs Sri Lanka Women",
-            "match_id": 140141,
-            "startTime": "10:30:00 PM 28-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Mohun Bagan Super Giant vs Mohammedan SC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140449_5956_MBSG_MSC_fc-web_1771412946544.jpg",
-            "team_1": "Mohun Bagan Super Giant",
-            "team_2": "Mohammedan SC",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "Mohun Bagan Super Giant vs Mohammedan SC",
-            "match_id": 140449,
-            "startTime": "07:30:00 PM 28-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Mohun Bagan Super Giant vs Mohammedan SC (ISL 2025-26  - Regional)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Mohun Bagan Super Giant",
-            "team_2": "Mohammedan SC",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26  - Regional",
-            "match_name": "Mohun Bagan Super Giant vs Mohammedan SC",
-            "match_id": 141088,
-            "startTime": "07:30:00 PM 28-02-2026"
-        },
-        {
             "event_category": "Tennis",
             "title": "World Feed vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
@@ -464,6 +444,30 @@
             "match_name": "Estadio",
             "match_id": 140843,
             "startTime": "06:30:00 AM 28-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Grandstand vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
+            "team_1": "Grandstand",
+            "team_2": "Acapulco, Mexico",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Abierto Mexicano Telcel",
+            "match_name": "Grandstand",
+            "match_id": 140842,
+            "startTime": "06:30:00 AM 28-02-2026"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 2 vs Buriram International Circuit (PT GRAND PRIX OF THAILAND 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png",
+            "team_1": "Day 2",
+            "team_2": "Buriram International Circuit",
+            "status": "UPCOMING",
+            "event_name": "PT GRAND PRIX OF THAILAND 2026",
+            "match_name": "Thailand GP",
+            "match_id": 139925,
+            "startTime": "07:10:00 AM 28-02-2026"
         }
     ]
 }

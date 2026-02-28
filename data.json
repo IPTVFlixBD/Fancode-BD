@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "03:38:00 PM 28-02-2026",
+    "last update time": "04:08:16 PM 28-02-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Japan vs Bahrain (Thailand Open Men's T20I Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140672_5970_JPN_BAH_fc-web.jpg",
-            "team_1": "Japan",
-            "team_2": "Bahrain",
-            "status": "LIVE",
-            "event_name": "Thailand Open Men's T20I Series 2026",
-            "match_name": "Japan vs Bahrain",
-            "match_id": 140676,
-            "startTime": "12:00:00 PM 28-02-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140676_english_hls_e230dafff944950_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140676_english_hls_e230dafff944950_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Macarthur vs Western Sydney Wanderers (A League 2025-26)",
@@ -30,6 +16,20 @@
             "startTime": "02:05:00 PM 28-02-2026",
             "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/139422_english_hls_d4bafb3fa297079_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139422_english_hls_d4bafb3fa297079_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Japan vs Bahrain (Thailand Open Men's T20I Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140672_5970_JPN_BAH_fc-web.jpg",
+            "team_1": "Japan",
+            "team_2": "Bahrain",
+            "status": "LIVE",
+            "event_name": "Thailand Open Men's T20I Series 2026",
+            "match_name": "Japan vs Bahrain",
+            "match_id": 140676,
+            "startTime": "12:00:00 PM 28-02-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140676_english_hls_e230dafff944950_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140676_english_hls_e230dafff944950_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -56,30 +56,6 @@
             "startTime": "05:45:00 AM 01-03-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Maties Cricket Club vs Vredenburg/Saldanha CC (Boland T20 Super League Finals 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140691_5968_MAT_VDS_FC-Web.jpg",
-            "team_1": "Maties Cricket Club",
-            "team_2": "Vredenburg/Saldanha CC",
-            "status": "UPCOMING",
-            "event_name": "Boland T20 Super League Finals 2026",
-            "match_name": "Maties Cricket Club vs Vredenburg/Saldanha CC",
-            "match_id": 140691,
-            "startTime": "05:30:00 PM 28-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vredenburg/Saldanha CC vs Paarl CC (Boland T20 Super League Finals 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140692_5968_VDS_PRC_FC-Web.jpg",
-            "team_1": "Vredenburg/Saldanha CC",
-            "team_2": "Paarl CC",
-            "status": "UPCOMING",
-            "event_name": "Boland T20 Super League Finals 2026",
-            "match_name": "Vredenburg/Saldanha CC vs Paarl CC",
-            "match_id": 140692,
-            "startTime": "10:00:00 PM 28-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Kerala Blasters FC vs Inter Kashi FC (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140448_5956_KBFC_IK_fc-web-(1).jpg",
@@ -102,6 +78,30 @@
             "match_name": "Kerala Blasters FC vs Inter Kashi FC",
             "match_id": 141087,
             "startTime": "05:00:00 PM 28-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Maties Cricket Club vs Vredenburg/Saldanha CC (Boland T20 Super League Finals 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140691_5968_MAT_VDS_FC-Web.jpg",
+            "team_1": "Maties Cricket Club",
+            "team_2": "Vredenburg/Saldanha CC",
+            "status": "UPCOMING",
+            "event_name": "Boland T20 Super League Finals 2026",
+            "match_name": "Maties Cricket Club vs Vredenburg/Saldanha CC",
+            "match_id": 140691,
+            "startTime": "05:30:00 PM 28-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Vredenburg/Saldanha CC vs Paarl CC (Boland T20 Super League Finals 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140692_5968_VDS_PRC_FC-Web.jpg",
+            "team_1": "Vredenburg/Saldanha CC",
+            "team_2": "Paarl CC",
+            "status": "UPCOMING",
+            "event_name": "Boland T20 Super League Finals 2026",
+            "match_name": "Vredenburg/Saldanha CC vs Paarl CC",
+            "match_id": 140692,
+            "startTime": "10:00:00 PM 28-02-2026"
         },
         {
             "event_category": "Football",
@@ -320,6 +320,18 @@
             "startTime": "05:30:00 PM 01-03-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Elche CF vs RCD Espanyol (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131086_5427_ELC_ESL_FC-Web.png",
+            "team_1": "Elche CF",
+            "team_2": "RCD Espanyol",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Elche CF vs RCD Espanyol",
+            "match_id": 131086,
+            "startTime": "06:30:00 PM 01-03-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "Main Feed - Day 3 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
@@ -404,18 +416,6 @@
             "startTime": "08:30:00 PM 28-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Elche CF vs RCD Espanyol (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131086_5427_ELC_ESL_FC-Web.png",
-            "team_1": "Elche CF",
-            "team_2": "RCD Espanyol",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Elche CF vs RCD Espanyol",
-            "match_id": 131086,
-            "startTime": "06:30:00 PM 01-03-2026"
-        },
-        {
             "event_category": "Tennis",
             "title": "Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
@@ -440,18 +440,6 @@
             "startTime": "06:00:00 AM 01-03-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 2 vs Wollongong Golf Club (Ford Women's NSW Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ford-Women's-NSW-Open_fc-web.jpg",
-            "team_1": "Day 2",
-            "team_2": "Wollongong Golf Club",
-            "status": "UPCOMING",
-            "event_name": "Ford Women's NSW Open 2026",
-            "match_name": "Day 2",
-            "match_id": 140784,
-            "startTime": "06:30:00 AM 01-03-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Mumbai City FC vs NorthEast United FC (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140451_5956_MCFC_NEUFC_fc-web_1772229182804.jpg",
@@ -462,6 +450,18 @@
             "match_name": "Mumbai City FC vs NorthEast United FC",
             "match_id": 140451,
             "startTime": "07:30:00 PM 01-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies Women vs Sri Lanka Women (Sri Lanka Women tour of West Indies, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card-(1).jpg",
+            "team_1": "West Indies Women",
+            "team_2": "Sri Lanka Women",
+            "status": "UPCOMING",
+            "event_name": "Sri Lanka Women tour of West Indies, 2026",
+            "match_name": "West Indies Women vs Sri Lanka Women",
+            "match_id": 140142,
+            "startTime": "10:30:00 PM 01-03-2026"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:21:10 AM 01-03-2026",
+    "last update time": "12:21:47 PM 01-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,18 +18,18 @@
             "adfree_url": null
         },
         {
-            "event_category": "Golf",
-            "title": "Day 2 vs Wollongong Golf Club (Ford Women's NSW Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ford-Women's-NSW-Open_fc-web.jpg",
-            "team_1": "Day 2",
-            "team_2": "Wollongong Golf Club",
+            "event_category": "Cricket",
+            "title": "Van der Stel Cricket Club vs Paarl East Cricket Club (Boland T20 Super League Finals 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140683_5968_MAT_PECC_FC-Web.jpg",
+            "team_1": "Van der Stel Cricket Club",
+            "team_2": "Paarl East Cricket Club",
             "status": "LIVE",
-            "event_name": "Ford Women's NSW Open 2026",
-            "match_name": "Day 2",
-            "match_id": 140784,
-            "startTime": "06:30:00 AM 01-03-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140784_english_hls_a19a349aa625330_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140784_english_hls_a19a349aa625330_1ta-di_h264/index.m3u8"
+            "event_name": "Boland T20 Super League Finals 2026",
+            "match_name": "Van der Stel Cricket Club vs Paarl East Cricket Club",
+            "match_id": 140693,
+            "startTime": "12:30:00 PM 01-03-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140693_english_hls_8792bd839e82242_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140693_english_hls_8792bd839e82242_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "MotoGP",
@@ -59,20 +59,8 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Van der Stel Cricket Club vs Paarl East Cricket Club (Boland T20 Super League Finals 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140683_5968_MAT_PECC_FC-Web.jpg",
-            "team_1": "Van der Stel Cricket Club",
-            "team_2": "Paarl East Cricket Club",
-            "status": "UPCOMING",
-            "event_name": "Boland T20 Super League Finals 2026",
-            "match_name": "Van der Stel Cricket Club vs Paarl East Cricket Club",
-            "match_id": 140693,
-            "startTime": "12:30:00 PM 01-03-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "TBC vs TBC (Boland T20 Super League Finals 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Boland-T20-Super-League_FC-WEB.png",
             "team_1": "TBC",
             "team_2": "TBC",
             "status": "UPCOMING",
@@ -106,6 +94,18 @@
             "startTime": "05:00:00 PM 01-03-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Boland T20 Super League Finals 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Boland-T20-Super-League_FC-WEB.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Boland T20 Super League Finals 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 140695,
+            "startTime": "10:00:00 PM 01-03-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Elche CF vs RCD Espanyol (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131086_5427_ELC_ESL_FC-Web.png",
@@ -116,18 +116,6 @@
             "match_name": "Elche CF vs RCD Espanyol",
             "match_id": 131086,
             "startTime": "06:30:00 PM 01-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Boland T20 Super League Finals 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Boland T20 Super League Finals 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 140695,
-            "startTime": "10:00:00 PM 01-03-2026"
         },
         {
             "event_category": "Football",
@@ -274,18 +262,6 @@
             "startTime": "04:00:00 AM 02-03-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Jupiter vs Boston vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Jupiter vs Boston",
-            "team_2": "Florida",
-            "status": "UPCOMING",
-            "event_name": "TGL Season 2",
-            "match_name": "Jupiter vs Boston",
-            "match_id": 139175,
-            "startTime": "07:30:00 AM 02-03-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Korea Republic Women vs IR Iran Women (AFC Women's Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140795_5979_KOR-W_IRNW_fc-Web_1772191702171.jpg",
@@ -296,6 +272,18 @@
             "match_name": "Korea Republic Women vs IR Iran Women",
             "match_id": 140795,
             "startTime": "02:30:00 PM 02-03-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Jupiter vs Boston vs Florida (TGL Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "Jupiter vs Boston",
+            "team_2": "Florida",
+            "status": "UPCOMING",
+            "event_name": "TGL Season 2",
+            "match_name": "Jupiter vs Boston",
+            "match_id": 139175,
+            "startTime": "07:30:00 AM 02-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -312,7 +300,7 @@
         {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Boland T20 Super League Finals 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Boland-T20-Super-League_FC-WEB.png",
             "team_1": "TBC",
             "team_2": "TBC",
             "status": "UPCOMING",
@@ -404,6 +392,18 @@
             "match_name": "Melbourne City vs Buriram United",
             "match_id": 140848,
             "startTime": "01:15:00 PM 03-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "China PR Women vs Bangladesh Women (AFC Women's Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140797_5979_CHN-W_BDW_fc-Web_1772191702160.jpg",
+            "team_1": "China PR Women",
+            "team_2": "Bangladesh Women",
+            "status": "UPCOMING",
+            "event_name": "AFC Women's Asian Cup, 2026",
+            "match_name": "China PR Women vs Bangladesh Women",
+            "match_id": 140797,
+            "startTime": "01:30:00 PM 03-03-2026"
         }
     ]
 }

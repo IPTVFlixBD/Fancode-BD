@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:24:38 PM 01-03-2026",
+    "last update time": "06:15:08 PM 01-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -46,6 +46,20 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/141089_tamil_hls_32315a4ebf28018_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Elche CF vs RCD Espanyol (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131086_5427_ELC_ESL_FC-Web.png",
+            "team_1": "Elche CF",
+            "team_2": "RCD Espanyol",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Elche CF vs RCD Espanyol",
+            "match_id": 131086,
+            "startTime": "06:30:00 PM 01-03-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/131086_english_hls_36546f8a7656011_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/131086_english_hls_36546f8a7656011_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "West Indies Women vs Sri Lanka Women (Sri Lanka Women tour of West Indies, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card-(1).jpg",
@@ -58,6 +72,18 @@
             "startTime": "10:30:00 PM 01-03-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Real Sociedad vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1772160982911/140824_CASACARDS_APP.png",
+            "team_1": "Real Sociedad",
+            "team_2": "Deportivo La Coruna",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Real Sociedad vs Deportivo La Coruna",
+            "match_id": 140824,
+            "startTime": "06:30:00 PM 01-03-2026"
+        },
+        {
             "event_category": "Cricket",
             "title": "Paarl East Cricket Club vs Van der Stel Cricket Club (Boland T20 Super League Finals 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Boland-T20-Super-League_FC-WEB.png",
@@ -68,18 +94,6 @@
             "match_name": "Paarl East Cricket Club vs Van der Stel Cricket Club",
             "match_id": 140695,
             "startTime": "10:00:00 PM 01-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Elche CF vs RCD Espanyol (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131086_5427_ELC_ESL_FC-Web.png",
-            "team_1": "Elche CF",
-            "team_2": "RCD Espanyol",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Elche CF vs RCD Espanyol",
-            "match_id": 131086,
-            "startTime": "06:30:00 PM 01-03-2026"
         },
         {
             "event_category": "Football",
@@ -130,40 +144,18 @@
             "startTime": "01:30:00 AM 02-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Real Sociedad vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1772160982911/140824_CASACARDS_APP.png",
-            "team_1": "Real Sociedad",
-            "team_2": "Deportivo La Coruna",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Sociedad vs Deportivo La Coruna",
-            "match_id": 140824,
-            "startTime": "06:30:00 PM 01-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Korea Republic Women vs IR Iran Women (AFC Women's Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140795_5979_KOR-W_IRNW_fc-Web_1772191702171.jpg",
-            "team_1": "Korea Republic Women",
-            "team_2": "IR Iran Women",
-            "status": "UPCOMING",
-            "event_name": "AFC Women's Asian Cup, 2026",
-            "match_name": "Korea Republic Women vs IR Iran Women",
-            "match_id": 140795,
-            "startTime": "02:30:00 PM 02-03-2026"
-        },
-        {
             "event_category": "Golf",
             "title": "Featured Groups - Day 4 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
             "team_1": "Featured Groups - Day 4",
             "team_2": "PGA National Resort, Florida",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Cognizant Classic in The Palm Beaches 2026",
             "match_name": "Featured Groups - Day 4",
             "match_id": 140781,
-            "startTime": "06:30:00 PM 01-03-2026"
+            "startTime": "06:30:00 PM 01-03-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140781_english_hls_a231eb42595351_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140781_english_hls_a231eb42595351_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -171,11 +163,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
             "team_1": "Main Feed - Day 4",
             "team_2": "PGA National Resort, Florida",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Cognizant Classic in The Palm Beaches 2026",
             "match_name": "Main Feed - Day 4",
             "match_id": 140779,
-            "startTime": "06:30:00 PM 01-03-2026"
+            "startTime": "06:30:00 PM 01-03-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140779_english_hls_a1d77d46e43033_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140779_english_hls_a1d77d46e43033_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -200,6 +194,18 @@
             "match_name": "Featured Holes - Day 4",
             "match_id": 140780,
             "startTime": "07:15:00 PM 01-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Korea Republic Women vs IR Iran Women (AFC Women's Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140795_5979_KOR-W_IRNW_fc-Web_1772191702171.jpg",
+            "team_1": "Korea Republic Women",
+            "team_2": "IR Iran Women",
+            "status": "UPCOMING",
+            "event_name": "AFC Women's Asian Cup, 2026",
+            "match_name": "Korea Republic Women vs IR Iran Women",
+            "match_id": 140795,
+            "startTime": "02:30:00 PM 02-03-2026"
         },
         {
             "event_category": "Golf",

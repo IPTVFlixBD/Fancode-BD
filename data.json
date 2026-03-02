@@ -1,21 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:22:28 AM 02-03-2026",
+    "last update time": "07:33:47 AM 02-03-2026",
     "matches": [
         {
-            "event_category": "Tennis",
-            "title": "Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
-            "team_1": "Court Jaime Fillol",
-            "team_2": "Santiago, Chile",
+            "event_category": "Golf",
+            "title": "Jupiter vs Boston vs Florida (TGL Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "Jupiter vs Boston",
+            "team_2": "Florida",
             "status": "LIVE",
-            "event_name": "ATP 250 - BCI Seguros Chile Open 2026",
-            "match_name": "Court Jaime Fillol",
-            "match_id": 140363,
-            "startTime": "04:00:00 AM 02-03-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140363_english_hls_ee7edf68e779177_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140363_english_hls_ee7edf68e779177_1ta-di_h264/index.m3u8"
+            "event_name": "TGL Season 2",
+            "match_name": "Jupiter vs Boston",
+            "match_id": 139175,
+            "startTime": "07:30:00 AM 02-03-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/d9Eshw5zS3uZXzYgQ72wGA/master.m3u8",
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -28,18 +28,6 @@
             "match_name": "Maties Cricket Club vs Van der Stel Cricket Club",
             "match_id": 140696,
             "startTime": "10:00:00 PM 02-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Korea Republic Women vs IR Iran Women (AFC Women's Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140795_5979_KOR-W_IRNW_fc-Web_1772191702171.jpg",
-            "team_1": "Korea Republic Women",
-            "team_2": "IR Iran Women",
-            "status": "UPCOMING",
-            "event_name": "AFC Women's Asian Cup, 2026",
-            "match_name": "Korea Republic Women vs IR Iran Women",
-            "match_id": 140795,
-            "startTime": "02:30:00 PM 02-03-2026"
         },
         {
             "event_category": "Football",
@@ -67,6 +55,18 @@
         },
         {
             "event_category": "Football",
+            "title": "Korea Republic Women vs IR Iran Women (AFC Women's Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140795_5979_KOR-W_IRNW_fc-Web_1772191702171.jpg",
+            "team_1": "Korea Republic Women",
+            "team_2": "IR Iran Women",
+            "status": "UPCOMING",
+            "event_name": "AFC Women's Asian Cup, 2026",
+            "match_name": "Korea Republic Women vs IR Iran Women",
+            "match_id": 140795,
+            "startTime": "02:30:00 PM 02-03-2026"
+        },
+        {
+            "event_category": "Football",
             "title": "Córdoba vs FC Andorra (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1772160982904/140823_CASACARDS_APP.png",
             "team_1": "Córdoba",
@@ -90,18 +90,6 @@
             "startTime": "06:30:00 AM 03-03-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Jupiter vs Boston vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Jupiter vs Boston",
-            "team_2": "Florida",
-            "status": "UPCOMING",
-            "event_name": "TGL Season 2",
-            "match_name": "Jupiter vs Boston",
-            "match_id": 139175,
-            "startTime": "07:30:00 AM 02-03-2026"
-        },
-        {
             "event_category": "Football",
             "title": "DPR Korea Women vs Uzbekistan Women (AFC Women's Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140796_5979_NK-W_UB-W_fc-Web_1772191702163.jpg",
@@ -114,16 +102,16 @@
             "startTime": "07:30:00 AM 03-03-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
-            "team_1": "England Lions",
-            "team_2": "Pakistan Shaheens",
+            "event_category": "Football",
+            "title": "Melbourne City vs Buriram United (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140848_5647_MLC_BU_FC-Web.png",
+            "team_1": "Melbourne City",
+            "team_2": "Buriram United",
             "status": "UPCOMING",
-            "event_name": "England Lions and Pakistan Shaheens tour of UAE",
-            "match_name": "England Lions vs Pakistan Shaheens",
-            "match_id": 140665,
-            "startTime": "11:30:00 AM 01-03-2026"
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Melbourne City vs Buriram United",
+            "match_id": 140848,
+            "startTime": "01:15:00 PM 03-03-2026"
         },
         {
             "event_category": "Golf",
@@ -138,16 +126,16 @@
             "startTime": "05:30:00 AM 03-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Melbourne City vs Buriram United (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140848_5647_MLC_BU_FC-Web.png",
-            "team_1": "Melbourne City",
-            "team_2": "Buriram United",
+            "event_category": "Cricket",
+            "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
+            "team_1": "England Lions",
+            "team_2": "Pakistan Shaheens",
             "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Melbourne City vs Buriram United",
-            "match_id": 140848,
-            "startTime": "01:15:00 PM 03-03-2026"
+            "event_name": "England Lions and Pakistan Shaheens tour of UAE",
+            "match_name": "England Lions vs Pakistan Shaheens",
+            "match_id": 140665,
+            "startTime": "11:30:00 AM 01-03-2026"
         },
         {
             "event_category": "Football",
@@ -388,6 +376,18 @@
             "match_name": "Luton Town vs Northampton Town FC",
             "match_id": 140876,
             "startTime": "01:00:00 AM 05-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tasmania vs Victoria (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134039_5609_TAS_VCT_fc-Web.jpg",
+            "team_1": "Tasmania",
+            "team_2": "Victoria",
+            "status": "UPCOMING",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Tasmania vs Victoria",
+            "match_id": 134039,
+            "startTime": "05:00:00 AM 05-03-2026"
         }
     ]
 }

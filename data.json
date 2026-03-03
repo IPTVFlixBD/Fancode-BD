@@ -1,21 +1,35 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:27:29 AM 03-03-2026",
+    "last update time": "07:58:59 AM 03-03-2026",
     "matches": [
         {
-            "event_category": "Golf",
-            "title": "Los Angeles vs New York vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Los Angeles vs New York",
-            "team_2": "Florida",
+            "event_category": "Cricket",
+            "title": "Hong Kong, China vs Kuwait (Men's One Day Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Men's-One-Day-Series_web.jpg",
+            "team_1": "Hong Kong, China",
+            "team_2": "Kuwait",
             "status": "LIVE",
-            "event_name": "TGL Season 2",
-            "match_name": "Los Angeles vs New York",
-            "match_id": 139176,
-            "startTime": "05:30:00 AM 03-03-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/lEOB290oSXucao4W5ya5Vw/master.m3u8",
-            "adfree_url": null
+            "event_name": "Men's One Day Series 2026",
+            "match_name": "Hong Kong, China vs Kuwait",
+            "match_id": 140883,
+            "startTime": "06:30:00 AM 03-03-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140883_english_hls_f39675e62498931_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140883_english_hls_f39675e62498931_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "DPR Korea Women vs Uzbekistan Women (AFC Women's Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140796_5979_NK-W_UB-W_fc-Web_1772191702163.jpg",
+            "team_1": "DPR Korea Women",
+            "team_2": "Uzbekistan Women",
+            "status": "LIVE",
+            "event_name": "AFC Women's Asian Cup, 2026",
+            "match_name": "DPR Korea Women vs Uzbekistan Women",
+            "match_id": 140796,
+            "startTime": "07:30:00 AM 03-03-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140796_english_hls_ace8e8439027759_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140796_english_hls_ace8e8439027759_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -28,18 +42,6 @@
             "match_name": "West Indies Women vs Sri Lanka Women",
             "match_id": 140143,
             "startTime": "10:30:00 PM 03-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hong Kong, China vs Kuwait (Men's One Day Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Men's-One-Day-Series_web.jpg",
-            "team_1": "Hong Kong, China",
-            "team_2": "Kuwait",
-            "status": "UPCOMING",
-            "event_name": "Men's One Day Series 2026",
-            "match_name": "Hong Kong, China vs Kuwait",
-            "match_id": 140883,
-            "startTime": "06:30:00 AM 03-03-2026"
         },
         {
             "event_category": "Football",
@@ -67,15 +69,15 @@
         },
         {
             "event_category": "Football",
-            "title": "DPR Korea Women vs Uzbekistan Women (AFC Women's Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140796_5979_NK-W_UB-W_fc-Web_1772191702163.jpg",
-            "team_1": "DPR Korea Women",
-            "team_2": "Uzbekistan Women",
+            "title": "FC Barcelona vs Atletico de Madrid (Copa del Rey, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140525_5806_BAR_ATL_FC-Web.jpg",
+            "team_1": "FC Barcelona",
+            "team_2": "Atletico de Madrid",
             "status": "UPCOMING",
-            "event_name": "AFC Women's Asian Cup, 2026",
-            "match_name": "DPR Korea Women vs Uzbekistan Women",
-            "match_id": 140796,
-            "startTime": "07:30:00 AM 03-03-2026"
+            "event_name": "Copa del Rey, 2025-26",
+            "match_name": "FC Barcelona vs Atletico de Madrid",
+            "match_id": 140525,
+            "startTime": "01:30:00 AM 04-03-2026"
         },
         {
             "event_category": "Football",
@@ -88,18 +90,6 @@
             "match_name": "China PR Women vs Bangladesh Women",
             "match_id": 140797,
             "startTime": "01:30:00 PM 03-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "FC Barcelona vs Atletico de Madrid (Copa del Rey, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140525_5806_BAR_ATL_FC-Web.jpg",
-            "team_1": "FC Barcelona",
-            "team_2": "Atletico de Madrid",
-            "status": "UPCOMING",
-            "event_name": "Copa del Rey, 2025-26",
-            "match_name": "FC Barcelona vs Atletico de Madrid",
-            "match_id": 140525,
-            "startTime": "01:30:00 AM 04-03-2026"
         },
         {
             "event_category": "Football",
@@ -412,6 +402,18 @@
             "match_name": "IR Iran Women vs Australia Women",
             "match_id": 140801,
             "startTime": "02:30:00 PM 05-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "East Bengal FC vs FC Goa (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140452_5956_EBFC_FCG_FC-Web_1772449994533.jpg",
+            "team_1": "East Bengal FC",
+            "team_2": "FC Goa",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "East Bengal FC vs FC Goa",
+            "match_id": 140452,
+            "startTime": "05:00:00 PM 05-03-2026"
         }
     ]
 }

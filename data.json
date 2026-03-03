@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "01:09:23 AM 04-03-2026",
+    "last update time": "02:10:28 AM 04-03-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "West Indies Women vs Sri Lanka Women (Sri Lanka Women tour of West Indies, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card-(1).jpg",
-            "team_1": "West Indies Women",
-            "team_2": "Sri Lanka Women",
-            "status": "LIVE",
-            "event_name": "Sri Lanka Women tour of West Indies, 2026",
-            "match_name": "West Indies Women vs Sri Lanka Women",
-            "match_id": 140143,
-            "startTime": "10:30:00 PM 03-03-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140143_english_hls_468828740259927_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140143_english_hls_468828740259927_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "FC Barcelona vs Atletico de Madrid (Copa del Rey, 2025-26)",
@@ -37,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1772173611237.png",
             "team_1": "Doncaster Rovers F.C.",
             "team_2": "Stockport County",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Vertu Trophy 2025-26",
             "match_name": "Doncaster Rovers F.C. vs Stockport County",
             "match_id": 140875,
-            "startTime": "01:30:00 AM 04-03-2026"
+            "startTime": "01:30:00 AM 04-03-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140875_english_hls_0551b4d96438461_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140875_english_hls_0551b4d96438461_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -92,6 +80,18 @@
             "startTime": "01:30:00 PM 04-03-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "New Zealand Women vs Zimbabwe Women (Zimbabwe Women tour of New Zealand, 2026)",
+            "src": "https://images.fancode.com/aig/match/v1771899740421/140596_CASACARDS_APP.png",
+            "team_1": "New Zealand Women",
+            "team_2": "Zimbabwe Women",
+            "status": "UPCOMING",
+            "event_name": "Zimbabwe Women tour of New Zealand, 2026",
+            "match_name": "New Zealand Women vs Zimbabwe Women",
+            "match_id": 140596,
+            "startTime": "03:30:00 AM 05-03-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Gamba Osaka vs Ratchaburi (AFC Champions League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -114,18 +114,6 @@
             "match_name": "Vietnam Women vs India Women",
             "match_id": 140799,
             "startTime": "04:30:00 PM 04-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New Zealand Women vs Zimbabwe Women (Zimbabwe Women tour of New Zealand, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1771899740421/140596_CASACARDS_APP.png",
-            "team_1": "New Zealand Women",
-            "team_2": "Zimbabwe Women",
-            "status": "UPCOMING",
-            "event_name": "Zimbabwe Women tour of New Zealand, 2026",
-            "match_name": "New Zealand Women vs Zimbabwe Women",
-            "match_id": 140596,
-            "startTime": "03:30:00 AM 05-03-2026"
         },
         {
             "event_category": "Football",
@@ -198,6 +186,30 @@
             "match_name": "Tasmania vs Victoria",
             "match_id": 134039,
             "startTime": "05:00:00 AM 05-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "South Australia vs New South Wales (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134040_5609_SAU_NSW_fc-Web.jpg",
+            "team_1": "South Australia",
+            "team_2": "New South Wales",
+            "status": "UPCOMING",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "South Australia vs New South Wales",
+            "match_id": 134040,
+            "startTime": "05:30:00 AM 05-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Queensland vs Western Australia (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134038_5609_QUN_WAU_fc-Web.jpg",
+            "team_1": "Queensland",
+            "team_2": "Western Australia",
+            "status": "UPCOMING",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Queensland vs Western Australia",
+            "match_id": 134038,
+            "startTime": "05:30:00 AM 05-03-2026"
         },
         {
             "event_category": "Tennis",
@@ -282,30 +294,6 @@
             "match_name": "C Court Feed",
             "match_id": 141228,
             "startTime": "11:30:00 PM 04-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "South Australia vs New South Wales (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134040_5609_SAU_NSW_fc-Web.jpg",
-            "team_1": "South Australia",
-            "team_2": "New South Wales",
-            "status": "UPCOMING",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "South Australia vs New South Wales",
-            "match_id": 134040,
-            "startTime": "05:30:00 AM 05-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Queensland vs Western Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134038_5609_QUN_WAU_fc-Web.jpg",
-            "team_1": "Queensland",
-            "team_2": "Western Australia",
-            "status": "UPCOMING",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Queensland vs Western Australia",
-            "match_id": 134038,
-            "startTime": "05:30:00 AM 05-03-2026"
         },
         {
             "event_category": "Cricket",

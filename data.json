@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "12:31:39 PM 03-03-2026",
+    "last update time": "01:12:06 PM 03-03-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Melbourne City vs Buriram United (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140848_5647_MLC_BU_FC-Web.png",
+            "team_1": "Melbourne City",
+            "team_2": "Buriram United",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Melbourne City vs Buriram United",
+            "match_id": 140848,
+            "startTime": "01:15:00 PM 03-03-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140848_english_hls_45bc967d5620727_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140848_english_hls_45bc967d5620727_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "West Indies Women vs Sri Lanka Women (Sri Lanka Women tour of West Indies, 2026)",
@@ -14,18 +28,6 @@
             "match_name": "West Indies Women vs Sri Lanka Women",
             "match_id": 140143,
             "startTime": "10:30:00 PM 03-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Melbourne City vs Buriram United (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140848_5647_MLC_BU_FC-Web.png",
-            "team_1": "Melbourne City",
-            "team_2": "Buriram United",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Melbourne City vs Buriram United",
-            "match_id": 140848,
-            "startTime": "01:15:00 PM 03-03-2026"
         },
         {
             "event_category": "Football",
@@ -112,18 +114,6 @@
             "startTime": "01:30:00 PM 04-03-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "The Bay vs Jupiter vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "The Bay vs Jupiter",
-            "team_2": "Florida",
-            "status": "UPCOMING",
-            "event_name": "TGL Season 2",
-            "match_name": "The Bay vs Jupiter",
-            "match_id": 139177,
-            "startTime": "07:30:00 AM 04-03-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Gamba Osaka vs Ratchaburi (AFC Champions League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -134,6 +124,18 @@
             "match_name": "Gamba Osaka vs Ratchaburi",
             "match_id": 140863,
             "startTime": "03:30:00 PM 04-03-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "The Bay vs Jupiter vs Florida (TGL Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "The Bay vs Jupiter",
+            "team_2": "Florida",
+            "status": "UPCOMING",
+            "event_name": "TGL Season 2",
+            "match_name": "The Bay vs Jupiter",
+            "match_id": 139177,
+            "startTime": "07:30:00 AM 04-03-2026"
         },
         {
             "event_category": "Football",

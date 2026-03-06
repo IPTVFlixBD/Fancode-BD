@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "10:37:39 AM 06-03-2026",
+    "last update time": "11:28:07 AM 06-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -172,6 +172,18 @@
             "startTime": "01:30:00 AM 07-03-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Hong Kong, China vs Kuwait (Men's One Day Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Men's-One-Day-Series_web.jpg",
+            "team_1": "Hong Kong, China",
+            "team_2": "Kuwait",
+            "status": "UPCOMING",
+            "event_name": "Men's One Day Series 2026",
+            "match_name": "Hong Kong, China vs Kuwait",
+            "match_id": 140885,
+            "startTime": "06:30:00 AM 07-03-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Uzbekistan Women vs China PR Women (AFC Women's Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140803_5979_UB-W_CHN-W_fc-Web_1772191702178.jpg",
@@ -194,18 +206,6 @@
             "match_name": "Adelaide United vs Wellington Phoenix",
             "match_id": 140907,
             "startTime": "02:05:00 PM 06-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hong Kong, China vs Kuwait (Men's One Day Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Men's-One-Day-Series_web.jpg",
-            "team_1": "Hong Kong, China",
-            "team_2": "Kuwait",
-            "status": "UPCOMING",
-            "event_name": "Men's One Day Series 2026",
-            "match_name": "Hong Kong, China vs Kuwait",
-            "match_id": 140885,
-            "startTime": "06:30:00 AM 07-03-2026"
         },
         {
             "event_category": "Football",
@@ -256,6 +256,18 @@
             "startTime": "10:30:00 AM 07-03-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Newcastle Jets vs Western Sydney Wanderers (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140908_5802_NJ_SYW_fc-web.jpg",
+            "team_1": "Newcastle Jets",
+            "team_2": "Western Sydney Wanderers",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Newcastle Jets vs Western Sydney Wanderers",
+            "match_id": 140908,
+            "startTime": "11:30:00 AM 07-03-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "Main Feed Day 2 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
@@ -290,18 +302,6 @@
             "match_name": "Marquee Feed Day 2",
             "match_id": 140994,
             "startTime": "08:45:00 PM 06-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Newcastle Jets vs Western Sydney Wanderers (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140908_5802_NJ_SYW_fc-web.jpg",
-            "team_1": "Newcastle Jets",
-            "team_2": "Western Sydney Wanderers",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Newcastle Jets vs Western Sydney Wanderers",
-            "match_id": 140908,
-            "startTime": "11:30:00 AM 07-03-2026"
         },
         {
             "event_category": "Golf",
@@ -424,6 +424,18 @@
             "startTime": "12:30:00 PM 07-03-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Sydney FC vs Melbourne Victory (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140909_5802_SYD_MLV_fc-web.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Melbourne Victory",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney FC vs Melbourne Victory",
+            "match_id": 140909,
+            "startTime": "02:05:00 PM 07-03-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 1 vs Magenta Shares Golf & Country Club (Australian Women's Classic 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-old-match-card_1772479047332.jpg",
@@ -446,18 +458,6 @@
             "match_name": "F1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026",
             "match_id": 139363,
             "startTime": "07:00:00 AM 07-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sydney FC vs Melbourne Victory (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140909_5802_SYD_MLV_fc-web.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Melbourne Victory",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney FC vs Melbourne Victory",
-            "match_id": 140909,
-            "startTime": "02:05:00 PM 07-03-2026"
         },
         {
             "event_category": "Motorsports",

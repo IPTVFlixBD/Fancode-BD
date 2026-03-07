@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "01:26:04 PM 07-03-2026",
+    "last update time": "01:56:24 PM 07-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -47,31 +47,17 @@
         },
         {
             "event_category": "Football",
-            "title": "Newcastle Jets vs Western Sydney Wanderers (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140908_5802_NJ_SYW_fc-web.jpg",
-            "team_1": "Newcastle Jets",
-            "team_2": "Western Sydney Wanderers",
+            "title": "Sydney FC vs Melbourne Victory (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140909_5802_SYD_MLV_fc-web.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Melbourne Victory",
             "status": "LIVE",
             "event_name": "A League 2025-26",
-            "match_name": "Newcastle Jets vs Western Sydney Wanderers",
-            "match_id": 140908,
-            "startTime": "11:30:00 AM 07-03-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140908_english_hls_08b243670367174_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140908_english_hls_08b243670367174_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Western Australia vs Queensland (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134038_5609_QUN_WAU_FC-Web.png",
-            "team_1": "Western Australia",
-            "team_2": "Queensland",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Western Australia vs Queensland",
-            "match_id": 134038,
-            "startTime": "05:30:00 AM 05-03-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/134038_english_hls_7fd497bc3637801_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/134038_english_hls_7fd497bc3637801_1ta-di_h264/index.m3u8"
+            "match_name": "Sydney FC vs Melbourne Victory",
+            "match_id": 140909,
+            "startTime": "02:05:00 PM 07-03-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140909_english_hls_41ee1c144b58567_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140909_english_hls_41ee1c144b58567_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -84,30 +70,6 @@
             "match_name": "New Zealand Women vs Zimbabwe Women",
             "match_id": 140597,
             "startTime": "03:30:00 AM 08-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New South Wales vs South Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134040_5609_SAU_NSW_FC-Web.png",
-            "team_1": "New South Wales",
-            "team_2": "South Australia",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "New South Wales vs South Australia",
-            "match_id": 134040,
-            "startTime": "05:30:00 AM 05-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sydney FC vs Melbourne Victory (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140909_5802_SYD_MLV_fc-web.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Melbourne Victory",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney FC vs Melbourne Victory",
-            "match_id": 140909,
-            "startTime": "02:05:00 PM 07-03-2026"
         },
         {
             "event_category": "Football",
@@ -264,6 +226,18 @@
             "match_name": "Athletic Club vs FC Barcelona",
             "match_id": 131093,
             "startTime": "01:30:00 AM 08-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Western Australia vs Queensland (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134038_5609_QUN_WAU_FC-Web.png",
+            "team_1": "Western Australia",
+            "team_2": "Queensland",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Western Australia vs Queensland",
+            "match_id": 134038,
+            "startTime": "05:30:00 AM 05-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -444,6 +418,30 @@
             "match_name": "World Feed Day 3",
             "match_id": 140999,
             "startTime": "11:00:00 PM 07-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "IR Iran Women vs Philippines Women (AFC Women's Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140807_5979_IRNW_PHI-W_fc-Web_1772191702166.jpg",
+            "team_1": "IR Iran Women",
+            "team_2": "Philippines Women",
+            "status": "UPCOMING",
+            "event_name": "AFC Women's Asian Cup, 2026",
+            "match_name": "IR Iran Women vs Philippines Women",
+            "match_id": 140807,
+            "startTime": "02:30:00 PM 08-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Australia Women vs Korea Republic Women (AFC Women's Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140806_5979_AUS-W_KOR-W_fc-Web_1772191702169.jpg",
+            "team_1": "Australia Women",
+            "team_2": "Korea Republic Women",
+            "status": "UPCOMING",
+            "event_name": "AFC Women's Asian Cup, 2026",
+            "match_name": "Australia Women vs Korea Republic Women",
+            "match_id": 140806,
+            "startTime": "02:30:00 PM 08-03-2026"
         },
         {
             "event_category": "Tennis",

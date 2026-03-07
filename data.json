@@ -1,21 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "03:15:25 AM 08-03-2026",
+    "last update time": "03:45:44 AM 08-03-2026",
     "matches": [
         {
-            "event_category": "Football",
-            "title": "Athletic Club vs FC Barcelona (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131093_5427_ATH_BAR_FC-Web.png",
-            "team_1": "Athletic Club",
-            "team_2": "FC Barcelona",
+            "event_category": "Cricket",
+            "title": "Zimbabwe Women vs New Zealand Women (Zimbabwe Women tour of New Zealand, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_ODi_fc_web_1772618590773.jpg",
+            "team_1": "Zimbabwe Women",
+            "team_2": "New Zealand Women",
             "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Athletic Club vs FC Barcelona",
-            "match_id": 131093,
-            "startTime": "01:30:00 AM 08-03-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/index.m3u8"
+            "event_name": "Zimbabwe Women tour of New Zealand, 2026",
+            "match_name": "Zimbabwe Women vs New Zealand Women",
+            "match_id": 140597,
+            "startTime": "03:30:00 AM 08-03-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037141/DAI21NZVSZM/master.m3u8?hdnea=exp=1772963733~acl=/*~id=02256228094703966392344128637199~hmac=b2490228f52eea6fda5a910a9a2dd080aefb6fa6e6025b6bee920179fe5414be"
         },
         {
             "event_category": "Football",
@@ -200,16 +200,18 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/139707_english_hls_44dd080ff120846_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Zimbabwe Women vs New Zealand Women (Zimbabwe Women tour of New Zealand, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_ODi_fc_web_1772618590773.jpg",
-            "team_1": "Zimbabwe Women",
-            "team_2": "New Zealand Women",
-            "status": "UPCOMING",
-            "event_name": "Zimbabwe Women tour of New Zealand, 2026",
-            "match_name": "Zimbabwe Women vs New Zealand Women",
-            "match_id": 140597,
-            "startTime": "03:30:00 AM 08-03-2026"
+            "event_category": "Football",
+            "title": "Athletic Club vs FC Barcelona (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131093_5427_ATH_BAR_FC-Web.png",
+            "team_1": "Athletic Club",
+            "team_2": "FC Barcelona",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Athletic Club vs FC Barcelona",
+            "match_id": 131093,
+            "startTime": "01:30:00 AM 08-03-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -320,18 +322,6 @@
             "startTime": "08:00:00 PM 08-03-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Western Australia vs Queensland (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134038_5609_QUN_WAU_FC-Web.png",
-            "team_1": "Western Australia",
-            "team_2": "Queensland",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Western Australia vs Queensland",
-            "match_id": 134038,
-            "startTime": "05:30:00 AM 05-03-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Mumbai City FC vs Sporting Club Delhi (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140457_5956_MCFC_SCD_FC-Web_1772450895353.jpg",
@@ -342,6 +332,18 @@
             "match_name": "Mumbai City FC vs Sporting Club Delhi",
             "match_id": 140457,
             "startTime": "07:30:00 PM 08-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Western Australia vs Queensland (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134038_5609_QUN_WAU_FC-Web.png",
+            "team_1": "Western Australia",
+            "team_2": "Queensland",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Western Australia vs Queensland",
+            "match_id": 134038,
+            "startTime": "05:30:00 AM 05-03-2026"
         },
         {
             "event_category": "Football",

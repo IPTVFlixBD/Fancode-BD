@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "04:28:05 PM 09-03-2026",
+    "last update time": "04:58:23 PM 09-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,20 +32,6 @@
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140808_english_hls_2277a6b1c317175_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Bangladesh Women vs Uzbekistan Women (AFC Women's Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140809_5979_BDW_UB-W_fc-Web_1772191702984.jpg",
-            "team_1": "Bangladesh Women",
-            "team_2": "Uzbekistan Women",
-            "status": "LIVE",
-            "event_name": "AFC Women's Asian Cup, 2026",
-            "match_name": "Bangladesh Women vs Uzbekistan Women",
-            "match_id": 140809,
-            "startTime": "02:30:00 PM 09-03-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140809_english_hls_00a2fc83d412711_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140809_english_hls_00a2fc83d412711_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Argentina vs Suriname (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140707_5971_ARG_SRN_fc-Web.jpg",
@@ -58,18 +44,6 @@
             "startTime": "08:00:00 PM 09-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Punjab FC vs NorthEast United FC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140458_5956_PFC_NEUFC_FC-Web_1772450979384.jpg",
-            "team_1": "Punjab FC",
-            "team_2": "NorthEast United FC",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "Punjab FC vs NorthEast United FC",
-            "match_id": 140458,
-            "startTime": "07:30:00 PM 09-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Cayman Islands vs Mexico (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140708_5971_CAY_MEX_fc-Web.jpg",
@@ -80,6 +54,18 @@
             "match_name": "Cayman Islands vs Mexico",
             "match_id": 140708,
             "startTime": "01:00:00 AM 10-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Punjab FC vs NorthEast United FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140458_5956_PFC_NEUFC_FC-Web_1772450979384.jpg",
+            "team_1": "Punjab FC",
+            "team_2": "NorthEast United FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "Punjab FC vs NorthEast United FC",
+            "match_id": 140458,
+            "startTime": "07:30:00 PM 09-03-2026"
         },
         {
             "event_category": "Football",
@@ -118,18 +104,6 @@
             "startTime": "10:10:00 AM 10-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Almería vs Cultural Leonesa (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1772160982886/140828_CASACARDS_APP.png",
-            "team_1": "Almería",
-            "team_2": "Cultural Leonesa",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Almería vs Cultural Leonesa",
-            "match_id": 140828,
-            "startTime": "01:00:00 AM 10-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
@@ -140,6 +114,18 @@
             "match_name": "Malaysia vs Bahrain",
             "match_id": 141301,
             "startTime": "12:30:00 PM 10-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Almería vs Cultural Leonesa (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1772160982886/140828_CASACARDS_APP.png",
+            "team_1": "Almería",
+            "team_2": "Cultural Leonesa",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Almería vs Cultural Leonesa",
+            "match_id": 140828,
+            "startTime": "01:00:00 AM 10-03-2026"
         },
         {
             "event_category": "Cricket",

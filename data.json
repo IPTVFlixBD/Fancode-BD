@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "02:32:13 PM 10-03-2026",
+    "last update time": "03:22:43 PM 10-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,31 +19,45 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Rajasthan Emperors vs Gujarat Tigers (Thunderbolt T10 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Rajasthan Emperors",
-            "team_2": "Gujarat Tigers",
-            "status": "LIVE",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Rajasthan Emperors vs Gujarat Tigers",
-            "match_id": 141185,
-            "startTime": "12:45:00 PM 10-03-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/141185_english_hls_1fbf6889cd53055_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/141185_english_hls_1fbf6889cd53055_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "CAG Delhi vs SPJ Cargo (Tillo Cup 2026)",
+            "title": "CAG Delhi vs SPJ Cargo Delhi (Tillo Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
             "team_1": "CAG Delhi",
-            "team_2": "SPJ Cargo",
+            "team_2": "SPJ Cargo Delhi",
             "status": "LIVE",
             "event_name": "Tillo Cup 2026",
-            "match_name": "CAG Delhi vs SPJ Cargo",
+            "match_name": "CAG Delhi vs SPJ Cargo Delhi",
             "match_id": 141262,
             "startTime": "01:30:00 PM 10-03-2026",
             "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/141262_english_hls_bf799af95f6989_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/141262_english_hls_bf799af95f6989_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Chennai Warlords vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+            "team_1": "Chennai Warlords",
+            "team_2": "Tamil Nadu Titans",
+            "status": "LIVE",
+            "event_name": "Thunderbolt T10 League 2026",
+            "match_name": "Chennai Warlords vs Tamil Nadu Titans",
+            "match_id": 141186,
+            "startTime": "03:10:00 PM 10-03-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/141186_english_hls_11743afe4324773_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/141186_english_hls_11743afe4324773_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Machida Zelvia vs Gangwon (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140856_5647_MZ_GW_FC-Web_1772186975986.png",
+            "team_1": "Machida Zelvia",
+            "team_2": "Gangwon",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Machida Zelvia vs Gangwon",
+            "match_id": 140856,
+            "startTime": "03:30:00 PM 10-03-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140856_english_hls_1091795e9493288_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140856_english_hls_1091795e9493288_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -86,30 +100,6 @@
             "startTime": "03:30:00 AM 11-03-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Chennai Warlords vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Chennai Warlords",
-            "team_2": "Tamil Nadu Titans",
-            "status": "UPCOMING",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Chennai Warlords vs Tamil Nadu Titans",
-            "match_id": 141186,
-            "startTime": "03:10:00 PM 10-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Machida Zelvia vs Gangwon (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140856_5647_MZ_GW_FC-Web_1772186975986.png",
-            "team_1": "Machida Zelvia",
-            "team_2": "Gangwon",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Machida Zelvia vs Gangwon",
-            "match_id": 140856,
-            "startTime": "03:30:00 PM 10-03-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Buriram United vs Melbourne City (AFC Champions League Elite 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140857_5647_BU_MLC_FC-Web_1772186976696.png",
@@ -147,13 +137,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "SPJ Cargo vs MHKL Banaras (Tillo Cup 2026)",
+            "title": "SPJ Cargo Delhi vs MHKL Banaras (Tillo Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
-            "team_1": "SPJ Cargo",
+            "team_1": "SPJ Cargo Delhi",
             "team_2": "MHKL Banaras",
             "status": "UPCOMING",
             "event_name": "Tillo Cup 2026",
-            "match_name": "SPJ Cargo vs MHKL Banaras",
+            "match_name": "SPJ Cargo Delhi vs MHKL Banaras",
             "match_id": 141263,
             "startTime": "09:30:00 AM 11-03-2026"
         },
@@ -170,18 +160,6 @@
             "startTime": "10:10:00 AM 11-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Philadelphia Union vs Club América (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141093_5954_PU_AME_1772957308825.png",
-            "team_1": "Philadelphia Union",
-            "team_2": "Club América",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Philadelphia Union vs Club América",
-            "match_id": 141093,
-            "startTime": "04:30:00 AM 11-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Betwa Blasters vs Saryu Smashers (Ayodhya Premier League)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -192,6 +170,18 @@
             "match_name": "Betwa Blasters vs Saryu Smashers",
             "match_id": 141355,
             "startTime": "12:00:00 PM 11-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Philadelphia Union vs Club América (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141093_5954_PU_AME_1772957308825.png",
+            "team_1": "Philadelphia Union",
+            "team_2": "Club América",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Philadelphia Union vs Club América",
+            "match_id": 141093,
+            "startTime": "04:30:00 AM 11-03-2026"
         },
         {
             "event_category": "Football",
@@ -218,18 +208,6 @@
             "startTime": "12:45:00 PM 11-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Los Angeles Football Club vs Alajuelense (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141095_5954_LAF_LDA_1772957535861.png",
-            "team_1": "Los Angeles Football Club",
-            "team_2": "Alajuelense",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Los Angeles Football Club vs Alajuelense",
-            "match_id": 141095,
-            "startTime": "08:30:00 AM 11-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "CAG Delhi vs NCC Odisha (Tillo Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
@@ -240,6 +218,18 @@
             "match_name": "CAG Delhi vs NCC Odisha",
             "match_id": 141264,
             "startTime": "01:30:00 PM 11-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Los Angeles Football Club vs Alajuelense (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141095_5954_LAF_LDA_1772957535861.png",
+            "team_1": "Los Angeles Football Club",
+            "team_2": "Alajuelense",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Los Angeles Football Club vs Alajuelense",
+            "match_id": 141095,
+            "startTime": "08:30:00 AM 11-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -468,6 +458,18 @@
             "match_name": "Argentina vs Mexico",
             "match_id": 140710,
             "startTime": "01:00:00 AM 12-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Coventry City Football Club vs Preston North End F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140557_5489_CVC_PST_fc-web.jpg",
+            "team_1": "Coventry City Football Club",
+            "team_2": "Preston North End F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Coventry City Football Club vs Preston North End F.C.",
+            "match_id": 140557,
+            "startTime": "01:30:00 AM 12-03-2026"
         }
     ]
 }

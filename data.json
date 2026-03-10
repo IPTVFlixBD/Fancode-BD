@@ -1,50 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "06:47:27 AM 10-03-2026",
+    "last update time": "08:58:48 AM 10-03-2026",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "title": "C Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-            "team_1": "C Court Feed",
-            "team_2": "Indian, United States",
-            "status": "LIVE",
-            "event_name": "ATP Masters BNP Paribas Open 2026",
-            "match_name": "C Court Feed",
-            "match_id": 141021,
-            "startTime": "11:30:00 PM 09-03-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/141021_english_hls_2d820f94d022891_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/141021_english_hls_2d820f94d022891_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "D Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-            "team_1": "D Court Feed",
-            "team_2": "Indian, United States",
-            "status": "LIVE",
-            "event_name": "ATP Masters BNP Paribas Open 2026",
-            "match_name": "D Court Feed",
-            "match_id": 141020,
-            "startTime": "11:30:00 PM 09-03-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/141020_english_hls_fd8522fb2483335_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/141020_english_hls_fd8522fb2483335_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "E Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-            "team_1": "E Court Feed",
-            "team_2": "Indian, United States",
-            "status": "LIVE",
-            "event_name": "ATP Masters BNP Paribas Open 2026",
-            "match_name": "E Court Feed",
-            "match_id": 141019,
-            "startTime": "11:30:00 PM 09-03-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/141019_english_hls_30f1562d8498873_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/141019_english_hls_30f1562d8498873_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "A Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
@@ -75,20 +33,6 @@
         },
         {
             "event_category": "Tennis",
-            "title": "F Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-            "team_1": "F Court Feed",
-            "team_2": "Indian, United States",
-            "status": "LIVE",
-            "event_name": "ATP Masters BNP Paribas Open 2026",
-            "match_name": "F Court Feed",
-            "match_id": 141250,
-            "startTime": "11:30:00 PM 09-03-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/141250_english_hls_a340025b8635219_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/141250_english_hls_a340025b8635219_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
             "title": "World Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
             "team_1": "World Feed",
@@ -103,18 +47,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "New Zealand Women vs Zimbabwe Women (Zimbabwe Women tour of New Zealand, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_ODi_fc_web_1772618590773.jpg",
-            "team_1": "New Zealand Women",
-            "team_2": "Zimbabwe Women",
-            "status": "UPCOMING",
-            "event_name": "Zimbabwe Women tour of New Zealand, 2026",
-            "match_name": "New Zealand Women vs Zimbabwe Women",
-            "match_id": 140598,
-            "startTime": "03:30:00 AM 11-03-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "MHKL Banaras vs NCC Odisha (Tillo Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
             "team_1": "MHKL Banaras",
@@ -124,6 +56,18 @@
             "match_name": "MHKL Banaras vs NCC Odisha",
             "match_id": 141261,
             "startTime": "09:30:00 AM 10-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New Zealand Women vs Zimbabwe Women (Zimbabwe Women tour of New Zealand, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_ODi_fc_web_1772618590773.jpg",
+            "team_1": "New Zealand Women",
+            "team_2": "Zimbabwe Women",
+            "status": "UPCOMING",
+            "event_name": "Zimbabwe Women tour of New Zealand, 2026",
+            "match_name": "New Zealand Women vs Zimbabwe Women",
+            "match_id": 140598,
+            "startTime": "03:30:00 AM 11-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -270,6 +214,18 @@
             "startTime": "08:35:00 AM 11-03-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "SPJ Cargo vs MHKL Banaras (Tillo Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
+            "team_1": "SPJ Cargo",
+            "team_2": "MHKL Banaras",
+            "status": "UPCOMING",
+            "event_name": "Tillo Cup 2026",
+            "match_name": "SPJ Cargo vs MHKL Banaras",
+            "match_id": 141263,
+            "startTime": "09:30:00 AM 11-03-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Monterrey vs Cruz Azul (CONCACAF Champions Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141094_5954_MONT_CRU_1772957308843.png",
@@ -283,18 +239,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "SPJ Cargo vs MHKL Banaras (Tillo Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
-            "team_1": "SPJ Cargo",
-            "team_2": "MHKL Banaras",
-            "status": "UPCOMING",
-            "event_name": "Tillo Cup 2026",
-            "match_name": "SPJ Cargo vs MHKL Banaras",
-            "match_id": 141263,
-            "startTime": "09:30:00 AM 11-03-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Bengal Royals vs Mumbai Maverics (Thunderbolt T10 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
             "team_1": "Bengal Royals",
@@ -304,6 +248,18 @@
             "match_name": "Bengal Royals vs Mumbai Maverics",
             "match_id": 141187,
             "startTime": "10:10:00 AM 11-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Los Angeles Football Club vs Alajuelense (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141095_5954_LAF_LDA_1772957535861.png",
+            "team_1": "Los Angeles Football Club",
+            "team_2": "Alajuelense",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Los Angeles Football Club vs Alajuelense",
+            "match_id": 141095,
+            "startTime": "08:30:00 AM 11-03-2026"
         },
         {
             "event_category": "Tennis",
@@ -366,18 +322,6 @@
             "startTime": "10:30:00 PM 10-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Los Angeles Football Club vs Alajuelense (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141095_5954_LAF_LDA_1772957535861.png",
-            "team_1": "Los Angeles Football Club",
-            "team_2": "Alajuelense",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Los Angeles Football Club vs Alajuelense",
-            "match_id": 141095,
-            "startTime": "08:30:00 AM 11-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Delhi Champions vs Gujarat Tigers (Thunderbolt T10 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
@@ -403,18 +347,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
-            "team_1": "England Lions",
-            "team_2": "Pakistan Shaheens",
-            "status": "UPCOMING",
-            "event_name": "England Lions and Pakistan Shaheens tour of UAE",
-            "match_name": "England Lions vs Pakistan Shaheens",
-            "match_id": 140668,
-            "startTime": "11:30:00 AM 09-03-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Betwa Blasters vs Saryu Smashers (Ayodhya Premier League)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
             "team_1": "Betwa Blasters",
@@ -424,6 +356,54 @@
             "match_name": "Betwa Blasters vs Saryu Smashers",
             "match_id": 141355,
             "startTime": "12:00:00 PM 11-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rajasthan Emperors vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+            "team_1": "Rajasthan Emperors",
+            "team_2": "Tamil Nadu Titans",
+            "status": "UPCOMING",
+            "event_name": "Thunderbolt T10 League 2026",
+            "match_name": "Rajasthan Emperors vs Tamil Nadu Titans",
+            "match_id": 141189,
+            "startTime": "03:10:00 PM 11-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sanfrecce Hiroshima vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140861_5647_HIR_JDT_FC-Web.png",
+            "team_1": "Sanfrecce Hiroshima",
+            "team_2": "Johor Darul Ta'zim",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Sanfrecce Hiroshima vs Johor Darul Ta'zim",
+            "match_id": 140861,
+            "startTime": "03:30:00 PM 11-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Vissel Kobe vs Seoul (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140860_5647_VIS_SE_FC-Web.png",
+            "team_1": "Vissel Kobe",
+            "team_2": "Seoul",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Vissel Kobe vs Seoul",
+            "match_id": 140860,
+            "startTime": "03:30:00 PM 11-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
+            "team_1": "England Lions",
+            "team_2": "Pakistan Shaheens",
+            "status": "UPCOMING",
+            "event_name": "England Lions and Pakistan Shaheens tour of UAE",
+            "match_name": "England Lions vs Pakistan Shaheens",
+            "match_id": 140668,
+            "startTime": "11:30:00 AM 09-03-2026"
         },
         {
             "event_category": "Football",
@@ -451,15 +431,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Rajasthan Emperors vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Rajasthan Emperors",
-            "team_2": "Tamil Nadu Titans",
+            "title": "Mumbai Spartans vs India Captains (Legends League Cricket, 2026)",
+            "src": "https://images.fancode.com/aig/match/v1773065749571/141305_CASACARDS_APP.png",
+            "team_1": "Mumbai Spartans",
+            "team_2": "India Captains",
             "status": "UPCOMING",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Rajasthan Emperors vs Tamil Nadu Titans",
-            "match_id": 141189,
-            "startTime": "03:10:00 PM 11-03-2026"
+            "event_name": "Legends League Cricket, 2026",
+            "match_name": "Mumbai Spartans vs India Captains",
+            "match_id": 141305,
+            "startTime": "06:30:00 PM 11-03-2026"
         },
         {
             "event_category": "Football",
@@ -471,6 +451,18 @@
             "event_name": "AFC Champions League Elite 2025-26",
             "match_name": "Al-Ittihad vs Al Wahda",
             "match_id": 140859,
+            "startTime": "11:45:00 PM 10-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Hilal SFC vs Al Sadd (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140858_5647_AHS_SDD_FC-WEB_1772186883531.png",
+            "team_1": "Al Hilal SFC",
+            "team_2": "Al Sadd",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Al Hilal SFC vs Al Sadd",
+            "match_id": 140858,
             "startTime": "11:45:00 PM 10-03-2026"
         }
     ]

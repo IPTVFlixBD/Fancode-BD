@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "04:28:38 PM 11-03-2026",
+    "last update time": "05:09:03 PM 11-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,34 +16,6 @@
             "startTime": "01:45:00 PM 11-03-2026",
             "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/141406_english_hls_3b0adf748056499_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/141406_english_hls_3b0adf748056499_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tasmania vs New South Wales (One Day Cup, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tasmania-vs-New-South-Wales_fc-web_1772692426912.jpg",
-            "team_1": "Tasmania",
-            "team_2": "New South Wales",
-            "status": "LIVE",
-            "event_name": "One Day Cup, 2025-26",
-            "match_name": "Tasmania vs New South Wales",
-            "match_id": 133949,
-            "startTime": "08:35:00 AM 11-03-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/Ypw9XT3lTJymPvRY7sseLA/master.m3u8",
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Betwa Blasters vs Saryu Smashers (Ayodhya Premier League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141355_6007_BB_SS_FC-Web.jpg",
-            "team_1": "Betwa Blasters",
-            "team_2": "Saryu Smashers",
-            "status": "LIVE",
-            "event_name": "Ayodhya Premier League",
-            "match_name": "Betwa Blasters vs Saryu Smashers",
-            "match_id": 141355,
-            "startTime": "12:00:00 PM 11-03-2026",
-            "dai_url": null,
-            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -103,6 +75,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Tasmania vs New South Wales (One Day Cup, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tasmania-vs-New-South-Wales_fc-web_1772692426912.jpg",
+            "team_1": "Tasmania",
+            "team_2": "New South Wales",
+            "status": "LIVE",
+            "event_name": "One Day Cup, 2025-26",
+            "match_name": "Tasmania vs New South Wales",
+            "match_id": 133949,
+            "startTime": "08:35:00 AM 11-03-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/Ypw9XT3lTJymPvRY7sseLA/master.m3u8",
+            "adfree_url": null
+        },
+        {
+            "event_category": "Cricket",
             "title": "Mumbai Spartans vs India Captains (Legends League Cricket, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141305_6002_MSP_ICN_FC-Web.jpg",
             "team_1": "Mumbai Spartans",
@@ -112,6 +98,18 @@
             "match_name": "Mumbai Spartans vs India Captains",
             "match_id": 141305,
             "startTime": "06:30:00 PM 11-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Ratchaburi vs Gamba Osaka (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Ratchaburi",
+            "team_2": "Gamba Osaka",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Ratchaburi vs Gamba Osaka",
+            "match_id": 140867,
+            "startTime": "05:45:00 PM 11-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -222,18 +220,6 @@
             "startTime": "10:10:00 AM 12-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Ratchaburi vs Gamba Osaka (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Ratchaburi",
-            "team_2": "Gamba Osaka",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Ratchaburi vs Gamba Osaka",
-            "match_id": 140867,
-            "startTime": "05:45:00 PM 11-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Punjab Lions vs Gujarat Tigers (Thunderbolt T10 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
@@ -244,18 +230,6 @@
             "match_name": "Punjab Lions vs Gujarat Tigers",
             "match_id": 141191,
             "startTime": "12:45:00 PM 12-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Nashville SC vs Inter Miami CF (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141096_5954_NSH_MIA_1772957308854.png",
-            "team_1": "Nashville SC",
-            "team_2": "Inter Miami CF",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Nashville SC vs Inter Miami CF",
-            "match_id": 141096,
-            "startTime": "05:00:00 AM 12-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -283,15 +257,15 @@
         },
         {
             "event_category": "Football",
-            "title": "LA Galaxy vs Mount Pleasant FA (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141097_5954_LAG_MTP_1772957308849.png",
-            "team_1": "LA Galaxy",
-            "team_2": "Mount Pleasant FA",
+            "title": "Nashville SC vs Inter Miami CF (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141096_5954_NSH_MIA_1772957308854.png",
+            "team_1": "Nashville SC",
+            "team_2": "Inter Miami CF",
             "status": "UPCOMING",
             "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "LA Galaxy vs Mount Pleasant FA",
-            "match_id": 141097,
-            "startTime": "07:00:00 AM 12-03-2026"
+            "match_name": "Nashville SC vs Inter Miami CF",
+            "match_id": 141096,
+            "startTime": "05:00:00 AM 12-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -304,6 +278,18 @@
             "match_name": "Royal Riders Punjab vs India Tigers",
             "match_id": 141306,
             "startTime": "06:30:00 PM 12-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "LA Galaxy vs Mount Pleasant FA (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141097_5954_LAG_MTP_1772957308849.png",
+            "team_1": "LA Galaxy",
+            "team_2": "Mount Pleasant FA",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "LA Galaxy vs Mount Pleasant FA",
+            "match_id": 141097,
+            "startTime": "07:00:00 AM 12-03-2026"
         },
         {
             "event_category": "Football",
@@ -414,30 +400,6 @@
             "startTime": "05:00:00 PM 12-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Al-Ittihad vs Al Wahda (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140859_5647_ITT_ALW_FC-Web_1772186975951.png",
-            "team_1": "Al-Ittihad",
-            "team_2": "Al Wahda",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Al-Ittihad vs Al Wahda",
-            "match_id": 140859,
-            "startTime": "11:45:00 PM 10-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al Hilal SFC vs Al Sadd (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140858_5647_AHS_SDD_FC-WEB_1772186883531.png",
-            "team_1": "Al Hilal SFC",
-            "team_2": "Al Sadd",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Al Hilal SFC vs Al Sadd",
-            "match_id": 140858,
-            "startTime": "11:45:00 PM 10-03-2026"
-        },
-        {
             "event_category": "Tennis",
             "title": "World Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
@@ -460,6 +422,42 @@
             "match_name": "B Court Feed",
             "match_id": 141029,
             "startTime": "05:30:00 PM 12-03-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "A Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+            "team_1": "A Court Feed",
+            "team_2": "Indian, United States",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters BNP Paribas Open 2026",
+            "match_name": "A Court Feed",
+            "match_id": 141028,
+            "startTime": "05:30:00 PM 12-03-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Groups - Day 1 vs Ponte Vedra Beach (THE PLAYERS Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
+            "team_1": "Featured Groups - Day 1",
+            "team_2": "Ponte Vedra Beach",
+            "status": "UPCOMING",
+            "event_name": "THE PLAYERS Championship 2026",
+            "match_name": "Featured Groups - Day 1",
+            "match_id": 141137,
+            "startTime": "05:45:00 PM 12-03-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Holes - Day 1 vs Ponte Vedra Beach, Florida (THE PLAYERS Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
+            "team_1": "Featured Holes - Day 1",
+            "team_2": "Ponte Vedra Beach, Florida",
+            "status": "UPCOMING",
+            "event_name": "THE PLAYERS Championship 2026",
+            "match_name": "Featured Holes - Day 1",
+            "match_id": 141138,
+            "startTime": "06:00:00 PM 12-03-2026"
         }
     ]
 }

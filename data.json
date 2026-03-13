@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "10:36:53 AM 13-03-2026",
+    "last update time": "11:27:35 AM 13-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "10:10:00 AM 13-03-2026",
             "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/141193_english_hls_f14918d08327389_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/141193_english_hls_f14918d08327389_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "ACT Meteors vs Western Australia Women (Women's National Cricket League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
+            "team_1": "ACT Meteors",
+            "team_2": "Western Australia Women",
+            "status": "LIVE",
+            "event_name": "Women's National Cricket League, 2025-26",
+            "match_name": "ACT Meteors vs Western Australia Women",
+            "match_id": 133988,
+            "startTime": "11:30:00 AM 13-03-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/133988_english_hls_0360602bd646682_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/133988_english_hls_0360602bd646682_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -68,18 +82,6 @@
             "match_name": "Konark Suryas Odisha vs Southern Super Stars",
             "match_id": 141307,
             "startTime": "07:00:00 PM 13-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Western Australia Women vs ACT Meteors (Women's National Cricket League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
-            "team_1": "Western Australia Women",
-            "team_2": "ACT Meteors",
-            "status": "UPCOMING",
-            "event_name": "Women's National Cricket League, 2025-26",
-            "match_name": "Western Australia Women vs ACT Meteors",
-            "match_id": 133988,
-            "startTime": "11:30:00 AM 13-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -204,7 +206,7 @@
         {
             "event_category": "Football",
             "title": "Australia Women vs DPR Korea Women (AFC Women's Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1773379970336/140812_CASACARDS_APP.png",
             "team_1": "Australia Women",
             "team_2": "DPR Korea Women",
             "status": "UPCOMING",
@@ -236,6 +238,18 @@
             "match_name": "Mirandés vs Cádiz",
             "match_id": 141221,
             "startTime": "01:00:00 AM 14-03-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Qualifying vs China (F1 ACADEMY CHINA 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web.jpg",
+            "team_1": "Qualifying",
+            "team_2": "China",
+            "status": "UPCOMING",
+            "event_name": "F1 ACADEMY CHINA 2026",
+            "match_name": "Qualifying",
+            "match_id": 139678,
+            "startTime": "11:40:00 AM 13-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -348,7 +362,7 @@
         {
             "event_category": "Football",
             "title": "China PR Women vs Chinese Taipei Women (AFC Women's Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1773380027049/140813_CASACARDS_APP.png",
             "team_1": "China PR Women",
             "team_2": "Chinese Taipei Women",
             "status": "UPCOMING",
@@ -358,16 +372,28 @@
             "startTime": "10:30:00 AM 14-03-2026"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Qualifying vs China (F1 ACADEMY CHINA 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web.jpg",
-            "team_1": "Qualifying",
-            "team_2": "China",
+            "event_category": "Cricket",
+            "title": "Yamuna Super Kings vs Hindon Titans (Ayodhya Premier League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141361_6007_YSK_HT_FC-Web.jpg",
+            "team_1": "Yamuna Super Kings",
+            "team_2": "Hindon Titans",
             "status": "UPCOMING",
-            "event_name": "F1 ACADEMY CHINA 2026",
-            "match_name": "Qualifying",
-            "match_id": 139678,
-            "startTime": "11:40:00 AM 13-03-2026"
+            "event_name": "Ayodhya Premier League",
+            "match_name": "Yamuna Super Kings vs Hindon Titans",
+            "match_id": 141361,
+            "startTime": "01:30:00 PM 14-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Newcastle Jets vs Auckland (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140914_5802_NJ_AFC_fc-web.jpg",
+            "team_1": "Newcastle Jets",
+            "team_2": "Auckland",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Newcastle Jets vs Auckland",
+            "match_id": 140914,
+            "startTime": "11:30:00 AM 14-03-2026"
         },
         {
             "event_category": "Formula 1",
@@ -406,18 +432,6 @@
             "startTime": "05:30:00 PM 13-03-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Yamuna Super Kings vs Hindon Titans (Ayodhya Premier League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141361_6007_YSK_HT_FC-Web.jpg",
-            "team_1": "Yamuna Super Kings",
-            "team_2": "Hindon Titans",
-            "status": "UPCOMING",
-            "event_name": "Ayodhya Premier League",
-            "match_name": "Yamuna Super Kings vs Hindon Titans",
-            "match_id": 141361,
-            "startTime": "01:30:00 PM 14-03-2026"
-        },
-        {
             "event_category": "Golf",
             "title": "Featured Groups - Day 2 vs Ponte Vedra Beach, Florida (THE PLAYERS Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Players_fc-web.jpg",
@@ -451,18 +465,6 @@
             "event_name": "THE PLAYERS Championship 2026",
             "match_name": "World Feed - Day 2",
             "match_id": 141139,
-            "startTime": "10:30:00 PM 13-03-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "A Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-            "team_1": "A Court Feed",
-            "team_2": "Indian, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters BNP Paribas Open 2026",
-            "match_name": "A Court Feed",
-            "match_id": 141416,
             "startTime": "10:30:00 PM 13-03-2026"
         }
     ]

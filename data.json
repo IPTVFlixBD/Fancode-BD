@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "07:04:10 PM 13-03-2026",
+    "last update time": "07:44:38 PM 13-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -86,30 +86,6 @@
             "startTime": "12:30:00 AM 14-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Deportivo Alaves vs Villarreal CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131103_5427_ALA_VIL_FC-Web.png",
-            "team_1": "Deportivo Alaves",
-            "team_2": "Villarreal CF",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Deportivo Alaves vs Villarreal CF",
-            "match_id": 131103,
-            "startTime": "01:30:00 AM 14-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Wrexham A.F.C. vs Swansea City A.F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140951_5489_WRX_SWA_fc-web.jpg",
-            "team_1": "Wrexham A.F.C.",
-            "team_2": "Swansea City A.F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Wrexham A.F.C. vs Swansea City A.F.C.",
-            "match_id": 140951,
-            "startTime": "01:30:00 AM 14-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "South Australian Scorpions vs New South Wales Breakers (Women's National Cricket League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
@@ -132,6 +108,30 @@
             "match_name": "Queensland Fire vs Victoria Women",
             "match_id": 133989,
             "startTime": "05:00:00 AM 14-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Deportivo Alaves vs Villarreal CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131103_5427_ALA_VIL_FC-Web.png",
+            "team_1": "Deportivo Alaves",
+            "team_2": "Villarreal CF",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Deportivo Alaves vs Villarreal CF",
+            "match_id": 131103,
+            "startTime": "01:30:00 AM 14-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Wrexham A.F.C. vs Swansea City A.F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140951_5489_WRX_SWA_fc-web.jpg",
+            "team_1": "Wrexham A.F.C.",
+            "team_2": "Swansea City A.F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Wrexham A.F.C. vs Swansea City A.F.C.",
+            "match_id": 140951,
+            "startTime": "01:30:00 AM 14-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -195,6 +195,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Mumbai Spartans vs India Tigers (Legends League Cricket, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141308_6002_MSP_ING_FC-Web.jpg",
+            "team_1": "Mumbai Spartans",
+            "team_2": "India Tigers",
+            "status": "UPCOMING",
+            "event_name": "Legends League Cricket, 2026",
+            "match_name": "Mumbai Spartans vs India Tigers",
+            "match_id": 141308,
+            "startTime": "07:30:00 PM 14-03-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Yamuna Super Kings vs Hindon Titans (Ayodhya Premier League)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141361_6007_YSK_HT_FC-Web.jpg",
             "team_1": "Yamuna Super Kings",
@@ -207,15 +219,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Mumbai Spartans vs India Tigers (Legends League Cricket, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141308_6002_MSP_ING_FC-Web.jpg",
-            "team_1": "Mumbai Spartans",
-            "team_2": "India Tigers",
+            "title": "Delhi Champions vs Rajasthan Emperors (Thunderbolt T10 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+            "team_1": "Delhi Champions",
+            "team_2": "Rajasthan Emperors",
             "status": "UPCOMING",
-            "event_name": "Legends League Cricket, 2026",
-            "match_name": "Mumbai Spartans vs India Tigers",
-            "match_id": 141308,
-            "startTime": "07:30:00 PM 14-03-2026"
+            "event_name": "Thunderbolt T10 League 2026",
+            "match_name": "Delhi Champions vs Rajasthan Emperors",
+            "match_id": 141198,
+            "startTime": "03:10:00 PM 14-03-2026"
         },
         {
             "event_category": "Football",
@@ -266,18 +278,6 @@
             "startTime": "05:00:00 AM 14-03-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Delhi Champions vs Rajasthan Emperors (Thunderbolt T10 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Delhi Champions",
-            "team_2": "Rajasthan Emperors",
-            "status": "UPCOMING",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Delhi Champions vs Rajasthan Emperors",
-            "match_id": 141198,
-            "startTime": "03:10:00 PM 14-03-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Wellington Phoenix vs Perth Glory (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140912_5802_WEL_PG_fc-web.jpg",
@@ -315,18 +315,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Newcastle Jets vs Auckland (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140914_5802_NJ_AFC_fc-web.jpg",
-            "team_1": "Newcastle Jets",
-            "team_2": "Auckland",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Newcastle Jets vs Auckland",
-            "match_id": 140914,
-            "startTime": "11:30:00 AM 14-03-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "East Bengal FC vs Kerala Blasters FC (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140461_5956_EBFC_KBFC_FC-Web_1772451223711.jpg",
             "team_1": "East Bengal FC",
@@ -360,6 +348,18 @@
             "match_name": "East Bengal FC vs Kerala Blasters FC",
             "match_id": 141175,
             "startTime": "05:00:00 PM 14-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Newcastle Jets vs Auckland (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140914_5802_NJ_AFC_fc-web.jpg",
+            "team_1": "Newcastle Jets",
+            "team_2": "Auckland",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Newcastle Jets vs Auckland",
+            "match_id": 140914,
+            "startTime": "11:30:00 AM 14-03-2026"
         },
         {
             "event_category": "Football",

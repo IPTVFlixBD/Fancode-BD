@@ -1,8 +1,36 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "12:00:07 AM 17-03-2026",
+    "last update time": "01:00:55 AM 17-03-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Rayo Vallecano vs Levante (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131102_5427_RVL_LE_FC-Web.png",
+            "team_1": "Rayo Vallecano",
+            "team_2": "Levante",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Rayo Vallecano vs Levante",
+            "match_id": 131102,
+            "startTime": "01:30:00 AM 17-03-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/131102_english_hls_4a67ec7e3854176_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/131102_english_hls_4a67ec7e3854176_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Albacete vs Las Palmas (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1773431102731/141222_CASACARDS_APP.png",
+            "team_1": "Albacete",
+            "team_2": "Las Palmas",
+            "status": "LIVE",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Albacete vs Las Palmas",
+            "match_id": 141222,
+            "startTime": "01:00:00 AM 17-03-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/141222_english_hls_067ae8579058024_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/141222_english_hls_067ae8579058024_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "New Zealand Women vs South Africa Women (South Africa Women's tour of New Zealand, 2026)",
@@ -40,42 +68,6 @@
             "startTime": "02:30:00 PM 17-03-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Royal Riders Punjab vs Southern Super Stars (Legends League Cricket, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141311_6002_RRP_SSS_FC-Web_1773487500074.jpg",
-            "team_1": "Royal Riders Punjab",
-            "team_2": "Southern Super Stars",
-            "status": "UPCOMING",
-            "event_name": "Legends League Cricket, 2026",
-            "match_name": "Royal Riders Punjab vs Southern Super Stars",
-            "match_id": 141311,
-            "startTime": "07:30:00 PM 17-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Albacete vs Las Palmas (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1773431102731/141222_CASACARDS_APP.png",
-            "team_1": "Albacete",
-            "team_2": "Las Palmas",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Albacete vs Las Palmas",
-            "match_id": 141222,
-            "startTime": "01:00:00 AM 17-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Rayo Vallecano vs Levante (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131102_5427_RVL_LE_FC-Web.png",
-            "team_1": "Rayo Vallecano",
-            "team_2": "Levante",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Rayo Vallecano vs Levante",
-            "match_id": 131102,
-            "startTime": "01:30:00 AM 17-03-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Portsmouth F.C. vs Derby County Football Club (EFL Championship 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140954_5489_PRM_DER_fc-web.jpg",
@@ -86,6 +78,18 @@
             "match_name": "Portsmouth F.C. vs Derby County Football Club",
             "match_id": 140954,
             "startTime": "01:30:00 AM 17-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Royal Riders Punjab vs Southern Super Stars (Legends League Cricket, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141311_6002_RRP_SSS_FC-Web_1773487500074.jpg",
+            "team_1": "Royal Riders Punjab",
+            "team_2": "Southern Super Stars",
+            "status": "UPCOMING",
+            "event_name": "Legends League Cricket, 2026",
+            "match_name": "Royal Riders Punjab vs Southern Super Stars",
+            "match_id": 141311,
+            "startTime": "07:30:00 PM 17-03-2026"
         },
         {
             "event_category": "Cricket",

@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "12:09:28 PM 17-03-2026",
+    "last update time": "01:00:06 PM 17-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,31 +19,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Manorama Marvels vs Hindon Titans (Ayodhya Premier League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141366_6007_MM_HT_FC-Web.jpg",
-            "team_1": "Manorama Marvels",
-            "team_2": "Hindon Titans",
-            "status": "LIVE",
-            "event_name": "Ayodhya Premier League",
-            "match_name": "Manorama Marvels vs Hindon Titans",
-            "match_id": 141366,
-            "startTime": "09:00:00 AM 17-03-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/141366_english_hls_fd82bcca5869909_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/141366_english_hls_fd82bcca5869909_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Delhi Champions vs Chennai Warlords (Thunderbolt T10 League 2026)",
+            "title": "Bengal Royals vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Delhi Champions",
-            "team_2": "Chennai Warlords",
+            "team_1": "Bengal Royals",
+            "team_2": "Tamil Nadu Titans",
             "status": "LIVE",
             "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Delhi Champions vs Chennai Warlords",
-            "match_id": 141205,
-            "startTime": "10:10:00 AM 17-03-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/141205_english_hls_d84642b33753382_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/141205_english_hls_d84642b33753382_1ta-di_h264/index.m3u8"
+            "match_name": "Bengal Royals vs Tamil Nadu Titans",
+            "match_id": 141206,
+            "startTime": "12:45:00 PM 17-03-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/141206_english_hls_bb06a7f2298559_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/141206_english_hls_bb06a7f2298559_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -73,18 +59,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bengal Royals vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Bengal Royals",
-            "team_2": "Tamil Nadu Titans",
-            "status": "UPCOMING",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Bengal Royals vs Tamil Nadu Titans",
-            "match_id": 141206,
-            "startTime": "12:45:00 PM 17-03-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Betwa Blasters vs Yamuna Super Kings (Ayodhya Premier League)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141367_6007_BB_YSK_FC-Web.jpg",
             "team_1": "Betwa Blasters",
@@ -93,6 +67,18 @@
             "event_name": "Ayodhya Premier League",
             "match_name": "Betwa Blasters vs Yamuna Super Kings",
             "match_id": 141367,
+            "startTime": "01:30:00 PM 17-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sydney FC vs Melbourne City (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Melbourne City",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney FC vs Melbourne City",
+            "match_id": 140916,
             "startTime": "01:30:00 PM 17-03-2026"
         },
         {
@@ -109,18 +95,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Sydney FC vs Melbourne City (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Melbourne City",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney FC vs Melbourne City",
-            "match_id": 140916,
-            "startTime": "01:30:00 PM 17-03-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "China PR Women vs Australia Women (AFC Women's Asian Cup, 2026)",
             "src": "https://images.fancode.com/aig/match/v1773581739125/140816_CASACARDS_APP.png",
             "team_1": "China PR Women",
@@ -130,18 +104,6 @@
             "match_name": "China PR Women vs Australia Women",
             "match_id": 140816,
             "startTime": "03:00:00 PM 17-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Barnsley FC vs Wigan Athletic (League One 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Barnsley FC",
-            "team_2": "Wigan Athletic",
-            "status": "UPCOMING",
-            "event_name": "League One 2025-26",
-            "match_name": "Barnsley FC vs Wigan Athletic",
-            "match_id": 140949,
-            "startTime": "01:30:00 AM 18-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -154,6 +116,18 @@
             "match_name": "Saryu Smashers vs Chambal Chargers",
             "match_id": 141368,
             "startTime": "09:00:00 AM 18-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Barnsley FC vs Wigan Athletic (League One 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Barnsley FC",
+            "team_2": "Wigan Athletic",
+            "status": "UPCOMING",
+            "event_name": "League One 2025-26",
+            "match_name": "Barnsley FC vs Wigan Athletic",
+            "match_id": 140949,
+            "startTime": "01:30:00 AM 18-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -228,18 +202,6 @@
             "startTime": "03:10:00 PM 18-03-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Atlanta vs Los Angeles vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Atlanta vs Los Angeles",
-            "team_2": "Florida",
-            "status": "UPCOMING",
-            "event_name": "TGL Season 2",
-            "match_name": "Atlanta vs Los Angeles",
-            "match_id": 139178,
-            "startTime": "04:00:00 AM 18-03-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Korea Republic Women vs Japan Women (AFC Women's Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -253,15 +215,15 @@
         },
         {
             "event_category": "Golf",
-            "title": "Jupiter vs Boston vs Florida (TGL Season 2)",
+            "title": "Atlanta vs Los Angeles vs Florida (TGL Season 2)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Jupiter vs Boston",
+            "team_1": "Atlanta vs Los Angeles",
             "team_2": "Florida",
             "status": "UPCOMING",
             "event_name": "TGL Season 2",
-            "match_name": "Jupiter vs Boston",
-            "match_id": 139179,
-            "startTime": "06:30:00 AM 18-03-2026"
+            "match_name": "Atlanta vs Los Angeles",
+            "match_id": 139178,
+            "startTime": "04:00:00 AM 18-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -274,6 +236,18 @@
             "match_name": "Konark Suryas Odisha vs India Tigers",
             "match_id": 141313,
             "startTime": "07:30:00 PM 18-03-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Jupiter vs Boston vs Florida (TGL Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "Jupiter vs Boston",
+            "team_2": "Florida",
+            "status": "UPCOMING",
+            "event_name": "TGL Season 2",
+            "match_name": "Jupiter vs Boston",
+            "match_id": 139179,
+            "startTime": "06:30:00 AM 18-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -418,6 +392,42 @@
             "match_name": "West Ham United Women vs Manchester United Women",
             "match_id": 141442,
             "startTime": "12:45:00 AM 19-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "MK Dons vs Colchester United (League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "MK Dons",
+            "team_2": "Colchester United",
+            "status": "UPCOMING",
+            "event_name": "League Two 2025-26",
+            "match_name": "MK Dons vs Colchester United",
+            "match_id": 140950,
+            "startTime": "01:30:00 AM 19-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Inter Miami CF vs Nashville SC (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141103_5954_MIA_NSH_1772957805501.png",
+            "team_1": "Inter Miami CF",
+            "team_2": "Nashville SC",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Inter Miami CF vs Nashville SC",
+            "match_id": 141103,
+            "startTime": "04:30:00 AM 19-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Club América vs Philadelphia Union (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141104_5954_AME_PU_1772957805499.png",
+            "team_1": "Club América",
+            "team_2": "Philadelphia Union",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Club América vs Philadelphia Union",
+            "match_id": 141104,
+            "startTime": "06:30:00 AM 19-03-2026"
         }
     ]
 }

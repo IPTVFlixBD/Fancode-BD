@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:36:23 AM 18-03-2026",
+    "last update time": "12:37:04 PM 18-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,29 +19,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Mumbai Maverics vs Chennai Warlords (Thunderbolt T10 League 2026)",
+            "title": "Delhi Champions vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Mumbai Maverics",
-            "team_2": "Chennai Warlords",
+            "team_1": "Delhi Champions",
+            "team_2": "Tamil Nadu Titans",
             "status": "LIVE",
             "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Mumbai Maverics vs Chennai Warlords",
-            "match_id": 141208,
-            "startTime": "10:10:00 AM 18-03-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Football",
-            "title": "Cruz Azul vs Monterrey (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141102_5954_CRU_MONT_1772957805508.png",
-            "team_1": "Cruz Azul",
-            "team_2": "Monterrey",
-            "status": "LIVE",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Cruz Azul vs Monterrey",
-            "match_id": 141102,
-            "startTime": "08:30:00 AM 18-03-2026",
+            "match_name": "Delhi Champions vs Tamil Nadu Titans",
+            "match_id": 141209,
+            "startTime": "12:45:00 PM 18-03-2026",
             "dai_url": null,
             "adfree_url": null
         },
@@ -56,18 +42,6 @@
             "match_name": "Konark Suryas Odisha vs India Tigers",
             "match_id": 141313,
             "startTime": "07:30:00 PM 18-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Delhi Champions vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Delhi Champions",
-            "team_2": "Tamil Nadu Titans",
-            "status": "UPCOMING",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Delhi Champions vs Tamil Nadu Titans",
-            "match_id": 141209,
-            "startTime": "12:45:00 PM 18-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -92,6 +66,18 @@
             "match_name": "Punjab Lions vs Chennai Warlords",
             "match_id": 141210,
             "startTime": "03:10:00 PM 18-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Eagles XI vs Uganda (Uganda tour of Namibia, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg",
+            "team_1": "Eagles XI",
+            "team_2": "Uganda",
+            "status": "UPCOMING",
+            "event_name": "Uganda tour of Namibia, 2026",
+            "match_name": "Eagles XI vs Uganda",
+            "match_id": 141446,
+            "startTime": "05:30:00 PM 18-03-2026"
         },
         {
             "event_category": "Football",
@@ -155,15 +141,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Namibia vs Uganda (Uganda tour of Namibia, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Namibia",
-            "team_2": "Uganda",
+            "title": "Ganga Warriors vs Yamuna Super Kings (Ayodhya Premier League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141370_6007_GW_YSK_FC-Web.jpg",
+            "team_1": "Ganga Warriors",
+            "team_2": "Yamuna Super Kings",
             "status": "UPCOMING",
-            "event_name": "Uganda tour of Namibia, 2026",
-            "match_name": "Namibia vs Uganda",
-            "match_id": 141446,
-            "startTime": "05:30:00 PM 18-03-2026"
+            "event_name": "Ayodhya Premier League",
+            "match_name": "Ganga Warriors vs Yamuna Super Kings",
+            "match_id": 141370,
+            "startTime": "09:00:00 AM 19-03-2026"
         },
         {
             "event_category": "Football",
@@ -179,15 +165,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ganga Warriors vs Yamuna Super Kings (Ayodhya Premier League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141370_6007_GW_YSK_FC-Web.jpg",
-            "team_1": "Ganga Warriors",
-            "team_2": "Yamuna Super Kings",
+            "title": "Chennai Warlords vs Rajasthan Emperors (Thunderbolt T10 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+            "team_1": "Chennai Warlords",
+            "team_2": "Rajasthan Emperors",
             "status": "UPCOMING",
-            "event_name": "Ayodhya Premier League",
-            "match_name": "Ganga Warriors vs Yamuna Super Kings",
-            "match_id": 141370,
-            "startTime": "09:00:00 AM 19-03-2026"
+            "event_name": "Thunderbolt T10 League 2026",
+            "match_name": "Chennai Warlords vs Rajasthan Emperors",
+            "match_id": 141211,
+            "startTime": "10:10:00 AM 19-03-2026"
         },
         {
             "event_category": "Football",
@@ -200,18 +186,6 @@
             "match_name": "Inter Miami CF vs Nashville SC",
             "match_id": 141103,
             "startTime": "04:30:00 AM 19-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Chennai Warlords vs Rajasthan Emperors (Thunderbolt T10 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Chennai Warlords",
-            "team_2": "Rajasthan Emperors",
-            "status": "UPCOMING",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Chennai Warlords vs Rajasthan Emperors",
-            "match_id": 141211,
-            "startTime": "10:10:00 AM 19-03-2026"
         },
         {
             "event_category": "Football",
@@ -284,6 +258,18 @@
             "match_name": "Hindon Titans vs Betwa Blasters",
             "match_id": 141371,
             "startTime": "01:30:00 PM 19-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Thunderbolt T10 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Thunderbolt T10 League 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 141213,
+            "startTime": "03:10:00 PM 19-03-2026"
         },
         {
             "event_category": "Tennis",
@@ -370,18 +356,6 @@
             "startTime": "08:30:00 PM 18-03-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Thunderbolt T10 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 141213,
-            "startTime": "03:10:00 PM 19-03-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Chinese Taipei Women vs DPR Korea Women (AFC Women's Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -407,13 +381,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Namibia vs Uganda (Uganda tour of Namibia, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Namibia",
+            "title": "Eagles XI vs Uganda (Uganda tour of Namibia, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg",
+            "team_1": "Eagles XI",
             "team_2": "Uganda",
             "status": "UPCOMING",
             "event_name": "Uganda tour of Namibia, 2026",
-            "match_name": "Namibia vs Uganda",
+            "match_name": "Eagles XI vs Uganda",
             "match_id": 141447,
             "startTime": "05:30:00 PM 19-03-2026"
         },
@@ -428,6 +402,30 @@
             "match_name": "Sporting Club Delhi vs Jamshedpur FC",
             "match_id": 140466,
             "startTime": "07:30:00 PM 19-03-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "World Feed vs Miami, United States (ATP Masters Miami Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
+            "team_1": "World Feed",
+            "team_2": "Miami, United States",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Miami Open 2026",
+            "match_name": "World Feed",
+            "match_id": 141036,
+            "startTime": "08:30:00 PM 19-03-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "A Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB.jpg",
+            "team_1": "A Court Feed",
+            "team_2": "Miami, United States",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Miami Open 2026",
+            "match_name": "A Court Feed",
+            "match_id": 141037,
+            "startTime": "08:30:00 PM 19-03-2026"
         }
     ]
 }

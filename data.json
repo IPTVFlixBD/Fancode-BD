@@ -1,19 +1,33 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:21:56 AM 18-03-2026",
+    "last update time": "06:22:43 AM 18-03-2026",
     "matches": [
         {
+            "event_category": "Football",
+            "title": "Alajuelense vs Los Angeles Football Club (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141101_5954_LDA_LAF_1772957741167.png",
+            "team_1": "Alajuelense",
+            "team_2": "Los Angeles Football Club",
+            "status": "LIVE",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Alajuelense vs Los Angeles Football Club",
+            "match_id": 141101,
+            "startTime": "06:30:00 AM 18-03-2026",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
             "event_category": "Golf",
-            "title": "Atlanta vs Los Angeles vs Florida (TGL Season 2)",
+            "title": "Jupiter vs Boston vs Florida (TGL Season 2)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Atlanta vs Los Angeles",
+            "team_1": "Jupiter vs Boston",
             "team_2": "Florida",
             "status": "LIVE",
             "event_name": "TGL Season 2",
-            "match_name": "Atlanta vs Los Angeles",
-            "match_id": 139178,
-            "startTime": "04:00:00 AM 18-03-2026",
+            "match_name": "Jupiter vs Boston",
+            "match_id": 139179,
+            "startTime": "06:30:00 AM 18-03-2026",
             "dai_url": null,
             "adfree_url": null
         },
@@ -91,30 +105,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Alajuelense vs Los Angeles Football Club (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141101_5954_LDA_LAF_1772957741167.png",
-            "team_1": "Alajuelense",
-            "team_2": "Los Angeles Football Club",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Alajuelense vs Los Angeles Football Club",
-            "match_id": 141101,
-            "startTime": "06:30:00 AM 18-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Cruz Azul vs Monterrey (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141102_5954_CRU_MONT_1772957805508.png",
-            "team_1": "Cruz Azul",
-            "team_2": "Monterrey",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Cruz Azul vs Monterrey",
-            "match_id": 141102,
-            "startTime": "08:30:00 AM 18-03-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Al-Kholood Club vs Al-Ittihad (Saudi Kings Cup 2025-2026)",
             "src": "https://images.fancode.com/aig/match/v1771837064104/140948_CASACARDS_APP.png",
             "team_1": "Al-Kholood Club",
@@ -148,6 +138,18 @@
             "match_name": "Chelsea F.C. Women vs Brighton and Hove Albion Women",
             "match_id": 141155,
             "startTime": "12:30:00 AM 19-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Cruz Azul vs Monterrey (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141102_5954_CRU_MONT_1772957805508.png",
+            "team_1": "Cruz Azul",
+            "team_2": "Monterrey",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Cruz Azul vs Monterrey",
+            "match_id": 141102,
+            "startTime": "08:30:00 AM 18-03-2026"
         },
         {
             "event_category": "Football",
@@ -210,16 +212,16 @@
             "startTime": "04:30:00 AM 19-03-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Jupiter vs Boston vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Jupiter vs Boston",
-            "team_2": "Florida",
+            "event_category": "Cricket",
+            "title": "Ganga Warriors vs Yamuna Super Kings (Ayodhya Premier League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141370_6007_GW_YSK_FC-Web.jpg",
+            "team_1": "Ganga Warriors",
+            "team_2": "Yamuna Super Kings",
             "status": "UPCOMING",
-            "event_name": "TGL Season 2",
-            "match_name": "Jupiter vs Boston",
-            "match_id": 139179,
-            "startTime": "06:30:00 AM 18-03-2026"
+            "event_name": "Ayodhya Premier League",
+            "match_name": "Ganga Warriors vs Yamuna Super Kings",
+            "match_id": 141370,
+            "startTime": "09:00:00 AM 19-03-2026"
         },
         {
             "event_category": "Football",
@@ -232,18 +234,6 @@
             "match_name": "Club América vs Philadelphia Union",
             "match_id": 141104,
             "startTime": "06:30:00 AM 19-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ganga Warriors vs Yamuna Super Kings (Ayodhya Premier League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141370_6007_GW_YSK_FC-Web.jpg",
-            "team_1": "Ganga Warriors",
-            "team_2": "Yamuna Super Kings",
-            "status": "UPCOMING",
-            "event_name": "Ayodhya Premier League",
-            "match_name": "Ganga Warriors vs Yamuna Super Kings",
-            "match_id": 141370,
-            "startTime": "09:00:00 AM 19-03-2026"
         },
         {
             "event_category": "Tennis",
@@ -330,18 +320,6 @@
             "startTime": "08:30:00 PM 18-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Uzbekistan Women vs Philippines Women (AFC Women's Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Uzbekistan Women",
-            "team_2": "Philippines Women",
-            "status": "UPCOMING",
-            "event_name": "AFC Women's Asian Cup, 2026",
-            "match_name": "Uzbekistan Women vs Philippines Women",
-            "match_id": 140818,
-            "startTime": "08:00:00 AM 19-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Chennai Warlords vs Rajasthan Emperors (Thunderbolt T10 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
@@ -352,6 +330,18 @@
             "match_name": "Chennai Warlords vs Rajasthan Emperors",
             "match_id": 141211,
             "startTime": "10:10:00 AM 19-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Uzbekistan Women vs Philippines Women (AFC Women's Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Uzbekistan Women",
+            "team_2": "Philippines Women",
+            "status": "UPCOMING",
+            "event_name": "AFC Women's Asian Cup, 2026",
+            "match_name": "Uzbekistan Women vs Philippines Women",
+            "match_id": 140818,
+            "startTime": "08:00:00 AM 19-03-2026"
         },
         {
             "event_category": "Football",
@@ -412,6 +402,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 141213,
             "startTime": "03:10:00 PM 19-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chinese Taipei Women vs DPR Korea Women (AFC Women's Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Chinese Taipei Women",
+            "team_2": "DPR Korea Women",
+            "status": "UPCOMING",
+            "event_name": "AFC Women's Asian Cup, 2026",
+            "match_name": "Chinese Taipei Women vs DPR Korea Women",
+            "match_id": 140819,
+            "startTime": "02:00:00 PM 19-03-2026"
         }
     ]
 }

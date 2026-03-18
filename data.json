@@ -1,19 +1,19 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:30:53 PM 18-03-2026",
+    "last update time": "07:12:05 PM 18-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Punjab Lions vs Chennai Warlords (Thunderbolt T10 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Punjab Lions",
-            "team_2": "Chennai Warlords",
+            "title": "India Captains vs India Tigers (Legends League Cricket, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141313_6002_ICN_ING_FC-Web_1773487500216.jpg",
+            "team_1": "India Captains",
+            "team_2": "India Tigers",
             "status": "LIVE",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Punjab Lions vs Chennai Warlords",
-            "match_id": 141210,
-            "startTime": "03:10:00 PM 18-03-2026",
+            "event_name": "Legends League Cricket, 2026",
+            "match_name": "India Captains vs India Tigers",
+            "match_id": 141313,
+            "startTime": "07:30:00 PM 18-03-2026",
             "dai_url": null,
             "adfree_url": null
         },
@@ -30,18 +30,6 @@
             "startTime": "05:30:00 PM 18-03-2026",
             "dai_url": null,
             "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "India Captains vs India Tigers (Legends League Cricket, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1773834827558/141313_CASACARDS_APP.png",
-            "team_1": "India Captains",
-            "team_2": "India Tigers",
-            "status": "UPCOMING",
-            "event_name": "Legends League Cricket, 2026",
-            "match_name": "India Captains vs India Tigers",
-            "match_id": 141313,
-            "startTime": "07:30:00 PM 18-03-2026"
         },
         {
             "event_category": "Football",
@@ -128,18 +116,6 @@
             "startTime": "12:45:00 PM 19-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "MK Dons vs Colchester United (League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
-            "team_1": "MK Dons",
-            "team_2": "Colchester United",
-            "status": "UPCOMING",
-            "event_name": "League Two 2025-26",
-            "match_name": "MK Dons vs Colchester United",
-            "match_id": 140950,
-            "startTime": "01:30:00 AM 19-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Hindon Titans vs Betwa Blasters (Ayodhya Premier League)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141371_6007_HT_BB_FC-Web.jpg",
@@ -152,6 +128,30 @@
             "startTime": "01:30:00 PM 19-03-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Mumbai Spartans vs Royal Riders Punjab (Legends League Cricket, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141314_6002_MSP_SSS_FC-Web_1773487500004.jpg",
+            "team_1": "Mumbai Spartans",
+            "team_2": "Royal Riders Punjab",
+            "status": "UPCOMING",
+            "event_name": "Legends League Cricket, 2026",
+            "match_name": "Mumbai Spartans vs Royal Riders Punjab",
+            "match_id": 141314,
+            "startTime": "07:30:00 PM 19-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "MK Dons vs Colchester United (League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
+            "team_1": "MK Dons",
+            "team_2": "Colchester United",
+            "status": "UPCOMING",
+            "event_name": "League Two 2025-26",
+            "match_name": "MK Dons vs Colchester United",
+            "match_id": 140950,
+            "startTime": "01:30:00 AM 19-03-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Inter Miami CF vs Nashville SC (CONCACAF Champions Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141103_5954_MIA_NSH_1772957805501.png",
@@ -162,6 +162,18 @@
             "match_name": "Inter Miami CF vs Nashville SC",
             "match_id": 141103,
             "startTime": "04:30:00 AM 19-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Thunderbolt T10 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Thunderbolt T10 League 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 141213,
+            "startTime": "03:10:00 PM 19-03-2026"
         },
         {
             "event_category": "Football",
@@ -210,30 +222,6 @@
             "match_name": "Toluca vs San Diego",
             "match_id": 141105,
             "startTime": "08:30:00 AM 19-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Thunderbolt T10 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 141213,
-            "startTime": "03:10:00 PM 19-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mumbai Spartans vs Southern Super Stars (Legends League Cricket, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141314_6002_MSP_SSS_FC-Web_1773487500004.jpg",
-            "team_1": "Mumbai Spartans",
-            "team_2": "Southern Super Stars",
-            "status": "UPCOMING",
-            "event_name": "Legends League Cricket, 2026",
-            "match_name": "Mumbai Spartans vs Southern Super Stars",
-            "match_id": 141314,
-            "startTime": "07:30:00 PM 19-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -450,6 +438,18 @@
             "match_name": "C Court Feed",
             "match_id": 141456,
             "startTime": "08:30:00 PM 19-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New Zealand Women vs South Africa Women (South Africa Women's tour of New Zealand, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
+            "team_1": "New Zealand Women",
+            "team_2": "South Africa Women",
+            "status": "UPCOMING",
+            "event_name": "South Africa Women's tour of New Zealand, 2026",
+            "match_name": "New Zealand Women vs South Africa Women",
+            "match_id": 141068,
+            "startTime": "07:15:00 AM 20-03-2026"
         }
     ]
 }

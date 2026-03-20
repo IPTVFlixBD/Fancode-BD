@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "01:13:27 PM 20-03-2026",
+    "last update time": "01:53:55 PM 20-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,15 +19,29 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Manorama Marvels vs Saryu Smashers (Ayodhya Premier League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141372_6007_MM_SS_FC-Web.jpg",
-            "team_1": "Manorama Marvels",
-            "team_2": "Saryu Smashers",
+            "title": "Chambal Chargers vs Gomti Thunder (Ayodhya Premier League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141373_6007_CC_GT_FC-Web.jpg",
+            "team_1": "Chambal Chargers",
+            "team_2": "Gomti Thunder",
             "status": "LIVE",
             "event_name": "Ayodhya Premier League",
-            "match_name": "Manorama Marvels vs Saryu Smashers",
-            "match_id": 141372,
-            "startTime": "09:00:00 AM 20-03-2026",
+            "match_name": "Chambal Chargers vs Gomti Thunder",
+            "match_id": 141373,
+            "startTime": "01:30:00 PM 20-03-2026",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
+            "event_category": "Football",
+            "title": "Western Sydney Wanderers vs Adelaide United (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Western-Sydney-Wanderers-vs-Adelaide-United_fc-web.jpg",
+            "team_1": "Western Sydney Wanderers",
+            "team_2": "Adelaide United",
+            "status": "LIVE",
+            "event_name": "A League 2025-26",
+            "match_name": "Western Sydney Wanderers vs Adelaide United",
+            "match_id": 140917,
+            "startTime": "02:05:00 PM 20-03-2026",
             "dai_url": null,
             "adfree_url": null
         },
@@ -42,30 +56,6 @@
             "match_name": "Konark Suryas Odisha vs India Tigers",
             "match_id": 141315,
             "startTime": "07:30:00 PM 20-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Chambal Chargers vs Gomti Thunder (Ayodhya Premier League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141373_6007_CC_GT_FC-Web.jpg",
-            "team_1": "Chambal Chargers",
-            "team_2": "Gomti Thunder",
-            "status": "UPCOMING",
-            "event_name": "Ayodhya Premier League",
-            "match_name": "Chambal Chargers vs Gomti Thunder",
-            "match_id": 141373,
-            "startTime": "01:30:00 PM 20-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Western Sydney Wanderers vs Adelaide United (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Western-Sydney-Wanderers-vs-Adelaide-United_fc-web.jpg",
-            "team_1": "Western Sydney Wanderers",
-            "team_2": "Adelaide United",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Western Sydney Wanderers vs Adelaide United",
-            "match_id": 140917,
-            "startTime": "02:05:00 PM 20-03-2026"
         },
         {
             "event_category": "Football",
@@ -236,6 +226,18 @@
             "startTime": "11:40:00 AM 21-03-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Konark Suryas Odisha vs Southern Super Stars (Legends League Cricket, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-Web.jpg",
+            "team_1": "Konark Suryas Odisha",
+            "team_2": "Southern Super Stars",
+            "status": "UPCOMING",
+            "event_name": "Legends League Cricket, 2026",
+            "match_name": "Konark Suryas Odisha vs Southern Super Stars",
+            "match_id": 141316,
+            "startTime": "07:30:00 PM 21-03-2026"
+        },
+        {
             "event_category": "MotoGP",
             "title": "Day 1 vs Autódromo Internacional de Goiânia – Ayrton Senna (ESTRELLA GALICIA 0,0 GRAND PRIX OF BRAZIL 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ESTRELLA-GALICIA-0,0-GRAND-PRIX-OF-BRAZIL-2026-old-card.png",
@@ -392,6 +394,18 @@
             "startTime": "08:30:00 PM 20-03-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Japan Women vs Australia Women (AFC Women's Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Women-vs-Australia-Women-Web.jpg",
+            "team_1": "Japan Women",
+            "team_2": "Australia Women",
+            "status": "UPCOMING",
+            "event_name": "AFC Women's Asian Cup, 2026",
+            "match_name": "Japan Women vs Australia Women",
+            "match_id": 140820,
+            "startTime": "02:30:00 PM 21-03-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "World Feed - Day 2\t vs Palm Harbor, Florida (Valspar Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Valspar-Championship_fc-web.jpg",
@@ -405,27 +419,51 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Konark Suryas Odisha vs Southern Super Stars (Legends League Cricket, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141316_6002_KSO_SSS_FC-Web.jpg",
-            "team_1": "Konark Suryas Odisha",
-            "team_2": "Southern Super Stars",
+            "title": "Eagles XI vs Uganda (Uganda tour of Namibia, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg",
+            "team_1": "Eagles XI",
+            "team_2": "Uganda",
             "status": "UPCOMING",
-            "event_name": "Legends League Cricket, 2026",
-            "match_name": "Konark Suryas Odisha vs Southern Super Stars",
-            "match_id": 141316,
-            "startTime": "07:30:00 PM 21-03-2026"
+            "event_name": "Uganda tour of Namibia, 2026",
+            "match_name": "Eagles XI vs Uganda",
+            "match_id": 141448,
+            "startTime": "05:30:00 PM 21-03-2026"
         },
         {
             "event_category": "Football",
-            "title": "Japan Women vs Australia Women (AFC Women's Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Women-vs-Australia-Women-Web.jpg",
-            "team_1": "Japan Women",
-            "team_2": "Australia Women",
+            "title": "Arsenal Women vs West Ham United Women (Women's Super League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141159_5826_ARS-W_WHU-W_FC-Web.jpg",
+            "team_1": "Arsenal Women",
+            "team_2": "West Ham United Women",
             "status": "UPCOMING",
-            "event_name": "AFC Women's Asian Cup, 2026",
-            "match_name": "Japan Women vs Australia Women",
-            "match_id": 140820,
-            "startTime": "02:30:00 PM 21-03-2026"
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "Arsenal Women vs West Ham United Women",
+            "match_id": 141159,
+            "startTime": "05:30:00 PM 21-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "London City Lionesses vs Chelsea F.C. Women (Women's Super League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141158_5826_LCL_CHE-W_FC-Web.jpg",
+            "team_1": "London City Lionesses",
+            "team_2": "Chelsea F.C. Women",
+            "status": "UPCOMING",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "London City Lionesses vs Chelsea F.C. Women",
+            "match_id": 141158,
+            "startTime": "05:30:00 PM 21-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Manchester City vs Tottenham Hotspur Women (Women's Super League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141157_5826_MCI_TOT-W_FC-Web.jpg",
+            "team_1": "Manchester City",
+            "team_2": "Tottenham Hotspur Women",
+            "status": "UPCOMING",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "Manchester City vs Tottenham Hotspur Women",
+            "match_id": 141157,
+            "startTime": "05:30:00 PM 21-03-2026"
         }
     ]
 }

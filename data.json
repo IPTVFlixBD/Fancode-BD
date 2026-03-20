@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "01:53:55 PM 20-03-2026",
+    "last update time": "02:24:17 PM 20-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -178,18 +178,6 @@
             "startTime": "07:30:00 AM 21-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Brisbane Roar vs Wellington Phoenix (A League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1773891100389/140919_CASACARDS_APP.png",
-            "team_1": "Brisbane Roar",
-            "team_2": "Wellington Phoenix",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Brisbane Roar vs Wellington Phoenix",
-            "match_id": 140919,
-            "startTime": "09:30:00 AM 21-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Manorama Marvels vs Betwa Blasters (Ayodhya Premier League)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141375_6007_MM_BB_FC-Web.jpg",
@@ -200,6 +188,18 @@
             "match_name": "Manorama Marvels vs Betwa Blasters",
             "match_id": 141375,
             "startTime": "01:30:00 PM 21-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Brisbane Roar vs Wellington Phoenix (A League 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1773891100389/140919_CASACARDS_APP.png",
+            "team_1": "Brisbane Roar",
+            "team_2": "Wellington Phoenix",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Brisbane Roar vs Wellington Phoenix",
+            "match_id": 140919,
+            "startTime": "09:30:00 AM 21-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -236,6 +236,18 @@
             "match_name": "Konark Suryas Odisha vs Southern Super Stars",
             "match_id": 141316,
             "startTime": "07:30:00 PM 21-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Japan Women vs Australia Women (AFC Women's Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Women-vs-Australia-Women-Web.jpg",
+            "team_1": "Japan Women",
+            "team_2": "Australia Women",
+            "status": "UPCOMING",
+            "event_name": "AFC Women's Asian Cup, 2026",
+            "match_name": "Japan Women vs Australia Women",
+            "match_id": 140820,
+            "startTime": "02:30:00 PM 21-03-2026"
         },
         {
             "event_category": "MotoGP",
@@ -392,18 +404,6 @@
             "match_name": "F Court Feed",
             "match_id": 141463,
             "startTime": "08:30:00 PM 20-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Japan Women vs Australia Women (AFC Women's Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Women-vs-Australia-Women-Web.jpg",
-            "team_1": "Japan Women",
-            "team_2": "Australia Women",
-            "status": "UPCOMING",
-            "event_name": "AFC Women's Asian Cup, 2026",
-            "match_name": "Japan Women vs Australia Women",
-            "match_id": 140820,
-            "startTime": "02:30:00 PM 21-03-2026"
         },
         {
             "event_category": "Golf",

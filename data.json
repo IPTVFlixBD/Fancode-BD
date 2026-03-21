@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "12:21:20 PM 21-03-2026",
+    "last update time": "12:51:41 PM 21-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -75,18 +75,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Konark Suryas Odisha vs India Tigers (Legends League Cricket, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141315_6002_KSO_ING_FC-Web_1773487500038.jpg",
-            "team_1": "Konark Suryas Odisha",
-            "team_2": "India Tigers",
-            "status": "UPCOMING",
-            "event_name": "Legends League Cricket, 2026",
-            "match_name": "Konark Suryas Odisha vs India Tigers",
-            "match_id": 141315,
-            "startTime": "07:30:00 PM 21-03-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "West Indies Women vs Australia Women (Australia Women's tour of West Indies 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg",
             "team_1": "West Indies Women",
@@ -99,18 +87,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "New Zealand Women vs South Africa Women (South Africa Women's tour of New Zealand, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
-            "team_1": "New Zealand Women",
-            "team_2": "South Africa Women",
-            "status": "UPCOMING",
-            "event_name": "South Africa Women's tour of New Zealand, 2026",
-            "match_name": "New Zealand Women vs South Africa Women",
-            "match_id": 141069,
-            "startTime": "07:15:00 AM 22-03-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Manorama Marvels vs Betwa Blasters (Ayodhya Premier League)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141375_6007_MM_BB_FC-Web.jpg",
             "team_1": "Manorama Marvels",
@@ -120,6 +96,18 @@
             "match_name": "Manorama Marvels vs Betwa Blasters",
             "match_id": 141375,
             "startTime": "01:30:00 PM 21-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New Zealand Women vs South Africa Women (South Africa Women's tour of New Zealand, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
+            "team_1": "New Zealand Women",
+            "team_2": "South Africa Women",
+            "status": "UPCOMING",
+            "event_name": "South Africa Women's tour of New Zealand, 2026",
+            "match_name": "New Zealand Women vs South Africa Women",
+            "match_id": 141069,
+            "startTime": "07:15:00 AM 22-03-2026"
         },
         {
             "event_category": "Cricket",

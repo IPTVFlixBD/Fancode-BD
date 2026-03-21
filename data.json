@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:00:21 AM 21-03-2026",
+    "last update time": "11:30:43 AM 21-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -46,6 +46,20 @@
             "adfree_url": null
         },
         {
+            "event_category": "Cricket",
+            "title": "Chennai Marvels vs Jaipur Royals (Actors Cricket Bash 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141335_6005_CML_JR_fc-Web.jpg",
+            "team_1": "Chennai Marvels",
+            "team_2": "Jaipur Royals",
+            "status": "LIVE",
+            "event_name": "Actors Cricket Bash 2026",
+            "match_name": "Chennai Marvels vs Jaipur Royals",
+            "match_id": 141335,
+            "startTime": "11:45:00 AM 21-03-2026",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
             "event_category": "Football",
             "title": "Brisbane Roar vs Wellington Phoenix (A League 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1773891100389/140919_CASACARDS_APP.png",
@@ -56,6 +70,20 @@
             "match_name": "Brisbane Roar vs Wellington Phoenix",
             "match_id": 140919,
             "startTime": "09:30:00 AM 21-03-2026",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne Victory vs Central Coast Mariners (A League 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1773891100358/140920_CASACARDS_APP.png",
+            "team_1": "Melbourne Victory",
+            "team_2": "Central Coast Mariners",
+            "status": "LIVE",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne Victory vs Central Coast Mariners",
+            "match_id": 140920,
+            "startTime": "11:40:00 AM 21-03-2026",
             "dai_url": null,
             "adfree_url": null
         },
@@ -87,18 +115,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Chennai Marvels vs Jaipur Royals (Actors Cricket Bash 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141335_6005_CML_JR_fc-Web.jpg",
-            "team_1": "Chennai Marvels",
-            "team_2": "Jaipur Royals",
-            "status": "UPCOMING",
-            "event_name": "Actors Cricket Bash 2026",
-            "match_name": "Chennai Marvels vs Jaipur Royals",
-            "match_id": 141335,
-            "startTime": "11:45:00 AM 21-03-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "West Indies Women vs Australia Women (Australia Women's tour of West Indies 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg",
             "team_1": "West Indies Women",
@@ -120,18 +136,6 @@
             "match_name": "New Zealand Women vs South Africa Women",
             "match_id": 141069,
             "startTime": "07:15:00 AM 22-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Melbourne Victory vs Central Coast Mariners (A League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1773891100358/140920_CASACARDS_APP.png",
-            "team_1": "Melbourne Victory",
-            "team_2": "Central Coast Mariners",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne Victory vs Central Coast Mariners",
-            "match_id": 140920,
-            "startTime": "11:40:00 AM 21-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -338,18 +342,6 @@
             "startTime": "01:30:00 AM 22-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Japan Women vs Australia Women (AFC Women's Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Women-vs-Australia-Women-Web.jpg",
-            "team_1": "Japan Women",
-            "team_2": "Australia Women",
-            "status": "UPCOMING",
-            "event_name": "AFC Women's Asian Cup, 2026",
-            "match_name": "Japan Women vs Australia Women",
-            "match_id": 140820,
-            "startTime": "02:30:00 PM 21-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "New Zealand vs South Africa (South Africa tour of New Zealand, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg",
@@ -360,6 +352,18 @@
             "match_name": "New Zealand vs South Africa",
             "match_id": 141064,
             "startTime": "11:45:00 AM 22-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Japan Women vs Australia Women (AFC Women's Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Women-vs-Australia-Women-Web.jpg",
+            "team_1": "Japan Women",
+            "team_2": "Australia Women",
+            "status": "UPCOMING",
+            "event_name": "AFC Women's Asian Cup, 2026",
+            "match_name": "Japan Women vs Australia Women",
+            "match_id": 140820,
+            "startTime": "02:30:00 PM 21-03-2026"
         },
         {
             "event_category": "Football",

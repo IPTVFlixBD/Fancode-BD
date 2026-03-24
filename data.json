@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "09:04:03 AM 24-03-2026",
+    "last update time": "10:35:04 AM 24-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,13 +19,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Betwa Blasters vs Gomti Thunder (Ayodhya Premier League)",
+            "title": "Gomti Thunder vs Betwa Blasters (Ayodhya Premier League)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141380_6007_BB_GT_FC-Web.jpg",
-            "team_1": "Betwa Blasters",
-            "team_2": "Gomti Thunder",
+            "team_1": "Gomti Thunder",
+            "team_2": "Betwa Blasters",
             "status": "LIVE",
             "event_name": "Ayodhya Premier League",
-            "match_name": "Betwa Blasters vs Gomti Thunder",
+            "match_name": "Gomti Thunder vs Betwa Blasters",
             "match_id": 141380,
             "startTime": "09:00:00 AM 24-03-2026",
             "dai_url": null,
@@ -33,27 +33,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Mumbai Spartans vs Konark Suryas Odisha (Legends League Cricket, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141317_6002_MSP_KSO_FC-Web.jpg",
-            "team_1": "Mumbai Spartans",
-            "team_2": "Konark Suryas Odisha",
+            "title": "New Zealand Women vs South Africa Women (South Africa Women's tour of New Zealand, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
+            "team_1": "New Zealand Women",
+            "team_2": "South Africa Women",
             "status": "UPCOMING",
-            "event_name": "Legends League Cricket, 2026",
-            "match_name": "Mumbai Spartans vs Konark Suryas Odisha",
-            "match_id": 141317,
-            "startTime": "02:30:00 PM 24-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Southern Super Stars vs India Tigers (Legends League Cricket, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141318_6002_SSS_ING_FC-Web.jpg",
-            "team_1": "Southern Super Stars",
-            "team_2": "India Tigers",
-            "status": "UPCOMING",
-            "event_name": "Legends League Cricket, 2026",
-            "match_name": "Southern Super Stars vs India Tigers",
-            "match_id": 141318,
-            "startTime": "07:30:00 PM 24-03-2026"
+            "event_name": "South Africa Women's tour of New Zealand, 2026",
+            "match_name": "New Zealand Women vs South Africa Women",
+            "match_id": 141070,
+            "startTime": "07:15:00 AM 25-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -126,18 +114,6 @@
             "match_name": "Eswatini vs Saint Helena",
             "match_id": 140974,
             "startTime": "07:20:00 PM 24-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New Zealand Women vs South Africa Women (South Africa Women's tour of New Zealand, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women's-tour-of-New-Zealand-old.jpg",
-            "team_1": "New Zealand Women",
-            "team_2": "South Africa Women",
-            "status": "UPCOMING",
-            "event_name": "South Africa Women's tour of New Zealand, 2026",
-            "match_name": "New Zealand Women vs South Africa Women",
-            "match_id": 141070,
-            "startTime": "07:15:00 AM 25-03-2026"
         },
         {
             "event_category": "Football",
@@ -224,6 +200,18 @@
             "startTime": "11:45:00 AM 25-03-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Namibia vs Uganda (Uganda tour of Namibia, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg",
+            "team_1": "Namibia",
+            "team_2": "Uganda",
+            "status": "UPCOMING",
+            "event_name": "Uganda tour of Namibia, 2026",
+            "match_name": "Namibia vs Uganda",
+            "match_id": 141450,
+            "startTime": "01:00:00 PM 25-03-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "B Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
@@ -285,30 +273,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Namibia vs Uganda (Uganda tour of Namibia, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg",
-            "team_1": "Namibia",
-            "team_2": "Uganda",
-            "status": "UPCOMING",
-            "event_name": "Uganda tour of Namibia, 2026",
-            "match_name": "Namibia vs Uganda",
-            "match_id": 141450,
-            "startTime": "01:00:00 PM 25-03-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Los Angeles vs Jupiter vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Los Angeles vs Jupiter",
-            "team_2": "Florida",
-            "status": "UPCOMING",
-            "event_name": "TGL Season 2",
-            "match_name": "Los Angeles vs Jupiter",
-            "match_id": 139181,
-            "startTime": "04:30:00 AM 25-03-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Ahmedabad Lions vs Jaipur Royals (Actors Cricket Bash 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141348_6005_ALA_JR_fc-Web.jpg",
             "team_1": "Ahmedabad Lions",
@@ -328,8 +292,8 @@
             "status": "UPCOMING",
             "event_name": "TGL Season 2",
             "match_name": "Los Angeles vs Jupiter",
-            "match_id": 139182,
-            "startTime": "06:30:00 AM 25-03-2026"
+            "match_id": 139181,
+            "startTime": "04:30:00 AM 25-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -354,6 +318,18 @@
             "match_name": "Saint Helena vs Seychelles",
             "match_id": 140976,
             "startTime": "03:00:00 PM 25-03-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Los Angeles vs Jupiter vs Florida (TGL Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "Los Angeles vs Jupiter",
+            "team_2": "Florida",
+            "status": "UPCOMING",
+            "event_name": "TGL Season 2",
+            "match_name": "Los Angeles vs Jupiter",
+            "match_id": 139182,
+            "startTime": "06:30:00 AM 25-03-2026"
         },
         {
             "event_category": "Cricket",

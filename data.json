@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "07:20:20 PM 25-03-2026",
+    "last update time": "08:21:13 PM 25-03-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Namibia vs Uganda (Uganda tour of Namibia, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Uganda-tour-of-Namibia-2026_Web_1080_x_810.jpg",
-            "team_1": "Namibia",
-            "team_2": "Uganda",
-            "status": "LIVE",
-            "event_name": "Uganda tour of Namibia, 2026",
-            "match_name": "Namibia vs Uganda",
-            "match_id": 141450,
-            "startTime": "01:00:00 PM 25-03-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
         {
             "event_category": "Cricket",
             "title": "Malawi vs Ghana (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
@@ -57,13 +43,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Actors Cricket Bash 2026)",
+            "title": "Delhi Titans vs Chandigarh Mavericks (Actors Cricket Bash 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Actors-Cricket-Bash-2026-old.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Delhi Titans",
+            "team_2": "Chandigarh Mavericks",
             "status": "UPCOMING",
             "event_name": "Actors Cricket Bash 2026",
-            "match_name": "TBC vs TBC",
+            "match_name": "Delhi Titans vs Chandigarh Mavericks",
             "match_id": 141349,
             "startTime": "09:00:00 AM 26-03-2026"
         },
@@ -81,13 +67,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Actors Cricket Bash 2026)",
+            "title": "Ahmedabad Lions vs Jaipur Royals (Actors Cricket Bash 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Actors-Cricket-Bash-2026-old.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Ahmedabad Lions",
+            "team_2": "Jaipur Royals",
             "status": "UPCOMING",
             "event_name": "Actors Cricket Bash 2026",
-            "match_name": "TBC vs TBC",
+            "match_name": "Ahmedabad Lions vs Jaipur Royals",
             "match_id": 141350,
             "startTime": "11:45:00 AM 26-03-2026"
         },
@@ -137,7 +123,7 @@
             "event_name": "ATP Masters Miami Open 2026",
             "match_name": "C Court Feed",
             "match_id": 141483,
-            "startTime": "10:30:00 PM 25-03-2026"
+            "startTime": "09:00:00 PM 25-03-2026"
         },
         {
             "event_category": "Tennis",
@@ -176,18 +162,6 @@
             "startTime": "12:30:00 AM 26-03-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Marquee Group - Day 1 vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
-            "team_1": "Marquee Group - Day 1",
-            "team_2": "Memorial Park Golf Course - Houston, Texas",
-            "status": "UPCOMING",
-            "event_name": "Texas Children's Houston Open 2026",
-            "match_name": "Marquee Group - Day 1",
-            "match_id": 141587,
-            "startTime": "06:00:00 PM 26-03-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Brazil vs France (International Friendlies 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -198,6 +172,18 @@
             "match_name": "Brazil vs France",
             "match_id": 141604,
             "startTime": "01:30:00 AM 27-03-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Marquee Group - Day 1 vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
+            "team_1": "Marquee Group - Day 1",
+            "team_2": "Memorial Park Golf Course - Houston, Texas",
+            "status": "UPCOMING",
+            "event_name": "Texas Children's Houston Open 2026",
+            "match_name": "Marquee Group - Day 1",
+            "match_id": 141587,
+            "startTime": "06:00:00 PM 26-03-2026"
         },
         {
             "event_category": "Golf",

@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:59:16 PM 25-03-2026",
+    "last update time": "07:20:20 PM 25-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,43 +19,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Saint Helena vs Seychelles (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/05_Saint-Helena-vs-Seychelles_1774006051643.png",
-            "team_1": "Saint Helena",
-            "team_2": "Seychelles",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
-            "match_name": "Saint Helena vs Seychelles",
-            "match_id": 140976,
-            "startTime": "03:00:00 PM 25-03-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tanzania vs Eswatini (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/04_Eswatini-vs-Tanzania_1774006051636.png",
-            "team_1": "Tanzania",
-            "team_2": "Eswatini",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
-            "match_name": "Tanzania vs Eswatini",
-            "match_id": 140977,
-            "startTime": "03:00:00 PM 25-03-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
             "title": "Malawi vs Ghana (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/06_Malawi-vs-Ghana_1774006033024.png",
             "team_1": "Malawi",
             "team_2": "Ghana",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
             "match_name": "Malawi vs Ghana",
             "match_id": 140978,
-            "startTime": "07:20:00 PM 25-03-2026"
+            "startTime": "07:20:00 PM 25-03-2026",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Football",
@@ -95,13 +69,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Ayodhya Premier League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "title": "Gomti Thunder vs Hindon Titans (Ayodhya Premier League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141376_6007_GT_HT_FC-Web.jpg",
+            "team_1": "Gomti Thunder",
+            "team_2": "Hindon Titans",
             "status": "UPCOMING",
             "event_name": "Ayodhya Premier League",
-            "match_name": "TBC vs TBC",
+            "match_name": "Gomti Thunder vs Hindon Titans",
             "match_id": 141383,
             "startTime": "09:00:00 AM 26-03-2026"
         },
@@ -119,27 +93,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Ayodhya Premier League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "title": "Saryu Smashers vs Ganga Warriors (Ayodhya Premier League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141381_6007_SS_GW_FC-Web.jpg",
+            "team_1": "Saryu Smashers",
+            "team_2": "Ganga Warriors",
             "status": "UPCOMING",
             "event_name": "Ayodhya Premier League",
-            "match_name": "TBC vs TBC",
+            "match_name": "Saryu Smashers vs Ganga Warriors",
             "match_id": 141384,
             "startTime": "01:30:00 PM 26-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Victoria vs South Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
-            "team_1": "Victoria",
-            "team_2": "South Australia",
-            "status": "UPCOMING",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Victoria vs South Australia",
-            "match_id": 134044,
-            "startTime": "05:00:00 AM 26-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -154,6 +116,18 @@
             "startTime": "02:30:00 PM 26-03-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Victoria vs South Australia (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
+            "team_1": "Victoria",
+            "team_2": "South Australia",
+            "status": "UPCOMING",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Victoria vs South Australia",
+            "match_id": 134044,
+            "startTime": "05:00:00 AM 26-03-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "C Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
@@ -163,19 +137,7 @@
             "event_name": "ATP Masters Miami Open 2026",
             "match_name": "C Court Feed",
             "match_id": 141483,
-            "startTime": "08:30:00 PM 25-03-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "World Feed vs Miami, United States (ATP Masters Miami Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
-            "team_1": "World Feed",
-            "team_2": "Miami, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Miami Open 2026",
-            "match_name": "World Feed",
-            "match_id": 141052,
-            "startTime": "12:30:00 AM 26-03-2026"
+            "startTime": "10:30:00 PM 25-03-2026"
         },
         {
             "event_category": "Tennis",
@@ -187,6 +149,18 @@
             "event_name": "ATP Masters Miami Open 2026",
             "match_name": "B Court Feed",
             "match_id": 141051,
+            "startTime": "11:30:00 PM 25-03-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "World Feed vs Miami, United States (ATP Masters Miami Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
+            "team_1": "World Feed",
+            "team_2": "Miami, United States",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Miami Open 2026",
+            "match_name": "World Feed",
+            "match_id": 141052,
             "startTime": "12:30:00 AM 26-03-2026"
         },
         {
@@ -214,6 +188,18 @@
             "startTime": "06:00:00 PM 26-03-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Brazil vs France (International Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Brazil",
+            "team_2": "France",
+            "status": "UPCOMING",
+            "event_name": "International Friendlies 2026",
+            "match_name": "Brazil vs France",
+            "match_id": 141604,
+            "startTime": "01:30:00 AM 27-03-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "Featured Groups - Day 1 vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
@@ -236,18 +222,6 @@
             "match_name": "Main Feed - Day 1",
             "match_id": 141586,
             "startTime": "06:45:00 PM 26-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Brazil vs France (International Friendlies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Brazil",
-            "team_2": "France",
-            "status": "UPCOMING",
-            "event_name": "International Friendlies 2026",
-            "match_name": "Brazil vs France",
-            "match_id": 141604,
-            "startTime": "01:30:00 AM 27-03-2026"
         },
         {
             "event_category": "Golf",
@@ -464,6 +438,30 @@
             "match_name": "USA GP",
             "match_id": 139930,
             "startTime": "07:30:00 PM 27-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Algeria vs Guatemala (International Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Algeria",
+            "team_2": "Guatemala",
+            "status": "UPCOMING",
+            "event_name": "International Friendlies 2026",
+            "match_name": "Algeria vs Guatemala",
+            "match_id": 141605,
+            "startTime": "01:00:00 AM 28-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Córdoba vs Mirandés (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Córdoba",
+            "team_2": "Mirandés",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Córdoba vs Mirandés",
+            "match_id": 141489,
+            "startTime": "11:30:00 PM 27-03-2026"
         }
     ]
 }

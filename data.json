@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "10:46:16 AM 29-03-2026",
+    "last update time": "11:57:07 AM 29-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,20 +18,6 @@
             "adfree_url": null
         },
         {
-            "event_category": "Football",
-            "title": "Melbourne City Women vs PFC Nasaf (AFC Women's Champions League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1774667324846/141217_CASACARDS_APP.png",
-            "team_1": "Melbourne City Women",
-            "team_2": "PFC Nasaf",
-            "status": "LIVE",
-            "event_name": "AFC Women's Champions League 2025-26",
-            "match_name": "Melbourne City Women vs PFC Nasaf",
-            "match_id": 141217,
-            "startTime": "09:30:00 AM 29-03-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
             "event_category": "Cricket",
             "title": "South Australia vs Victoria (Sheffield Shield, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
@@ -42,20 +28,6 @@
             "match_name": "South Australia vs Victoria",
             "match_id": 134044,
             "startTime": "04:30:00 AM 26-03-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Australasia - Day 2 vs Phillip Island (Ferrari Challenge Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
-            "team_1": "Australasia - Day 2",
-            "team_2": "Phillip Island",
-            "status": "LIVE",
-            "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "Australasia - Day 2",
-            "match_id": 141603,
-            "startTime": "09:40:00 AM 29-03-2026",
             "dai_url": null,
             "adfree_url": null
         },
@@ -456,6 +428,30 @@
             "match_name": "Real Valladolid vs Cádiz",
             "match_id": 141493,
             "startTime": "01:00:00 AM 01-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Brazil vs Croatia (International Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Brazil_vs_Croatia_International_Friendlies_WEB.jpg",
+            "team_1": "Brazil",
+            "team_2": "Croatia",
+            "status": "UPCOMING",
+            "event_name": "International Friendlies 2026",
+            "match_name": "Brazil vs Croatia",
+            "match_id": 141608,
+            "startTime": "05:30:00 AM 01-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "China PR U20 vs Vietnam U20 (AFC U20 Women's Asian Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1774716160342.png",
+            "team_1": "China PR U20",
+            "team_2": "Vietnam U20",
+            "status": "UPCOMING",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "China PR U20 vs Vietnam U20",
+            "match_id": 141611,
+            "startTime": "02:30:00 PM 01-04-2026"
         }
     ]
 }

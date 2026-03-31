@@ -1,17 +1,17 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "07:19:44 PM 31-03-2026",
+    "last update time": "08:20:28 PM 31-03-2026",
     "matches": [
         {
             "event_category": "Football",
-            "title": "India vs Hong Kong, China (AFC Asian Cup Qualifiers)",
+            "title": "India vs Hong Kong (AFC Asian Cup Qualifiers)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Asia-Cup-Qualifiers_FC-WEB_1080_x_810.jpg",
             "team_1": "India",
-            "team_2": "Hong Kong, China",
+            "team_2": "Hong Kong",
             "status": "LIVE",
             "event_name": "AFC Asian Cup Qualifiers",
-            "match_name": "India vs Hong Kong, China",
+            "match_name": "India vs Hong Kong",
             "match_id": 141682,
             "startTime": "07:00:00 PM 31-03-2026",
             "dai_url": null,
@@ -118,6 +118,18 @@
             "startTime": "06:30:00 PM 01-04-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Bayern Munich Women vs Manchester United Women (UEFA Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140963_5720_BAY-W_MUN-W_fc-web.jpg",
+            "team_1": "Bayern Munich Women",
+            "team_2": "Manchester United Women",
+            "status": "UPCOMING",
+            "event_name": "UEFA Women's Champions League 2025-26",
+            "match_name": "Bayern Munich Women vs Manchester United Women",
+            "match_id": 140963,
+            "startTime": "10:15:00 PM 01-04-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "A Court Feed vs Houston, United States (ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg",
@@ -131,15 +143,15 @@
         },
         {
             "event_category": "Football",
-            "title": "Bayern Munich Women vs Manchester United Women (UEFA Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140963_5720_BAY-W_MUN-W_fc-web.jpg",
-            "team_1": "Bayern Munich Women",
-            "team_2": "Manchester United Women",
+            "title": "Chelsea F.C. Women vs Arsenal Women (UEFA Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140964_5720_CHE-W_ARS-W_fc-web.jpg",
+            "team_1": "Chelsea F.C. Women",
+            "team_2": "Arsenal Women",
             "status": "UPCOMING",
             "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Bayern Munich Women vs Manchester United Women",
-            "match_id": 140963,
-            "startTime": "10:15:00 PM 01-04-2026"
+            "match_name": "Chelsea F.C. Women vs Arsenal Women",
+            "match_id": 140964,
+            "startTime": "12:30:00 AM 02-04-2026"
         },
         {
             "event_category": "Tennis",
@@ -164,18 +176,6 @@
             "match_name": " A Court Feed",
             "match_id": 141277,
             "startTime": "02:30:00 PM 01-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Chelsea F.C. Women vs Arsenal Women (UEFA Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140964_5720_CHE-W_ARS-W_fc-web.jpg",
-            "team_1": "Chelsea F.C. Women",
-            "team_2": "Arsenal Women",
-            "status": "UPCOMING",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Chelsea F.C. Women vs Arsenal Women",
-            "match_id": 140964,
-            "startTime": "12:30:00 AM 02-04-2026"
         },
         {
             "event_category": "Football",

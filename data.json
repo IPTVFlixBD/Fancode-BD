@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "12:32:35 AM 02-04-2026",
+    "last update time": "01:23:16 AM 02-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -23,11 +23,27 @@
             "src": "https://images.fancode.com/aig/match/v1774680543050/141494_CASACARDS_APP.png",
             "team_1": "Racing Club",
             "team_2": "Sporting de Gijón",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA Hypermotion 2025-26",
             "match_name": "Racing Club vs Sporting de Gijón",
             "match_id": 141494,
-            "startTime": "01:00:00 AM 02-04-2026"
+            "startTime": "01:00:00 AM 02-04-2026",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Fayez Sarofim & Co. U.S. Men's Clay - Day 3 vs Houston, United States (ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg",
+            "team_1": "Fayez Sarofim & Co. U.S. Men's Clay - Day 3",
+            "team_2": "Houston, United States",
+            "status": "LIVE",
+            "event_name": "ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay",
+            "match_name": "Fayez Sarofim & Co. U.S. Men's Clay - Day 3",
+            "match_id": 141079,
+            "startTime": "01:30:00 AM 02-04-2026",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -43,18 +59,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Scotland vs Oman (ICC CWC League 2, Namibia)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141646_6025_SCO_OMN_fc-Web.jpg",
-            "team_1": "Scotland",
-            "team_2": "Oman",
-            "status": "UPCOMING",
-            "event_name": "ICC CWC League 2, Namibia",
-            "match_name": "Scotland vs Oman",
-            "match_id": 141646,
-            "startTime": "01:00:00 PM 02-04-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "West Indies Women vs Australia Women (Australia Women's tour of West Indies 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1774864336440.png",
             "team_1": "West Indies Women",
@@ -64,6 +68,18 @@
             "match_name": "West Indies Women vs Australia Women",
             "match_id": 141333,
             "startTime": "11:30:00 PM 02-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Scotland vs Oman (ICC CWC League 2, Namibia)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141646_6025_SCO_OMN_fc-Web.jpg",
+            "team_1": "Scotland",
+            "team_2": "Oman",
+            "status": "UPCOMING",
+            "event_name": "ICC CWC League 2, Namibia",
+            "match_name": "Scotland vs Oman",
+            "match_id": 141646,
+            "startTime": "01:00:00 PM 02-04-2026"
         },
         {
             "event_category": "Football",
@@ -76,18 +92,6 @@
             "match_name": "Macarthur vs Newcastle Jets",
             "match_id": 140923,
             "startTime": "02:05:00 PM 02-04-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Fayez Sarofim & Co. U.S. Men's Clay - Day 3 vs Houston, United States (ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg",
-            "team_1": "Fayez Sarofim & Co. U.S. Men's Clay - Day 3",
-            "team_2": "Houston, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay",
-            "match_name": "Fayez Sarofim & Co. U.S. Men's Clay - Day 3",
-            "match_id": 141079,
-            "startTime": "01:30:00 AM 02-04-2026"
         },
         {
             "event_category": "Football",

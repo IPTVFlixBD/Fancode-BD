@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "12:11:31 PM 02-04-2026",
+    "last update time": "01:12:27 PM 02-04-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Scotland vs Oman (ICC CWC League 2, Namibia)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141646_6025_SCO_OMN_fc-Web.jpg",
+            "team_1": "Scotland",
+            "team_2": "Oman",
+            "status": "LIVE",
+            "event_name": "ICC CWC League 2, Namibia",
+            "match_name": "Scotland vs Oman",
+            "match_id": 141646,
+            "startTime": "01:00:00 PM 02-04-2026",
+            "dai_url": null,
+            "adfree_url": null
+        },
         {
             "event_category": "Cricket",
             "title": "West Indies Women vs Australia Women (Australia Women's tour of West Indies 2026)",
@@ -16,16 +30,16 @@
             "startTime": "11:30:00 PM 02-04-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Scotland vs Oman (ICC CWC League 2, Namibia)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141646_6025_SCO_OMN_fc-Web.jpg",
-            "team_1": "Scotland",
-            "team_2": "Oman",
+            "event_category": "Football",
+            "title": "Macarthur vs Newcastle Jets (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140923_5802_MAC_NJ_fc-web.jpg",
+            "team_1": "Macarthur",
+            "team_2": "Newcastle Jets",
             "status": "UPCOMING",
-            "event_name": "ICC CWC League 2, Namibia",
-            "match_name": "Scotland vs Oman",
-            "match_id": 141646,
-            "startTime": "01:00:00 PM 02-04-2026"
+            "event_name": "A League 2025-26",
+            "match_name": "Macarthur vs Newcastle Jets",
+            "match_id": 140923,
+            "startTime": "02:05:00 PM 02-04-2026"
         },
         {
             "event_category": "Football",
@@ -52,16 +66,16 @@
             "startTime": "12:30:00 AM 03-04-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Macarthur vs Newcastle Jets (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140923_5802_MAC_NJ_fc-web.jpg",
-            "team_1": "Macarthur",
-            "team_2": "Newcastle Jets",
+            "event_category": "Cricket",
+            "title": "Malaysia A vs Hong Kong, China-A (Hong Kong, China-A tour of Malaysia-A 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg",
+            "team_1": "Malaysia A",
+            "team_2": "Hong Kong, China-A",
             "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Macarthur vs Newcastle Jets",
-            "match_id": 140923,
-            "startTime": "02:05:00 PM 02-04-2026"
+            "event_name": "Hong Kong, China-A tour of Malaysia-A 2026",
+            "match_name": "Malaysia A vs Hong Kong, China-A",
+            "match_id": 141772,
+            "startTime": "07:30:00 AM 03-04-2026"
         },
         {
             "event_category": "Football",
@@ -98,18 +112,6 @@
             "match_name": "Brisbane Roar vs Sydney FC",
             "match_id": 140924,
             "startTime": "03:30:00 PM 02-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malaysia A vs Hong Kong, China-A (Hong Kong, China-A tour of Malaysia-A 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg",
-            "team_1": "Malaysia A",
-            "team_2": "Hong Kong, China-A",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong, China-A tour of Malaysia-A 2026",
-            "match_name": "Malaysia A vs Hong Kong, China-A",
-            "match_id": 141772,
-            "startTime": "07:30:00 AM 03-04-2026"
         },
         {
             "event_category": "Football",
@@ -256,6 +258,18 @@
             "startTime": "12:30:00 AM 03-04-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Adelaide United vs Auckland (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140925_5802_ADL_AFC_fc-web.jpg",
+            "team_1": "Adelaide United",
+            "team_2": "Auckland",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Adelaide United vs Auckland",
+            "match_id": 140925,
+            "startTime": "02:05:00 PM 03-04-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "World Feed - Day 1 vs San Antonio, Texas (Valero Texas Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
@@ -281,18 +295,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Adelaide United vs Auckland (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140925_5802_ADL_AFC_fc-web.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Auckland",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Adelaide United vs Auckland",
-            "match_id": 140925,
-            "startTime": "02:05:00 PM 03-04-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Middlesbrough F.C. vs Millwall F.C. (EFL Championship 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141428_5489_MIDD_MLW_fc-web.jpg",
             "team_1": "Middlesbrough F.C.",
@@ -302,18 +304,6 @@
             "match_name": "Middlesbrough F.C. vs Millwall F.C.",
             "match_id": 141428,
             "startTime": "05:00:00 PM 03-04-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Tiriac Open - Day 5 vs Bucharest, Romania (ATP 250 - Tiriac Open presented by UniCredit Bank )",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png",
-            "team_1": "Tiriac Open - Day 5",
-            "team_2": "Bucharest, Romania",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Tiriac Open presented by UniCredit Bank ",
-            "match_name": "Tiriac Open - Day 5",
-            "match_id": 141292,
-            "startTime": "12:30:00 PM 03-04-2026"
         },
         {
             "event_category": "Football",
@@ -350,6 +340,18 @@
             "match_name": "Oxford United vs Hull City",
             "match_id": 141429,
             "startTime": "07:30:00 PM 03-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Tiriac Open - Day 5 vs Bucharest, Romania (ATP 250 - Tiriac Open presented by UniCredit Bank )",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png",
+            "team_1": "Tiriac Open - Day 5",
+            "team_2": "Bucharest, Romania",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Tiriac Open presented by UniCredit Bank ",
+            "match_name": "Tiriac Open - Day 5",
+            "match_id": 141292,
+            "startTime": "12:30:00 PM 03-04-2026"
         },
         {
             "event_category": "Tennis",

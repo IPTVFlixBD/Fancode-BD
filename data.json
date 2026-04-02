@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "01:12:27 PM 02-04-2026",
+    "last update time": "02:03:08 PM 02-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,6 +14,20 @@
             "match_name": "Scotland vs Oman",
             "match_id": 141646,
             "startTime": "01:00:00 PM 02-04-2026",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
+            "event_category": "Football",
+            "title": "Macarthur vs Newcastle Jets (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140923_5802_MAC_NJ_fc-web.jpg",
+            "team_1": "Macarthur",
+            "team_2": "Newcastle Jets",
+            "status": "LIVE",
+            "event_name": "A League 2025-26",
+            "match_name": "Macarthur vs Newcastle Jets",
+            "match_id": 140923,
+            "startTime": "02:05:00 PM 02-04-2026",
             "dai_url": null,
             "adfree_url": null
         },
@@ -31,15 +45,27 @@
         },
         {
             "event_category": "Football",
-            "title": "Macarthur vs Newcastle Jets (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140923_5802_MAC_NJ_fc-web.jpg",
-            "team_1": "Macarthur",
-            "team_2": "Newcastle Jets",
+            "title": "Australia U20 vs Chinese Taipei U20 (AFC U20 Women's Asian Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141614_6021_AUS-U20_CT-U20_FC-Web.png",
+            "team_1": "Australia U20",
+            "team_2": "Chinese Taipei U20",
             "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Macarthur vs Newcastle Jets",
-            "match_id": 140923,
-            "startTime": "02:05:00 PM 02-04-2026"
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Australia U20 vs Chinese Taipei U20",
+            "match_id": 141614,
+            "startTime": "02:30:00 PM 02-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Korea Republic U20 vs Uzbekistan U20 (AFC U20 Women's Asian Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141613_6021_KR-U20_UZ-U20_FC-Web.png",
+            "team_1": "Korea Republic U20",
+            "team_2": "Uzbekistan U20",
+            "status": "UPCOMING",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Korea Republic U20 vs Uzbekistan U20",
+            "match_id": 141613,
+            "startTime": "02:30:00 PM 02-04-2026"
         },
         {
             "event_category": "Football",
@@ -76,30 +102,6 @@
             "match_name": "Malaysia A vs Hong Kong, China-A",
             "match_id": 141772,
             "startTime": "07:30:00 AM 03-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Australia U20 vs Chinese Taipei U20 (AFC U20 Women's Asian Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141614_6021_AUS-U20_CT-U20_FC-Web.png",
-            "team_1": "Australia U20",
-            "team_2": "Chinese Taipei U20",
-            "status": "UPCOMING",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Australia U20 vs Chinese Taipei U20",
-            "match_id": 141614,
-            "startTime": "02:30:00 PM 02-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Korea Republic U20 vs Uzbekistan U20 (AFC U20 Women's Asian Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141613_6021_KR-U20_UZ-U20_FC-Web.png",
-            "team_1": "Korea Republic U20",
-            "team_2": "Uzbekistan U20",
-            "status": "UPCOMING",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Korea Republic U20 vs Uzbekistan U20",
-            "match_id": 141613,
-            "startTime": "02:30:00 PM 02-04-2026"
         },
         {
             "event_category": "Football",
@@ -174,6 +176,18 @@
             "startTime": "01:00:00 AM 03-04-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Adelaide United vs Auckland (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140925_5802_ADL_AFC_fc-web.jpg",
+            "team_1": "Adelaide United",
+            "team_2": "Auckland",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Adelaide United vs Auckland",
+            "match_id": 140925,
+            "startTime": "02:05:00 PM 03-04-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "A Court Feed vs Bucharest, Romania (ATP 250 - Tiriac Open presented by UniCredit Bank )",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png",
@@ -183,7 +197,7 @@
             "event_name": "ATP 250 - Tiriac Open presented by UniCredit Bank ",
             "match_name": "A Court Feed",
             "match_id": 141298,
-            "startTime": "02:30:00 PM 02-04-2026"
+            "startTime": "03:30:00 PM 02-04-2026"
         },
         {
             "event_category": "Tennis",
@@ -259,15 +273,15 @@
         },
         {
             "event_category": "Football",
-            "title": "Adelaide United vs Auckland (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140925_5802_ADL_AFC_fc-web.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Auckland",
+            "title": "Middlesbrough F.C. vs Millwall F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141428_5489_MIDD_MLW_fc-web.jpg",
+            "team_1": "Middlesbrough F.C.",
+            "team_2": "Millwall F.C.",
             "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Adelaide United vs Auckland",
-            "match_id": 140925,
-            "startTime": "02:05:00 PM 03-04-2026"
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Middlesbrough F.C. vs Millwall F.C.",
+            "match_id": 141428,
+            "startTime": "05:00:00 PM 03-04-2026"
         },
         {
             "event_category": "Golf",
@@ -292,18 +306,6 @@
             "match_name": "Day 1",
             "match_id": 141636,
             "startTime": "03:30:00 AM 03-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Middlesbrough F.C. vs Millwall F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141428_5489_MIDD_MLW_fc-web.jpg",
-            "team_1": "Middlesbrough F.C.",
-            "team_2": "Millwall F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Middlesbrough F.C. vs Millwall F.C.",
-            "match_id": 141428,
-            "startTime": "05:00:00 PM 03-04-2026"
         },
         {
             "event_category": "Football",
@@ -378,18 +380,6 @@
             "startTime": "07:30:00 PM 03-04-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 2 vs San Antonio, Texas (Valero Texas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
-            "team_1": "Main Feed - Day 2",
-            "team_2": "San Antonio, Texas",
-            "status": "UPCOMING",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "Main Feed - Day 2",
-            "match_id": 141782,
-            "startTime": "06:00:00 PM 03-04-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Al-Nassr FC vs Al-Najmah SC (Roshn Saudi League 2025-2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140722_5655_ANF_ALN_fc-web.jpg",
@@ -400,6 +390,18 @@
             "match_name": "Al-Nassr FC vs Al-Najmah SC",
             "match_id": 140722,
             "startTime": "11:30:00 PM 03-04-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed - Day 2 vs San Antonio, Texas (Valero Texas Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "team_1": "Main Feed - Day 2",
+            "team_2": "San Antonio, Texas",
+            "status": "UPCOMING",
+            "event_name": "Valero Texas Open 2026",
+            "match_name": "Main Feed - Day 2",
+            "match_id": 141782,
+            "startTime": "06:00:00 PM 03-04-2026"
         },
         {
             "event_category": "Golf",

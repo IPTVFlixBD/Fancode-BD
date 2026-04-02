@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "03:54:40 PM 02-04-2026",
+    "last update time": "04:45:21 PM 02-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,48 +14,6 @@
             "match_name": "Scotland vs Oman",
             "match_id": 141646,
             "startTime": "01:00:00 PM 02-04-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Football",
-            "title": "Macarthur vs Newcastle Jets (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140923_5802_MAC_NJ_fc-web.jpg",
-            "team_1": "Macarthur",
-            "team_2": "Newcastle Jets",
-            "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Macarthur vs Newcastle Jets",
-            "match_id": 140923,
-            "startTime": "02:05:00 PM 02-04-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Football",
-            "title": "Australia U20 vs Chinese Taipei U20 (AFC U20 Women's Asian Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141614_6021_AUS-U20_CT-U20_FC-Web.png",
-            "team_1": "Australia U20",
-            "team_2": "Chinese Taipei U20",
-            "status": "LIVE",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Australia U20 vs Chinese Taipei U20",
-            "match_id": 141614,
-            "startTime": "02:30:00 PM 02-04-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Football",
-            "title": "Korea Republic U20 vs Uzbekistan U20 (AFC U20 Women's Asian Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141613_6021_KR-U20_UZ-U20_FC-Web.png",
-            "team_1": "Korea Republic U20",
-            "team_2": "Uzbekistan U20",
-            "status": "LIVE",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Korea Republic U20 vs Uzbekistan U20",
-            "match_id": 141613,
-            "startTime": "02:30:00 PM 02-04-2026",
             "dai_url": null,
             "adfree_url": null
         },
@@ -211,18 +169,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Adelaide United vs Auckland (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140925_5802_ADL_AFC_fc-web.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Auckland",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Adelaide United vs Auckland",
-            "match_id": 140925,
-            "startTime": "02:05:00 PM 03-04-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Middlesbrough F.C. vs Millwall F.C. (EFL Championship 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141428_5489_MIDD_MLW_fc-web.jpg",
             "team_1": "Middlesbrough F.C.",
@@ -232,6 +178,18 @@
             "match_name": "Middlesbrough F.C. vs Millwall F.C.",
             "match_id": 141428,
             "startTime": "05:00:00 PM 03-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Adelaide United vs Auckland (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140925_5802_ADL_AFC_fc-web.jpg",
+            "team_1": "Adelaide United",
+            "team_2": "Auckland",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Adelaide United vs Auckland",
+            "match_id": 140925,
+            "startTime": "02:05:00 PM 03-04-2026"
         },
         {
             "event_category": "Golf",
@@ -294,30 +252,6 @@
             "startTime": "12:30:00 AM 03-04-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "World Feed - Day 1 vs San Antonio, Texas (Valero Texas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
-            "team_1": "World Feed - Day 1",
-            "team_2": "San Antonio, Texas",
-            "status": "UPCOMING",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "World Feed - Day 1",
-            "match_id": 141781,
-            "startTime": "01:30:00 AM 03-04-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 1 vs Shadow Creek Golf Club (Aramco Championship USA 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
-            "team_1": "Day 1",
-            "team_2": "Shadow Creek Golf Club",
-            "status": "UPCOMING",
-            "event_name": "Aramco Championship USA 2026",
-            "match_name": "Day 1",
-            "match_id": 141636,
-            "startTime": "03:30:00 AM 03-04-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Punjab FC vs Mohammedan SC (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140473_5956_PFC_MSC_FC-Web_1772460164148.jpg",
@@ -364,6 +298,30 @@
             "match_name": "Punjab FC vs Mohammedan SC",
             "match_id": 141801,
             "startTime": "07:30:00 PM 03-04-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed - Day 1 vs San Antonio, Texas (Valero Texas Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "team_1": "World Feed - Day 1",
+            "team_2": "San Antonio, Texas",
+            "status": "UPCOMING",
+            "event_name": "Valero Texas Open 2026",
+            "match_name": "World Feed - Day 1",
+            "match_id": 141781,
+            "startTime": "01:30:00 AM 03-04-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Shadow Creek Golf Club (Aramco Championship USA 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
+            "team_1": "Day 1",
+            "team_2": "Shadow Creek Golf Club",
+            "status": "UPCOMING",
+            "event_name": "Aramco Championship USA 2026",
+            "match_name": "Day 1",
+            "match_id": 141636,
+            "startTime": "03:30:00 AM 03-04-2026"
         },
         {
             "event_category": "Tennis",
@@ -414,30 +372,6 @@
             "startTime": "06:00:00 PM 03-04-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Marquee Feed - Day 2 vs San Antonio, Texas (Valero Texas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
-            "team_1": "Marquee Feed - Day 2",
-            "team_2": "San Antonio, Texas",
-            "status": "UPCOMING",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "Marquee Feed - Day 2",
-            "match_id": 141785,
-            "startTime": "06:30:00 PM 03-04-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Holes - Day 2 vs San Antonio, Texas (Valero Texas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
-            "team_1": "Featured Holes - Day 2",
-            "team_2": "San Antonio, Texas",
-            "status": "UPCOMING",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "Featured Holes - Day 2",
-            "match_id": 141783,
-            "startTime": "06:30:00 PM 03-04-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Rayo Vallecano vs Elche CF (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131121_5427_RVL_ELC_FC-Web.png",
@@ -460,6 +394,30 @@
             "match_name": "Coventry City F.C. vs Derby County Football Club",
             "match_id": 141431,
             "startTime": "12:30:00 AM 04-04-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Marquee Feed - Day 2 vs San Antonio, Texas (Valero Texas Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "team_1": "Marquee Feed - Day 2",
+            "team_2": "San Antonio, Texas",
+            "status": "UPCOMING",
+            "event_name": "Valero Texas Open 2026",
+            "match_name": "Marquee Feed - Day 2",
+            "match_id": 141785,
+            "startTime": "06:30:00 PM 03-04-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Holes - Day 2 vs San Antonio, Texas (Valero Texas Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "team_1": "Featured Holes - Day 2",
+            "team_2": "San Antonio, Texas",
+            "status": "UPCOMING",
+            "event_name": "Valero Texas Open 2026",
+            "match_name": "Featured Holes - Day 2",
+            "match_id": 141783,
+            "startTime": "06:30:00 PM 03-04-2026"
         },
         {
             "event_category": "Golf",
@@ -496,6 +454,30 @@
             "match_name": "A Court Feed",
             "match_id": 141082,
             "startTime": "11:30:00 PM 03-04-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed - Day 2 vs San Antonio, Texas (Valero Texas Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "team_1": "World Feed - Day 2",
+            "team_2": "San Antonio, Texas",
+            "status": "UPCOMING",
+            "event_name": "Valero Texas Open 2026",
+            "match_name": "World Feed - Day 2",
+            "match_id": 141786,
+            "startTime": "01:30:00 AM 04-04-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Shadow Creek Golf Club (Aramco Championship USA 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(14).png",
+            "team_1": "Day 2",
+            "team_2": "Shadow Creek Golf Club",
+            "status": "UPCOMING",
+            "event_name": "Aramco Championship USA 2026",
+            "match_name": "Day 2",
+            "match_id": 141637,
+            "startTime": "03:30:00 AM 04-04-2026"
         }
     ]
 }

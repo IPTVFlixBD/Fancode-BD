@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "04:14:38 AM 04-04-2026",
+    "last update time": "04:45:08 AM 04-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,62 +18,6 @@
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-SAVZM/master.m3u8?hdnea=exp=1775295224~acl=/*~id=33658840612715757185021581830779~hmac=ad67637dbad96562a33eb52c3d7b14a0e5af8cfef165bec5d26d528779c4361c"
         },
         {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 2 vs San Antonio, Texas (Valero Texas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-            "team_1": "Main Feed - Day 2",
-            "team_2": "San Antonio, Texas",
-            "status": "LIVE",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "Main Feed - Day 2",
-            "match_id": 141782,
-            "startTime": "06:00:00 PM 03-04-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141782_english_hls_8c2308b36687728_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141782_english_hls_8c2308b36687728_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Marquee Feed - Day 2 vs San Antonio, Texas (Valero Texas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-            "team_1": "Marquee Feed - Day 2",
-            "team_2": "San Antonio, Texas",
-            "status": "LIVE",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "Marquee Feed - Day 2",
-            "match_id": 141785,
-            "startTime": "06:30:00 PM 03-04-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141785_english_hls_7b026b687d23060_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141785_english_hls_7b026b687d23060_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Holes - Day 2 vs San Antonio, Texas (Valero Texas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-            "team_1": "Featured Holes - Day 2",
-            "team_2": "San Antonio, Texas",
-            "status": "LIVE",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "Featured Holes - Day 2",
-            "match_id": 141783,
-            "startTime": "06:30:00 PM 03-04-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141783_english_hls_d18c4cb3fe48446_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141783_english_hls_d18c4cb3fe48446_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Groups - Day 2 vs San Antonio, Texas (Valero Texas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-            "team_1": "Featured Groups - Day 2",
-            "team_2": "San Antonio, Texas",
-            "status": "LIVE",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "Featured Groups - Day 2",
-            "match_id": 141784,
-            "startTime": "06:45:00 PM 03-04-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141784_english_hls_c7d627509145135_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141784_english_hls_c7d627509145135_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Tennis",
             "title": "A Court Feed vs Houston, United States (ATP 250 - Fayez Sarofim & Co. U.S. Men's Clay)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP--250-Clay-Court-Championship_fc-web.jpg",
@@ -86,20 +30,6 @@
             "startTime": "10:30:00 PM 03-04-2026",
             "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141082_english_hls_7abee4125127971_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141082_english_hls_7abee4125127971_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "World Feed - Day 2 vs San Antonio, Texas (Valero Texas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-2026-old-card-.png",
-            "team_1": "World Feed - Day 2",
-            "team_2": "San Antonio, Texas",
-            "status": "LIVE",
-            "event_name": "Valero Texas Open 2026",
-            "match_name": "World Feed - Day 2",
-            "match_id": 141786,
-            "startTime": "01:30:00 AM 04-04-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141786_english_hls_347a7b576641298_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141786_english_hls_347a7b576641298_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -213,18 +143,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Central Coast Mariners vs Perth Glory (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140926_5802_CCM_PG_fc-web.jpg",
-            "team_1": "Central Coast Mariners",
-            "team_2": "Perth Glory",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Central Coast Mariners vs Perth Glory",
-            "match_id": 140926,
-            "startTime": "11:30:00 AM 04-04-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Al Hilal SFC vs Al Taawoun (Roshn Saudi League 2025-2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140723_5655_AHS_ALTW_fc-web.jpg",
             "team_1": "Al Hilal SFC",
@@ -234,6 +152,18 @@
             "match_name": "Al Hilal SFC vs Al Taawoun",
             "match_id": 140723,
             "startTime": "11:30:00 PM 04-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Central Coast Mariners vs Perth Glory (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140926_5802_CCM_PG_fc-web.jpg",
+            "team_1": "Central Coast Mariners",
+            "team_2": "Perth Glory",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Central Coast Mariners vs Perth Glory",
+            "match_id": 140926,
+            "startTime": "11:30:00 AM 04-04-2026"
         },
         {
             "event_category": "Football",
@@ -308,18 +238,6 @@
             "startTime": "10:00:00 PM 04-04-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Tiriac Open - Day 6 vs Bucharest, Romania (ATP 250 - Tiriac Open presented by UniCredit Bank )",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png",
-            "team_1": "Tiriac Open - Day 6",
-            "team_2": "Bucharest, Romania",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Tiriac Open presented by UniCredit Bank ",
-            "match_name": "Tiriac Open - Day 6",
-            "match_id": 141294,
-            "startTime": "02:30:00 PM 04-04-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Malaysia A vs Hong Kong, China-A (Hong Kong, China-A tour of Malaysia-A 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg",
@@ -330,6 +248,18 @@
             "match_name": "Malaysia A vs Hong Kong, China-A",
             "match_id": 141773,
             "startTime": "07:30:00 AM 05-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Tiriac Open - Day 6 vs Bucharest, Romania (ATP 250 - Tiriac Open presented by UniCredit Bank )",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(13).png",
+            "team_1": "Tiriac Open - Day 6",
+            "team_2": "Bucharest, Romania",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Tiriac Open presented by UniCredit Bank ",
+            "match_name": "Tiriac Open - Day 6",
+            "match_id": 141294,
+            "startTime": "02:30:00 PM 04-04-2026"
         },
         {
             "event_category": "Tennis",
@@ -486,6 +416,66 @@
             "match_name": "Jordan U20 vs Korea Republic U20",
             "match_id": 141619,
             "startTime": "02:30:00 PM 05-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sporting Club Delhi vs Kerala Blasters FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140476_5956_SCD_KBFC_FC-Web_1772964305713.jpg",
+            "team_1": "Sporting Club Delhi",
+            "team_2": "Kerala Blasters FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "Sporting Club Delhi vs Kerala Blasters FC",
+            "match_id": 140476,
+            "startTime": "05:00:00 PM 05-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sporting Club Delhi vs Kerala Blasters FC (ISL 2025-26  - Regional)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141804_5973_SCD_KBFC_fc-web.jpg",
+            "team_1": "Sporting Club Delhi",
+            "team_2": "Kerala Blasters FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26  - Regional",
+            "match_name": "Sporting Club Delhi vs Kerala Blasters FC",
+            "match_id": 141804,
+            "startTime": "05:00:00 PM 05-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Getafe CF vs Athletic Club (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131129_5427_GEF_ATH_FC-Web.png",
+            "team_1": "Getafe CF",
+            "team_2": "Athletic Club",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Getafe CF vs Athletic Club",
+            "match_id": 131129,
+            "startTime": "05:30:00 PM 05-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court 1 vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
+            "team_1": "Court 1",
+            "team_2": "Monte-Carlo",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
+            "match_name": "Court 1",
+            "match_id": 141657,
+            "startTime": "01:30:00 PM 05-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court 2 vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
+            "team_1": "Court 2",
+            "team_2": "Monte-Carlo",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
+            "match_name": "Court 2",
+            "match_id": 141656,
+            "startTime": "01:30:00 PM 05-04-2026"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "01:02:10 PM 05-04-2026",
+    "last update time": "01:32:31 PM 05-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,37 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141743_6028_EVF_NYL_FC-WEB.jpg",
             "team_1": "Everest Falcons",
             "team_2": "New York Liberty XI",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Brisbane Champions League 2026",
             "match_name": "Everest Falcons vs New York Liberty XI",
             "match_id": 141743,
-            "startTime": "01:30:00 PM 05-04-2026"
+            "startTime": "01:30:00 PM 05-04-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141743_english_hls_6fe635777f35898_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141743_english_hls_6fe635777f35898_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "India U20 vs Australia U20 (AFC U20 Women's Asian Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141620_6021_IND-U20_AUS-U20_FC-Web.png",
+            "team_1": "India U20",
+            "team_2": "Australia U20",
+            "status": "UPCOMING",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "India U20 vs Australia U20",
+            "match_id": 141620,
+            "startTime": "02:30:00 PM 05-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Jordan U20 vs Korea Republic U20 (AFC U20 Women's Asian Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141619_6021_JOR-U20_KR-U20_FC-Web.png",
+            "team_1": "Jordan U20",
+            "team_2": "Korea Republic U20",
+            "status": "UPCOMING",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Jordan U20 vs Korea Republic U20",
+            "match_id": 141619,
+            "startTime": "02:30:00 PM 05-04-2026"
         },
         {
             "event_category": "Football",
@@ -138,28 +164,16 @@
             "startTime": "07:00:00 AM 06-04-2026"
         },
         {
-            "event_category": "Football",
-            "title": "India U20 vs Australia U20 (AFC U20 Women's Asian Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141620_6021_IND-U20_AUS-U20_FC-Web.png",
-            "team_1": "India U20",
-            "team_2": "Australia U20",
+            "event_category": "Cricket",
+            "title": "Iconic Super Knights vs Sydney Kangaroos (Brisbane Champions League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141745_6028_ISK_SYK_FC-WEB.jpg",
+            "team_1": "Iconic Super Knights",
+            "team_2": "Sydney Kangaroos",
             "status": "UPCOMING",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "India U20 vs Australia U20",
-            "match_id": 141620,
-            "startTime": "02:30:00 PM 05-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Jordan U20 vs Korea Republic U20 (AFC U20 Women's Asian Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141619_6021_JOR-U20_KR-U20_FC-Web.png",
-            "team_1": "Jordan U20",
-            "team_2": "Korea Republic U20",
-            "status": "UPCOMING",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Jordan U20 vs Korea Republic U20",
-            "match_id": 141619,
-            "startTime": "02:30:00 PM 05-04-2026"
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Iconic Super Knights vs Sydney Kangaroos",
+            "match_id": 141745,
+            "startTime": "08:30:00 AM 06-04-2026"
         },
         {
             "event_category": "Football",
@@ -186,18 +200,6 @@
             "startTime": "06:30:00 PM 05-04-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Iconic Super Knights vs Sydney Kangaroos (Brisbane Champions League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141745_6028_ISK_SYK_FC-WEB.jpg",
-            "team_1": "Iconic Super Knights",
-            "team_2": "Sydney Kangaroos",
-            "status": "UPCOMING",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Iconic Super Knights vs Sydney Kangaroos",
-            "match_id": 141745,
-            "startTime": "08:30:00 AM 06-04-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Las Palmas vs Huesca (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1774680543090/141685_CASACARDS_APP.png",
@@ -208,6 +210,42 @@
             "match_name": "Las Palmas vs Huesca",
             "match_id": 141685,
             "startTime": "10:00:00 PM 05-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court Ranier III vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
+            "team_1": "Court Ranier III",
+            "team_2": "Monte-Carlo",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
+            "match_name": "Court Ranier III",
+            "match_id": 141657,
+            "startTime": "02:30:00 PM 05-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court des Princes vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
+            "team_1": "Court des Princes",
+            "team_2": "Monte-Carlo",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
+            "match_name": "Court des Princes",
+            "match_id": 141656,
+            "startTime": "02:30:00 PM 05-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court EA de Massy vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
+            "team_1": "Court EA de Massy",
+            "team_2": "Monte-Carlo",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
+            "match_name": "Court EA de Massy",
+            "match_id": 141658,
+            "startTime": "02:30:00 PM 05-04-2026"
         },
         {
             "event_category": "Cricket",
@@ -256,42 +294,6 @@
             "match_name": "Lesotho Women vs Malawi Women",
             "match_id": 141889,
             "startTime": "01:00:00 PM 06-04-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court Ranier III vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-            "team_1": "Court Ranier III",
-            "team_2": "Monte-Carlo",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
-            "match_name": "Court Ranier III",
-            "match_id": 141657,
-            "startTime": "02:30:00 PM 05-04-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court des Princes vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-            "team_1": "Court des Princes",
-            "team_2": "Monte-Carlo",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
-            "match_name": "Court des Princes",
-            "match_id": 141656,
-            "startTime": "02:30:00 PM 05-04-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court EA de Massy vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-            "team_1": "Court EA de Massy",
-            "team_2": "Monte-Carlo",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
-            "match_name": "Court EA de Massy",
-            "match_id": 141658,
-            "startTime": "02:30:00 PM 05-04-2026"
         },
         {
             "event_category": "Tennis",

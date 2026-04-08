@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "12:21:34 PM 08-04-2026",
+    "last update time": "01:32:24 PM 08-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Malaysia A vs Hong Kong, China-A (Hong Kong, China-A tour of Malaysia-A 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg",
-            "team_1": "Malaysia A",
-            "team_2": "Hong Kong, China-A",
-            "status": "LIVE",
-            "event_name": "Hong Kong, China-A tour of Malaysia-A 2026",
-            "match_name": "Malaysia A vs Hong Kong, China-A",
-            "match_id": 141775,
-            "startTime": "07:00:00 AM 08-04-2026",
-            "dai_url": "https://dai-partner.fancode.com/primary/141775_english_hls_844378ce6977337_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai-partner.fancode.com/primary/141775_english_hls_844378ce6977337_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Genid Royals vs Everest Falcons (Brisbane Champions League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141742_6028_GER_EVF_FC-WEB.jpg",
-            "team_1": "Genid Royals",
-            "team_2": "Everest Falcons",
-            "status": "LIVE",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Genid Royals vs Everest Falcons",
-            "match_id": 141742,
-            "startTime": "08:30:00 AM 08-04-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141742_english_hls_8236505f7613708_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141742_english_hls_8236505f7613708_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Sri Lanka A vs New Zealand A (New Zealand A Tour of Sri Lanka 2026)",
@@ -51,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd_1775545196262.png",
             "team_1": "Botswana Women",
             "team_2": "Malawi Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Kalahari Women's T20 2026",
             "match_name": "Botswana Women vs Malawi Women",
             "match_id": 141896,
-            "startTime": "12:45:00 PM 08-04-2026"
+            "startTime": "12:45:00 PM 08-04-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141896_english_hls_d661bab74127013_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141896_english_hls_d661bab74127013_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -63,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141649_6025_SCO_OMN_fc-Web.jpg",
             "team_1": "Scotland",
             "team_2": "Oman",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC CWC League 2, Namibia",
             "match_name": "Scotland vs Oman",
             "match_id": 141649,
-            "startTime": "01:00:00 PM 08-04-2026"
+            "startTime": "01:00:00 PM 08-04-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141649_english_hls_c92f0ee7b791285_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141649_english_hls_c92f0ee7b791285_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -75,11 +51,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
             "team_1": "Brazil Women",
             "team_2": "Zambia Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Kalahari Women's T20 2026",
             "match_name": "Brazil Women vs Zambia Women",
             "match_id": 141897,
-            "startTime": "01:00:00 PM 08-04-2026"
+            "startTime": "01:00:00 PM 08-04-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141897_english_hls_9a6871b27d45579_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141897_english_hls_9a6871b27d45579_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -87,11 +65,37 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141744_6028_SYK_BNA_FC-WEB.jpg",
             "team_1": "Sydney Kangaroos",
             "team_2": "Brisbane Napoleans",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Brisbane Champions League 2026",
             "match_name": "Sydney Kangaroos vs Brisbane Napoleans",
             "match_id": 141744,
-            "startTime": "01:30:00 PM 08-04-2026"
+            "startTime": "01:30:00 PM 08-04-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141744_english_hls_74bb2a100a65247_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141744_english_hls_74bb2a100a65247_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chinese Taipei U20 vs India U20 (AFC U20 Women's Asian Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141626_6021_CT-U20_IND-U20_FC-Web.png",
+            "team_1": "Chinese Taipei U20",
+            "team_2": "India U20",
+            "status": "UPCOMING",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Chinese Taipei U20 vs India U20",
+            "match_id": 141626,
+            "startTime": "02:30:00 PM 08-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Japan U20 vs Australia U20 (AFC U20 Women's Asian Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141625_6021_JP-U20_AUS-U20_FC-Web.png",
+            "team_1": "Japan U20",
+            "team_2": "Australia U20",
+            "status": "UPCOMING",
+            "event_name": "AFC U20 Women's Asian Cup 2026",
+            "match_name": "Japan U20 vs Australia U20",
+            "match_id": 141625,
+            "startTime": "02:30:00 PM 08-04-2026"
         },
         {
             "event_category": "Cricket",
@@ -142,28 +146,16 @@
             "startTime": "07:00:00 AM 09-04-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Chinese Taipei U20 vs India U20 (AFC U20 Women's Asian Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141626_6021_CT-U20_IND-U20_FC-Web.png",
-            "team_1": "Chinese Taipei U20",
-            "team_2": "India U20",
+            "event_category": "Cricket",
+            "title": "New York Liberty XI vs Perth United Warriors (Brisbane Champions League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141748_6028_NYL_PUW_FC-WEB.jpg",
+            "team_1": "New York Liberty XI",
+            "team_2": "Perth United Warriors",
             "status": "UPCOMING",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Chinese Taipei U20 vs India U20",
-            "match_id": 141626,
-            "startTime": "02:30:00 PM 08-04-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Japan U20 vs Australia U20 (AFC U20 Women's Asian Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141625_6021_JP-U20_AUS-U20_FC-Web.png",
-            "team_1": "Japan U20",
-            "team_2": "Australia U20",
-            "status": "UPCOMING",
-            "event_name": "AFC U20 Women's Asian Cup 2026",
-            "match_name": "Japan U20 vs Australia U20",
-            "match_id": 141625,
-            "startTime": "02:30:00 PM 08-04-2026"
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "New York Liberty XI vs Perth United Warriors",
+            "match_id": 141748,
+            "startTime": "08:30:00 AM 09-04-2026"
         },
         {
             "event_category": "Football",
@@ -202,16 +194,52 @@
             "startTime": "06:30:00 PM 08-04-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "New York Liberty XI vs Perth United Warriors (Brisbane Champions League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141748_6028_NYL_PUW_FC-WEB.jpg",
-            "team_1": "New York Liberty XI",
-            "team_2": "Perth United Warriors",
+            "event_category": "Tennis",
+            "title": "World Feed vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
+            "team_1": "World Feed",
+            "team_2": "Monte-Carlo",
             "status": "UPCOMING",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "New York Liberty XI vs Perth United Warriors",
-            "match_id": 141748,
-            "startTime": "08:30:00 AM 09-04-2026"
+            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
+            "match_name": "World Feed",
+            "match_id": 141670,
+            "startTime": "02:30:00 PM 08-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court Ranier III vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
+            "team_1": "Court Ranier III",
+            "team_2": "Monte-Carlo",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
+            "match_name": "Court Ranier III",
+            "match_id": 141669,
+            "startTime": "02:30:00 PM 08-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court EA de Massy vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
+            "team_1": "Court EA de Massy",
+            "team_2": "Monte-Carlo",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
+            "match_name": "Court EA de Massy",
+            "match_id": 141668,
+            "startTime": "02:30:00 PM 08-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court des Princes vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
+            "team_1": "Court des Princes",
+            "team_2": "Monte-Carlo",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
+            "match_name": "Court des Princes",
+            "match_id": 141667,
+            "startTime": "02:30:00 PM 08-04-2026"
         },
         {
             "event_category": "Football",
@@ -272,54 +300,6 @@
             "match_name": "Sydney Kangaroos vs Brisbane Stars",
             "match_id": 141750,
             "startTime": "01:30:00 PM 09-04-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "World Feed vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-            "team_1": "World Feed",
-            "team_2": "Monte-Carlo",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
-            "match_name": "World Feed",
-            "match_id": 141670,
-            "startTime": "02:30:00 PM 08-04-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court Ranier III vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-            "team_1": "Court Ranier III",
-            "team_2": "Monte-Carlo",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
-            "match_name": "Court Ranier III",
-            "match_id": 141669,
-            "startTime": "02:30:00 PM 08-04-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court EA de Massy vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-            "team_1": "Court EA de Massy",
-            "team_2": "Monte-Carlo",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
-            "match_name": "Court EA de Massy",
-            "match_id": 141668,
-            "startTime": "02:30:00 PM 08-04-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court des Princes vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-            "team_1": "Court des Princes",
-            "team_2": "Monte-Carlo",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
-            "match_name": "Court des Princes",
-            "match_id": 141667,
-            "startTime": "02:30:00 PM 08-04-2026"
         },
         {
             "event_category": "Cricket",
@@ -464,6 +444,30 @@
             "match_name": "Namibia vs Oman",
             "match_id": 141650,
             "startTime": "01:00:00 PM 10-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Kalahari Women's T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Kalahari Women's T20 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 141905,
+            "startTime": "01:00:00 PM 10-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Iconic Super Knights vs Brisbane Stars (Brisbane Champions League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141752_6028_ISK_BRS_FC-WEB.jpg",
+            "team_1": "Iconic Super Knights",
+            "team_2": "Brisbane Stars",
+            "status": "UPCOMING",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Iconic Super Knights vs Brisbane Stars",
+            "match_id": 141752,
+            "startTime": "01:30:00 PM 10-04-2026"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "09:55:19 AM 11-04-2026",
+    "last update time": "11:06:13 AM 11-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,13 +19,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Sri Lanka A vs New Zealand A (New Zealand A Tour of Sri Lanka 2026)",
+            "title": "New Zealand A vs Sri Lanka A (New Zealand A Tour of Sri Lanka 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-Tour-of-Sri-Lanka_FC-WEB.jpg",
-            "team_1": "Sri Lanka A",
-            "team_2": "New Zealand A",
+            "team_1": "New Zealand A",
+            "team_2": "Sri Lanka A",
             "status": "LIVE",
             "event_name": "New Zealand A Tour of Sri Lanka 2026",
-            "match_name": "Sri Lanka A vs New Zealand A",
+            "match_name": "New Zealand A vs Sri Lanka A",
             "match_id": 141800,
             "startTime": "10:00:00 AM 11-04-2026",
             "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141800_english_hls_3ff8d8df5f63436_1ta-di_h264/index.m3u8",
@@ -37,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140930_5802_AFC_MLV_fc-web.jpg",
             "team_1": "Auckland",
             "team_2": "Melbourne Victory",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "A League 2025-26",
             "match_name": "Auckland vs Melbourne Victory",
             "match_id": 140930,
-            "startTime": "10:30:00 AM 11-04-2026"
+            "startTime": "10:30:00 AM 11-04-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/140930_english_hls_02ad009f5d53407_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/140930_english_hls_02ad009f5d53407_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -320,16 +322,16 @@
             "startTime": "08:30:00 AM 12-04-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Doubles Semi-Final vs Monaco (ATP Masters Rolex Monte-Carlo 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-            "team_1": "Doubles Semi-Final",
-            "team_2": "Monaco",
+            "event_category": "Cricket",
+            "title": "Namibia vs Scotland (ICC CWC League 2, Namibia)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141651_6025_NAM_SCO_fc-Web.jpg",
+            "team_1": "Namibia",
+            "team_2": "Scotland",
             "status": "UPCOMING",
-            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
-            "match_name": "Doubles Semi-Final",
-            "match_id": 141918,
-            "startTime": "02:30:00 PM 11-04-2026"
+            "event_name": "ICC CWC League 2, Namibia",
+            "match_name": "Namibia vs Scotland",
+            "match_id": 141651,
+            "startTime": "01:00:00 PM 12-04-2026"
         },
         {
             "event_category": "Football",
@@ -345,15 +347,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Namibia vs Scotland (ICC CWC League 2, Namibia)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141651_6025_NAM_SCO_fc-Web.jpg",
-            "team_1": "Namibia",
-            "team_2": "Scotland",
+            "title": "Melbourne Pirates vs Everest Falcons (Brisbane Champions League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141753_6028_MEP_EVF_FC-WEB.jpg",
+            "team_1": "Melbourne Pirates",
+            "team_2": "Everest Falcons",
             "status": "UPCOMING",
-            "event_name": "ICC CWC League 2, Namibia",
-            "match_name": "Namibia vs Scotland",
-            "match_id": 141651,
-            "startTime": "01:00:00 PM 12-04-2026"
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Melbourne Pirates vs Everest Falcons",
+            "match_id": 141753,
+            "startTime": "01:30:00 PM 12-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Doubles Semi-Final vs Monaco (ATP Masters Rolex Monte-Carlo 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
+            "team_1": "Doubles Semi-Final",
+            "team_2": "Monaco",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
+            "match_name": "Doubles Semi-Final",
+            "match_id": 141918,
+            "startTime": "02:30:00 PM 11-04-2026"
         },
         {
             "event_category": "Golf",
@@ -366,18 +380,6 @@
             "match_name": "Day 3",
             "match_id": 141878,
             "startTime": "09:30:00 PM 11-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Melbourne Pirates vs Everest Falcons (Brisbane Champions League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141753_6028_MEP_EVF_FC-WEB.jpg",
-            "team_1": "Melbourne Pirates",
-            "team_2": "Everest Falcons",
-            "status": "UPCOMING",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Melbourne Pirates vs Everest Falcons",
-            "match_id": 141753,
-            "startTime": "01:30:00 PM 12-04-2026"
         },
         {
             "event_category": "Football",

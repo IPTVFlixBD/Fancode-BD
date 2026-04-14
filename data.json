@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:33:07 AM 14-04-2026",
+    "last update time": "01:24:52 PM 14-04-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Melbourne Pirates vs Genid Royals (Brisbane Champions League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141760_6028_MEP_GER_FC-WEB.jpg",
+            "team_1": "Melbourne Pirates",
+            "team_2": "Genid Royals",
+            "status": "LIVE",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Melbourne Pirates vs Genid Royals",
+            "match_id": 141760,
+            "startTime": "01:30:00 PM 14-04-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141760_english_hls_1137b7c7cf53669_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141760_english_hls_1137b7c7cf53669_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Leeward Islands Hurricanes vs Trinidad & Tobago Red Force (West Indies Championship 2026)",
@@ -38,18 +52,6 @@
             "match_name": "Jamaica Scorpions vs Barbados Pride",
             "match_id": 141948,
             "startTime": "08:30:00 PM 12-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Melbourne Pirates vs Genid Royals (Brisbane Champions League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141760_6028_MEP_GER_FC-WEB.jpg",
-            "team_1": "Melbourne Pirates",
-            "team_2": "Genid Royals",
-            "status": "UPCOMING",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Melbourne Pirates vs Genid Royals",
-            "match_id": 141760,
-            "startTime": "01:30:00 PM 14-04-2026"
         },
         {
             "event_category": "Football",
@@ -388,6 +390,18 @@
             "startTime": "07:30:00 PM 16-04-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Al Sadd vs Vissel Kobe (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Al Sadd",
+            "team_2": "Vissel Kobe",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Al Sadd vs Vissel Kobe",
+            "match_id": 141673,
+            "startTime": "09:45:00 PM 16-04-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "ATP 500 - Barcelona Open Banc Sabadell 2026 vs Barcelona (ATP 500 - Barcelona Open Banc Sabadell 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg",
@@ -433,18 +447,6 @@
             "event_name": "ATP 500 - BMW Open by Bitpanda 2026",
             "match_name": "ATP 500 - BMW Open by Bitpanda 2026",
             "match_id": 141844,
-            "startTime": "05:30:00 PM 16-04-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 1 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
-            "team_1": "Main Feed - Day 1",
-            "team_2": "Harbour Town Golf Links - Hilton Head Island, Sout",
-            "status": "UPCOMING",
-            "event_name": "RBC Heritage 2026",
-            "match_name": "Main Feed - Day 1",
-            "match_id": 141934,
             "startTime": "05:30:00 PM 16-04-2026"
         }
     ]

@@ -1,6 +1,3 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1776185704489/141761_CASACARDS_APP.png" group-title="Fancode-Cricket", Iconic Super Knights vs Genid Royals (Brisbane Champions League 2026)
-https://bd-mc-fblive.fancode.com/mumbai/141761_english_hls_d853d126de67856_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/141885_5954_AME_NSH_FC-Web.png" group-title="Fancode-Football", Club América vs Nashville SC (CONCACAF Champions Cup 2026)
-https://bd-mc-fblive.fancode.com/mumbai/141885_english_hls_ee627abcf360044_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1776185726400/141762_CASACARDS_APP.png" group-title="Fancode-Cricket", Everest Falcons vs Brisbane Stars (Brisbane Champions League 2026)
+https://bd-mc-fblive.fancode.com/mumbai/141762_english_hls_8539e02afa66860_1ta-di_h264/index.m3u8

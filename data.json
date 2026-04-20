@@ -1,33 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:36:28 PM 20-04-2026",
+    "last update time": "07:38:19 PM 20-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "New Zealand vs Bangladesh (New Zealand tour of Bangladesh, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web.jpg",
-            "team_1": "New Zealand",
-            "team_2": "Bangladesh",
-            "status": "LIVE",
-            "event_name": "New Zealand tour of Bangladesh, 2026",
-            "match_name": "New Zealand vs Bangladesh",
-            "match_id": 142067,
-            "startTime": "10:30:00 AM 20-04-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142067_english_hls_7d2d896a3011111_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142067_english_hls_7d2d896a3011111_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Windward Islands Volcanoes vs Guyana Harpy Eagles (West Indies Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
             "team_1": "Windward Islands Volcanoes",
             "team_2": "Guyana Harpy Eagles",
-            "status": "PAUSED",
+            "status": "LIVE",
             "event_name": "West Indies Championship 2026",
             "match_name": "Windward Islands Volcanoes vs Guyana Harpy Eagles",
             "match_id": 141952,
-            "startTime": "07:30:00 PM 19-04-2026"
+            "startTime": "07:30:00 PM 19-04-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141952_english_hls_5c3f8113e677175_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141952_english_hls_5c3f8113e677175_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -35,11 +23,27 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
             "team_1": "Leeward Islands Hurricanes",
             "team_2": "Trinidad & Tobago Red Force",
-            "status": "PAUSED",
+            "status": "LIVE",
             "event_name": "West Indies Championship 2026",
             "match_name": "Leeward Islands Hurricanes vs Trinidad & Tobago Red Force",
             "match_id": 141950,
-            "startTime": "07:30:00 PM 19-04-2026"
+            "startTime": "07:30:00 PM 19-04-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141950_english_hls_94dbc5a8c343464_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141950_english_hls_94dbc5a8c343464_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Punjab FC vs Inter Kashi (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140493_5956_PFC_KSHI_FC-Web_1772466287509.jpg",
+            "team_1": "Punjab FC",
+            "team_2": "Inter Kashi",
+            "status": "LIVE",
+            "event_name": "ISL 2025-26",
+            "match_name": "Punjab FC vs Inter Kashi",
+            "match_id": 140493,
+            "startTime": "07:30:00 PM 20-04-2026",
+            "dai_url": "https://dai-partner.fancode.com/primary/140493_english_hls_dc8dcea2dd24462_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai-partner.fancode.com/primary/140493_english_hls_dc8dcea2dd24462_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -66,16 +70,16 @@
             "startTime": "12:30:00 PM 21-04-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Punjab FC vs Inter Kashi (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140493_5956_PFC_KSHI_FC-Web_1772466287509.jpg",
-            "team_1": "Punjab FC",
-            "team_2": "Inter Kashi",
+            "event_category": "Cricket",
+            "title": "Vanuatu Women vs Italy Women (ICC Women's T20I Challenge Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142051_6045_VANW_ITA-W_fc-web.jpg",
+            "team_1": "Vanuatu Women",
+            "team_2": "Italy Women",
             "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "Punjab FC vs Inter Kashi",
-            "match_id": 140493,
-            "startTime": "07:30:00 PM 20-04-2026"
+            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
+            "match_name": "Vanuatu Women vs Italy Women",
+            "match_id": 142051,
+            "startTime": "04:30:00 PM 21-04-2026"
         },
         {
             "event_category": "Football",
@@ -88,18 +92,6 @@
             "match_name": "Vissel Kobe vs Al-Ahli Saudi FC",
             "match_id": 141677,
             "startTime": "09:45:00 PM 20-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vanuatu Women vs Italy Women (ICC Women's T20I Challenge Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142051_6045_VANW_ITA-W_fc-web.jpg",
-            "team_1": "Vanuatu Women",
-            "team_2": "Italy Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-            "match_name": "Vanuatu Women vs Italy Women",
-            "match_id": 142051,
-            "startTime": "04:30:00 PM 21-04-2026"
         },
         {
             "event_category": "Football",
@@ -436,6 +428,18 @@
             "match_name": "Featured Holes - Day 1",
             "match_id": 142011,
             "startTime": "07:00:00 PM 23-04-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Groups - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "team_1": "Featured Groups - Day 1",
+            "team_2": "TPC Louisiana - Avondale, Louisiana ",
+            "status": "UPCOMING",
+            "event_name": "Zurich Classic of New Orleans 2026",
+            "match_name": "Featured Groups - Day 1",
+            "match_id": 142007,
+            "startTime": "07:15:00 PM 23-04-2026"
         }
     ]
 }

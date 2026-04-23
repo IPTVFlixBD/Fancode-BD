@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "12:38:03 AM 24-04-2026",
+    "last update time": "01:39:26 AM 24-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Rayo Vallecano vs RCD Espanyol (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131159_5427_RVL_ESL_FC-Web.png",
-            "team_1": "Rayo Vallecano",
-            "team_2": "RCD Espanyol",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Rayo Vallecano vs RCD Espanyol",
-            "match_id": 131159,
-            "startTime": "11:30:00 PM 23-04-2026",
-            "dai_url": "https://dai-partner.fancode.com/primary/131159_english_hls_06c0e8ace04437_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai-partner.fancode.com/primary/131159_english_hls_06c0e8ace04437_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "VfB Stuttgart vs SC Freiburg (DFB Pokal 2025-26)",
@@ -58,34 +44,6 @@
             "startTime": "12:30:00 AM 24-04-2026",
             "dai_url": "https://dai-partner.fancode.com/primary/141924_english_hls_06fa0139ca41492_1ta-di_h264/index.m3u8",
             "adfree_url": "https://dai-partner.fancode.com/primary/141924_english_hls_06fa0139ca41492_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 2 - Main Feed vs Madrid, Spain (ATP Masters Mutua Madrid Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png",
-            "team_1": "Day 2 - Main Feed",
-            "team_2": "Madrid, Spain",
-            "status": "LIVE",
-            "event_name": "ATP Masters Mutua Madrid Open 2026",
-            "match_name": "Day 2 - Main Feed",
-            "match_id": 141854,
-            "startTime": "02:30:00 PM 23-04-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141854_english_hls_534e54938212208_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141854_english_hls_534e54938212208_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 2 - Court 3 vs Madrid (ATP Masters Mutua Madrid Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old-_1776846287648.png",
-            "team_1": "Day 2 - Court 3",
-            "team_2": "Madrid",
-            "status": "LIVE",
-            "event_name": "ATP Masters Mutua Madrid Open 2026",
-            "match_name": "Day 2 - Court 3",
-            "match_id": 142206,
-            "startTime": "04:30:00 PM 23-04-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142206_english_hls_097b4cf9da13863_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142206_english_hls_097b4cf9da13863_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -144,18 +102,32 @@
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142011_english_hls_86c1366bd373508_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "World Feed - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+            "team_1": "World Feed - Day 1",
+            "team_2": "TPC Louisiana - Avondale, Louisiana ",
+            "status": "LIVE",
+            "event_name": "Zurich Classic of New Orleans 2026",
+            "match_name": "World Feed - Day 1",
+            "match_id": 141995,
+            "startTime": "01:30:00 AM 24-04-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141995_english_hls_ee2c8a809349176_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141995_english_hls_ee2c8a809349176_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Football",
-            "title": "Levante vs Sevilla FC (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131153_5427_LE_SEV_FC-Web.png",
-            "team_1": "Levante",
-            "team_2": "Sevilla FC",
+            "title": "Rayo Vallecano vs RCD Espanyol (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131159_5427_RVL_ESL_FC-Web.png",
+            "team_1": "Rayo Vallecano",
+            "team_2": "RCD Espanyol",
             "status": "LIVE",
             "event_name": "LALIGA 2025-26",
-            "match_name": "Levante vs Sevilla FC",
-            "match_id": 131153,
-            "startTime": "10:30:00 PM 23-04-2026",
-            "dai_url": "https://dai-partner.fancode.com/primary/131153_english_hls_167138f06565854_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai-partner.fancode.com/primary/131153_english_hls_167138f06565854_1ta-di_h264/index.m3u8"
+            "match_name": "Rayo Vallecano vs RCD Espanyol",
+            "match_id": 131159,
+            "startTime": "11:30:00 PM 23-04-2026",
+            "dai_url": "https://dai-partner.fancode.com/primary/131159_english_hls_06c0e8ace04437_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai-partner.fancode.com/primary/131159_english_hls_06c0e8ace04437_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -192,18 +164,6 @@
             "match_name": "NorthEast United FC vs FC Goa",
             "match_id": 140495,
             "startTime": "05:00:00 PM 24-04-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "World Feed - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-            "team_1": "World Feed - Day 1",
-            "team_2": "TPC Louisiana - Avondale, Louisiana ",
-            "status": "UPCOMING",
-            "event_name": "Zurich Classic of New Orleans 2026",
-            "match_name": "World Feed - Day 1",
-            "match_id": 141995,
-            "startTime": "01:30:00 AM 24-04-2026"
         },
         {
             "event_category": "Football",
@@ -338,18 +298,6 @@
             "startTime": "07:15:00 PM 24-04-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Featured Holes - Day 2 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-            "team_1": "Featured Holes - Day 2",
-            "team_2": "TPC Louisiana - Avondale, Louisiana ",
-            "status": "UPCOMING",
-            "event_name": "Zurich Classic of New Orleans 2026",
-            "match_name": "Featured Holes - Day 2",
-            "match_id": 142012,
-            "startTime": "07:45:00 PM 24-04-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Albacete vs Eibar (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1776063278978/142038_CASACARDS_APP.png",
@@ -360,6 +308,18 @@
             "match_name": "Albacete vs Eibar",
             "match_id": 142038,
             "startTime": "12:00:00 AM 25-04-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Holes - Day 2 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+            "team_1": "Featured Holes - Day 2",
+            "team_2": "TPC Louisiana - Avondale, Louisiana ",
+            "status": "UPCOMING",
+            "event_name": "Zurich Classic of New Orleans 2026",
+            "match_name": "Featured Holes - Day 2",
+            "match_id": 142012,
+            "startTime": "07:45:00 PM 24-04-2026"
         },
         {
             "event_category": "Cricket",
@@ -434,18 +394,6 @@
             "startTime": "09:15:00 AM 25-04-2026"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Day 2 - Red Bull Ring vs Red Bull Ring (DTM 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(15).png",
-            "team_1": "Day 2 - Red Bull Ring",
-            "team_2": "Red Bull Ring",
-            "status": "UPCOMING",
-            "event_name": "DTM 2026",
-            "match_name": "Day 2 - Red Bull Ring",
-            "match_id": 142108,
-            "startTime": "11:45:00 AM 25-04-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Western Sydney Wanderers vs Melbourne Victory (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140943_5802_SYW_MLV_fc-web.jpg",
@@ -456,6 +404,18 @@
             "match_name": "Western Sydney Wanderers vs Melbourne Victory",
             "match_id": 140943,
             "startTime": "03:05:00 PM 25-04-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Day 2 - Red Bull Ring vs Red Bull Ring (DTM 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(15).png",
+            "team_1": "Day 2 - Red Bull Ring",
+            "team_2": "Red Bull Ring",
+            "status": "UPCOMING",
+            "event_name": "DTM 2026",
+            "match_name": "Day 2 - Red Bull Ring",
+            "match_id": 142108,
+            "startTime": "11:45:00 AM 25-04-2026"
         },
         {
             "event_category": "Football",
@@ -492,6 +452,42 @@
             "match_name": "Bengaluru FC vs Mumbai City FC",
             "match_id": 140497,
             "startTime": "05:00:00 PM 25-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "West Bromwich Albion F.C. vs Ipswich Town F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141926_5489_WBA_IPT_fc-web.jpg",
+            "team_1": "West Bromwich Albion F.C.",
+            "team_2": "Ipswich Town F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "West Bromwich Albion F.C. vs Ipswich Town F.C.",
+            "match_id": 141926,
+            "startTime": "05:00:00 PM 25-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Deportivo Alaves vs RCD Mallorca (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131141_5427_ALA_MRC_FC-Web.png",
+            "team_1": "Deportivo Alaves",
+            "team_2": "RCD Mallorca",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Deportivo Alaves vs RCD Mallorca",
+            "match_id": 131141,
+            "startTime": "05:30:00 PM 25-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Perth Glory vs Brisbane Roar (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140944_5802_PG_BRB_fc-web.jpg",
+            "team_1": "Perth Glory",
+            "team_2": "Brisbane Roar",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Perth Glory vs Brisbane Roar",
+            "match_id": 140944,
+            "startTime": "05:15:00 PM 25-04-2026"
         }
     ]
 }

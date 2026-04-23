@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "04:21:06 PM 23-04-2026",
+    "last update time": "05:21:58 PM 23-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,6 +58,20 @@
             "startTime": "04:30:00 PM 23-04-2026",
             "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142206_english_hls_097b4cf9da13863_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142206_english_hls_097b4cf9da13863_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Royal Cape Golf Club (Investec South African Women's Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa_web.jpg",
+            "team_1": "Day 1",
+            "team_2": "Royal Cape Golf Club",
+            "status": "LIVE",
+            "event_name": "Investec South African Women's Open 2026",
+            "match_name": "Day 1",
+            "match_id": 141642,
+            "startTime": "05:00:00 PM 23-04-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141642_english_hls_9520bdfd2398458_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141642_english_hls_9520bdfd2398458_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -181,15 +195,27 @@
         },
         {
             "event_category": "Golf",
-            "title": "Day 1 vs Royal Cape Golf Club (Investec South African Women's Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa_web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Royal Cape Golf Club",
+            "title": "Featured Groups - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+            "team_1": "Featured Groups - Day 1",
+            "team_2": "TPC Louisiana - Avondale, Louisiana ",
             "status": "UPCOMING",
-            "event_name": "Investec South African Women's Open 2026",
-            "match_name": "Day 1",
-            "match_id": 141642,
-            "startTime": "05:00:00 PM 23-04-2026"
+            "event_name": "Zurich Classic of New Orleans 2026",
+            "match_name": "Featured Groups - Day 1",
+            "match_id": 142007,
+            "startTime": "06:00:00 PM 23-04-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Marquee Group - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+            "team_1": "Marquee Group - Day 1",
+            "team_2": "TPC Louisiana - Avondale, Louisiana ",
+            "status": "UPCOMING",
+            "event_name": "Zurich Classic of New Orleans 2026",
+            "match_name": "Marquee Group - Day 1",
+            "match_id": 142003,
+            "startTime": "06:15:00 PM 23-04-2026"
         },
         {
             "event_category": "Football",
@@ -214,30 +240,6 @@
             "match_name": "Macarthur vs Wellington Phoenix",
             "match_id": 140941,
             "startTime": "03:05:00 PM 24-04-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Groups - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-            "team_1": "Featured Groups - Day 1",
-            "team_2": "TPC Louisiana - Avondale, Louisiana ",
-            "status": "UPCOMING",
-            "event_name": "Zurich Classic of New Orleans 2026",
-            "match_name": "Featured Groups - Day 1",
-            "match_id": 142007,
-            "startTime": "06:00:00 PM 23-04-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Marquee Group - Day 1 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-            "team_1": "Marquee Group - Day 1",
-            "team_2": "TPC Louisiana - Avondale, Louisiana ",
-            "status": "UPCOMING",
-            "event_name": "Zurich Classic of New Orleans 2026",
-            "match_name": "Marquee Group - Day 1",
-            "match_id": 142003,
-            "startTime": "06:15:00 PM 23-04-2026"
         },
         {
             "event_category": "Golf",

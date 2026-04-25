@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:33:04 AM 25-04-2026",
+    "last update time": "08:55:50 AM 25-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg",
             "team_1": "Bangladesh Women",
             "team_2": "Sri Lanka Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Sri Lanka Women's tour of Bangladesh, 2026",
             "match_name": "Bangladesh Women vs Sri Lanka Women",
             "match_id": 142074,
-            "startTime": "09:00:00 AM 25-04-2026"
+            "startTime": "09:00:00 AM 25-04-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142074_english_hls_a2c7c6978426018_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142074_english_hls_a2c7c6978426018_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -208,6 +210,18 @@
             "startTime": "05:15:00 PM 25-04-2026"
         },
         {
+            "event_category": "Motorsports",
+            "title": "Japan - Day 1 vs Japan (Ferrari Challenge Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
+            "team_1": "Japan - Day 1",
+            "team_2": "Japan",
+            "status": "UPCOMING",
+            "event_name": "Ferrari Challenge Series 2026",
+            "match_name": "Japan - Day 1",
+            "match_id": 142154,
+            "startTime": "09:10:00 AM 25-04-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Málaga vs Castellón (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1776063278981/142039_CASACARDS_APP.png",
@@ -220,16 +234,16 @@
             "startTime": "12:30:00 AM 26-04-2026"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Japan - Day 1 vs Japan (Ferrari Challenge Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
-            "team_1": "Japan - Day 1",
-            "team_2": "Japan",
+            "event_category": "Cricket",
+            "title": "Rwanda Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142056_6045_RWA-W_VANW_fc-web.jpg",
+            "team_1": "Rwanda Women",
+            "team_2": "Vanuatu Women",
             "status": "UPCOMING",
-            "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "Japan - Day 1",
-            "match_id": 142154,
-            "startTime": "09:10:00 AM 25-04-2026"
+            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
+            "match_name": "Rwanda Women vs Vanuatu Women",
+            "match_id": 142056,
+            "startTime": "12:30:00 PM 26-04-2026"
         },
         {
             "event_category": "MotoGP",
@@ -352,18 +366,6 @@
             "startTime": "08:30:00 PM 25-04-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Rwanda Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142056_6045_RWA-W_VANW_fc-web.jpg",
-            "team_1": "Rwanda Women",
-            "team_2": "Vanuatu Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-            "match_name": "Rwanda Women vs Vanuatu Women",
-            "match_id": 142056,
-            "startTime": "12:30:00 PM 26-04-2026"
-        },
-        {
             "event_category": "Golf",
             "title": "World Feed - Day 3 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
@@ -388,18 +390,6 @@
             "startTime": "10:30:00 AM 26-04-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "World Fencing League 2026 vs The Shrine, Los Angeles  (World Fencing League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/World_Fencing_2026_FC-Web.jpg",
-            "team_1": "World Fencing League 2026",
-            "team_2": "The Shrine, Los Angeles ",
-            "status": "UPCOMING",
-            "event_name": "World Fencing League 2026",
-            "match_name": "World Fencing League 2026",
-            "match_id": 142163,
-            "startTime": "06:00:00 AM 26-04-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "USA Women vs Nepal Women (ICC Women's T20I Challenge Trophy, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142057_6045_USA-W_NP-W_fc-web.jpg",
@@ -410,6 +400,18 @@
             "match_name": "USA Women vs Nepal Women",
             "match_id": 142057,
             "startTime": "04:30:00 PM 26-04-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "World Fencing League 2026 vs The Shrine, Los Angeles  (World Fencing League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/World_Fencing_2026_FC-Web.jpg",
+            "team_1": "World Fencing League 2026",
+            "team_2": "The Shrine, Los Angeles ",
+            "status": "UPCOMING",
+            "event_name": "World Fencing League 2026",
+            "match_name": "World Fencing League 2026",
+            "match_id": 142163,
+            "startTime": "06:00:00 AM 26-04-2026"
         },
         {
             "event_category": "Football",

@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:19:15 AM 01-05-2026",
+    "last update time": "08:21:37 AM 01-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(18).png",
             "team_1": "Malaysia",
             "team_2": "Indonesia",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Indonesia tour of Malaysia, 2026",
             "match_name": "Malaysia vs Indonesia",
             "match_id": 142337,
-            "startTime": "07:30:00 AM 01-05-2026"
+            "startTime": "07:30:00 AM 01-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142337_english_hls_405d181aba47545_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142337_english_hls_405d181aba47545_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -88,18 +90,6 @@
             "startTime": "07:30:00 PM 01-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Girona FC vs RCD Mallorca (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131167_5427_GIR_MRC_FC-Web.png",
-            "team_1": "Girona FC",
-            "team_2": "RCD Mallorca",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Girona FC vs RCD Mallorca",
-            "match_id": 131167,
-            "startTime": "12:30:00 AM 02-05-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Malaysia vs Indonesia (Indonesia tour of Malaysia, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(18).png",
@@ -110,6 +100,18 @@
             "match_name": "Malaysia vs Indonesia",
             "match_id": 142338,
             "startTime": "07:30:00 AM 02-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Girona FC vs RCD Mallorca (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131167_5427_GIR_MRC_FC-Web.png",
+            "team_1": "Girona FC",
+            "team_2": "RCD Mallorca",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Girona FC vs RCD Mallorca",
+            "match_id": 131167,
+            "startTime": "12:30:00 AM 02-05-2026"
         },
         {
             "event_category": "Football",
@@ -134,6 +136,66 @@
             "match_name": "Speen Ghar Region vs Boost Region",
             "match_id": 142403,
             "startTime": "10:00:00 AM 02-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh Women vs Sri Lanka Women (Sri Lanka Women's tour of Bangladesh, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg",
+            "team_1": "Bangladesh Women",
+            "team_2": "Sri Lanka Women",
+            "status": "UPCOMING",
+            "event_name": "Sri Lanka Women's tour of Bangladesh, 2026",
+            "match_name": "Bangladesh Women vs Sri Lanka Women",
+            "match_id": 142077,
+            "startTime": "01:00:00 PM 02-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "East Kanto Sunrisers vs Kansai Chargers (Japan Premier League T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
+            "team_1": "East Kanto Sunrisers",
+            "team_2": "Kansai Chargers",
+            "status": "UPCOMING",
+            "event_name": "Japan Premier League T20 2026",
+            "match_name": "East Kanto Sunrisers vs Kansai Chargers",
+            "match_id": 142391,
+            "startTime": "07:00:00 AM 02-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "North Kanto Lions vs South Kanto Super Kings (Japan Premier League T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg",
+            "team_1": "North Kanto Lions",
+            "team_2": "South Kanto Super Kings",
+            "status": "UPCOMING",
+            "event_name": "Japan Premier League T20 2026",
+            "match_name": "North Kanto Lions vs South Kanto Super Kings",
+            "match_id": 142390,
+            "startTime": "07:00:00 AM 02-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "New Zealand tour of Bangladesh, 2026",
+            "match_name": "Bangladesh vs New Zealand",
+            "match_id": 142071,
+            "startTime": "01:30:00 PM 02-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Germany vs Austria (Austria tour of Germany, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg",
+            "team_1": "Germany",
+            "team_2": "Austria",
+            "status": "UPCOMING",
+            "event_name": "Austria tour of Germany, 2026",
+            "match_name": "Germany vs Austria",
+            "match_id": 142343,
+            "startTime": "02:00:00 PM 02-05-2026"
         },
         {
             "event_category": "Golf",
@@ -220,30 +282,6 @@
             "startTime": "07:00:00 PM 01-05-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "East Kanto Sunrisers vs Kansai Chargers (Japan Premier League T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "East Kanto Sunrisers",
-            "team_2": "Kansai Chargers",
-            "status": "UPCOMING",
-            "event_name": "Japan Premier League T20 2026",
-            "match_name": "East Kanto Sunrisers vs Kansai Chargers",
-            "match_id": 142391,
-            "startTime": "07:00:00 AM 02-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "North Kanto Lions vs South Kanto Super Kings (Japan Premier League T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "North Kanto Lions",
-            "team_2": "South Kanto Super Kings",
-            "status": "UPCOMING",
-            "event_name": "Japan Premier League T20 2026",
-            "match_name": "North Kanto Lions vs South Kanto Super Kings",
-            "match_id": 142390,
-            "startTime": "07:00:00 AM 02-05-2026"
-        },
-        {
             "event_category": "Formula 1",
             "title": "Practice 1 vs Miami (F1 CRYPTO COM MIAMI GRAND PRIX 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Grand-Prix-2026-old-match-card.png",
@@ -280,18 +318,6 @@
             "startTime": "12:30:00 AM 02-05-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Bangladesh Women vs Sri Lanka Women (Sri Lanka Women's tour of Bangladesh, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg",
-            "team_1": "Bangladesh Women",
-            "team_2": "Sri Lanka Women",
-            "status": "UPCOMING",
-            "event_name": "Sri Lanka Women's tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Women vs Sri Lanka Women",
-            "match_id": 142077,
-            "startTime": "01:00:00 PM 02-05-2026"
-        },
-        {
             "event_category": "Formula 1",
             "title": "Sprint Qualifying vs Miami (F1 CRYPTO COM MIAMI GRAND PRIX 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Grand-Prix-2026-old-match-card.png",
@@ -302,30 +328,6 @@
             "match_name": "Sprint Qualifying",
             "match_id": 139438,
             "startTime": "02:00:00 AM 02-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "New Zealand",
-            "status": "UPCOMING",
-            "event_name": "New Zealand tour of Bangladesh, 2026",
-            "match_name": "Bangladesh vs New Zealand",
-            "match_id": 142071,
-            "startTime": "01:30:00 PM 02-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Germany vs Austria (Austria tour of Germany, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg",
-            "team_1": "Germany",
-            "team_2": "Austria",
-            "status": "UPCOMING",
-            "event_name": "Austria tour of Germany, 2026",
-            "match_name": "Germany vs Austria",
-            "match_id": 142343,
-            "startTime": "02:00:00 PM 02-05-2026"
         },
         {
             "event_category": "Football",
@@ -342,7 +344,7 @@
         {
             "event_category": "Cricket",
             "title": "East Kanto Sunrisers vs North Kanto Lions (Japan Premier League T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
             "team_1": "East Kanto Sunrisers",
             "team_2": "North Kanto Lions",
             "status": "UPCOMING",
@@ -354,7 +356,7 @@
         {
             "event_category": "Cricket",
             "title": "West Kanto Hurricanes vs Kansai Chargers (Japan Premier League T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg",
             "team_1": "West Kanto Hurricanes",
             "team_2": "Kansai Chargers",
             "status": "UPCOMING",
@@ -388,18 +390,6 @@
             "startTime": "04:30:00 PM 02-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Melbourne Victory vs Sydney FC (A League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1777548687027/142450_CASACARDS_APP.png",
-            "team_1": "Melbourne Victory",
-            "team_2": "Sydney FC",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne Victory vs Sydney FC",
-            "match_id": 142450,
-            "startTime": "03:10:00 PM 02-05-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Germany vs Austria (Austria tour of Germany, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg",
@@ -410,6 +400,18 @@
             "match_name": "Germany vs Austria",
             "match_id": 142344,
             "startTime": "07:00:00 PM 02-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne Victory vs Sydney FC (A League 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1777548687027/142450_CASACARDS_APP.png",
+            "team_1": "Melbourne Victory",
+            "team_2": "Sydney FC",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne Victory vs Sydney FC",
+            "match_id": 142450,
+            "startTime": "03:10:00 PM 02-05-2026"
         },
         {
             "event_category": "Football",

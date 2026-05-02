@@ -1,17 +1,17 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "02:37:00 PM 02-05-2026",
+    "last update time": "03:37:52 PM 02-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Bangladesh Women vs Sri Lanka Women (Sri Lanka Women's tour of Bangladesh, 2026)",
+            "title": "Sri Lanka Women vs Bangladesh Women (Sri Lanka Women's tour of Bangladesh, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-SL_web.jpg",
-            "team_1": "Bangladesh Women",
-            "team_2": "Sri Lanka Women",
+            "team_1": "Sri Lanka Women",
+            "team_2": "Bangladesh Women",
             "status": "LIVE",
             "event_name": "Sri Lanka Women's tour of Bangladesh, 2026",
-            "match_name": "Bangladesh Women vs Sri Lanka Women",
+            "match_name": "Sri Lanka Women vs Bangladesh Women",
             "match_id": 142077,
             "startTime": "01:00:00 PM 02-05-2026",
             "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142077_english_hls_62f203907531607_1ta-di_h264/index.m3u8",
@@ -51,11 +51,41 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
             "team_1": "Mis-e-Ainak Region",
             "team_2": "Amo Region",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Super Cola National T20 Cup, 2026",
             "match_name": "Mis-e-Ainak Region vs Amo Region",
             "match_id": 142404,
-            "startTime": "03:00:00 PM 02-05-2026"
+            "startTime": "03:00:00 PM 02-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142404_english_hls_b561070c3354864_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142404_english_hls_b561070c3354864_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne Victory vs Sydney FC (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139395_5802_MLV_SYD_FC-Web.jpg",
+            "team_1": "Melbourne Victory",
+            "team_2": "Sydney FC",
+            "status": "LIVE",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne Victory vs Sydney FC",
+            "match_id": 142450,
+            "startTime": "03:15:00 PM 02-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142450_english_hls_1442661eb278313_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142450_english_hls_1442661eb278313_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Constance Belle Mare Plage, Mauritius (MCB Ladies Classic 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/MCB-Ladies-Classic_2026_Web_1080_x_810.jpg",
+            "team_1": "Day 2",
+            "team_2": "Constance Belle Mare Plage, Mauritius",
+            "status": "LIVE",
+            "event_name": "MCB Ladies Classic 2026",
+            "match_name": "Day 2",
+            "match_id": 142286,
+            "startTime": "03:30:00 PM 02-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142286_english_hls_36bcd6542c60992_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142286_english_hls_36bcd6542c60992_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -68,6 +98,18 @@
             "match_name": "Germany vs Austria",
             "match_id": 142344,
             "startTime": "07:00:00 PM 02-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Manchester United Women vs Brighton and Hove Albion Women (Women's Super League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142170_5826_MUN-W_BHA-W_FC-Web.jpg",
+            "team_1": "Manchester United Women",
+            "team_2": "Brighton and Hove Albion Women",
+            "status": "UPCOMING",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "Manchester United Women vs Brighton and Hove Albion Women",
+            "match_id": 142170,
+            "startTime": "04:30:00 PM 02-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -92,30 +134,6 @@
             "match_name": "Boost Region vs Mis-e-Ainak Region",
             "match_id": 142405,
             "startTime": "10:00:00 AM 03-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Melbourne Victory vs Sydney FC (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139395_5802_MLV_SYD_FC-Web.jpg",
-            "team_1": "Melbourne Victory",
-            "team_2": "Sydney FC",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne Victory vs Sydney FC",
-            "match_id": 142450,
-            "startTime": "03:15:00 PM 02-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Manchester United Women vs Brighton and Hove Albion Women (Women's Super League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142170_5826_MUN-W_BHA-W_FC-Web.jpg",
-            "team_1": "Manchester United Women",
-            "team_2": "Brighton and Hove Albion Women",
-            "status": "UPCOMING",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Manchester United Women vs Brighton and Hove Albion Women",
-            "match_id": 142170,
-            "startTime": "04:30:00 PM 02-05-2026"
         },
         {
             "event_category": "Football",
@@ -251,6 +269,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Germany vs Austria (Austria tour of Germany, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg",
+            "team_1": "Germany",
+            "team_2": "Austria",
+            "status": "UPCOMING",
+            "event_name": "Austria tour of Germany, 2026",
+            "match_name": "Germany vs Austria",
+            "match_id": 142345,
+            "startTime": "02:30:00 PM 03-05-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Kansai Chargers vs South Kanto Super Kings (Japan Premier League T20 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
             "team_1": "Kansai Chargers",
@@ -275,18 +305,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Germany vs Austria (Austria tour of Germany, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg",
-            "team_1": "Germany",
-            "team_2": "Austria",
-            "status": "UPCOMING",
-            "event_name": "Austria tour of Germany, 2026",
-            "match_name": "Germany vs Austria",
-            "match_id": 142345,
-            "startTime": "02:30:00 PM 03-05-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Speen Ghar Region vs Band-e-Amir Region (Super Cola National T20 Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
             "team_1": "Speen Ghar Region",
@@ -296,18 +314,6 @@
             "match_name": "Speen Ghar Region vs Band-e-Amir Region",
             "match_id": 142406,
             "startTime": "03:00:00 PM 03-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Exeter City vs Bradford City (League One 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Exeter City",
-            "team_2": "Bradford City",
-            "status": "UPCOMING",
-            "event_name": "League One 2025-26",
-            "match_name": "Exeter City vs Bradford City",
-            "match_id": 142336,
-            "startTime": "07:30:00 PM 02-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -335,6 +341,18 @@
         },
         {
             "event_category": "Football",
+            "title": "Exeter City vs Bradford City (League One 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Exeter City",
+            "team_2": "Bradford City",
+            "status": "UPCOMING",
+            "event_name": "League One 2025-26",
+            "match_name": "Exeter City vs Bradford City",
+            "match_id": 142336,
+            "startTime": "07:30:00 PM 02-05-2026"
+        },
+        {
+            "event_category": "Football",
             "title": "Eibar vs Málaga (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1776595898849/142135_CASACARDS_APP.png",
             "team_1": "Eibar",
@@ -344,42 +362,6 @@
             "match_name": "Eibar vs Málaga",
             "match_id": 142135,
             "startTime": "12:30:00 AM 03-05-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 2 vs Constance Belle Mare Plage, Mauritius (MCB Ladies Classic 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/MCB-Ladies-Classic_2026_Web_1080_x_810.jpg",
-            "team_1": "Day 2",
-            "team_2": "Constance Belle Mare Plage, Mauritius",
-            "status": "UPCOMING",
-            "event_name": "MCB Ladies Classic 2026",
-            "match_name": "Day 2",
-            "match_id": 142286,
-            "startTime": "03:30:00 PM 02-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Bengaluru Football Club vs Jamshedpur FC Junior (DSC Junior League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Bengaluru Football Club",
-            "team_2": "Jamshedpur FC Junior",
-            "status": "UPCOMING",
-            "event_name": "DSC Junior League 2025-26",
-            "match_name": "Bengaluru Football Club vs Jamshedpur FC Junior",
-            "match_id": 142332,
-            "startTime": "07:30:00 AM 03-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Minerva Academy FC vs Sesa Football Academy (DSC Junior League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Minerva Academy FC",
-            "team_2": "Sesa Football Academy",
-            "status": "UPCOMING",
-            "event_name": "DSC Junior League 2025-26",
-            "match_name": "Minerva Academy FC vs Sesa Football Academy",
-            "match_id": 142331,
-            "startTime": "07:30:00 AM 03-05-2026"
         },
         {
             "event_category": "Football",
@@ -404,6 +386,42 @@
             "match_name": "Tottenham Hotspur Women vs London City Lionesses",
             "match_id": 142171,
             "startTime": "04:30:00 PM 03-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Bengaluru Football Club vs Jamshedpur FC Junior (Dream Sports Championship Football 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Bengaluru Football Club",
+            "team_2": "Jamshedpur FC Junior",
+            "status": "UPCOMING",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Bengaluru Football Club vs Jamshedpur FC Junior",
+            "match_id": 142332,
+            "startTime": "07:30:00 AM 03-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Minerva Academy FC vs Sesa Football Academy (Dream Sports Championship Football 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Minerva Academy FC",
+            "team_2": "Sesa Football Academy",
+            "status": "UPCOMING",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Minerva Academy FC vs Sesa Football Academy",
+            "match_id": 142331,
+            "startTime": "07:30:00 AM 03-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "RC Celta vs Elche CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131164_5427_CEV_ELC_FC-Web.png",
+            "team_1": "RC Celta",
+            "team_2": "Elche CF",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "RC Celta vs Elche CF",
+            "match_id": 131164,
+            "startTime": "05:30:00 PM 03-05-2026"
         },
         {
             "event_category": "Golf",

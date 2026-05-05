@@ -1,12 +1,26 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "09:35:16 PM 05-05-2026",
+    "last update time": "11:16:44 PM 05-05-2026",
     "matches": [
         {
             "event_category": "Football",
+            "title": "Al Khaleej FC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Khaleej-FC-vs-Al-Hilal-SFC_FC-web.jpg",
+            "team_1": "Al Khaleej FC",
+            "team_2": "Al Hilal SFC",
+            "status": "LIVE",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al Khaleej FC vs Al Hilal SFC",
+            "match_id": 142147,
+            "startTime": "11:30:00 PM 05-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142147_english_hls_e84f5f8c425359_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142147_english_hls_e84f5f8c425359_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
             "title": "Japan vs Qatar (AFC U17 Asian Cup Saudi Arabia 2026)",
-            "src": "https://images.fancode.com/aig/match/v1777996806126/142540_CASACARDS_APP.png",
+            "src": "https://images.fancode.com/aig/match/v1777999652487/142540_CASACARDS_APP.png",
             "team_1": "Japan",
             "team_2": "Qatar",
             "status": "LIVE",
@@ -19,17 +33,45 @@
         },
         {
             "event_category": "Football",
-            "title": "Mumbai City FC vs East Bengal FC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140509_5956_MCFC_EBFC_FC-Web_1772474862467.jpg",
-            "team_1": "Mumbai City FC",
-            "team_2": "East Bengal FC",
+            "title": "Indonesia vs China PR (AFC U17 Asian Cup Saudi Arabia 2026)",
+            "src": "https://images.fancode.com/aig/match/v1777996806124/142541_CASACARDS_APP.png",
+            "team_1": "Indonesia",
+            "team_2": "China PR",
             "status": "LIVE",
-            "event_name": "ISL 2025-26",
-            "match_name": "Mumbai City FC vs East Bengal FC",
-            "match_id": 140509,
-            "startTime": "07:30:00 PM 05-05-2026",
-            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/140509_english_hls_94d5ad4bc34402_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/140509_english_hls_94d5ad4bc34402_1ta-di_h264/index.m3u8"
+            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_name": "Indonesia vs China PR",
+            "match_id": 142541,
+            "startTime": "10:00:00 PM 05-05-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/s3/15f95be3-731d-4122-a962-41017c770ac3/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/s3/15f95be3-731d-4122-a962-41017c770ac3/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Saudi Arabia vs Myanmar (AFC U17 Asian Cup Saudi Arabia 2026)",
+            "src": "https://images.fancode.com/aig/match/v1777999652490/142538_CASACARDS_APP.png",
+            "team_1": "Saudi Arabia",
+            "team_2": "Myanmar",
+            "status": "LIVE",
+            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_name": "Saudi Arabia vs Myanmar",
+            "match_id": 142538,
+            "startTime": "10:30:00 PM 05-05-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/142538_english_hls_4ba7ec88ab63182_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/142538_english_hls_4ba7ec88ab63182_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Tajikistan vs Thailand (AFC U17 Asian Cup Saudi Arabia 2026)",
+            "src": "https://images.fancode.com/aig/match/v1777999652490/142539_CASACARDS_APP.png",
+            "team_1": "Tajikistan",
+            "team_2": "Thailand",
+            "status": "LIVE",
+            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_name": "Tajikistan vs Thailand",
+            "match_id": 142539,
+            "startTime": "11:00:00 PM 05-05-2026",
+            "dai_url": "https://bd-mc-fdlive.fancode.com/mumbai/142539_english_hls_52f2d6fc8568926_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fdlive.fancode.com/mumbai/142539_english_hls_52f2d6fc8568926_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -57,42 +99,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Al Khaleej FC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Khaleej-FC-vs-Al-Hilal-SFC_FC-web.jpg",
-            "team_1": "Al Khaleej FC",
-            "team_2": "Al Hilal SFC",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al Khaleej FC vs Al Hilal SFC",
-            "match_id": 142147,
-            "startTime": "11:30:00 PM 05-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Indonesia vs China PR (AFC U17 Asian Cup Saudi Arabia 2026)",
-            "src": "https://images.fancode.com/aig/match/v1777996806124/142541_CASACARDS_APP.png",
-            "team_1": "Indonesia",
-            "team_2": "China PR",
-            "status": "UPCOMING",
-            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
-            "match_name": "Indonesia vs China PR",
-            "match_id": 142541,
-            "startTime": "10:00:00 PM 05-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Saudi Arabia vs Myanmar (AFC U17 Asian Cup Saudi Arabia 2026)",
-            "src": "https://images.fancode.com/aig/match/v1777996806123/142538_CASACARDS_APP.png",
-            "team_1": "Saudi Arabia",
-            "team_2": "Myanmar",
-            "status": "UPCOMING",
-            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
-            "match_name": "Saudi Arabia vs Myanmar",
-            "match_id": 142538,
-            "startTime": "10:30:00 PM 05-05-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Tigres vs Nashville SC (CONCACAF Champions Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142158_5954_TIG_NSH_FC-Web.png",
             "team_1": "Tigres",
@@ -114,18 +120,6 @@
             "match_name": "Punjab FC vs Chennaiyin FC",
             "match_id": 140508,
             "startTime": "07:30:00 PM 06-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Tajikistan vs Thailand (AFC U17 Asian Cup Saudi Arabia 2026)",
-            "src": "https://images.fancode.com/aig/match/v1777996806124/142539_CASACARDS_APP.png",
-            "team_1": "Tajikistan",
-            "team_2": "Thailand",
-            "status": "UPCOMING",
-            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
-            "match_name": "Tajikistan vs Thailand",
-            "match_id": 142539,
-            "startTime": "11:00:00 PM 05-05-2026"
         },
         {
             "event_category": "Football",
@@ -153,6 +147,18 @@
         },
         {
             "event_category": "Football",
+            "title": "Brighton and Hove Albion Women vs Arsenal Women (Women's Super League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142176_5826_BHA-W_ARS-W_FC-Web.jpg",
+            "team_1": "Brighton and Hove Albion Women",
+            "team_2": "Arsenal Women",
+            "status": "UPCOMING",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "Brighton and Hove Albion Women vs Arsenal Women",
+            "match_id": 142176,
+            "startTime": "12:15:00 AM 07-05-2026"
+        },
+        {
+            "event_category": "Football",
             "title": "FC Madras vs FC Goa Junior (Dream Sports Championship Football 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
             "team_1": "FC Madras",
@@ -177,15 +183,15 @@
         },
         {
             "event_category": "Football",
-            "title": "Brighton and Hove Albion Women vs Arsenal Women (Women's Super League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142176_5826_BHA-W_ARS-W_FC-Web.jpg",
-            "team_1": "Brighton and Hove Albion Women",
-            "team_2": "Arsenal Women",
+            "title": "Australia vs India (AFC U17 Asian Cup Saudi Arabia 2026)",
+            "src": "https://images.fancode.com/aig/match/v1777999652489/142544_CASACARDS_APP.png",
+            "team_1": "Australia",
+            "team_2": "India",
             "status": "UPCOMING",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Brighton and Hove Albion Women vs Arsenal Women",
-            "match_id": 142176,
-            "startTime": "12:15:00 AM 07-05-2026"
+            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_name": "Australia vs India",
+            "match_id": 142544,
+            "startTime": "09:30:00 PM 06-05-2026"
         },
         {
             "event_category": "Tennis",
@@ -210,6 +216,30 @@
             "match_name": "ATP Masters Internazionali BNL d'Italia 2026",
             "match_id": 142218,
             "startTime": "05:30:00 PM 06-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Yemen vs Vietnam (AFC U17 Asian Cup Saudi Arabia 2026)",
+            "src": "https://images.fancode.com/aig/match/v1777999652489/142542_CASACARDS_APP.png",
+            "team_1": "Yemen",
+            "team_2": "Vietnam",
+            "status": "UPCOMING",
+            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_name": "Yemen vs Vietnam",
+            "match_id": 142542,
+            "startTime": "10:30:00 PM 06-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Korea Republic vs United Arab Emirates (AFC U17 Asian Cup Saudi Arabia 2026)",
+            "src": "https://images.fancode.com/aig/match/v1777999652489/142543_CASACARDS_APP.png",
+            "team_1": "Korea Republic",
+            "team_2": "United Arab Emirates",
+            "status": "UPCOMING",
+            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_name": "Korea Republic vs United Arab Emirates",
+            "match_id": 142543,
+            "startTime": "11:00:00 PM 06-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -414,30 +444,6 @@
             "match_name": "Philippines vs Indonesia",
             "match_id": 142303,
             "startTime": "06:00:00 AM 08-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "China Women vs Malaysia Women (CHK Women's T20I Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "China Women",
-            "team_2": "Malaysia Women",
-            "status": "UPCOMING",
-            "event_name": "CHK Women's T20I Series 2026",
-            "match_name": "China Women vs Malaysia Women",
-            "match_id": 142297,
-            "startTime": "06:30:00 AM 08-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs Pakistan (Pakistan tour of Bangladesh, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png",
-            "team_1": "Bangladesh",
-            "team_2": "Pakistan",
-            "status": "UPCOMING",
-            "event_name": "Pakistan tour of Bangladesh, 2026",
-            "match_name": "Bangladesh vs Pakistan",
-            "match_id": 142160,
-            "startTime": "09:00:00 AM 08-05-2026"
         }
     ]
 }

@@ -1,8 +1,50 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:21:29 AM 06-05-2026",
+    "last update time": "08:04:43 AM 06-05-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Tigres vs Nashville SC (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142158_5954_TIG_NSH_FC-Web.png",
+            "team_1": "Tigres",
+            "team_2": "Nashville SC",
+            "status": "LIVE",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Tigres vs Nashville SC",
+            "match_id": 142158,
+            "startTime": "07:00:00 AM 06-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142158_english_hls_feff563df911897_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142158_english_hls_feff563df911897_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Corbett FC vs Classic Football Academy (Dream Sports Championship Football 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
+            "team_1": "Corbett FC",
+            "team_2": "Classic Football Academy",
+            "status": "LIVE",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Corbett FC vs Classic Football Academy",
+            "match_id": 142356,
+            "startTime": "07:30:00 AM 06-05-2026",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
+            "event_category": "Football",
+            "title": "Punjab FC Junior vs Alchemy International FA (Dream Sports Championship Football 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
+            "team_1": "Punjab FC Junior",
+            "team_2": "Alchemy International FA",
+            "status": "LIVE",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Punjab FC Junior vs Alchemy International FA",
+            "match_id": 142355,
+            "startTime": "07:30:00 AM 06-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142355_english_hls_f957968a8b24319_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142355_english_hls_f957968a8b24319_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Speen Ghar Region vs Amo Region (Super Cola National T20 Cup, 2026)",
@@ -41,18 +83,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Tigres vs Nashville SC (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142158_5954_TIG_NSH_FC-Web.png",
-            "team_1": "Tigres",
-            "team_2": "Nashville SC",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Tigres vs Nashville SC",
-            "match_id": 142158,
-            "startTime": "07:00:00 AM 06-05-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Brighton and Hove Albion Women vs Arsenal Women (Women's Super League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142176_5826_BHA-W_ARS-W_FC-Web.jpg",
             "team_1": "Brighton and Hove Albion Women",
@@ -64,28 +94,16 @@
             "startTime": "12:15:00 AM 07-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Corbett FC vs Classic Football Academy (Dream Sports Championship Football 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
-            "team_1": "Corbett FC",
-            "team_2": "Classic Football Academy",
+            "event_category": "Cricket",
+            "title": "Malaysia Women vs China Women (CHK Women's T20I Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Malaysia Women",
+            "team_2": "China Women",
             "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Corbett FC vs Classic Football Academy",
-            "match_id": 142356,
-            "startTime": "07:30:00 AM 06-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Punjab FC Junior vs Alchemy International FA (Dream Sports Championship Football 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
-            "team_1": "Punjab FC Junior",
-            "team_2": "Alchemy International FA",
-            "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Punjab FC Junior vs Alchemy International FA",
-            "match_id": 142355,
-            "startTime": "07:30:00 AM 06-05-2026"
+            "event_name": "CHK Women's T20I Series 2026",
+            "match_name": "Malaysia Women vs China Women",
+            "match_id": 142295,
+            "startTime": "06:30:00 AM 07-05-2026"
         },
         {
             "event_category": "Football",
@@ -110,18 +128,6 @@
             "match_name": "Mohun Bagan Super Giants vs Reliance Foundation Young Champs",
             "match_id": 142357,
             "startTime": "04:00:00 PM 06-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malaysia Women vs China Women (CHK Women's T20I Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Malaysia Women",
-            "team_2": "China Women",
-            "status": "UPCOMING",
-            "event_name": "CHK Women's T20I Series 2026",
-            "match_name": "Malaysia Women vs China Women",
-            "match_id": 142295,
-            "startTime": "06:30:00 AM 07-05-2026"
         },
         {
             "event_category": "Football",
@@ -160,30 +166,6 @@
             "startTime": "11:00:00 PM 06-05-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "ATP Masters Internazionali BNL d'Italia 2026 vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "ATP Masters Internazionali BNL d'Italia 2026",
-            "team_2": "Rome",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_id": 142219,
-            "startTime": "05:30:00 PM 06-05-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP Masters Internazionali BNL d'Italia 2026 vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "ATP Masters Internazionali BNL d'Italia 2026",
-            "team_2": "Rome",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_id": 142218,
-            "startTime": "05:30:00 PM 06-05-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Toluca vs Los Angeles FC (CONCACAF Champions Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142157_5954_TOL_LAF_FC-Web.png",
@@ -206,6 +188,30 @@
             "match_name": "Hong Kong, China Women vs Malaysia Women",
             "match_id": 142296,
             "startTime": "11:00:00 AM 07-05-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP Masters Internazionali BNL d'Italia 2026 vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
+            "team_1": "ATP Masters Internazionali BNL d'Italia 2026",
+            "team_2": "Rome",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
+            "match_name": "ATP Masters Internazionali BNL d'Italia 2026",
+            "match_id": 142219,
+            "startTime": "05:30:00 PM 06-05-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP Masters Internazionali BNL d'Italia 2026 vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
+            "team_1": "ATP Masters Internazionali BNL d'Italia 2026",
+            "team_2": "Rome",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
+            "match_name": "ATP Masters Internazionali BNL d'Italia 2026",
+            "match_id": 142218,
+            "startTime": "05:30:00 PM 06-05-2026"
         },
         {
             "event_category": "Football",

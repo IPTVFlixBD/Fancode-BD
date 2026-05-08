@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "01:26:52 AM 09-05-2026",
+    "last update time": "02:27:43 AM 09-05-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Al-Kholood Club vs Al Hilal SFC (Saudi Kings Cup 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Saudi-Kings-Cup_fc-web.jpg",
-            "team_1": "Al-Kholood Club",
-            "team_2": "Al Hilal SFC",
-            "status": "LIVE",
-            "event_name": "Saudi Kings Cup 2025-2026",
-            "match_name": "Al-Kholood Club vs Al Hilal SFC",
-            "match_id": 142162,
-            "startTime": "11:30:00 PM 08-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142162_english_hls_aef11ab1e339941_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142162_english_hls_aef11ab1e339941_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Levante vs CA Osasuna (LALIGA 2025-26)",
@@ -30,20 +16,6 @@
             "startTime": "12:30:00 AM 09-05-2026",
             "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/131174_english_hls_2485bad521387_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/131174_english_hls_2485bad521387_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Hull City vs Millwall F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hull-City-vs-Millwall_fc-web.jpg",
-            "team_1": "Hull City",
-            "team_2": "Millwall F.C.",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Hull City vs Millwall F.C.",
-            "match_id": 142497,
-            "startTime": "12:30:00 AM 09-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142497_english_hls_c8e531a70e80554_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142497_english_hls_c8e531a70e80554_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -72,20 +44,6 @@
             "startTime": "02:30:00 PM 08-05-2026",
             "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142223_english_hls_fdb18a56d648927_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142223_english_hls_fdb18a56d648927_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 3 - Court 13 vs Rome, Italy (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "Day 3 - Court 13",
-            "team_2": "Rome, Italy",
-            "status": "LIVE",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "Day 3 - Court 13",
-            "match_id": 142613,
-            "startTime": "04:00:00 PM 08-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142613_english_hls_428d7a66d953558_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142613_english_hls_428d7a66d953558_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -170,6 +128,34 @@
             "startTime": "12:00:00 AM 09-05-2026",
             "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142616_english_hls_3553ee5eea43286_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142616_english_hls_3553ee5eea43286_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Kholood Club vs Al Hilal SFC (Saudi Kings Cup 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Saudi-Kings-Cup_fc-web.jpg",
+            "team_1": "Al-Kholood Club",
+            "team_2": "Al Hilal SFC",
+            "status": "LIVE",
+            "event_name": "Saudi Kings Cup 2025-2026",
+            "match_name": "Al-Kholood Club vs Al Hilal SFC",
+            "match_id": 142162,
+            "startTime": "11:30:00 PM 08-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142162_english_hls_aef11ab1e339941_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142162_english_hls_aef11ab1e339941_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Hull City vs Millwall F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hull-City-vs-Millwall_fc-web.jpg",
+            "team_1": "Hull City",
+            "team_2": "Millwall F.C.",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Hull City vs Millwall F.C.",
+            "match_id": 142497,
+            "startTime": "12:30:00 AM 09-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142497_english_hls_c8e531a70e80554_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142497_english_hls_c8e531a70e80554_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -317,18 +303,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Sydney FC vs Newcastle Jets (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sydney-FC-vs-Newcastle-Jets_fc-web.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Newcastle Jets",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney FC vs Newcastle Jets",
-            "match_id": 142505,
-            "startTime": "03:15:00 PM 09-05-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Atletico de Madrid vs RC Celta (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131172_5427_ATL_CEV_FC-Web.png",
             "team_1": "Atletico de Madrid",
@@ -338,6 +312,18 @@
             "match_name": "Atletico de Madrid vs RC Celta",
             "match_id": 131172,
             "startTime": "10:00:00 PM 09-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sydney FC vs Newcastle Jets (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sydney-FC-vs-Newcastle-Jets_fc-web.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Newcastle Jets",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney FC vs Newcastle Jets",
+            "match_id": 142505,
+            "startTime": "03:15:00 PM 09-05-2026"
         },
         {
             "event_category": "Football",
@@ -469,7 +455,7 @@
             "event_name": "Ferrari Challenge Series 2026",
             "match_name": "Australia - Day 1",
             "match_id": 142523,
-            "startTime": "10:05:00 AM 09-05-2026"
+            "startTime": "10:18:00 AM 09-05-2026"
         },
         {
             "event_category": "MotoGP",
@@ -484,6 +470,30 @@
             "startTime": "12:10:00 PM 09-05-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Japan vs Fiji (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Japan",
+            "team_2": "Fiji",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Japan vs Fiji",
+            "match_id": 142310,
+            "startTime": "06:00:00 AM 10-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Samoa vs Philippines (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Samoa",
+            "team_2": "Philippines",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B ",
+            "match_name": "Samoa vs Philippines",
+            "match_id": 142309,
+            "startTime": "06:00:00 AM 10-05-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "Main Feed - Day 3 vs Quail Hollow Club - Charlotte, North Carolina (Truist Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg",
@@ -494,18 +504,6 @@
             "match_name": "Main Feed - Day 3",
             "match_id": 142100,
             "startTime": "05:00:00 PM 09-05-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP Masters Internazionali BNL d'Italia 2026 vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "ATP Masters Internazionali BNL d'Italia 2026",
-            "team_2": "Rome",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_id": 142225,
-            "startTime": "05:30:00 PM 09-05-2026"
         }
     ]
 }

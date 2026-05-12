@@ -1,78 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "03:06:14 AM 13-05-2026",
+    "last update time": "04:06:57 AM 13-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Guyana Harpy Eagles vs West Indies Academy (West Indies Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Guyana Harpy Eagles",
-            "team_2": "West Indies Academy",
-            "status": "LIVE",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Guyana Harpy Eagles vs West Indies Academy",
-            "match_id": 141957,
-            "startTime": "07:30:00 PM 10-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141957_english_hls_416027e7cb55508_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141957_english_hls_416027e7cb55508_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Southampton F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Southampton-vs-Middlesbrough-fc-web.jpg",
-            "team_1": "Southampton F.C.",
-            "team_2": "Middlesbrough F.C.",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Southampton F.C. vs Middlesbrough F.C.",
-            "match_id": 142500,
-            "startTime": "12:30:00 AM 13-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142500_english_hls_82e8868ef954084_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142500_english_hls_82e8868ef954084_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 7 - Main Feed vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "Day 7 - Main Feed",
-            "team_2": "Rome",
-            "status": "LIVE",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "Day 7 - Main Feed",
-            "match_id": 142232,
-            "startTime": "02:30:00 PM 12-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142232_english_hls_bae44b58f473247_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142232_english_hls_bae44b58f473247_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 7 - T A Tirante vs D Medvedev vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "Day 7 - T A Tirante vs D Medvedev",
-            "team_2": "Rome",
-            "status": "LIVE",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "Day 7 - T A Tirante vs D Medvedev",
-            "match_id": 142640,
-            "startTime": "11:30:00 PM 12-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142640_english_hls_f92eb4169685719_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142640_english_hls_f92eb4169685719_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "CA Osasuna vs Atletico de Madrid (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131186_5427_OSN_ATL_FC-Web.png",
-            "team_1": "CA Osasuna",
-            "team_2": "Atletico de Madrid",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "CA Osasuna vs Atletico de Madrid",
-            "match_id": 131186,
-            "startTime": "01:00:00 AM 13-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/131186_english_hls_026f2c657951821_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/131186_english_hls_026f2c657951821_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Mis-e-Ainak Region vs Boost Region (Super Cola National T20 Cup, 2026)",
@@ -84,6 +14,18 @@
             "match_name": "Mis-e-Ainak Region vs Boost Region",
             "match_id": 142423,
             "startTime": "10:00:00 AM 13-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Guyana Harpy Eagles vs West Indies Academy (West Indies Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+            "team_1": "Guyana Harpy Eagles",
+            "team_2": "West Indies Academy",
+            "status": "PAUSED",
+            "event_name": "West Indies Championship 2026",
+            "match_name": "Guyana Harpy Eagles vs West Indies Academy",
+            "match_id": 141957,
+            "startTime": "07:30:00 PM 10-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -122,30 +64,6 @@
             "startTime": "10:30:00 AM 13-05-2026"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "River Ranger vs Goat Warriors (Young Star Kabaddi League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "team_1": "River Ranger",
-            "team_2": "Goat Warriors",
-            "status": "UPCOMING",
-            "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "River Ranger vs Goat Warriors",
-            "match_id": 142475,
-            "startTime": "10:30:00 AM 13-05-2026"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Jungle Panthers vs Raging Bulls (Young Star Kabaddi League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "team_1": "Jungle Panthers",
-            "team_2": "Raging Bulls",
-            "status": "UPCOMING",
-            "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "Jungle Panthers vs Raging Bulls",
-            "match_id": 142476,
-            "startTime": "12:00:00 PM 13-05-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Villarreal CF vs Sevilla FC (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131188_5427_VIL_SEV_FC-Web.png",
@@ -168,6 +86,30 @@
             "match_name": "RCD Espanyol vs Athletic Club",
             "match_id": 131185,
             "startTime": "10:30:00 PM 13-05-2026"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "River Ranger vs Goat Warriors (Young Star Kabaddi League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+            "team_1": "River Ranger",
+            "team_2": "Goat Warriors",
+            "status": "UPCOMING",
+            "event_name": "Young Star Kabaddi League 2026",
+            "match_name": "River Ranger vs Goat Warriors",
+            "match_id": 142475,
+            "startTime": "10:30:00 AM 13-05-2026"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Jungle Panthers vs Raging Bulls (Young Star Kabaddi League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+            "team_1": "Jungle Panthers",
+            "team_2": "Raging Bulls",
+            "status": "UPCOMING",
+            "event_name": "Young Star Kabaddi League 2026",
+            "match_name": "Jungle Panthers vs Raging Bulls",
+            "match_id": 142476,
+            "startTime": "12:00:00 PM 13-05-2026"
         },
         {
             "event_category": "Kabaddi",
@@ -278,6 +220,18 @@
             "startTime": "06:00:00 AM 14-05-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Stockport County vs Stevenage (League One 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Stockport County",
+            "team_2": "Stevenage",
+            "status": "UPCOMING",
+            "event_name": "League One 2025-26",
+            "match_name": "Stockport County vs Stevenage",
+            "match_id": 142491,
+            "startTime": "12:30:00 AM 14-05-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "ATP Masters Internazionali BNL d'Italia 2026 vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
@@ -300,18 +254,6 @@
             "match_name": "ATP Masters Internazionali BNL d'Italia 2026",
             "match_id": 142233,
             "startTime": "05:30:00 PM 13-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Stockport County vs Stevenage (League One 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Stockport County",
-            "team_2": "Stevenage",
-            "status": "UPCOMING",
-            "event_name": "League One 2025-26",
-            "match_name": "Stockport County vs Stevenage",
-            "match_id": 142491,
-            "startTime": "12:30:00 AM 14-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -456,6 +398,54 @@
             "match_name": "ATP Masters Internazionali BNL d'Italia 2026",
             "match_id": 142235,
             "startTime": "05:30:00 PM 14-05-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Green Eagle Golf Course, Germany (Amundi German Masters 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg",
+            "team_1": "Day 1",
+            "team_2": "Green Eagle Golf Course, Germany",
+            "status": "UPCOMING",
+            "event_name": "Amundi German Masters 2026",
+            "match_name": "Day 1",
+            "match_id": 142325,
+            "startTime": "05:30:00 PM 14-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Valencia CF vs Rayo Vallecano (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131187_5427_VAL_RVL_FC-Web.png",
+            "team_1": "Valencia CF",
+            "team_2": "Rayo Vallecano",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Valencia CF vs Rayo Vallecano",
+            "match_id": 131187,
+            "startTime": "10:30:00 PM 14-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Girona FC vs Real Sociedad (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131184_5427_GIR_RS_FC-Web.png",
+            "team_1": "Girona FC",
+            "team_2": "Real Sociedad",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Girona FC vs Real Sociedad",
+            "match_id": 131184,
+            "startTime": "11:30:00 PM 14-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Madrid vs Real Oviedo (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131189_5427_RM_RO_FC-Web.png",
+            "team_1": "Real Madrid",
+            "team_2": "Real Oviedo",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Madrid vs Real Oviedo",
+            "match_id": 131189,
+            "startTime": "01:00:00 AM 15-05-2026"
         }
     ]
 }

@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:07:35 AM 13-05-2026",
+    "last update time": "06:48:42 AM 13-05-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Samoa vs Papua New Guinea (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Samoa",
+            "team_2": "Papua New Guinea",
+            "status": "LIVE",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
+            "match_name": "Samoa vs Papua New Guinea",
+            "match_id": 142314,
+            "startTime": "06:00:00 AM 13-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142314_english_hls_72c9d3538c11416_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142314_english_hls_72c9d3538c11416_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Mis-e-Ainak Region vs Boost Region (Super Cola National T20 Cup, 2026)",
@@ -41,18 +55,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Papua New Guinea vs Samoa (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Papua New Guinea",
-            "team_2": "Samoa",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
-            "match_name": "Papua New Guinea vs Samoa",
-            "match_id": 142314,
-            "startTime": "06:00:00 AM 13-05-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Vanuatu vs Cook Islands (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
             "team_1": "Vanuatu",
@@ -86,6 +88,30 @@
             "match_name": "RCD Espanyol vs Athletic Club",
             "match_id": 131185,
             "startTime": "10:30:00 PM 13-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Getafe CF vs RCD Mallorca (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131183_5427_GEF_MRC_FC-Web.png",
+            "team_1": "Getafe CF",
+            "team_2": "RCD Mallorca",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Getafe CF vs RCD Mallorca",
+            "match_id": 131183,
+            "startTime": "01:00:00 AM 14-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Deportivo Alaves vs FC Barcelona (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131180_5427_ALA_BAR_FC-Web.png",
+            "team_1": "Deportivo Alaves",
+            "team_2": "FC Barcelona",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Deportivo Alaves vs FC Barcelona",
+            "match_id": 131180,
+            "startTime": "01:00:00 AM 14-05-2026"
         },
         {
             "event_category": "Kabaddi",
@@ -149,30 +175,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Getafe CF vs RCD Mallorca (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131183_5427_GEF_MRC_FC-Web.png",
-            "team_1": "Getafe CF",
-            "team_2": "RCD Mallorca",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Getafe CF vs RCD Mallorca",
-            "match_id": 131183,
-            "startTime": "01:00:00 AM 14-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Deportivo Alaves vs FC Barcelona (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131180_5427_ALA_BAR_FC-Web.png",
-            "team_1": "Deportivo Alaves",
-            "team_2": "FC Barcelona",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Deportivo Alaves vs FC Barcelona",
-            "match_id": 131180,
-            "startTime": "01:00:00 AM 14-05-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Uzbekistan vs Australia (AFC U17 Asian Cup Saudi Arabia 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142259_6062_UZB_AUS_FC-WEB.jpg",
             "team_1": "Uzbekistan",
@@ -232,6 +234,18 @@
             "startTime": "12:30:00 AM 14-05-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Scotland vs USA (ICC CWC League 2 Nepal, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png",
+            "team_1": "Scotland",
+            "team_2": "USA",
+            "status": "UPCOMING",
+            "event_name": "ICC CWC League 2 Nepal, 2026",
+            "match_name": "Scotland vs USA",
+            "match_id": 142290,
+            "startTime": "09:15:00 AM 14-05-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "ATP Masters Internazionali BNL d'Italia 2026 vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
@@ -254,18 +268,6 @@
             "match_name": "ATP Masters Internazionali BNL d'Italia 2026",
             "match_id": 142233,
             "startTime": "05:30:00 PM 13-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Scotland vs USA (ICC CWC League 2 Nepal, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png",
-            "team_1": "Scotland",
-            "team_2": "USA",
-            "status": "UPCOMING",
-            "event_name": "ICC CWC League 2 Nepal, 2026",
-            "match_name": "Scotland vs USA",
-            "match_id": 142290,
-            "startTime": "09:15:00 AM 14-05-2026"
         },
         {
             "event_category": "Cricket",

@@ -1,33 +1,49 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "06:48:42 AM 13-05-2026",
+    "last update time": "10:31:15 AM 13-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Samoa vs Papua New Guinea (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Samoa",
-            "team_2": "Papua New Guinea",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
-            "match_name": "Samoa vs Papua New Guinea",
-            "match_id": 142314,
-            "startTime": "06:00:00 AM 13-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142314_english_hls_72c9d3538c11416_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142314_english_hls_72c9d3538c11416_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Mis-e-Ainak Region vs Boost Region (Super Cola National T20 Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
             "team_1": "Mis-e-Ainak Region",
             "team_2": "Boost Region",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Super Cola National T20 Cup, 2026",
             "match_name": "Mis-e-Ainak Region vs Boost Region",
             "match_id": 142423,
-            "startTime": "10:00:00 AM 13-05-2026"
+            "startTime": "10:00:00 AM 13-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142423_english_hls_3656954ba730009_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142423_english_hls_3656954ba730009_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Cook Islands vs Vanuatu (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Cook Islands",
+            "team_2": "Vanuatu",
+            "status": "LIVE",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
+            "match_name": "Cook Islands vs Vanuatu",
+            "match_id": 142315,
+            "startTime": "10:30:00 AM 13-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142315_english_hls_33679d7fe037687_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142315_english_hls_33679d7fe037687_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "River Ranger vs Goat Warriors (Young Star Kabaddi League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+            "team_1": "River Ranger",
+            "team_2": "Goat Warriors",
+            "status": "LIVE",
+            "event_name": "Young Star Kabaddi League 2026",
+            "match_name": "River Ranger vs Goat Warriors",
+            "match_id": 142475,
+            "startTime": "10:30:00 AM 13-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142475_english_hls_c7fc4a3c2038690_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142475_english_hls_c7fc4a3c2038690_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -52,18 +68,6 @@
             "match_name": "Trinidad & Tobago Red Force vs Barbados Pride",
             "match_id": 141956,
             "startTime": "07:30:00 PM 10-05-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vanuatu vs Cook Islands (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Vanuatu",
-            "team_2": "Cook Islands",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
-            "match_name": "Vanuatu vs Cook Islands",
-            "match_id": 142315,
-            "startTime": "10:30:00 AM 13-05-2026"
         },
         {
             "event_category": "Football",
@@ -115,18 +119,6 @@
         },
         {
             "event_category": "Kabaddi",
-            "title": "River Ranger vs Goat Warriors (Young Star Kabaddi League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "team_1": "River Ranger",
-            "team_2": "Goat Warriors",
-            "status": "UPCOMING",
-            "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "River Ranger vs Goat Warriors",
-            "match_id": 142475,
-            "startTime": "10:30:00 AM 13-05-2026"
-        },
-        {
-            "event_category": "Kabaddi",
             "title": "Jungle Panthers vs Raging Bulls (Young Star Kabaddi League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
             "team_1": "Jungle Panthers",
@@ -174,6 +166,18 @@
             "startTime": "04:20:00 PM 13-05-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Indonesia vs Papua New Guinea (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "team_1": "Indonesia",
+            "team_2": "Papua New Guinea",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
+            "match_name": "Indonesia vs Papua New Guinea",
+            "match_id": 142316,
+            "startTime": "06:00:00 AM 14-05-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Uzbekistan vs Australia (AFC U17 Asian Cup Saudi Arabia 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142259_6062_UZB_AUS_FC-WEB.jpg",
@@ -211,30 +215,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Indonesia vs Papua New Guinea (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Indonesia",
-            "team_2": "Papua New Guinea",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
-            "match_name": "Indonesia vs Papua New Guinea",
-            "match_id": 142316,
-            "startTime": "06:00:00 AM 14-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Stockport County vs Stevenage (League One 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Stockport County",
-            "team_2": "Stevenage",
-            "status": "UPCOMING",
-            "event_name": "League One 2025-26",
-            "match_name": "Stockport County vs Stevenage",
-            "match_id": 142491,
-            "startTime": "12:30:00 AM 14-05-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Scotland vs USA (ICC CWC League 2 Nepal, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png",
             "team_1": "Scotland",
@@ -244,30 +224,6 @@
             "match_name": "Scotland vs USA",
             "match_id": 142290,
             "startTime": "09:15:00 AM 14-05-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP Masters Internazionali BNL d'Italia 2026 vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "ATP Masters Internazionali BNL d'Italia 2026",
-            "team_2": "Rome",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_id": 142234,
-            "startTime": "05:30:00 PM 13-05-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP Masters Internazionali BNL d'Italia 2026 vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "ATP Masters Internazionali BNL d'Italia 2026",
-            "team_2": "Rome",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_id": 142233,
-            "startTime": "05:30:00 PM 13-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -282,6 +238,18 @@
             "startTime": "10:30:00 AM 14-05-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Stockport County vs Stevenage (League One 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Stockport County",
+            "team_2": "Stevenage",
+            "status": "UPCOMING",
+            "event_name": "League One 2025-26",
+            "match_name": "Stockport County vs Stevenage",
+            "match_id": 142491,
+            "startTime": "12:30:00 AM 14-05-2026"
+        },
+        {
             "event_category": "Kabaddi",
             "title": "Goat Warriors vs Jungle Panthers (Young Star Kabaddi League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
@@ -292,6 +260,30 @@
             "match_name": "Goat Warriors vs Jungle Panthers",
             "match_id": 142480,
             "startTime": "10:30:00 AM 14-05-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 8 - Supertennis Arena vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
+            "team_1": "Day 8 - Supertennis Arena",
+            "team_2": "Rome",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
+            "match_name": "Day 8 - Supertennis Arena",
+            "match_id": 142233,
+            "startTime": "05:30:00 PM 13-05-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 7 - Main Feed vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
+            "team_1": "Day 7 - Main Feed",
+            "team_2": "Rome",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
+            "match_name": "Day 7 - Main Feed",
+            "match_id": 142234,
+            "startTime": "06:30:00 PM 13-05-2026"
         },
         {
             "event_category": "Kabaddi",
@@ -318,18 +310,6 @@
             "startTime": "01:30:00 PM 14-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Japan Women vs Australia Women (AFC U17 Women's Asian Cup China 2026)",
-            "src": "https://images.fancode.com/aig/match/v1778498139185/142254_CASACARDS_APP.png",
-            "team_1": "Japan Women",
-            "team_2": "Australia Women",
-            "status": "UPCOMING",
-            "event_name": "AFC U17 Women's Asian Cup China 2026",
-            "match_name": "Japan Women vs Australia Women",
-            "match_id": 142254,
-            "startTime": "12:30:00 PM 14-05-2026"
-        },
-        {
             "event_category": "Kabaddi",
             "title": "Lightning Lions vs River Ranger (Young Star Kabaddi League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
@@ -340,6 +320,18 @@
             "match_name": "Lightning Lions vs River Ranger",
             "match_id": 142483,
             "startTime": "03:00:00 PM 14-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Japan Women vs Australia Women (AFC U17 Women's Asian Cup China 2026)",
+            "src": "https://images.fancode.com/aig/match/v1778498139185/142254_CASACARDS_APP.png",
+            "team_1": "Japan Women",
+            "team_2": "Australia Women",
+            "status": "UPCOMING",
+            "event_name": "AFC U17 Women's Asian Cup China 2026",
+            "match_name": "Japan Women vs Australia Women",
+            "match_id": 142254,
+            "startTime": "12:30:00 PM 14-05-2026"
         },
         {
             "event_category": "Kabaddi",
@@ -376,6 +368,18 @@
             "match_name": "China PR Women vs DPR Korea Women",
             "match_id": 142255,
             "startTime": "05:00:00 PM 14-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Valencia CF vs Rayo Vallecano (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131187_5427_VAL_RVL_FC-Web.png",
+            "team_1": "Valencia CF",
+            "team_2": "Rayo Vallecano",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Valencia CF vs Rayo Vallecano",
+            "match_id": 131187,
+            "startTime": "10:30:00 PM 14-05-2026"
         },
         {
             "event_category": "Tennis",
@@ -415,18 +419,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Valencia CF vs Rayo Vallecano (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131187_5427_VAL_RVL_FC-Web.png",
-            "team_1": "Valencia CF",
-            "team_2": "Rayo Vallecano",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Valencia CF vs Rayo Vallecano",
-            "match_id": 131187,
-            "startTime": "10:30:00 PM 14-05-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Girona FC vs Real Sociedad (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131184_5427_GIR_RS_FC-Web.png",
             "team_1": "Girona FC",
@@ -448,6 +440,18 @@
             "match_name": "Real Madrid vs Real Oviedo",
             "match_id": 131189,
             "startTime": "01:00:00 AM 15-05-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Aronimink (PGA Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "team_1": "Day 1",
+            "team_2": "Aronimink",
+            "status": "UPCOMING",
+            "event_name": "PGA Championship 2026",
+            "match_name": "Day 1",
+            "match_id": 142627,
+            "startTime": "10:30:00 PM 14-05-2026"
         }
     ]
 }

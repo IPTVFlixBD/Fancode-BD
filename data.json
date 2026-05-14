@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "02:50:06 PM 14-05-2026",
+    "last update time": "04:51:30 PM 14-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,17 +19,59 @@
         },
         {
             "event_category": "Kabaddi",
-            "title": "Lightning Lions vs River Ranger (Young Star Kabaddi League 2026)",
+            "title": "Goat Warriors vs Raging Bulls (Young Star Kabaddi League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "team_1": "Lightning Lions",
-            "team_2": "River Ranger",
+            "team_1": "Goat Warriors",
+            "team_2": "Raging Bulls",
             "status": "LIVE",
             "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "Lightning Lions vs River Ranger",
-            "match_id": 142483,
-            "startTime": "03:00:00 PM 14-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142483_english_hls_f2c8441efe37857_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142483_english_hls_f2c8441efe37857_1ta-di_h264/index.m3u8"
+            "match_name": "Goat Warriors vs Raging Bulls",
+            "match_id": 142484,
+            "startTime": "04:20:00 PM 14-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142484_english_hls_466d83886e1840_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142484_english_hls_466d83886e1840_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "China PR Women vs DPR Korea Women (AFC U17 Women's Asian Cup China 2026)",
+            "src": "https://images.fancode.com/aig/match/v1778730864495/142255_CASACARDS_APP.png",
+            "team_1": "China PR Women",
+            "team_2": "DPR Korea Women",
+            "status": "LIVE",
+            "event_name": "AFC U17 Women's Asian Cup China 2026",
+            "match_name": "China PR Women vs DPR Korea Women",
+            "match_id": 142255,
+            "startTime": "05:00:00 PM 14-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142255_english_hls_f995e9d31543692_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142255_english_hls_f995e9d31543692_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Minerva Academy FC vs Punjab FC Junior (Dream Sports Championship Football 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
+            "team_1": "Minerva Academy FC",
+            "team_2": "Punjab FC Junior",
+            "status": "LIVE",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Minerva Academy FC vs Punjab FC Junior",
+            "match_id": 142374,
+            "startTime": "04:00:00 PM 14-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142374_english_hls_9487d4bd1076620_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142374_english_hls_9487d4bd1076620_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "QF: J. Sinner vs A. Rublev vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Andrey-Rublev_fc_web.jpg",
+            "team_1": "QF: J. Sinner vs A. Rublev",
+            "team_2": "Rome",
+            "status": "LIVE",
+            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
+            "match_name": "QF: J. Sinner vs A. Rublev",
+            "match_id": 142236,
+            "startTime": "04:30:00 PM 14-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142236_english_hls_5b60f3d80940878_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142236_english_hls_5b60f3d80940878_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -81,30 +123,6 @@
         },
         {
             "event_category": "Kabaddi",
-            "title": "Goat Warriors vs Raging Bulls (Young Star Kabaddi League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "team_1": "Goat Warriors",
-            "team_2": "Raging Bulls",
-            "status": "UPCOMING",
-            "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "Goat Warriors vs Raging Bulls",
-            "match_id": 142484,
-            "startTime": "04:20:00 PM 14-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "China PR Women vs DPR Korea Women (AFC U17 Women's Asian Cup China 2026)",
-            "src": "https://images.fancode.com/aig/match/v1778730864495/142255_CASACARDS_APP.png",
-            "team_1": "China PR Women",
-            "team_2": "DPR Korea Women",
-            "status": "UPCOMING",
-            "event_name": "AFC U17 Women's Asian Cup China 2026",
-            "match_name": "China PR Women vs DPR Korea Women",
-            "match_id": 142255,
-            "startTime": "05:00:00 PM 14-05-2026"
-        },
-        {
-            "event_category": "Kabaddi",
             "title": "TBC vs TBC (Young Star Kabaddi League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
             "team_1": "TBC",
@@ -128,40 +146,40 @@
             "startTime": "05:30:00 AM 15-05-2026"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "TBC vs TBC (Young Star Kabaddi League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "event_category": "Golf",
+            "title": "Day 1 vs Green Eagle Golf Course, Germany (Amundi German Masters 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg",
+            "team_1": "Day 1",
+            "team_2": "Green Eagle Golf Course, Germany",
             "status": "UPCOMING",
-            "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 142486,
-            "startTime": "05:30:00 AM 15-05-2026"
+            "event_name": "Amundi German Masters 2026",
+            "match_name": "Day 1",
+            "match_id": 142325,
+            "startTime": "05:30:00 PM 14-05-2026"
         },
         {
             "event_category": "Kabaddi",
-            "title": "TBC vs TBC (Young Star Kabaddi League 2026)",
+            "title": "Jungle Panthers vs Raging Bulls (Young Star Kabaddi League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Jungle Panthers",
+            "team_2": "Raging Bulls",
             "status": "UPCOMING",
             "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "TBC vs TBC",
+            "match_name": "Jungle Panthers vs Raging Bulls",
             "match_id": 142485,
-            "startTime": "05:30:00 AM 15-05-2026"
+            "startTime": "10:30:00 AM 15-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Minerva Academy FC vs Punjab FC Junior (Dream Sports Championship Football 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
-            "team_1": "Minerva Academy FC",
-            "team_2": "Punjab FC Junior",
+            "event_category": "Kabaddi",
+            "title": "Lightning Lions vs Roaring Rhinos (Young Star Kabaddi League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+            "team_1": "Lightning Lions",
+            "team_2": "Roaring Rhinos",
             "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Minerva Academy FC vs Punjab FC Junior",
-            "match_id": 142374,
-            "startTime": "04:00:00 PM 14-05-2026"
+            "event_name": "Young Star Kabaddi League 2026",
+            "match_name": "Lightning Lions vs Roaring Rhinos",
+            "match_id": 142486,
+            "startTime": "12:30:00 PM 15-05-2026"
         },
         {
             "event_category": "Football",
@@ -176,28 +194,16 @@
             "startTime": "12:30:00 AM 15-05-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "QF: J. Sinner vs A. Rublev vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Andrey-Rublev_fc_web.jpg",
-            "team_1": "QF: J. Sinner vs A. Rublev",
-            "team_2": "Rome",
+            "event_category": "Football",
+            "title": "Adelaide United vs Auckland (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Adelaide-United-vs-Auckland_fc-web.jpg",
+            "team_1": "Adelaide United",
+            "team_2": "Auckland",
             "status": "UPCOMING",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "QF: J. Sinner vs A. Rublev",
-            "match_id": 142236,
-            "startTime": "04:30:00 PM 14-05-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 1 vs Green Eagle Golf Course, Germany (Amundi German Masters 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Green Eagle Golf Course, Germany",
-            "status": "UPCOMING",
-            "event_name": "Amundi German Masters 2026",
-            "match_name": "Day 1",
-            "match_id": 142325,
-            "startTime": "05:30:00 PM 14-05-2026"
+            "event_name": "A League 2025-26",
+            "match_name": "Adelaide United vs Auckland",
+            "match_id": 142506,
+            "startTime": "03:05:00 PM 15-05-2026"
         },
         {
             "event_category": "Tennis",
@@ -210,18 +216,6 @@
             "match_name": "Men's Doubles QF's",
             "match_id": 142676,
             "startTime": "06:00:00 PM 14-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Adelaide United vs Auckland (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Adelaide-United-vs-Auckland_fc-web.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Auckland",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Adelaide United vs Auckland",
-            "match_id": 142506,
-            "startTime": "03:05:00 PM 15-05-2026"
         },
         {
             "event_category": "Tennis",
@@ -284,6 +278,18 @@
             "startTime": "09:30:00 PM 15-05-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Saudi Arabia vs China PR (AFC U17 Asian Cup Saudi Arabia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Saudi Arabia",
+            "team_2": "China PR",
+            "status": "UPCOMING",
+            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_name": "Saudi Arabia vs China PR",
+            "match_id": 142548,
+            "startTime": "10:30:00 PM 15-05-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "ATP Masters Internazionali BNL d'Italia 2026 vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
@@ -318,18 +324,6 @@
             "match_name": "Day 2",
             "match_id": 142326,
             "startTime": "05:30:00 PM 15-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Saudi Arabia vs China PR (AFC U17 Asian Cup Saudi Arabia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Saudi Arabia",
-            "team_2": "China PR",
-            "status": "UPCOMING",
-            "event_name": "AFC U17 Asian Cup Saudi Arabia 2026",
-            "match_name": "Saudi Arabia vs China PR",
-            "match_id": 142548,
-            "startTime": "10:30:00 PM 15-05-2026"
         },
         {
             "event_category": "Football",
@@ -486,6 +480,18 @@
             "match_name": "Catalonia GP",
             "match_id": 139943,
             "startTime": "12:10:00 PM 16-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Newcastle Jets vs Sydney FC (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Newcastle-Jets-vs-Sydney-FC_fc-web.jpg",
+            "team_1": "Newcastle Jets",
+            "team_2": "Sydney FC",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Newcastle Jets vs Sydney FC",
+            "match_id": 142507,
+            "startTime": "03:20:00 PM 16-05-2026"
         }
     ]
 }

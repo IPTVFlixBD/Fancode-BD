@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "04:51:30 PM 14-05-2026",
+    "last update time": "06:32:37 PM 14-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Scotland vs USA (ICC CWC League 2 Nepal, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png",
-            "team_1": "Scotland",
-            "team_2": "USA",
-            "status": "LIVE",
-            "event_name": "ICC CWC League 2 Nepal, 2026",
-            "match_name": "Scotland vs USA",
-            "match_id": 142290,
-            "startTime": "09:15:00 AM 14-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142290_english_hls_5da25249c098684_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142290_english_hls_5da25249c098684_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Goat Warriors vs Raging Bulls (Young Star Kabaddi League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "team_1": "Goat Warriors",
-            "team_2": "Raging Bulls",
-            "status": "LIVE",
-            "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "Goat Warriors vs Raging Bulls",
-            "match_id": 142484,
-            "startTime": "04:20:00 PM 14-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142484_english_hls_466d83886e1840_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142484_english_hls_466d83886e1840_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "China PR Women vs DPR Korea Women (AFC U17 Women's Asian Cup China 2026)",
@@ -60,18 +32,32 @@
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142374_english_hls_9487d4bd1076620_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Day 1 vs Green Eagle Golf Course, Germany (Amundi German Masters 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg",
+            "team_1": "Day 1",
+            "team_2": "Green Eagle Golf Course, Germany",
+            "status": "LIVE",
+            "event_name": "Amundi German Masters 2026",
+            "match_name": "Day 1",
+            "match_id": 142325,
+            "startTime": "05:30:00 PM 14-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142325_english_hls_20af6e0dcf40493_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142325_english_hls_20af6e0dcf40493_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Tennis",
-            "title": "QF: J. Sinner vs A. Rublev vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Jannik-Sinner-vs-Andrey-Rublev_fc_web.jpg",
-            "team_1": "QF: J. Sinner vs A. Rublev",
-            "team_2": "Rome",
+            "title": "Men's Doubles QF's vs Rome, Italy (ATP Masters Internazionali BNL d'Italia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
+            "team_1": "Men's Doubles QF's",
+            "team_2": "Rome, Italy",
             "status": "LIVE",
             "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "QF: J. Sinner vs A. Rublev",
-            "match_id": 142236,
-            "startTime": "04:30:00 PM 14-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142236_english_hls_5b60f3d80940878_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142236_english_hls_5b60f3d80940878_1ta-di_h264/index.m3u8"
+            "match_name": "Men's Doubles QF's",
+            "match_id": 142676,
+            "startTime": "06:00:00 PM 14-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142676_english_hls_8bc0c87ea91823_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142676_english_hls_8bc0c87ea91823_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -146,18 +132,6 @@
             "startTime": "05:30:00 AM 15-05-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1 vs Green Eagle Golf Course, Germany (Amundi German Masters 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Green Eagle Golf Course, Germany",
-            "status": "UPCOMING",
-            "event_name": "Amundi German Masters 2026",
-            "match_name": "Day 1",
-            "match_id": 142325,
-            "startTime": "05:30:00 PM 14-05-2026"
-        },
-        {
             "event_category": "Kabaddi",
             "title": "Jungle Panthers vs Raging Bulls (Young Star Kabaddi League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
@@ -183,6 +157,18 @@
         },
         {
             "event_category": "Football",
+            "title": "Adelaide United vs Auckland (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Adelaide-United-vs-Auckland_fc-web.jpg",
+            "team_1": "Adelaide United",
+            "team_2": "Auckland",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Adelaide United vs Auckland",
+            "match_id": 142506,
+            "startTime": "03:05:00 PM 15-05-2026"
+        },
+        {
+            "event_category": "Football",
             "title": "Bradford City vs Bolton Wanderers (League One 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1778743493092/142492_CASACARDS_APP.png",
             "team_1": "Bradford City",
@@ -195,27 +181,15 @@
         },
         {
             "event_category": "Football",
-            "title": "Adelaide United vs Auckland (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Adelaide-United-vs-Auckland_fc-web.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Auckland",
+            "title": "Mohammedan SC vs Mumbai City FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140505_5956_MSC_MCFC_FC-Web_1772473605941.jpg",
+            "team_1": "Mohammedan SC",
+            "team_2": "Mumbai City FC",
             "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Adelaide United vs Auckland",
-            "match_id": 142506,
-            "startTime": "03:05:00 PM 15-05-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Men's Doubles QF's vs Rome, Italy (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "Men's Doubles QF's",
-            "team_2": "Rome, Italy",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "Men's Doubles QF's",
-            "match_id": 142676,
-            "startTime": "06:00:00 PM 14-05-2026"
+            "event_name": "ISL 2025-26",
+            "match_name": "Mohammedan SC vs Mumbai City FC",
+            "match_id": 140505,
+            "startTime": "07:30:00 PM 15-05-2026"
         },
         {
             "event_category": "Tennis",
@@ -240,18 +214,6 @@
             "match_name": "Day 1",
             "match_id": 142627,
             "startTime": "10:30:00 PM 14-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Mohammedan SC vs Mumbai City FC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140505_5956_MSC_MCFC_FC-Web_1772473605941.jpg",
-            "team_1": "Mohammedan SC",
-            "team_2": "Mumbai City FC",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "Mohammedan SC vs Mumbai City FC",
-            "match_id": 140505,
-            "startTime": "07:30:00 PM 15-05-2026"
         },
         {
             "event_category": "MotoGP",
@@ -492,6 +454,42 @@
             "match_name": "Newcastle Jets vs Sydney FC",
             "match_id": 142507,
             "startTime": "03:20:00 PM 16-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chennaiyin FC vs Bengaluru FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140521_5956_CFC_BFC_FC-Web_1772478790911.jpg",
+            "team_1": "Chennaiyin FC",
+            "team_2": "Bengaluru FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "Chennaiyin FC vs Bengaluru FC",
+            "match_id": 140521,
+            "startTime": "05:00:00 PM 16-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "West Ham United Women vs Manchester City Women (Women's Super League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142177_5826_WHU-W_MCI-W_FC-Web.jpg",
+            "team_1": "West Ham United Women",
+            "team_2": "Manchester City Women",
+            "status": "UPCOMING",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "West Ham United Women vs Manchester City Women",
+            "match_id": 142177,
+            "startTime": "05:30:00 PM 16-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Brighton and Hove Albion Women vs Tottenham Hotspur Women (Women's Super League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142182_5826_BHA-W_TOT-W_FC-Web.jpg",
+            "team_1": "Brighton and Hove Albion Women",
+            "team_2": "Tottenham Hotspur Women",
+            "status": "UPCOMING",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "Brighton and Hove Albion Women vs Tottenham Hotspur Women",
+            "match_id": 142182,
+            "startTime": "05:30:00 PM 16-05-2026"
         }
     ]
 }

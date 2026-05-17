@@ -1,8 +1,64 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:33:10 PM 17-05-2026",
+    "last update time": "12:44:00 AM 18-05-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "FC Barcelona vs Real Betis (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131192_5427_BAR_RB_FC-Web.png",
+            "team_1": "FC Barcelona",
+            "team_2": "Real Betis",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "FC Barcelona vs Real Betis",
+            "match_id": 131192,
+            "startTime": "12:45:00 AM 18-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/131192_english_hls_bc3e705c7370836_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/131192_english_hls_bc3e705c7370836_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Guyana Harpy Eagles vs Trinidad & Tobago Red Force (West Indies Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+            "team_1": "Guyana Harpy Eagles",
+            "team_2": "Trinidad & Tobago Red Force",
+            "status": "LIVE",
+            "event_name": "West Indies Championship 2026",
+            "match_name": "Guyana Harpy Eagles vs Trinidad & Tobago Red Force",
+            "match_id": 141958,
+            "startTime": "07:30:00 PM 17-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141958_english_hls_6e2aad8a8293190_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141958_english_hls_6e2aad8a8293190_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Zaragoza vs Sporting de Gijón (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1778920809564/142634_CASACARDS_APP.png",
+            "team_1": "Real Zaragoza",
+            "team_2": "Sporting de Gijón",
+            "status": "LIVE",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Real Zaragoza vs Sporting de Gijón",
+            "match_id": 142634,
+            "startTime": "12:45:00 AM 18-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142634_english_hls_c9d387db2f59165_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142634_english_hls_c9d387db2f59165_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4 vs Aronimink (PGA Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/PGA-Championship-old-.jpg",
+            "team_1": "Day 4",
+            "team_2": "Aronimink",
+            "status": "LIVE",
+            "event_name": "PGA Championship 2026",
+            "match_name": "Day 4",
+            "match_id": 142630,
+            "startTime": "10:30:00 PM 17-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142630_english_hls_f4f36f686442022_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142630_english_hls_f4f36f686442022_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Football",
             "title": "Sevilla FC vs Real Madrid (LALIGA 2025-26)",
@@ -19,6 +75,20 @@
         },
         {
             "event_category": "Football",
+            "title": "CA Osasuna vs RCD Espanyol (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131198_5427_OSN_ESL_FC-Web.png",
+            "team_1": "CA Osasuna",
+            "team_2": "RCD Espanyol",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "CA Osasuna vs RCD Espanyol",
+            "match_id": 131198,
+            "startTime": "10:30:00 PM 17-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/131198_english_hls_eca5ce4e5468529_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/131198_english_hls_eca5ce4e5468529_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
             "title": "Real Oviedo vs Deportivo Alaves (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131197_5427_RO_ALA_FC-Web.png",
             "team_1": "Real Oviedo",
@@ -30,20 +100,6 @@
             "startTime": "10:30:00 PM 17-05-2026",
             "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/131197_english_hls_ea3442263172612_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/131197_english_hls_ea3442263172612_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Sociedad vs Valencia CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131196_5427_RS_VAL_FC-Web.png",
-            "team_1": "Real Sociedad",
-            "team_2": "Valencia CF",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Sociedad vs Valencia CF",
-            "match_id": 131196,
-            "startTime": "10:30:00 PM 17-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/131196_english_hls_bad93b466459919_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/131196_english_hls_bad93b466459919_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -116,46 +172,18 @@
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/131190_english_hls_5be452741e86743_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Guyana Harpy Eagles vs Trinidad & Tobago Red Force (West Indies Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Guyana Harpy Eagles",
-            "team_2": "Trinidad & Tobago Red Force",
-            "status": "LIVE",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Guyana Harpy Eagles vs Trinidad & Tobago Red Force",
-            "match_id": 141958,
-            "startTime": "07:30:00 PM 17-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/141958_english_hls_6e2aad8a8293190_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141958_english_hls_6e2aad8a8293190_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Football",
-            "title": "CA Osasuna vs RCD Espanyol (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131198_5427_OSN_ESL_FC-Web.png",
-            "team_1": "CA Osasuna",
-            "team_2": "RCD Espanyol",
+            "title": "Real Sociedad vs Valencia CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131196_5427_RS_VAL_FC-Web.png",
+            "team_1": "Real Sociedad",
+            "team_2": "Valencia CF",
             "status": "LIVE",
             "event_name": "LALIGA 2025-26",
-            "match_name": "CA Osasuna vs RCD Espanyol",
-            "match_id": 131198,
+            "match_name": "Real Sociedad vs Valencia CF",
+            "match_id": 131196,
             "startTime": "10:30:00 PM 17-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/131198_english_hls_eca5ce4e5468529_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/131198_english_hls_eca5ce4e5468529_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 4 vs Aronimink (PGA Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/PGA-Championship-old-.jpg",
-            "team_1": "Day 4",
-            "team_2": "Aronimink",
-            "status": "LIVE",
-            "event_name": "PGA Championship 2026",
-            "match_name": "Day 4",
-            "match_id": 142630,
-            "startTime": "10:30:00 PM 17-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142630_english_hls_f4f36f686442022_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142630_english_hls_f4f36f686442022_1ta-di_h264/index.m3u8"
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/131196_english_hls_bad93b466459919_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/131196_english_hls_bad93b466459919_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -194,18 +222,6 @@
             "startTime": "06:00:00 AM 18-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "FC Barcelona vs Real Betis (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131192_5427_BAR_RB_FC-Web.png",
-            "team_1": "FC Barcelona",
-            "team_2": "Real Betis",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "FC Barcelona vs Real Betis",
-            "match_id": 131192,
-            "startTime": "12:45:00 AM 18-05-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Nepal vs Scotland (ICC CWC League 2 Nepal, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png",
@@ -240,18 +256,6 @@
             "match_name": "Papua New Guinea vs Japan",
             "match_id": 142323,
             "startTime": "10:30:00 AM 18-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Zaragoza vs Sporting de Gijón (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1778920809564/142634_CASACARDS_APP.png",
-            "team_1": "Real Zaragoza",
-            "team_2": "Sporting de Gijón",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Zaragoza vs Sporting de Gijón",
-            "match_id": 142634,
-            "startTime": "12:45:00 AM 18-05-2026"
         },
         {
             "event_category": "Football",

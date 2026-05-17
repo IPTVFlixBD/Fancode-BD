@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "04:05:17 PM 17-05-2026",
+    "last update time": "05:06:16 PM 17-05-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs Pakistan (Pakistan tour of Bangladesh, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png",
-            "team_1": "Bangladesh",
-            "team_2": "Pakistan",
-            "status": "LIVE",
-            "event_name": "Pakistan tour of Bangladesh, 2026",
-            "match_name": "Bangladesh vs Pakistan",
-            "match_id": 142161,
-            "startTime": "09:30:00 AM 16-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235974353_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235974353_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Band-e-Amir Region vs Mis-e-Ainak Region (Supercola Regional List A Tournament, 2026)",
@@ -33,17 +19,45 @@
         },
         {
             "event_category": "Cricket",
-            "title": "France Cricket vs Croatia (ICC Men's T20 WC Europe Sub Regional Qualifier A)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142430_6076_CRO_FRA_fc-web.jpg",
-            "team_1": "France Cricket",
-            "team_2": "Croatia",
+            "title": "Bangladesh vs Pakistan (Pakistan tour of Bangladesh, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png",
+            "team_1": "Bangladesh",
+            "team_2": "Pakistan",
             "status": "LIVE",
-            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier A",
-            "match_name": "France Cricket vs Croatia",
-            "match_id": 142430,
-            "startTime": "01:00:00 PM 17-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142430_english_hls_b8ec86217377096_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142430_english_hls_b8ec86217377096_1ta-di_h264/index.m3u8"
+            "event_name": "Pakistan tour of Bangladesh, 2026",
+            "match_name": "Bangladesh vs Pakistan",
+            "match_id": 142161,
+            "startTime": "09:30:00 AM 16-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235974353_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235974353_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sporting Club Delhi vs Inter Kashi (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140514_5956_SCD_KSHI_FC-Web_1772964305717.jpg",
+            "team_1": "Sporting Club Delhi",
+            "team_2": "Inter Kashi",
+            "status": "LIVE",
+            "event_name": "ISL 2025-26",
+            "match_name": "Sporting Club Delhi vs Inter Kashi",
+            "match_id": 140514,
+            "startTime": "05:00:00 PM 17-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/140514_english_hls_2f11c5d02f67335_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/140514_english_hls_2f11c5d02f67335_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "DPR Korea Women vs Japan Women (AFC U17 Women's Asian Cup China 2026)",
+            "src": "https://images.fancode.com/aig/match/v1778774608920/142256_CASACARDS_APP.png",
+            "team_1": "DPR Korea Women",
+            "team_2": "Japan Women",
+            "status": "LIVE",
+            "event_name": "AFC U17 Women's Asian Cup China 2026",
+            "match_name": "DPR Korea Women vs Japan Women",
+            "match_id": 142256,
+            "startTime": "05:00:00 PM 17-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142256_english_hls_c4f89821aa61991_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142256_english_hls_c4f89821aa61991_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "MotoGP",
@@ -58,6 +72,48 @@
             "startTime": "02:30:00 PM 17-05-2026",
             "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/139944_english_hls_f0761ee15079793_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/139944_english_hls_f0761ee15079793_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4 vs Green Eagle Golf Course, Germany (Amundi German Masters 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg",
+            "team_1": "Day 4",
+            "team_2": "Green Eagle Golf Course, Germany",
+            "status": "LIVE",
+            "event_name": "Amundi German Masters 2026",
+            "match_name": "Day 4",
+            "match_id": 142328,
+            "startTime": "04:30:00 PM 17-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142328_english_hls_638019926218324_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142328_english_hls_638019926218324_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 1 - Main Feed vs Hamburg (ATP 500 - Bitpanda Hamburg Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png",
+            "team_1": "Day 1 - Main Feed",
+            "team_2": "Hamburg",
+            "status": "LIVE",
+            "event_name": "ATP 500 - Bitpanda Hamburg Open 2026",
+            "match_name": "Day 1 - Main Feed",
+            "match_id": 142261,
+            "startTime": "05:00:00 PM 17-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142261_english_hls_649061a43666015_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142261_english_hls_649061a43666015_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Spielberg - Day 2 vs Spielberg, Austria (Ferrari Challenge Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
+            "team_1": "Spielberg - Day 2",
+            "team_2": "Spielberg, Austria",
+            "status": "LIVE",
+            "event_name": "Ferrari Challenge Series 2026",
+            "match_name": "Spielberg - Day 2",
+            "match_id": 142637,
+            "startTime": "05:05:00 PM 17-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142637_english_hls_df826df69b30602_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142637_english_hls_df826df69b30602_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -84,18 +140,6 @@
             "startTime": "06:00:00 PM 17-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Sporting Club Delhi vs Inter Kashi (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140514_5956_SCD_KSHI_FC-Web_1772964305717.jpg",
-            "team_1": "Sporting Club Delhi",
-            "team_2": "Inter Kashi",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "Sporting Club Delhi vs Inter Kashi",
-            "match_id": 140514,
-            "startTime": "05:00:00 PM 17-05-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Boost Region vs Amo Region (Supercola Regional List A Tournament, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
@@ -106,18 +150,6 @@
             "match_name": "Boost Region vs Amo Region",
             "match_id": 142740,
             "startTime": "10:00:00 AM 18-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "DPR Korea Women vs Japan Women (AFC U17 Women's Asian Cup China 2026)",
-            "src": "https://images.fancode.com/aig/match/v1778774608920/142256_CASACARDS_APP.png",
-            "team_1": "DPR Korea Women",
-            "team_2": "Japan Women",
-            "status": "UPCOMING",
-            "event_name": "AFC U17 Women's Asian Cup China 2026",
-            "match_name": "DPR Korea Women vs Japan Women",
-            "match_id": 142256,
-            "startTime": "05:00:00 PM 17-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -324,42 +356,6 @@
             "startTime": "12:45:00 AM 18-05-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 4 vs Green Eagle Golf Course, Germany (Amundi German Masters 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Amundi-German-Masters_fc-web.jpg",
-            "team_1": "Day 4",
-            "team_2": "Green Eagle Golf Course, Germany",
-            "status": "UPCOMING",
-            "event_name": "Amundi German Masters 2026",
-            "match_name": "Day 4",
-            "match_id": 142328,
-            "startTime": "04:30:00 PM 17-05-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 1 - Main Feed vs Hamburg (ATP 500 - Bitpanda Hamburg Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778731390482.png",
-            "team_1": "Day 1 - Main Feed",
-            "team_2": "Hamburg",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Bitpanda Hamburg Open 2026",
-            "match_name": "Day 1 - Main Feed",
-            "match_id": 142261,
-            "startTime": "05:00:00 PM 17-05-2026"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Spielberg - Day 2 vs Spielberg, Austria (Ferrari Challenge Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
-            "team_1": "Spielberg - Day 2",
-            "team_2": "Spielberg, Austria",
-            "status": "UPCOMING",
-            "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "Spielberg - Day 2",
-            "match_id": 142637,
-            "startTime": "05:05:00 PM 17-05-2026"
-        },
-        {
             "event_category": "Tennis",
             "title": "Men's Doubles Finals vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
@@ -384,6 +380,18 @@
             "startTime": "05:30:00 PM 17-05-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Kerala Blasters FC vs FC Goa (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140516_5956_KBFC_FCG_FC-Web_1772478295068.jpg",
+            "team_1": "Kerala Blasters FC",
+            "team_2": "FC Goa",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "Kerala Blasters FC vs FC Goa",
+            "match_id": 140516,
+            "startTime": "07:30:00 PM 18-05-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "Finals: J. Sinner vs C. Ruud vs Rome, Italy (ATP Masters Internazionali BNL d'Italia 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Casper-Ruud-vs-Luciano-Darderi_fc-web_1779011889906.jpg",
@@ -406,18 +414,6 @@
             "match_name": "Day 4",
             "match_id": 142630,
             "startTime": "10:30:00 PM 17-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Kerala Blasters FC vs FC Goa (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140516_5956_KBFC_FCG_FC-Web_1772478295068.jpg",
-            "team_1": "Kerala Blasters FC",
-            "team_2": "FC Goa",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "Kerala Blasters FC vs FC Goa",
-            "match_id": 140516,
-            "startTime": "07:30:00 PM 18-05-2026"
         },
         {
             "event_category": "Tennis",

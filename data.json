@@ -1,64 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "03:29:01 AM 24-05-2026",
+    "last update time": "04:29:42 AM 24-05-2026",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Day 3 - World Feed vs TPC Craig Ranch - McKinney, Texas (The CJ Cup Byron Nelson 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-CJ-Cup-Byron-Nelson-2026-old-match-card-.png",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "TPC Craig Ranch - McKinney, Texas",
-            "status": "LIVE",
-            "event_name": "The CJ Cup Byron Nelson 2026",
-            "match_name": "Day 3 - World Feed",
-            "match_id": 142124,
-            "startTime": "10:30:00 PM 23-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142124_english_hls_71772cc91170050_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142124_english_hls_71772cc91170050_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Reverse Grid Race vs Montreal (F1 ACADEMY CANADA 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1779115174828.jpg",
-            "team_1": "Reverse Grid Race",
-            "team_2": "Montreal",
-            "status": "LIVE",
-            "event_name": "F1 ACADEMY CANADA 2026",
-            "match_name": "Reverse Grid Race",
-            "match_id": 139687,
-            "startTime": "03:35:00 AM 24-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/139687_english_hls_795a85a29c90917_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/139687_english_hls_795a85a29c90917_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Getafe CF vs CA Osasuna (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131204_5427_GEF_OSN_FC-Web.png",
-            "team_1": "Getafe CF",
-            "team_2": "CA Osasuna",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Getafe CF vs CA Osasuna",
-            "match_id": 131204,
-            "startTime": "12:30:00 AM 24-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/131204_english_hls_c99f54029f10838_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/131204_english_hls_c99f54029f10838_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "RC Celta vs Sevilla FC (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131202_5427_CEV_SEV_FC-Web.png",
-            "team_1": "RC Celta",
-            "team_2": "Sevilla FC",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "RC Celta vs Sevilla FC",
-            "match_id": 131202,
-            "startTime": "12:30:00 AM 24-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/131202_english_hls_64268336ae74684_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/131202_english_hls_64268336ae74684_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Boost Region vs Speen Ghar Region (Supercola Regional List A Tournament, 2026)",
@@ -178,6 +122,18 @@
             "match_name": "Bolton Wanderers vs Stockport County",
             "match_id": 142735,
             "startTime": "05:30:00 PM 24-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Band-e-Amir Region vs Amo Region (Supercola Regional List A Tournament, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
+            "team_1": "Band-e-Amir Region",
+            "team_2": "Amo Region",
+            "status": "UPCOMING",
+            "event_name": "Supercola Regional List A Tournament, 2026",
+            "match_name": "Band-e-Amir Region vs Amo Region",
+            "match_id": 142747,
+            "startTime": "10:00:00 AM 25-05-2026"
         },
         {
             "event_category": "Motorsports",
@@ -336,18 +292,6 @@
             "startTime": "06:35:00 PM 24-05-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Band-e-Amir Region vs Amo Region (Supercola Regional List A Tournament, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercola-Regional-List-A-Tournament,-2026_FC-WEB_1779005924089.jpg",
-            "team_1": "Band-e-Amir Region",
-            "team_2": "Amo Region",
-            "status": "UPCOMING",
-            "event_name": "Supercola Regional List A Tournament, 2026",
-            "match_name": "Band-e-Amir Region vs Amo Region",
-            "match_id": 142747,
-            "startTime": "10:00:00 AM 25-05-2026"
-        },
-        {
             "event_category": "Motorsports",
             "title": "Feature Race vs Montreal (F1 ACADEMY CANADA 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1779115174828.jpg",
@@ -384,18 +328,6 @@
             "startTime": "10:30:00 PM 24-05-2026"
         },
         {
-            "event_category": "Formula 1",
-            "title": "Race vs Canada (F1 LENOVO GRAND PRIX DU CANADA 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web_1779186565976.jpg",
-            "team_1": "Race",
-            "team_2": "Canada",
-            "status": "UPCOMING",
-            "event_name": "F1 LENOVO GRAND PRIX DU CANADA 2026",
-            "match_name": "Race",
-            "match_id": 139446,
-            "startTime": "01:30:00 AM 25-05-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sri Lanka A Women vs New Zealand A Women (New Zealand Women’s A tour of Sri Lanka, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1778255679175.png",
@@ -406,6 +338,18 @@
             "match_name": "Sri Lanka A Women vs New Zealand A Women",
             "match_id": 142514,
             "startTime": "10:00:00 AM 25-05-2026"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Race vs Canada (F1 LENOVO GRAND PRIX DU CANADA 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Canada_web_1779186565976.jpg",
+            "team_1": "Race",
+            "team_2": "Canada",
+            "status": "UPCOMING",
+            "event_name": "F1 LENOVO GRAND PRIX DU CANADA 2026",
+            "match_name": "Race",
+            "match_id": 139446,
+            "startTime": "01:30:00 AM 25-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -430,6 +374,54 @@
             "match_name": "Botswana vs Cameroon",
             "match_id": 142914,
             "startTime": "01:00:00 PM 25-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kenya vs Rwanda (ICC Men's T20 WC Africa Sub Regional Qualifier)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
+            "team_1": "Kenya",
+            "team_2": "Rwanda",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier",
+            "match_name": "Kenya vs Rwanda",
+            "match_id": 142913,
+            "startTime": "01:00:00 PM 25-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mali vs Ivory Coast (ICC Men's T20 WC Africa Sub Regional Qualifier)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
+            "team_1": "Mali",
+            "team_2": "Ivory Coast",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier",
+            "match_name": "Mali vs Ivory Coast",
+            "match_id": 142915,
+            "startTime": "05:20:00 PM 25-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Bhutan Women vs Nepal Women (SAFF Women's Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Bhutan Women",
+            "team_2": "Nepal Women",
+            "status": "UPCOMING",
+            "event_name": "SAFF Women's Championship 2026",
+            "match_name": "Bhutan Women vs Nepal Women",
+            "match_id": 142935,
+            "startTime": "04:30:00 PM 25-05-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Chatrier Court vs France (Roland Garros 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "team_1": "Chatrier Court",
+            "team_2": "France",
+            "status": "UPCOMING",
+            "event_name": "Roland Garros 2026",
+            "match_name": "Chatrier Court",
+            "match_id": 142653,
+            "startTime": "02:30:00 PM 25-05-2026"
         }
     ]
 }

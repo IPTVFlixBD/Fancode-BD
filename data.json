@@ -1,19 +1,77 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:08:33 AM 26-05-2026",
+    "last update time": "02:20:51 PM 26-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Rwanda vs Mali (ICC Men's T20 WC Africa Sub Regional Qualifier)",
+            "title": "Mali vs Rwanda (ICC Men's T20 WC Africa Sub Regional Qualifier)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
-            "team_1": "Rwanda",
-            "team_2": "Mali",
-            "status": "UPCOMING",
+            "team_1": "Mali",
+            "team_2": "Rwanda",
+            "status": "LIVE",
             "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier",
-            "match_name": "Rwanda vs Mali",
+            "match_name": "Mali vs Rwanda",
             "match_id": 142916,
-            "startTime": "01:00:00 PM 26-05-2026"
+            "startTime": "01:00:00 PM 26-05-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142916_english_hls_53f05877f592480_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142916_english_hls_53f05877f592480_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court Suzanne-Lenglen vs Stade Roland Garros Paris, France (Roland Garros 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "team_1": "Court Suzanne-Lenglen",
+            "team_2": "Stade Roland Garros Paris, France",
+            "status": "LIVE",
+            "event_name": "Roland Garros 2026",
+            "match_name": "Court Suzanne-Lenglen",
+            "match_id": 142656,
+            "startTime": "02:30:00 PM 26-05-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2094589/RG26FCCSL/master_mdh.m3u8?hdnea=exp=1779828646~acl=/*~id=99991022676578306908170852792527~hmac=15d2294f1eeba68ea1c000dede67aac53a72022479ca13c0c7c882605b72069c"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court Simonne-Mathieu vs Stade Roland Garros Paris, France (Roland Garros 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "team_1": "Court Simonne-Mathieu",
+            "team_2": "Stade Roland Garros Paris, France",
+            "status": "LIVE",
+            "event_name": "Roland Garros 2026",
+            "match_name": "Court Simonne-Mathieu",
+            "match_id": 142655,
+            "startTime": "02:30:00 PM 26-05-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/WXZSUDTrR_qEtB80K6n8fg/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/RG26FCSMC/master_mdh.m3u8?hdnea=exp=1779828646~acl=/*~id=99991022676578306908170852792527~hmac=15d2294f1eeba68ea1c000dede67aac53a72022479ca13c0c7c882605b72069c"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court 14 vs Stade Roland Garros Paris, France (Roland Garros 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "team_1": "Court 14",
+            "team_2": "Stade Roland Garros Paris, France",
+            "status": "LIVE",
+            "event_name": "Roland Garros 2026",
+            "match_name": "Court 14",
+            "match_id": 142654,
+            "startTime": "02:30:00 PM 26-05-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/rim5HfGeSVWCfnD_0YwbPA/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/RG26FCC14/master_mdh.m3u8?hdnea=exp=1779828646~acl=/*~id=99991022676578306908170852792527~hmac=15d2294f1eeba68ea1c000dede67aac53a72022479ca13c0c7c882605b72069c"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Top seeds in action vs Stade Roland Garros Paris, France (Roland Garros 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "team_1": "Top seeds in action",
+            "team_2": "Stade Roland Garros Paris, France",
+            "status": "LIVE",
+            "event_name": "Roland Garros 2026",
+            "match_name": "Top seeds in action",
+            "match_id": 142952,
+            "startTime": "02:30:00 PM 26-05-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/Y6jP_z0zQdaO-bhFCEf5EQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1779828646~acl=/*~id=99991022676578306908170852792527~hmac=15d2294f1eeba68ea1c000dede67aac53a72022479ca13c0c7c882605b72069c"
         },
         {
             "event_category": "Cricket",
@@ -54,7 +112,7 @@
         {
             "event_category": "Cricket",
             "title": "Ireland vs New Zealand (New Zealand tour of Ireland, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1779685144758/142980_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6)_1779782929363.png",
             "team_1": "Ireland",
             "team_2": "New Zealand",
             "status": "UPCOMING",
@@ -62,54 +120,6 @@
             "match_name": "Ireland vs New Zealand",
             "match_id": 142980,
             "startTime": "03:30:00 PM 27-05-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court Suzanne-Lenglen vs Stade Roland Garros Paris, France (Roland Garros 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "team_1": "Court Suzanne-Lenglen",
-            "team_2": "Stade Roland Garros Paris, France",
-            "status": "UPCOMING",
-            "event_name": "Roland Garros 2026",
-            "match_name": "Court Suzanne-Lenglen",
-            "match_id": 142656,
-            "startTime": "02:30:00 PM 26-05-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court Simonne-Mathieu vs Stade Roland Garros Paris, France (Roland Garros 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "team_1": "Court Simonne-Mathieu",
-            "team_2": "Stade Roland Garros Paris, France",
-            "status": "UPCOMING",
-            "event_name": "Roland Garros 2026",
-            "match_name": "Court Simonne-Mathieu",
-            "match_id": 142655,
-            "startTime": "02:30:00 PM 26-05-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court 14 vs Stade Roland Garros Paris, France (Roland Garros 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "team_1": "Court 14",
-            "team_2": "Stade Roland Garros Paris, France",
-            "status": "UPCOMING",
-            "event_name": "Roland Garros 2026",
-            "match_name": "Court 14",
-            "match_id": 142654,
-            "startTime": "02:30:00 PM 26-05-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Top seeds in action vs Stade Roland Garros Paris, France (Roland Garros 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "team_1": "Top seeds in action",
-            "team_2": "Stade Roland Garros Paris, France",
-            "status": "UPCOMING",
-            "event_name": "Roland Garros 2026",
-            "match_name": "Top seeds in action",
-            "match_id": 142952,
-            "startTime": "02:30:00 PM 26-05-2026"
         },
         {
             "event_category": "Tennis",
@@ -122,6 +132,18 @@
             "match_name": "Court Philippe-Chatrier",
             "match_id": 142657,
             "startTime": "03:30:00 PM 26-05-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Men's Doubles ft. India vs Stade Roland Garros Paris, France (Roland Garros 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "team_1": "Men's Doubles ft. India",
+            "team_2": "Stade Roland Garros Paris, France",
+            "status": "UPCOMING",
+            "event_name": "Roland Garros 2026",
+            "match_name": "Men's Doubles ft. India",
+            "match_id": 143030,
+            "startTime": "05:30:00 PM 26-05-2026"
         },
         {
             "event_category": "Tennis",
@@ -186,7 +208,7 @@
         {
             "event_category": "Football",
             "title": "India vs Jamaica (Unity Cup 2026)",
-            "src": "https://images.fancode.com/aig/match/v1779701329939/142667_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/India-vs-Jamaica_fc-web.jpg",
             "team_1": "India",
             "team_2": "Jamaica",
             "status": "UPCOMING",
@@ -232,18 +254,6 @@
             "startTime": "05:20:00 PM 28-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Sri Lanka Women vs Bhutan Women (SAFF Women's Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142937_6089_SLW_BTW_FC-Web_1779706388726.jpg",
-            "team_1": "Sri Lanka Women",
-            "team_2": "Bhutan Women",
-            "status": "UPCOMING",
-            "event_name": "SAFF Women's Championship 2026",
-            "match_name": "Sri Lanka Women vs Bhutan Women",
-            "match_id": 142937,
-            "startTime": "04:30:00 PM 28-05-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Scotland Women vs Netherlands Women (Scotland Women's T20I Tri-Series 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -254,6 +264,18 @@
             "match_name": "Scotland Women vs Netherlands Women",
             "match_id": 143002,
             "startTime": "05:30:00 PM 28-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sri Lanka Women vs Bhutan Women (SAFF Women's Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142937_6089_SLW_BTW_FC-Web_1779706388726.jpg",
+            "team_1": "Sri Lanka Women",
+            "team_2": "Bhutan Women",
+            "status": "UPCOMING",
+            "event_name": "SAFF Women's Championship 2026",
+            "match_name": "Sri Lanka Women vs Bhutan Women",
+            "match_id": 142937,
+            "startTime": "04:30:00 PM 28-05-2026"
         },
         {
             "event_category": "Tennis",
@@ -412,6 +434,18 @@
             "startTime": "01:00:00 PM 29-05-2026"
         },
         {
+            "event_category": "MotoGP",
+            "title": "Day 1 vs Mugello (BREMBO GRAND PRIX OF ITALY 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BREMBO-GRAND-PRIX-OF-ITALY-2026-old.png",
+            "team_1": "Day 1",
+            "team_2": "Mugello",
+            "status": "UPCOMING",
+            "event_name": "BREMBO GRAND PRIX OF ITALY 2026",
+            "match_name": "Italy GP",
+            "match_id": 139945,
+            "startTime": "12:30:00 PM 29-05-2026"
+        },
+        {
             "event_category": "Cricket",
             "title": "Botswana vs Kenya (ICC Men's T20 WC Africa Sub Regional Qualifier)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1779232457452.png",
@@ -445,30 +479,6 @@
             "event_name": "Roland Garros 2026",
             "match_name": "Court Philippe-Chatrier",
             "match_id": 142679,
-            "startTime": "02:30:00 PM 29-05-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court Simonne-Mathieu vs Stade Roland Garros Paris, France (Roland Garros 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "team_1": "Court Simonne-Mathieu",
-            "team_2": "Stade Roland Garros Paris, France",
-            "status": "UPCOMING",
-            "event_name": "Roland Garros 2026",
-            "match_name": "Court Simonne-Mathieu",
-            "match_id": 142678,
-            "startTime": "02:30:00 PM 29-05-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court 14 vs Stade Roland Garros Paris, France (Roland Garros 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "team_1": "Court 14",
-            "team_2": "Stade Roland Garros Paris, France",
-            "status": "UPCOMING",
-            "event_name": "Roland Garros 2026",
-            "match_name": "Court 14",
-            "match_id": 142677,
             "startTime": "02:30:00 PM 29-05-2026"
         }
     ]

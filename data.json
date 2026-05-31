@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "01:21:04 AM 01-06-2026",
+    "last update time": "02:11:54 AM 01-06-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Deportivo La Coruna vs Las Palmas (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1779951738033/143171_CASACARDS_APP.png",
-            "team_1": "Deportivo La Coruna",
-            "team_2": "Las Palmas",
-            "status": "LIVE",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Deportivo La Coruna vs Las Palmas",
-            "match_id": 143171,
-            "startTime": "10:00:00 PM 31-05-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143171_english_hls_1c4c4df3be36924_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143171_english_hls_1c4c4df3be36924_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Leganés vs Mirandés (LALIGA Hypermotion 2025-26)",
@@ -313,13 +299,13 @@
         },
         {
             "event_category": "Football",
-            "title": "TBC vs TBC (SAFF Women's Championship 2026)",
+            "title": "Nepal Women vs Bangladesh Women (SAFF Women's Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Nepal Women",
+            "team_2": "Bangladesh Women",
             "status": "UPCOMING",
             "event_name": "SAFF Women's Championship 2026",
-            "match_name": "TBC vs TBC",
+            "match_name": "Nepal Women vs Bangladesh Women",
             "match_id": 142941,
             "startTime": "04:00:00 PM 03-06-2026"
         },
@@ -433,13 +419,13 @@
         },
         {
             "event_category": "Football",
-            "title": "TBC vs TBC (SAFF Women's Championship 2026)",
+            "title": "India Women vs Bhutan Women (SAFF Women's Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "India Women",
+            "team_2": "Bhutan Women",
             "status": "UPCOMING",
             "event_name": "SAFF Women's Championship 2026",
-            "match_name": "TBC vs TBC",
+            "match_name": "India Women vs Bhutan Women",
             "match_id": 142942,
             "startTime": "08:00:00 PM 03-06-2026"
         },
@@ -466,6 +452,18 @@
             "match_name": "Chambal Ghariyals Women vs Gwalior Shernis",
             "match_id": 143018,
             "startTime": "10:00:00 AM 04-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Southern Spartans vs Northern Challengers (Big Cricket League Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142985_6094_SS_NC_FC-WEB.jpg",
+            "team_1": "Southern Spartans",
+            "team_2": "Northern Challengers",
+            "status": "UPCOMING",
+            "event_name": "Big Cricket League Season 2",
+            "match_name": "Southern Spartans vs Northern Challengers",
+            "match_id": 142985,
+            "startTime": "02:00:00 PM 04-06-2026"
         }
     ]
 }

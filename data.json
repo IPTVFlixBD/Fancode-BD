@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "04:37:12 AM 07-06-2026",
+    "last update time": "05:37:49 AM 07-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Canada vs USA (ICC CWC League 2 Canada, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143195_6110_CAN_USA_fc-web.jpg",
-            "team_1": "Canada",
-            "team_2": "USA",
-            "status": "LIVE",
-            "event_name": "ICC CWC League 2 Canada, 2026",
-            "match_name": "Canada vs USA",
-            "match_id": 143195,
-            "startTime": "08:00:00 PM 06-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143195_english_hls_d56a38bf9036406_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143195_english_hls_d56a38bf9036406_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka vs West Indies (Sri Lanka tour of West Indies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png",
-            "team_1": "Sri Lanka",
-            "team_2": "West Indies",
-            "status": "LIVE",
-            "event_name": "Sri Lanka tour of West Indies 2026",
-            "match_name": "Sri Lanka vs West Indies",
-            "match_id": 142973,
-            "startTime": "01:00:00 AM 07-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142973_english_hls_44ad6699648919_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142973_english_hls_44ad6699648919_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Brazil vs Egypt (International Friendlies 2026)",
@@ -46,6 +18,20 @@
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/141609_english_hls_2b2c8f45aa40424_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Argentina vs Honduras (International Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143342_6020_ARG_HON_FC-WEB.jpg",
+            "team_1": "Argentina",
+            "team_2": "Honduras",
+            "status": "LIVE",
+            "event_name": "International Friendlies 2026",
+            "match_name": "Argentina vs Honduras",
+            "match_id": 143342,
+            "startTime": "05:30:00 AM 07-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143342_english_hls_16aa2d5d3437141_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143342_english_hls_16aa2d5d3437141_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 3 vs Riviera Golf Course (US Women's Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1780397699490.png",
@@ -58,6 +44,20 @@
             "startTime": "02:30:00 AM 07-06-2026",
             "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143231_english_hls_85d30d137347152_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143231_english_hls_85d30d137347152_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Canada vs USA (ICC CWC League 2 Canada, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143195_6110_CAN_USA_fc-web.jpg",
+            "team_1": "Canada",
+            "team_2": "USA",
+            "status": "LIVE",
+            "event_name": "ICC CWC League 2 Canada, 2026",
+            "match_name": "Canada vs USA",
+            "match_id": 143195,
+            "startTime": "08:00:00 PM 06-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143195_english_hls_d56a38bf9036406_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143195_english_hls_d56a38bf9036406_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -97,18 +97,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "India vs Afghanistan (Afghanistan tour of India, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_Web-match-card-(1).png",
-            "team_1": "India",
-            "team_2": "Afghanistan",
-            "status": "PAUSED",
-            "event_name": "Afghanistan tour of India, 2026",
-            "match_name": "India vs Afghanistan",
-            "match_id": 143243,
-            "startTime": "09:30:00 AM 06-06-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Antwerp Anchors vs Akcel United Brussels (EUT20 Belgium, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143152_6108_AA_AUB_FC-Web.png",
             "team_1": "Antwerp Anchors",
@@ -120,16 +108,16 @@
             "startTime": "08:00:00 PM 07-06-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Argentina vs Honduras (International Friendlies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143342_6020_ARG_HON_FC-WEB.jpg",
-            "team_1": "Argentina",
-            "team_2": "Honduras",
-            "status": "UPCOMING",
-            "event_name": "International Friendlies 2026",
-            "match_name": "Argentina vs Honduras",
-            "match_id": 143342,
-            "startTime": "05:30:00 AM 07-06-2026"
+            "event_category": "Cricket",
+            "title": "India vs Afghanistan (Afghanistan tour of India, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_Web-match-card-(1).png",
+            "team_1": "India",
+            "team_2": "Afghanistan",
+            "status": "PAUSED",
+            "event_name": "Afghanistan tour of India, 2026",
+            "match_name": "India vs Afghanistan",
+            "match_id": 143243,
+            "startTime": "09:30:00 AM 06-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -324,18 +312,6 @@
             "startTime": "07:30:00 PM 07-06-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "World Feed - Day 4 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
-            "team_1": "World Feed - Day 4",
-            "team_2": "Muirfield Village Golf Club - Dublin, Ohio ",
-            "status": "UPCOMING",
-            "event_name": "the Memorial Tournament presented by Workday 2026",
-            "match_name": "World Feed - Day 4",
-            "match_id": 143049,
-            "startTime": "10:00:00 PM 07-06-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Bundelkhand Bulls Women vs Chambal Ghariyals Women (Madhya Pradesh League T20 Women's 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
@@ -346,6 +322,18 @@
             "match_name": "Bundelkhand Bulls Women vs Chambal Ghariyals Women",
             "match_id": 143025,
             "startTime": "09:30:00 AM 08-06-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed - Day 4 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
+            "team_1": "World Feed - Day 4",
+            "team_2": "Muirfield Village Golf Club - Dublin, Ohio ",
+            "status": "UPCOMING",
+            "event_name": "the Memorial Tournament presented by Workday 2026",
+            "match_name": "World Feed - Day 4",
+            "match_id": 143049,
+            "startTime": "10:00:00 PM 07-06-2026"
         },
         {
             "event_category": "Golf",

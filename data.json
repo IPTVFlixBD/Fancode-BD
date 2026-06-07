@@ -1,8 +1,36 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "01:43:09 PM 07-06-2026",
+    "last update time": "04:05:00 PM 07-06-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "JB Bruges vs Ghent Gladiators (EUT20 Belgium, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143151_6108_JB_GG_FC-Web.png",
+            "team_1": "JB Bruges",
+            "team_2": "Ghent Gladiators",
+            "status": "LIVE",
+            "event_name": "EUT20 Belgium, 2026",
+            "match_name": "JB Bruges vs Ghent Gladiators",
+            "match_id": 143151,
+            "startTime": "04:00:00 PM 07-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143151_english_hls_6b6ef54f7c8233_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143151_english_hls_6b6ef54f7c8233_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Gujarat Diamonds vs Southern Spartans (Big Cricket League Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142991_6094_GD_SS_FC-WEB_1780318028373.jpg",
+            "team_1": "Gujarat Diamonds",
+            "team_2": "Southern Spartans",
+            "status": "LIVE",
+            "event_name": "Big Cricket League Season 2",
+            "match_name": "Gujarat Diamonds vs Southern Spartans",
+            "match_id": 142991,
+            "startTime": "02:00:00 PM 07-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142991_english_hls_6dc315e90f83632_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142991_english_hls_6dc315e90f83632_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "India vs Afghanistan (Afghanistan tour of India, 2026)",
@@ -18,18 +46,32 @@
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143243_english_hls_e79ed907e657015_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Feature Race vs Monaco (F2 MONACO 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Australia_web.jpg",
-            "team_1": "Feature Race",
-            "team_2": "Monaco",
+            "event_category": "Cricket",
+            "title": "Malwa Stallions vs Gwalior Cheetahs (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143065_6102_MWS_GC_FC-WEB.jpg",
+            "team_1": "Malwa Stallions",
+            "team_2": "Gwalior Cheetahs",
             "status": "LIVE",
-            "event_name": "F2 MONACO 2026",
-            "match_name": "Feature Race",
-            "match_id": 139557,
-            "startTime": "12:55:00 PM 07-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/139557_english_hls_1a0c3b74e7343_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/139557_english_hls_1a0c3b74e7343_1ta-di_h264/index.m3u8"
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Malwa Stallions vs Gwalior Cheetahs",
+            "match_id": 143065,
+            "startTime": "02:30:00 PM 07-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143065_english_hls_0e4e8062e253510_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143065_english_hls_0e4e8062e253510_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Royal Nimar Eagles vs Chambal Ghariyals (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143066_6102_RNG_CGS_FC-WEB.jpg",
+            "team_1": "Royal Nimar Eagles",
+            "team_2": "Chambal Ghariyals",
+            "status": "LIVE",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Royal Nimar Eagles vs Chambal Ghariyals",
+            "match_id": 143066,
+            "startTime": "03:00:00 PM 07-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143066_english_hls_a517307c289052_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143066_english_hls_a517307c289052_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "MotoGP",
@@ -46,28 +88,32 @@
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/139950_english_hls_3861e2ceab6114_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Gujarat Diamonds vs Southern Spartans (Big Cricket League Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142991_6094_GD_SS_FC-WEB_1780318028373.jpg",
-            "team_1": "Gujarat Diamonds",
-            "team_2": "Southern Spartans",
-            "status": "UPCOMING",
-            "event_name": "Big Cricket League Season 2",
-            "match_name": "Gujarat Diamonds vs Southern Spartans",
-            "match_id": 142991,
-            "startTime": "02:00:00 PM 07-06-2026"
+            "event_category": "Tennis",
+            "title": "Women's Doubles Finals vs Paris (Roland Garros 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
+            "team_1": "Women's Doubles Finals",
+            "team_2": "Paris",
+            "status": "LIVE",
+            "event_name": "Roland Garros 2026",
+            "match_name": "Women's Doubles Finals",
+            "match_id": 142732,
+            "startTime": "02:30:00 PM 07-06-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/Y6jP_z0zQdaO-bhFCEf5EQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1780865621~acl=/*~id=34516489196898747443072215654791~hmac=fbfe6ff51cba969ab8508b9274aeac903683dca87a6f7873700de3f571dbbc50"
         },
         {
-            "event_category": "Cricket",
-            "title": "JB Bruges vs Ghent Gladiators (EUT20 Belgium, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143151_6108_JB_GG_FC-Web.png",
-            "team_1": "JB Bruges",
-            "team_2": "Ghent Gladiators",
-            "status": "UPCOMING",
-            "event_name": "EUT20 Belgium, 2026",
-            "match_name": "JB Bruges vs Ghent Gladiators",
-            "match_id": 143151,
-            "startTime": "04:00:00 PM 07-06-2026"
+            "event_category": "Motorsports",
+            "title": "Race - Monaco vs Monaco (Porsche Mobil 1 Supercup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Monte_carlo_Match_card_MRF_Old_match-card.jpg",
+            "team_1": "Race - Monaco",
+            "team_2": "Monaco",
+            "status": "LIVE",
+            "event_name": "Porsche Mobil 1 Supercup 2026",
+            "match_name": "Race - Monaco",
+            "match_id": 143235,
+            "startTime": "03:15:00 PM 07-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143235_english_hls_04ddcc2a1617597_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143235_english_hls_04ddcc2a1617597_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -92,30 +138,6 @@
             "match_name": "Antwerp Anchors vs Akcel United Brussels",
             "match_id": 143152,
             "startTime": "08:00:00 PM 07-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malwa Stallions vs Gwalior Cheetahs (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143065_6102_MWS_GC_FC-WEB.jpg",
-            "team_1": "Malwa Stallions",
-            "team_2": "Gwalior Cheetahs",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Malwa Stallions vs Gwalior Cheetahs",
-            "match_id": 143065,
-            "startTime": "02:30:00 PM 07-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Royal Nimar Eagles vs Chambal Ghariyals (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143066_6102_RNG_CGS_FC-WEB.jpg",
-            "team_1": "Royal Nimar Eagles",
-            "team_2": "Chambal Ghariyals",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Royal Nimar Eagles vs Chambal Ghariyals",
-            "match_id": 143066,
-            "startTime": "03:00:00 PM 07-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -154,30 +176,6 @@
             "startTime": "09:30:00 AM 08-06-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Grand Finale vs TBC (Indian Super Gaming League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
-            "team_1": "Grand Finale",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Indian Super Gaming League 2026",
-            "match_name": "Grand Finale",
-            "match_id": 141524,
-            "startTime": "02:00:00 PM 07-06-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court Philippe-Chatrier vs Paris (Roland Garros 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "team_1": "Court Philippe-Chatrier",
-            "team_2": "Paris",
-            "status": "UPCOMING",
-            "event_name": "Roland Garros 2026",
-            "match_name": "Court Philippe-Chatrier",
-            "match_id": 142732,
-            "startTime": "02:30:00 PM 07-06-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "JB Bruges vs Liege Red Lions (EUT20 Belgium, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143153_6108_JB_LRL_FC-Web.png",
@@ -188,6 +186,18 @@
             "match_name": "JB Bruges vs Liege Red Lions",
             "match_id": 143153,
             "startTime": "04:00:00 PM 08-06-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed - Day 4 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
+            "team_1": "Main Feed - Day 4",
+            "team_2": "Muirfield Village Golf Club - Dublin, Ohio ",
+            "status": "UPCOMING",
+            "event_name": "the Memorial Tournament presented by Workday 2026",
+            "match_name": "Main Feed - Day 4",
+            "match_id": 143115,
+            "startTime": "05:00:00 PM 07-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -226,28 +236,28 @@
             "startTime": "07:00:00 PM 08-06-2026"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Race - Monaco vs Monaco (Porsche Mobil 1 Supercup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Monte_carlo_Match_card_MRF_Old_match-card.jpg",
-            "team_1": "Race - Monaco",
-            "team_2": "Monaco",
+            "event_category": "Cricket",
+            "title": "Antwerp Anchors vs Ghent Gladiators (EUT20 Belgium, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143154_6108_AA_GG_FC-Web.png",
+            "team_1": "Antwerp Anchors",
+            "team_2": "Ghent Gladiators",
             "status": "UPCOMING",
-            "event_name": "Porsche Mobil 1 Supercup 2026",
-            "match_name": "Race - Monaco",
-            "match_id": 143235,
-            "startTime": "03:15:00 PM 07-06-2026"
+            "event_name": "EUT20 Belgium, 2026",
+            "match_name": "Antwerp Anchors vs Ghent Gladiators",
+            "match_id": 143154,
+            "startTime": "08:00:00 PM 08-06-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 4 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
-            "team_1": "Main Feed - Day 4",
-            "team_2": "Muirfield Village Golf Club - Dublin, Ohio ",
+            "event_category": "Cricket",
+            "title": "Netherlands vs USA (ICC CWC League 2 Canada, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143196_6110_NED_USA_fc-web.jpg",
+            "team_1": "Netherlands",
+            "team_2": "USA",
             "status": "UPCOMING",
-            "event_name": "the Memorial Tournament presented by Workday 2026",
-            "match_name": "Main Feed - Day 4",
-            "match_id": 143115,
-            "startTime": "05:00:00 PM 07-06-2026"
+            "event_name": "ICC CWC League 2 Canada, 2026",
+            "match_name": "Netherlands vs USA",
+            "match_id": 143196,
+            "startTime": "08:00:00 PM 08-06-2026"
         },
         {
             "event_category": "Motorsports",
@@ -323,30 +333,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Antwerp Anchors vs Ghent Gladiators (EUT20 Belgium, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143154_6108_AA_GG_FC-Web.png",
-            "team_1": "Antwerp Anchors",
-            "team_2": "Ghent Gladiators",
-            "status": "UPCOMING",
-            "event_name": "EUT20 Belgium, 2026",
-            "match_name": "Antwerp Anchors vs Ghent Gladiators",
-            "match_id": 143154,
-            "startTime": "08:00:00 PM 08-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Netherlands vs USA (ICC CWC League 2 Canada, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143196_6110_NED_USA_fc-web.jpg",
-            "team_1": "Netherlands",
-            "team_2": "USA",
-            "status": "UPCOMING",
-            "event_name": "ICC CWC League 2 Canada, 2026",
-            "match_name": "Netherlands vs USA",
-            "match_id": 143196,
-            "startTime": "08:00:00 PM 08-06-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Malwa Stallions vs Indore Pink Panthers (Madhya Pradesh League T20, 2026)",
             "src": "https://images.fancode.com/aig/match/v1780469022390/143070_CASACARDS_APP.png",
             "team_1": "Malwa Stallions",
@@ -392,6 +378,30 @@
             "match_name": "West Indies vs Sri Lanka",
             "match_id": 142974,
             "startTime": "01:00:00 AM 09-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs Australia (Australia tour of Bangladesh, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card.png",
+            "team_1": "Bangladesh",
+            "team_2": "Australia",
+            "status": "UPCOMING",
+            "event_name": "Australia tour of Bangladesh, 2026",
+            "match_name": "Bangladesh vs Australia",
+            "match_id": 142965,
+            "startTime": "10:30:00 AM 09-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Gujarat Diamonds vs MP Tigers (Big Cricket League Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142993_6094_GD_MPT_FC-WEB_1780318028395.jpg",
+            "team_1": "Gujarat Diamonds",
+            "team_2": "MP Tigers",
+            "status": "UPCOMING",
+            "event_name": "Big Cricket League Season 2",
+            "match_name": "Gujarat Diamonds vs MP Tigers",
+            "match_id": 142993,
+            "startTime": "02:00:00 PM 09-06-2026"
         }
     ]
 }

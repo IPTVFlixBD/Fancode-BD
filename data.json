@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "04:05:00 PM 07-06-2026",
+    "last update time": "05:36:12 PM 07-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "02:00:00 PM 07-06-2026",
             "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142991_english_hls_6dc315e90f83632_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142991_english_hls_6dc315e90f83632_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "India vs Afghanistan (Afghanistan tour of India, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_Web-match-card-(1).png",
-            "team_1": "India",
-            "team_2": "Afghanistan",
-            "status": "LIVE",
-            "event_name": "Afghanistan tour of India, 2026",
-            "match_name": "India vs Afghanistan",
-            "match_id": 143243,
-            "startTime": "09:30:00 AM 06-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143243_english_hls_e79ed907e657015_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143243_english_hls_e79ed907e657015_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -89,31 +75,45 @@
         },
         {
             "event_category": "Tennis",
-            "title": "Women's Doubles Finals vs Paris (Roland Garros 2026)",
+            "title": "Court Philippe-Chatrier vs Paris (Roland Garros 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "team_1": "Women's Doubles Finals",
+            "team_1": "Court Philippe-Chatrier",
             "team_2": "Paris",
             "status": "LIVE",
             "event_name": "Roland Garros 2026",
-            "match_name": "Women's Doubles Finals",
+            "match_name": "Court Philippe-Chatrier",
             "match_id": 142732,
             "startTime": "02:30:00 PM 07-06-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/Y6jP_z0zQdaO-bhFCEf5EQ/master.m3u8",
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1780865621~acl=/*~id=34516489196898747443072215654791~hmac=fbfe6ff51cba969ab8508b9274aeac903683dca87a6f7873700de3f571dbbc50"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Race - Monaco vs Monaco (Porsche Mobil 1 Supercup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Monte_carlo_Match_card_MRF_Old_match-card.jpg",
-            "team_1": "Race - Monaco",
+            "event_category": "Golf",
+            "title": "Main Feed - Day 4 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
+            "team_1": "Main Feed - Day 4",
+            "team_2": "Muirfield Village Golf Club - Dublin, Ohio ",
+            "status": "LIVE",
+            "event_name": "the Memorial Tournament presented by Workday 2026",
+            "match_name": "Main Feed - Day 4",
+            "match_id": 143115,
+            "startTime": "05:00:00 PM 07-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143115_english_hls_977c97831d36519_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143115_english_hls_977c97831d36519_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Race vs Monaco (F1 LOUIS VUITTON GRAND PRIX DE MONACO 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1780690493142.png",
+            "team_1": "Race",
             "team_2": "Monaco",
             "status": "LIVE",
-            "event_name": "Porsche Mobil 1 Supercup 2026",
-            "match_name": "Race - Monaco",
-            "match_id": 143235,
-            "startTime": "03:15:00 PM 07-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143235_english_hls_04ddcc2a1617597_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143235_english_hls_04ddcc2a1617597_1ta-di_h264/index.m3u8"
+            "event_name": "F1 LOUIS VUITTON GRAND PRIX DE MONACO 2026",
+            "match_name": "Race",
+            "match_id": 139451,
+            "startTime": "06:30:00 PM 07-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/139451_english_hls_675ec44af239948_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/139451_english_hls_675ec44af239948_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -141,6 +141,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "India vs Afghanistan (Afghanistan tour of India, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-vs-AFG_Web-match-card-(1).png",
+            "team_1": "India",
+            "team_2": "Afghanistan",
+            "status": "PAUSED",
+            "event_name": "Afghanistan tour of India, 2026",
+            "match_name": "India vs Afghanistan",
+            "match_id": 143243,
+            "startTime": "09:30:00 AM 06-06-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Rewa Jaguars vs Bhopal Leopards (Madhya Pradesh League T20, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143067_6102_RW_BL_FC-WEB.jpg",
             "team_1": "Rewa Jaguars",
@@ -165,6 +177,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "JB Bruges vs Liege Red Lions (EUT20 Belgium, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143153_6108_JB_LRL_FC-Web.png",
+            "team_1": "JB Bruges",
+            "team_2": "Liege Red Lions",
+            "status": "UPCOMING",
+            "event_name": "EUT20 Belgium, 2026",
+            "match_name": "JB Bruges vs Liege Red Lions",
+            "match_id": 143153,
+            "startTime": "04:00:00 PM 08-06-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Bundelkhand Bulls Women vs Chambal Ghariyals Women (Madhya Pradesh League T20 Women's 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
             "team_1": "Bundelkhand Bulls Women",
@@ -177,27 +201,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "JB Bruges vs Liege Red Lions (EUT20 Belgium, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143153_6108_JB_LRL_FC-Web.png",
-            "team_1": "JB Bruges",
-            "team_2": "Liege Red Lions",
+            "title": "Southern Spartans vs Northern Challengers (Big Cricket League Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142985_6094_SS_NC_FC-WEB_1780318028391.jpg",
+            "team_1": "Southern Spartans",
+            "team_2": "Northern Challengers",
             "status": "UPCOMING",
-            "event_name": "EUT20 Belgium, 2026",
-            "match_name": "JB Bruges vs Liege Red Lions",
-            "match_id": 143153,
-            "startTime": "04:00:00 PM 08-06-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 4 vs Muirfield Village Golf Club - Dublin, Ohio  (the Memorial Tournament presented by Workday 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Memorial-Tournament_fc-web-v2.jpg",
-            "team_1": "Main Feed - Day 4",
-            "team_2": "Muirfield Village Golf Club - Dublin, Ohio ",
-            "status": "UPCOMING",
-            "event_name": "the Memorial Tournament presented by Workday 2026",
-            "match_name": "Main Feed - Day 4",
-            "match_id": 143115,
-            "startTime": "05:00:00 PM 07-06-2026"
+            "event_name": "Big Cricket League Season 2",
+            "match_name": "Southern Spartans vs Northern Challengers",
+            "match_id": 142985,
+            "startTime": "07:00:00 PM 08-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -212,6 +224,18 @@
             "startTime": "02:30:00 PM 08-06-2026"
         },
         {
+            "event_category": "Motorsports",
+            "title": "F1 Kids 2026 vs Monaco (F1 Kids 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "F1 Kids 2026",
+            "team_2": "Monaco",
+            "status": "UPCOMING",
+            "event_name": "F1 Kids 2026",
+            "match_name": "F1 Kids 2026",
+            "match_id": 143310,
+            "startTime": "06:25:00 PM 07-06-2026"
+        },
+        {
             "event_category": "Cricket",
             "title": "Chambal Ghariyals vs Ujjain Falcons (Madhya Pradesh League T20, 2026)",
             "src": "https://images.fancode.com/aig/match/v1780469022406/143069_CASACARDS_APP.png",
@@ -222,18 +246,6 @@
             "match_name": "Chambal Ghariyals vs Ujjain Falcons",
             "match_id": 143069,
             "startTime": "03:00:00 PM 08-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Southern Spartans vs Northern Challengers (Big Cricket League Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142985_6094_SS_NC_FC-WEB_1780318028391.jpg",
-            "team_1": "Southern Spartans",
-            "team_2": "Northern Challengers",
-            "status": "UPCOMING",
-            "event_name": "Big Cricket League Season 2",
-            "match_name": "Southern Spartans vs Northern Challengers",
-            "match_id": 142985,
-            "startTime": "07:00:00 PM 08-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -260,28 +272,16 @@
             "startTime": "08:00:00 PM 08-06-2026"
         },
         {
-            "event_category": "Motorsports",
-            "title": "F1 Kids 2026 vs Monaco (F1 Kids 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-            "team_1": "F1 Kids 2026",
-            "team_2": "Monaco",
+            "event_category": "Cricket",
+            "title": "Malwa Stallions vs Indore Pink Panthers (Madhya Pradesh League T20, 2026)",
+            "src": "https://images.fancode.com/aig/match/v1780469022390/143070_CASACARDS_APP.png",
+            "team_1": "Malwa Stallions",
+            "team_2": "Indore Pink Panthers",
             "status": "UPCOMING",
-            "event_name": "F1 Kids 2026",
-            "match_name": "F1 Kids 2026",
-            "match_id": 143310,
-            "startTime": "06:25:00 PM 07-06-2026"
-        },
-        {
-            "event_category": "Formula 1",
-            "title": "Race vs Monaco (F1 LOUIS VUITTON GRAND PRIX DE MONACO 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-Match-Card_1780690493142.png",
-            "team_1": "Race",
-            "team_2": "Monaco",
-            "status": "UPCOMING",
-            "event_name": "F1 LOUIS VUITTON GRAND PRIX DE MONACO 2026",
-            "match_name": "Race",
-            "match_id": 139451,
-            "startTime": "06:30:00 PM 07-06-2026"
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Malwa Stallions vs Indore Pink Panthers",
+            "match_id": 143070,
+            "startTime": "07:30:00 PM 08-06-2026"
         },
         {
             "event_category": "Golf",
@@ -333,15 +333,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Malwa Stallions vs Indore Pink Panthers (Madhya Pradesh League T20, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1780469022390/143070_CASACARDS_APP.png",
-            "team_1": "Malwa Stallions",
-            "team_2": "Indore Pink Panthers",
+            "title": "West Indies vs Sri Lanka (Sri Lanka tour of West Indies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png",
+            "team_1": "West Indies",
+            "team_2": "Sri Lanka",
             "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Malwa Stallions vs Indore Pink Panthers",
-            "match_id": 143070,
-            "startTime": "07:30:00 PM 08-06-2026"
+            "event_name": "Sri Lanka tour of West Indies 2026",
+            "match_name": "West Indies vs Sri Lanka",
+            "match_id": 142974,
+            "startTime": "01:00:00 AM 09-06-2026"
         },
         {
             "event_category": "Tennis",
@@ -369,18 +369,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "West Indies vs Sri Lanka (Sri Lanka tour of West Indies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png",
-            "team_1": "West Indies",
-            "team_2": "Sri Lanka",
-            "status": "UPCOMING",
-            "event_name": "Sri Lanka tour of West Indies 2026",
-            "match_name": "West Indies vs Sri Lanka",
-            "match_id": 142974,
-            "startTime": "01:00:00 AM 09-06-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Bangladesh vs Australia (Australia tour of Bangladesh, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card.png",
             "team_1": "Bangladesh",
@@ -402,6 +390,18 @@
             "match_name": "Gujarat Diamonds vs MP Tigers",
             "match_id": 142993,
             "startTime": "02:00:00 PM 09-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Liege Red Lions vs Akcel United Brussels (EUT20 Belgium, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143155_6108_LRL_AUB_FC-Web.png",
+            "team_1": "Liege Red Lions",
+            "team_2": "Akcel United Brussels",
+            "status": "UPCOMING",
+            "event_name": "EUT20 Belgium, 2026",
+            "match_name": "Liege Red Lions vs Akcel United Brussels",
+            "match_id": 143155,
+            "startTime": "04:00:00 PM 09-06-2026"
         }
     ]
 }

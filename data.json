@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:00:48 AM 10-06-2026",
+    "last update time": "07:02:12 AM 10-06-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Argentina vs Iceland (International Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143344_6020_ARG_ICE_FC-WEB.jpg",
+            "team_1": "Argentina",
+            "team_2": "Iceland",
+            "status": "LIVE",
+            "event_name": "International Friendlies 2026",
+            "match_name": "Argentina vs Iceland",
+            "match_id": 143344,
+            "startTime": "06:30:00 AM 10-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143344_english_hls_8095ea56fc50401_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143344_english_hls_8095ea56fc50401_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Ghent Gladiators vs Akcel United Brussels (EUT20 Belgium, 2026)",
@@ -88,18 +102,6 @@
             "startTime": "09:30:00 AM 10-06-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Argentina vs Iceland (International Friendlies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143344_6020_ARG_ICE_FC-WEB.jpg",
-            "team_1": "Argentina",
-            "team_2": "Iceland",
-            "status": "UPCOMING",
-            "event_name": "International Friendlies 2026",
-            "match_name": "Argentina vs Iceland",
-            "match_id": 143344,
-            "startTime": "06:30:00 AM 10-06-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Indore Pink Panthers vs Rewa Jaguars (Madhya Pradesh League T20, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143071_6102_IPP_RW_FC-WEB.jpg",
@@ -148,6 +150,18 @@
             "startTime": "10:30:00 AM 11-06-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Royal Nimar Eagles Women vs Bhopal Wolves Women (Madhya Pradesh League T20 Women's 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
+            "team_1": "Royal Nimar Eagles Women",
+            "team_2": "Bhopal Wolves Women",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League T20 Women's 2026",
+            "match_name": "Royal Nimar Eagles Women vs Bhopal Wolves Women",
+            "match_id": 143027,
+            "startTime": "09:30:00 AM 11-06-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "ATP 250 - Libema Open vs Netherlands (ATP 250 - Libema Open)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
@@ -170,18 +184,6 @@
             "match_name": "ATP 250 - BOSS OPEN 2026",
             "match_id": 143120,
             "startTime": "02:30:00 PM 10-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Royal Nimar Eagles Women vs Bhopal Wolves Women (Madhya Pradesh League T20 Women's 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Madhya-Pradesh-League-T20-Women's_fc-web.jpg",
-            "team_1": "Royal Nimar Eagles Women",
-            "team_2": "Bhopal Wolves Women",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20 Women's 2026",
-            "match_name": "Royal Nimar Eagles Women vs Bhopal Wolves Women",
-            "match_id": 143027,
-            "startTime": "09:30:00 AM 11-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -256,6 +258,18 @@
             "startTime": "08:00:00 PM 11-06-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Gwalior Cheetahs vs Chambal Ghariyals (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143076_6102_GC_CGS_FC-WEB.jpg",
+            "team_1": "Gwalior Cheetahs",
+            "team_2": "Chambal Ghariyals",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Gwalior Cheetahs vs Chambal Ghariyals",
+            "match_id": 143076,
+            "startTime": "07:30:00 PM 11-06-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "ATP 250 - Libema Open vs Netherlands (ATP 250 - Libema Open)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
@@ -278,18 +292,6 @@
             "match_name": "ATP 250 - BOSS OPEN 2026",
             "match_id": 143121,
             "startTime": "02:30:00 PM 11-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Gwalior Cheetahs vs Chambal Ghariyals (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143076_6102_GC_CGS_FC-WEB.jpg",
-            "team_1": "Gwalior Cheetahs",
-            "team_2": "Chambal Ghariyals",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Gwalior Cheetahs vs Chambal Ghariyals",
-            "match_id": 143076,
-            "startTime": "07:30:00 PM 11-06-2026"
         },
         {
             "event_category": "Golf",

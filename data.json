@@ -1,17 +1,17 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "12:27:28 AM 14-06-2026",
+    "last update time": "01:38:36 AM 14-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Gujarat Diamonds vs UP Brij Stars (Big Cricket League Season 2)",
+            "title": "UP Brij Stars vs Gujarat Diamonds (Big Cricket League Season 2)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142989_6094_GD_UPBS_FC-WEB_1780318029134.jpg",
-            "team_1": "Gujarat Diamonds",
-            "team_2": "UP Brij Stars",
+            "team_1": "UP Brij Stars",
+            "team_2": "Gujarat Diamonds",
             "status": "LIVE",
             "event_name": "Big Cricket League Season 2",
-            "match_name": "Gujarat Diamonds vs UP Brij Stars",
+            "match_name": "UP Brij Stars vs Gujarat Diamonds",
             "match_id": 143001,
             "startTime": "07:00:00 PM 13-06-2026",
             "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143001_english_hls_fae7e2e2de58102_1ta-di_h264/index.m3u8",
@@ -113,13 +113,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (EUT20 Belgium, 2026)",
+            "title": "Antwerp Anchors vs Ghent Gladiators (EUT20 Belgium, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Antwerp Anchors",
+            "team_2": "Ghent Gladiators",
             "status": "UPCOMING",
             "event_name": "EUT20 Belgium, 2026",
-            "match_name": "TBC vs TBC",
+            "match_name": "Antwerp Anchors vs Ghent Gladiators",
             "match_id": 143166,
             "startTime": "08:00:00 PM 14-06-2026"
         },
@@ -409,6 +409,30 @@
             "event_name": "ATP 500 - HSBC Championship 2026",
             "match_name": "ATP 500 - HSBC Championship",
             "match_id": 143132,
+            "startTime": "02:30:00 PM 15-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - HSBC Championship vs London, Great Britain (ATP 500 - HSBC Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg",
+            "team_1": "ATP 500 - HSBC Championship",
+            "team_2": "London, Great Britain",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - HSBC Championship 2026",
+            "match_name": "ATP 500 - HSBC Championship",
+            "match_id": 143135,
+            "startTime": "02:30:00 PM 15-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - Terra Wortmann Open 2026 vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+            "team_1": "ATP 500 - Terra Wortmann Open 2026",
+            "team_2": "Halle, Germany",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_id": 143254,
             "startTime": "02:30:00 PM 15-06-2026"
         }
     ]

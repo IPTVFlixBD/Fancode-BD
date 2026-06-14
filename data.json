@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "03:27:12 PM 14-06-2026",
+    "last update time": "05:28:24 PM 14-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,20 +33,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Amritsar Alligators vs Ludhiana Lions (Punjab T10 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143031_6095_AAL_LLI_fc-web.jpg",
-            "team_1": "Amritsar Alligators",
-            "team_2": "Ludhiana Lions",
-            "status": "LIVE",
-            "event_name": "Punjab T10 2026",
-            "match_name": "Amritsar Alligators vs Ludhiana Lions",
-            "match_id": 143031,
-            "startTime": "01:50:00 PM 14-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143031_english_hls_b24a84258753154_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143031_english_hls_b24a84258753154_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Patiala Panthers vs Bathinda Bulls (Punjab T10 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143032_6095_PPA_BBU_fc-web.jpg",
             "team_1": "Patiala Panthers",
@@ -60,18 +46,46 @@
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143032_english_hls_86fab96cdc63944_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Feature Race vs Barcelona (F2 BARCELONA 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Saudi_Old_match-card.jpg",
-            "team_1": "Feature Race",
+            "event_category": "Tennis",
+            "title": "Final - Center Court vs Stuttgart, Germany (ATP 250 - BOSS OPEN 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
+            "team_1": "Final - Center Court",
+            "team_2": "Stuttgart, Germany",
+            "status": "LIVE",
+            "event_name": "ATP 250 - BOSS OPEN 2026",
+            "match_name": "Final - Center Court",
+            "match_id": 143124,
+            "startTime": "05:30:00 PM 14-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143124_english_hls_a6240f4b8f4552_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143124_english_hls_a6240f4b8f4552_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Final - Center Court vs Netherlands (ATP 250 - Libema Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
+            "team_1": "Final - Center Court",
+            "team_2": "Netherlands",
+            "status": "LIVE",
+            "event_name": "ATP 250 - Libema Open",
+            "match_name": "Final - Center Court",
+            "match_id": 143131,
+            "startTime": "05:30:00 PM 14-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143131_english_hls_526d61351b83381_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143131_english_hls_526d61351b83381_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Race vs Barcelona (F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA )",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg",
+            "team_1": "Race",
             "team_2": "Barcelona",
             "status": "LIVE",
-            "event_name": "F2 BARCELONA 2026",
-            "match_name": "Feature Race",
-            "match_id": 139629,
-            "startTime": "02:55:00 PM 14-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/139629_english_hls_f292e1b37048068_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/139629_english_hls_f292e1b37048068_1ta-di_h264/index.m3u8"
+            "event_name": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
+            "match_name": "Race",
+            "match_id": 139456,
+            "startTime": "06:30:00 PM 14-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/139456_english_hls_eccdaac4db82436_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/139456_english_hls_eccdaac4db82436_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -110,18 +124,6 @@
             "startTime": "06:00:00 AM 15-06-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Málaga vs Almería (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1781357682348/143391_CASACARDS_APP.png",
-            "team_1": "Málaga",
-            "team_2": "Almería",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Málaga vs Almería",
-            "match_id": 143391,
-            "startTime": "12:30:00 AM 15-06-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Stockholm City vs Malmo Mavericks (Nordic Smash T20 Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
@@ -132,6 +134,18 @@
             "match_name": "Stockholm City vs Malmo Mavericks",
             "match_id": 143175,
             "startTime": "12:30:00 PM 15-06-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Málaga vs Almería (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1781357682348/143391_CASACARDS_APP.png",
+            "team_1": "Málaga",
+            "team_2": "Almería",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Málaga vs Almería",
+            "match_id": 143391,
+            "startTime": "12:30:00 AM 15-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -182,40 +196,28 @@
             "startTime": "04:00:00 PM 15-06-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Final - Center Court vs Stuttgart, Germany (ATP 250 - BOSS OPEN 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Boss_Web-match-card.png",
-            "team_1": "Final - Center Court",
-            "team_2": "Stuttgart, Germany",
+            "event_category": "Cricket",
+            "title": "Jabalpur Royal Lions vs Bhopal Leopards (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143086_6102_JRL_BL_FC-WEB.jpg",
+            "team_1": "Jabalpur Royal Lions",
+            "team_2": "Bhopal Leopards",
             "status": "UPCOMING",
-            "event_name": "ATP 250 - BOSS OPEN 2026",
-            "match_name": "Final - Center Court",
-            "match_id": 143124,
-            "startTime": "05:30:00 PM 14-06-2026"
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Jabalpur Royal Lions vs Bhopal Leopards",
+            "match_id": 143086,
+            "startTime": "07:30:00 PM 15-06-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Final - Center Court vs Netherlands (ATP 250 - Libema Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Libema-Open,-ATP-250,-Grass-old.png",
-            "team_1": "Final - Center Court",
-            "team_2": "Netherlands",
+            "event_category": "Cricket",
+            "title": "Vasteras United vs Gothenburg Phoenix (Nordic Smash T20 Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
+            "team_1": "Vasteras United",
+            "team_2": "Gothenburg Phoenix",
             "status": "UPCOMING",
-            "event_name": "ATP 250 - Libema Open",
-            "match_name": "Final - Center Court",
-            "match_id": 143131,
-            "startTime": "05:30:00 PM 14-06-2026"
-        },
-        {
-            "event_category": "Formula 1",
-            "title": "Race vs Barcelona (F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA )",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg",
-            "team_1": "Race",
-            "team_2": "Barcelona",
-            "status": "UPCOMING",
-            "event_name": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
-            "match_name": "Race",
-            "match_id": 139456,
-            "startTime": "06:30:00 PM 14-06-2026"
+            "event_name": "Nordic Smash T20 Cup, 2026",
+            "match_name": "Vasteras United vs Gothenburg Phoenix",
+            "match_id": 143177,
+            "startTime": "07:30:00 PM 15-06-2026"
         },
         {
             "event_category": "Golf",
@@ -276,30 +278,6 @@
             "match_name": "Day 4 - World Feed",
             "match_id": 143216,
             "startTime": "10:30:00 PM 14-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Jabalpur Royal Lions vs Bhopal Leopards (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143086_6102_JRL_BL_FC-WEB.jpg",
-            "team_1": "Jabalpur Royal Lions",
-            "team_2": "Bhopal Leopards",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Jabalpur Royal Lions vs Bhopal Leopards",
-            "match_id": 143086,
-            "startTime": "07:30:00 PM 15-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vasteras United vs Gothenburg Phoenix (Nordic Smash T20 Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1781181025063.png",
-            "team_1": "Vasteras United",
-            "team_2": "Gothenburg Phoenix",
-            "status": "UPCOMING",
-            "event_name": "Nordic Smash T20 Cup, 2026",
-            "match_name": "Vasteras United vs Gothenburg Phoenix",
-            "match_id": 143177,
-            "startTime": "07:30:00 PM 15-06-2026"
         },
         {
             "event_category": "Tennis",
@@ -420,6 +398,18 @@
             "match_name": "Netherlands vs Canada",
             "match_id": 143200,
             "startTime": "08:30:00 PM 16-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - HSBC Championship vs London, Great Britain (ATP 500 - HSBC Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/HSBC-Championships,-ATP-500,-Grass_fc-web.jpg",
+            "team_1": "ATP 500 - HSBC Championship",
+            "team_2": "London, Great Britain",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - HSBC Championship 2026",
+            "match_name": "ATP 500 - HSBC Championship",
+            "match_id": 143133,
+            "startTime": "02:30:00 PM 16-06-2026"
         }
     ]
 }

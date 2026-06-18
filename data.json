@@ -1,49 +1,49 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "04:38:42 PM 18-06-2026",
+    "last update time": "07:40:43 PM 18-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Ujjain Falcons vs Indore Pink Panthers (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143091_6102_UJF_IPP_FC-WEB.jpg",
-            "team_1": "Ujjain Falcons",
-            "team_2": "Indore Pink Panthers",
+            "title": "Nigeria vs Hong Kong, China (Men's T20I Tri series in Namibia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143314_6124_NIG_HK_FC-WEB.jpg",
+            "team_1": "Nigeria",
+            "team_2": "Hong Kong, China",
+            "status": "LIVE",
+            "event_name": "Men's T20I Tri series in Namibia 2026",
+            "match_name": "Nigeria vs Hong Kong, China",
+            "match_id": 143314,
+            "startTime": "05:30:00 PM 18-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143314_english_hls_0cf86887d237459_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143314_english_hls_0cf86887d237459_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jabalpur Royal Lions vs Royal Nimar Eagles (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143092_6102_JRL_RNG_FC-WEB.jpg",
+            "team_1": "Jabalpur Royal Lions",
+            "team_2": "Royal Nimar Eagles",
             "status": "LIVE",
             "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Ujjain Falcons vs Indore Pink Panthers",
-            "match_id": 143091,
-            "startTime": "03:00:00 PM 18-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143091_english_hls_87add3aff510944_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143091_english_hls_87add3aff510944_1ta-di_h264/index.m3u8"
+            "match_name": "Jabalpur Royal Lions vs Royal Nimar Eagles",
+            "match_id": 143092,
+            "startTime": "07:30:00 PM 18-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143092_english_hls_d606f94afb86483_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143092_english_hls_d606f94afb86483_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
-            "title": "Jalandhar Jaguars vs Moga Mongoose (Punjab T10 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143040_6095_JJ_MMO_fc-web.jpg",
-            "team_1": "Jalandhar Jaguars",
-            "team_2": "Moga Mongoose",
-            "status": "LIVE",
-            "event_name": "Punjab T10 2026",
-            "match_name": "Jalandhar Jaguars vs Moga Mongoose",
-            "match_id": 143040,
-            "startTime": "04:00:00 PM 18-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143040_english_hls_0c595906b149096_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143040_english_hls_0c595906b149096_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Uppsala Tigers vs Vasteras United (Nordic Smash T20 Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143185_6109_UPP_VTU_FC-WEB.jpg",
-            "team_1": "Uppsala Tigers",
-            "team_2": "Vasteras United",
+            "title": "Malmo Mavericks vs Stockholm United (Nordic Smash T20 Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143186_6109_MLM_HMU_FC-WEB.jpg",
+            "team_1": "Malmo Mavericks",
+            "team_2": "Stockholm United",
             "status": "LIVE",
             "event_name": "Nordic Smash T20 Cup, 2026",
-            "match_name": "Uppsala Tigers vs Vasteras United",
-            "match_id": 143185,
-            "startTime": "04:00:00 PM 18-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143185_english_hls_63fa69d33d19697_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143185_english_hls_63fa69d33d19697_1ta-di_h264/index.m3u8"
+            "match_name": "Malmo Mavericks vs Stockholm United",
+            "match_id": 143186,
+            "startTime": "07:30:00 PM 18-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143186_english_hls_ee2c1bf4ca89286_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143186_english_hls_ee2c1bf4ca89286_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -103,18 +103,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Nigeria vs Hong Kong, China (Men's T20I Tri series in Namibia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143314_6124_NIG_HK_FC-WEB.jpg",
-            "team_1": "Nigeria",
-            "team_2": "Hong Kong, China",
-            "status": "UPCOMING",
-            "event_name": "Men's T20I Tri series in Namibia 2026",
-            "match_name": "Nigeria vs Hong Kong, China",
-            "match_id": 143314,
-            "startTime": "05:30:00 PM 18-06-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Bangladesh vs Australia (Australia tour of Bangladesh, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web_1781555242134.jpg",
             "team_1": "Bangladesh",
@@ -124,30 +112,6 @@
             "match_name": "Bangladesh vs Australia",
             "match_id": 142969,
             "startTime": "01:30:00 PM 19-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Jabalpur Royal Lions vs Royal Nimar Eagles (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143092_6102_JRL_RNG_FC-WEB.jpg",
-            "team_1": "Jabalpur Royal Lions",
-            "team_2": "Royal Nimar Eagles",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Jabalpur Royal Lions vs Royal Nimar Eagles",
-            "match_id": 143092,
-            "startTime": "07:30:00 PM 18-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malmo Mavericks vs Stockholm United (Nordic Smash T20 Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143186_6109_MLM_HMU_FC-WEB.jpg",
-            "team_1": "Malmo Mavericks",
-            "team_2": "Stockholm United",
-            "status": "UPCOMING",
-            "event_name": "Nordic Smash T20 Cup, 2026",
-            "match_name": "Malmo Mavericks vs Stockholm United",
-            "match_id": 143186,
-            "startTime": "07:30:00 PM 18-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -222,18 +186,6 @@
             "startTime": "05:30:00 PM 19-06-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1 vs Shinnecock Hills Golf Club, NY (US Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143293_6121_PGA_LOC_FC-WEB.png",
-            "team_1": "Day 1",
-            "team_2": "Shinnecock Hills Golf Club, NY",
-            "status": "UPCOMING",
-            "event_name": "US Open 2026",
-            "match_name": "Day 1",
-            "match_id": 143293,
-            "startTime": "09:30:00 PM 18-06-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Royal Nimar Eagles vs Bundelkhand Bulls (Madhya Pradesh League T20, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143094_6102_RNG_BBS_FC-WEB.jpg",
@@ -256,6 +208,18 @@
             "match_name": "Goteborg Phoenix vs Malmo Mavericks",
             "match_id": 143189,
             "startTime": "07:30:00 PM 19-06-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Shinnecock Hills Golf Club, NY (US Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143293_6121_PGA_LOC_FC-WEB.png",
+            "team_1": "Day 1",
+            "team_2": "Shinnecock Hills Golf Club, NY",
+            "status": "UPCOMING",
+            "event_name": "US Open 2026",
+            "match_name": "Day 1",
+            "match_id": 143293,
+            "startTime": "09:30:00 PM 18-06-2026"
         },
         {
             "event_category": "MotoGP",
@@ -378,6 +342,18 @@
             "startTime": "01:45:00 PM 20-06-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Bengaluru Blasters vs Gulbarga Mystics (Maharaja T20 Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Bengaluru Blasters",
+            "team_2": "Gulbarga Mystics",
+            "status": "UPCOMING",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Bengaluru Blasters vs Gulbarga Mystics",
+            "match_id": 143415,
+            "startTime": "02:30:00 PM 20-06-2026"
+        },
+        {
             "event_category": "Motorsports",
             "title": "Australasia - Race 1 vs Queensland (Ferrari Challenge Series 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-2026-old.png",
@@ -484,6 +460,42 @@
             "match_name": "ATP 500 - HSBC Championship 2026",
             "match_id": 143249,
             "startTime": "02:30:00 PM 20-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - Terra Wortmann Open 2026 vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+            "team_1": "ATP 500 - Terra Wortmann Open 2026",
+            "team_2": "Halle, Germany",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_id": 143264,
+            "startTime": "02:30:00 PM 20-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - Terra Wortmann Open 2026 vs Halle, Germany (ATP 500 - Terra Wortmann Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png",
+            "team_1": "ATP 500 - Terra Wortmann Open 2026",
+            "team_2": "Halle, Germany",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_name": "ATP 500 - Terra Wortmann Open 2026",
+            "match_id": 143263,
+            "startTime": "02:30:00 PM 20-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Shivamogga Lions vs Mysore Warriors (Maharaja T20 Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Shivamogga Lions",
+            "team_2": "Mysore Warriors",
+            "status": "UPCOMING",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Shivamogga Lions vs Mysore Warriors",
+            "match_id": 143416,
+            "startTime": "07:00:00 PM 20-06-2026"
         }
     ]
 }

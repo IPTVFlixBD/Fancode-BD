@@ -1,15 +1,9 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143315_6124_NAM_HK_FC-WEB.jpg" group-title="Fancode-Cricket", Namibia vs Hong Kong- China (Men's T20I Tri series in Namibia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143315_english_hls_6cfd11459c33774_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143094_6102_RNG_BBS_FC-WEB.jpg" group-title="Fancode-Cricket", Royal Nimar Eagles vs Bundelkhand Bulls (Madhya Pradesh League T20- 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143094_english_hls_cfff7e26d143619_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143189_6109_GTP_MLM_FC-WEB.jpg" group-title="Fancode-Cricket", Goteborg Phoenix vs Malmo Mavericks (Nordic Smash T20 Cup- 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143189_english_hls_2e6f493bcf34913_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png" group-title="Fancode-MotoGP", Day 1 vs Brno (GRAND PRIX OF CZECHIA 2026)
-https://bd-mc-fblive.fancode.com/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Fancode-Tennis", Day 5 - World Feed vs Halle- Germany (ATP 500 - Terra Wortmann Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143261_english_hls_a26bcf2c5d3481_1ta-di_h264/index.m3u8
@@ -17,11 +11,8 @@ https://bd-mc-fblive.fancode.com/mumbai/143261_english_hls_a26bcf2c5d3481_1ta-di
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="Fancode-Tennis", Day 5 - World Feed vs London- Great Britain (ATP 500 - HSBC Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="Fancode-Tennis", Day 5 - Court 1 vs London- Great Britain (ATP 500 - HSBC Championship 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143248_english_hls_5e43bc5d9196004_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="Fancode-Tennis", Day 5 - Schauinsland Reisen Court vs Halle- Germany (ATP 500 - Terra Wortmann Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143262_english_hls_38065898d379212_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card.png" group-title="Fancode-Motorsports", Day 1 Free Practice 2 - Dekra Lausitzring vs Schipkau- Germany (DTM 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143302_english_hls_06c2feb37317558_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143294_6121_PGA_LOC_FC-WEB.png" group-title="Fancode-Golf", Day 2 vs Shinnecock Hills Golf Club- NY (US Open 2026)
+https://bd-mc-fblive.fancode.com/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/index.m3u8

@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:07:14 PM 23-06-2026",
+    "last update time": "07:28:51 PM 23-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Gulbarga Mystics vs Shivamogga Yodhas (Maharaja T20 Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143421_6134_GMY_SY_FC-WEB.jpg",
-            "team_1": "Gulbarga Mystics",
-            "team_2": "Shivamogga Yodhas",
-            "status": "LIVE",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Gulbarga Mystics vs Shivamogga Yodhas",
-            "match_id": 143421,
-            "startTime": "02:30:00 PM 23-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143421_english_hls_e14d15b24a67195_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143421_english_hls_e14d15b24a67195_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Indore Pink Panthers vs Gwalior Cheetahs (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143099_6102_IPP_GC_FC-WEB.jpg",
-            "team_1": "Indore Pink Panthers",
-            "team_2": "Gwalior Cheetahs",
-            "status": "LIVE",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Indore Pink Panthers vs Gwalior Cheetahs",
-            "match_id": 143099,
-            "startTime": "03:00:00 PM 23-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143099_english_hls_57b3c5021536049_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143099_english_hls_57b3c5021536049_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Thailand vs Singapore (Asia Pacific Cricket Champions Trophy, 2026)",
@@ -44,6 +16,48 @@
             "startTime": "04:00:00 PM 23-06-2026",
             "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143546_english_hls_7a05f2037822563_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143546_english_hls_7a05f2037822563_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Namibia vs Nigeria (Men's T20I Tri series in Namibia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143319_6124_NAM_NIG_FC-WEB.jpg",
+            "team_1": "Namibia",
+            "team_2": "Nigeria",
+            "status": "LIVE",
+            "event_name": "Men's T20I Tri series in Namibia 2026",
+            "match_name": "Namibia vs Nigeria",
+            "match_id": 143319,
+            "startTime": "05:30:00 PM 23-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mysore Warriors vs Kalyani Bengaluru Blasters (Maharaja T20 Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143422_6134_MW_KBB_FC-WEB.jpg",
+            "team_1": "Mysore Warriors",
+            "team_2": "Kalyani Bengaluru Blasters",
+            "status": "LIVE",
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Mysore Warriors vs Kalyani Bengaluru Blasters",
+            "match_id": 143422,
+            "startTime": "07:00:00 PM 23-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143422_english_hls_d467f052c451012_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143422_english_hls_d467f052c451012_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Chambal Ghariyals vs Rewa Jaguars (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143100_6102_CGS_RW_FC-WEB.jpg",
+            "team_1": "Chambal Ghariyals",
+            "team_2": "Rewa Jaguars",
+            "status": "LIVE",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Chambal Ghariyals vs Rewa Jaguars",
+            "match_id": 143100,
+            "startTime": "07:30:00 PM 23-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143100_english_hls_8a8eca57b177773_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143100_english_hls_8a8eca57b177773_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -72,42 +86,6 @@
             "startTime": "04:00:00 PM 23-06-2026",
             "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143272_english_hls_f465b38c6c84328_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143272_english_hls_f465b38c6c84328_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia vs Nigeria (Men's T20I Tri series in Namibia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143319_6124_NAM_NIG_FC-WEB.jpg",
-            "team_1": "Namibia",
-            "team_2": "Nigeria",
-            "status": "UPCOMING",
-            "event_name": "Men's T20I Tri series in Namibia 2026",
-            "match_name": "Namibia vs Nigeria",
-            "match_id": 143319,
-            "startTime": "05:30:00 PM 23-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mysore Warriors vs Kalyani Bengaluru Blasters (Maharaja T20 Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143422_6134_MW_KBB_FC-WEB.jpg",
-            "team_1": "Mysore Warriors",
-            "team_2": "Kalyani Bengaluru Blasters",
-            "status": "UPCOMING",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Mysore Warriors vs Kalyani Bengaluru Blasters",
-            "match_id": 143422,
-            "startTime": "07:00:00 PM 23-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Chambal Ghariyals vs Rewa Jaguars (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143100_6102_CGS_RW_FC-WEB.jpg",
-            "team_1": "Chambal Ghariyals",
-            "team_2": "Rewa Jaguars",
-            "status": "UPCOMING",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Chambal Ghariyals vs Rewa Jaguars",
-            "match_id": 143100,
-            "startTime": "07:30:00 PM 23-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -194,6 +172,18 @@
             "startTime": "07:30:00 PM 24-06-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Brazil vs Belize (ICC Men's T20 WC Americas Sub-regional Qualifier A)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143288_6120_BRA_BEL_fc-web_1782137828287.jpg",
+            "team_1": "Brazil",
+            "team_2": "Belize",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
+            "match_name": "Brazil vs Belize",
+            "match_id": 143288,
+            "startTime": "11:30:00 PM 24-06-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "ATP 250 - Vanda Pharmaceuticals Mallorca Champions vs Mallorca, Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
@@ -216,18 +206,6 @@
             "match_name": "ATP 250 - Lexus Eastbourne Open 2026",
             "match_id": 143279,
             "startTime": "02:30:00 PM 24-06-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Brazil vs Belize (ICC Men's T20 WC Americas Sub-regional Qualifier A)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143288_6120_BRA_BEL_fc-web_1782137828287.jpg",
-            "team_1": "Brazil",
-            "team_2": "Belize",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
-            "match_name": "Brazil vs Belize",
-            "match_id": 143288,
-            "startTime": "11:30:00 PM 24-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -491,6 +469,18 @@
             "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
             "match_name": "ATP 250 - Vanda Pharmaceuticals Mallorca Champions",
             "match_id": 143275,
+            "startTime": "02:30:00 PM 26-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 250 - Lexus Eastbourne Open 2026 vs Eastbourne, Great Britain (ATP 250 - Lexus Eastbourne Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
+            "team_1": "ATP 250 - Lexus Eastbourne Open 2026",
+            "team_2": "Eastbourne, Great Britain",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Lexus Eastbourne Open 2026",
+            "match_name": "ATP 250 - Lexus Eastbourne Open 2026",
+            "match_id": 143281,
             "startTime": "02:30:00 PM 26-06-2026"
         }
     ]

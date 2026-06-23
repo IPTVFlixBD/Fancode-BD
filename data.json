@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:52:12 PM 23-06-2026",
+    "last update time": "01:53:32 AM 24-06-2026",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "title": "Day 2 vs Eastbourne, Great Britain (ATP 250 - Lexus Eastbourne Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg",
-            "team_1": "Day 2",
-            "team_2": "Eastbourne, Great Britain",
-            "status": "LIVE",
-            "event_name": "ATP 250 - Lexus Eastbourne Open 2026",
-            "match_name": "Day 2",
-            "match_id": 143278,
-            "startTime": "03:30:00 PM 23-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Coastal Kings Mangaluru vs Kalyani Bengaluru Blasters (Maharaja T20 Trophy, 2026)",

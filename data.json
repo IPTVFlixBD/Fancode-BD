@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "07:28:51 PM 23-06-2026",
+    "last update time": "10:00:41 PM 23-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Thailand vs Singapore (Asia Pacific Cricket Champions Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143546_6143_TL_SIN_FC-Web.png",
-            "team_1": "Thailand",
-            "team_2": "Singapore",
-            "status": "LIVE",
-            "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
-            "match_name": "Thailand vs Singapore",
-            "match_id": 143546,
-            "startTime": "04:00:00 PM 23-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143546_english_hls_7a05f2037822563_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143546_english_hls_7a05f2037822563_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia vs Nigeria (Men's T20I Tri series in Namibia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143319_6124_NAM_NIG_FC-WEB.jpg",
-            "team_1": "Namibia",
-            "team_2": "Nigeria",
-            "status": "LIVE",
-            "event_name": "Men's T20I Tri series in Namibia 2026",
-            "match_name": "Namibia vs Nigeria",
-            "match_id": 143319,
-            "startTime": "05:30:00 PM 23-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143319_english_hls_e5d7b238b697362_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Mysore Warriors vs Kalyani Bengaluru Blasters (Maharaja T20 Trophy, 2026)",
@@ -44,20 +16,6 @@
             "startTime": "07:00:00 PM 23-06-2026",
             "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143422_english_hls_d467f052c451012_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143422_english_hls_d467f052c451012_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Chambal Ghariyals vs Rewa Jaguars (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143100_6102_CGS_RW_FC-WEB.jpg",
-            "team_1": "Chambal Ghariyals",
-            "team_2": "Rewa Jaguars",
-            "status": "LIVE",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Chambal Ghariyals vs Rewa Jaguars",
-            "match_id": 143100,
-            "startTime": "07:30:00 PM 23-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143100_english_hls_8a8eca57b177773_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143100_english_hls_8a8eca57b177773_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -390,7 +348,7 @@
         {
             "event_category": "Cricket",
             "title": "KCC vs Itahari Super Kings (KPL Indo Nepal T20 2026)",
-            "src": "https://images.fancode.com/aig/match/v1781869172003/143522_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
             "team_1": "KCC",
             "team_2": "Itahari Super Kings",
             "status": "UPCOMING",
@@ -482,6 +440,54 @@
             "match_name": "ATP 250 - Lexus Eastbourne Open 2026",
             "match_id": 143281,
             "startTime": "02:30:00 PM 26-06-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Practice Session vs Austria (F2 AUSTRIA 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Austria_Old_match-card.jpg",
+            "team_1": "Practice Session",
+            "team_2": "Austria",
+            "status": "UPCOMING",
+            "event_name": "F2 AUSTRIA 2026",
+            "match_name": "Practice Session",
+            "match_id": 139630,
+            "startTime": "02:35:00 PM 26-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 143105,
+            "startTime": "07:30:00 PM 26-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "ACA Gurugram Vipers vs KA Noida Blaze (Future Star U-15 Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
+            "team_1": "ACA Gurugram Vipers",
+            "team_2": "KA Noida Blaze",
+            "status": "UPCOMING",
+            "event_name": "Future Star U-15 Championship 2026",
+            "match_name": "ACA Gurugram Vipers vs KA Noida Blaze",
+            "match_id": 143556,
+            "startTime": "07:30:00 PM 26-06-2026"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Practice 1 vs Austria (F1 LENOVO AUSTRIAN GRAND PRIX 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Austria_web.jpg",
+            "team_1": "Practice 1",
+            "team_2": "Austria",
+            "status": "UPCOMING",
+            "event_name": "F1 LENOVO AUSTRIAN GRAND PRIX 2026",
+            "match_name": "Practice 1",
+            "match_id": 139457,
+            "startTime": "05:00:00 PM 26-06-2026"
         }
     ]
 }

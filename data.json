@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:34:15 PM 25-06-2026",
+    "last update time": "01:46:05 AM 26-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,34 +16,6 @@
             "startTime": "07:30:00 PM 25-06-2026",
             "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Chambal Ghariyals vs Jabalpur Royal Lions (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143093_6102_JRL_CGS_FC-WEB.jpg",
-            "team_1": "Chambal Ghariyals",
-            "team_2": "Jabalpur Royal Lions",
-            "status": "LIVE",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Chambal Ghariyals vs Jabalpur Royal Lions",
-            "match_id": 143104,
-            "startTime": "07:30:00 PM 25-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143104_english_hls_306edfa66575752_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143104_english_hls_306edfa66575752_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "DDH Meerut Spartans vs KA Noida Blaze (Future Star U-15 Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-            "team_1": "DDH Meerut Spartans",
-            "team_2": "KA Noida Blaze",
-            "status": "LIVE",
-            "event_name": "Future Star U-15 Championship 2026",
-            "match_name": "DDH Meerut Spartans vs KA Noida Blaze",
-            "match_id": 143554,
-            "startTime": "07:30:00 PM 25-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143554_english_hls_a90e59a9d611812_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143554_english_hls_a90e59a9d611812_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -72,6 +44,20 @@
             "startTime": "05:45:00 PM 25-06-2026",
             "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143574_english_hls_546abcccbe30979_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed - Day 1 vs TPC River Highlands - Cromwell, Connecticut (Travelers Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
+            "team_1": "World Feed - Day 1",
+            "team_2": "TPC River Highlands - Cromwell, Connecticut",
+            "status": "LIVE",
+            "event_name": "Travelers Championship 2026",
+            "match_name": "World Feed - Day 1",
+            "match_id": 143297,
+            "startTime": "01:30:00 AM 26-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143297_english_hls_7b941325b022656_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143297_english_hls_7b941325b022656_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -123,13 +109,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "title": "Royal Nimar Eagles vs Chambal Ghariyals (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143066_6102_RNG_CGS_FC-WEB_1780916230127.jpg",
+            "team_1": "Royal Nimar Eagles",
+            "team_2": "Chambal Ghariyals",
             "status": "UPCOMING",
             "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "TBC vs TBC",
+            "match_name": "Royal Nimar Eagles vs Chambal Ghariyals",
             "match_id": 143105,
             "startTime": "07:30:00 PM 26-06-2026"
         },
@@ -144,18 +130,6 @@
             "match_name": "ACA Gurugram Vipers vs KA Noida Blaze",
             "match_id": 143556,
             "startTime": "07:30:00 PM 26-06-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "World Feed - Day 1 vs TPC River Highlands - Cromwell, Connecticut (Travelers Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
-            "team_1": "World Feed - Day 1",
-            "team_2": "TPC River Highlands - Cromwell, Connecticut",
-            "status": "UPCOMING",
-            "event_name": "Travelers Championship 2026",
-            "match_name": "World Feed - Day 1",
-            "match_id": 143297,
-            "startTime": "01:30:00 AM 26-06-2026"
         },
         {
             "event_category": "MotoGP",
@@ -480,6 +454,30 @@
             "match_name": "Sprint Race",
             "match_id": 139632,
             "startTime": "05:45:00 PM 27-06-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed - Day 3 vs TPC River Highlands - Cromwell, Connecticut (Travelers Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
+            "team_1": "Main Feed - Day 3",
+            "team_2": "TPC River Highlands - Cromwell, Connecticut",
+            "status": "UPCOMING",
+            "event_name": "Travelers Championship 2026",
+            "match_name": "Main Feed - Day 3",
+            "match_id": 143576,
+            "startTime": "06:15:00 PM 27-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bermuda vs Brazil (ICC Men's T20 WC Americas Sub-regional Qualifier A)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143292_6120_BER_BRA_fc-web_1782198801426.jpg",
+            "team_1": "Bermuda",
+            "team_2": "Brazil",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Americas Sub-regional Qualifier A",
+            "match_name": "Bermuda vs Brazil",
+            "match_id": 143292,
+            "startTime": "11:30:00 PM 27-06-2026"
         }
     ]
 }

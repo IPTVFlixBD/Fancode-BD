@@ -2,9 +2,6 @@
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="Fancode-Cricket", Sri Lanka vs West Indies (Sri Lanka tour of West Indies 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png" group-title="Fancode-Cricket", Namibia vs Nigeria (Nigeria tour of Namibia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/143321_english_hls_96db62182e40570_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143291_6120_BAH_BIZ_fc-web_1782198800787.jpg" group-title="Fancode-Cricket", Bahamas vs Belize (ICC Men's T20 WC Americas Sub-regional Qualifier A)
 https://bd-mc-fblive.fancode.com/mumbai/143291_english_hls_99ccc73a6254743_1ta-di_h264/index.m3u8
 
@@ -25,6 +22,3 @@ https://bd-mc-fblive.fancode.com/mumbai/143276_english_hls_cc5a1355fa4323_1ta-di
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg" group-title="Fancode-Tennis", Men's Final vs Eastbourne- Great Britain (ATP 250 - Lexus Eastbourne Open 2026)
 https://bd-mc-fblive.fancode.com/mumbai/143282_english_hls_649a90300b40021_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Austria_web.jpg" group-title="Fancode-Formula 1", Qualifying vs Austria (F1 LENOVO AUSTRIAN GRAND PRIX 2026)
-https://bd-mc-fblive.fancode.com/mumbai/139460_english_hls_91872b76b27934_1ta-di_h264/index.m3u8

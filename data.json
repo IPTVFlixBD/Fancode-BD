@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "04:54:06 PM 29-06-2026",
+    "last update time": "08:16:11 PM 29-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,71 +19,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "RML Sports vs Chhinnamasta Lions (KPL Indo Nepal T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
-            "team_1": "RML Sports",
-            "team_2": "Chhinnamasta Lions",
-            "status": "LIVE",
-            "event_name": "KPL Indo Nepal T20 2026",
-            "match_name": "RML Sports vs Chhinnamasta Lions",
-            "match_id": 143528,
-            "startTime": "12:45:00 PM 29-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143528_english_hls_baa6c8889f44908_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143528_english_hls_baa6c8889f44908_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Gulbarga Mystics vs Hubli Tigers (Maharaja T20 Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143430_6134_GMY_HT_FC-WEB_1782272593718.jpg",
-            "team_1": "Gulbarga Mystics",
-            "team_2": "Hubli Tigers",
-            "status": "LIVE",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Gulbarga Mystics vs Hubli Tigers",
-            "match_id": 143430,
-            "startTime": "02:00:00 PM 29-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143430_english_hls_80662356e938144_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143430_english_hls_80662356e938144_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "ACA Gurugram Vipers vs DDH Meerut Spartans (Future Star U-15 Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-            "team_1": "ACA Gurugram Vipers",
-            "team_2": "DDH Meerut Spartans",
-            "status": "LIVE",
-            "event_name": "Future Star U-15 Championship 2026",
-            "match_name": "ACA Gurugram Vipers vs DDH Meerut Spartans",
-            "match_id": 143561,
-            "startTime": "03:00:00 PM 29-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143561_english_hls_bf5edbec5f19891_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143561_english_hls_bf5edbec5f19891_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia vs Nigeria (Nigeria tour of Namibia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1782298949083.png",
-            "team_1": "Namibia",
-            "team_2": "Nigeria",
-            "status": "LIVE",
-            "event_name": "Nigeria tour of Namibia 2026",
-            "match_name": "Namibia vs Nigeria",
-            "match_id": 143322,
-            "startTime": "01:00:00 PM 29-06-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143322_english_hls_d21ab22f2a73237_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143322_english_hls_d21ab22f2a73237_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kalyani Bengaluru Blasters vs Coastal Kings Mangaluru (Maharaja T20 Trophy, 2026)",
+            "title": "Coastal Kings Mangaluru vs Kalyani Bengaluru Blasters (Maharaja T20 Trophy, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143431_6134_KBB_CKM_FC-WEB_1782272593082.jpg",
-            "team_1": "Kalyani Bengaluru Blasters",
-            "team_2": "Coastal Kings Mangaluru",
-            "status": "UPCOMING",
+            "team_1": "Coastal Kings Mangaluru",
+            "team_2": "Kalyani Bengaluru Blasters",
+            "status": "LIVE",
             "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Kalyani Bengaluru Blasters vs Coastal Kings Mangaluru",
+            "match_name": "Coastal Kings Mangaluru vs Kalyani Bengaluru Blasters",
             "match_id": 143431,
-            "startTime": "07:00:00 PM 29-06-2026"
+            "startTime": "07:00:00 PM 29-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143431_english_hls_5008c19b6168134_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143431_english_hls_5008c19b6168134_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -91,11 +37,27 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
             "team_1": "Jayqo Panthers Faridabad",
             "team_2": "Flying Fire Delhi Chargers",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Future Star U-15 Championship 2026",
             "match_name": "Jayqo Panthers Faridabad vs Flying Fire Delhi Chargers",
             "match_id": 143562,
-            "startTime": "07:30:00 PM 29-06-2026"
+            "startTime": "07:30:00 PM 29-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143562_english_hls_5ec9a8920740274_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143562_english_hls_5ec9a8920740274_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed vs TPC River Highlands - Cromwell, Connecticut (Travelers Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
+            "team_1": "World Feed",
+            "team_2": "TPC River Highlands - Cromwell, Connecticut",
+            "status": "LIVE",
+            "event_name": "Travelers Championship 2026",
+            "match_name": "World Feed",
+            "match_id": 143663,
+            "startTime": "06:30:00 PM 29-06-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143663_english_hls_a4547ec3da34000_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143663_english_hls_a4547ec3da34000_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -168,18 +130,6 @@
             "match_name": "TBC vs TBC",
             "match_id": 143565,
             "startTime": "07:30:00 PM 30-06-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "World Feed vs TPC River Highlands - Cromwell, Connecticut (Travelers Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/3_1781899929249.png",
-            "team_1": "World Feed",
-            "team_2": "TPC River Highlands - Cromwell, Connecticut",
-            "status": "UPCOMING",
-            "event_name": "Travelers Championship 2026",
-            "match_name": "World Feed",
-            "match_id": 143663,
-            "startTime": "06:30:00 PM 29-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -280,7 +230,7 @@
         {
             "event_category": "Cricket",
             "title": "Namibia vs Vidarbha (Vidarbha Cricket Association tour of Namibia)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Vidarbha-vs-Namibia_fc-web.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143628_6150_NAM_VID_fc-web.jpg",
             "team_1": "Namibia",
             "team_2": "Vidarbha",
             "status": "UPCOMING",
@@ -362,6 +312,18 @@
             "startTime": "08:30:00 PM 02-07-2026"
         },
         {
+            "event_category": "Golf",
+            "title": "Day 1 - Main Feed vs TPC Deere Run Silvis, Illinois (John Deere Classic 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "team_1": "Day 1 - Main Feed",
+            "team_2": "TPC Deere Run Silvis, Illinois",
+            "status": "UPCOMING",
+            "event_name": "John Deere Classic 2026",
+            "match_name": "Day 1 - Main Feed",
+            "match_id": 143665,
+            "startTime": "06:15:00 PM 02-07-2026"
+        },
+        {
             "event_category": "Cricket",
             "title": "Chhinnamasta Lions vs Itahari Super Kings (KPL Indo Nepal T20 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg",
@@ -372,6 +334,18 @@
             "match_name": "Chhinnamasta Lions vs Itahari Super Kings",
             "match_id": 143535,
             "startTime": "08:45:00 AM 03-07-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 - World Feed vs TPC Deere Run Silvis, Illinois (John Deere Classic 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "team_1": "Day 1 - World Feed",
+            "team_2": "TPC Deere Run Silvis, Illinois",
+            "status": "UPCOMING",
+            "event_name": "John Deere Classic 2026",
+            "match_name": "Day 1 - World Feed",
+            "match_id": 143664,
+            "startTime": "02:30:00 AM 03-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -492,6 +466,18 @@
             "match_name": "F3 GREAT BRITAIN 2026",
             "match_id": 139722,
             "startTime": "06:30:00 PM 03-07-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "F2 GREAT BRITAIN 2026 vs Silverstone (F2 GREAT BRITAIN 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "F2 GREAT BRITAIN 2026",
+            "team_2": "Silverstone",
+            "status": "UPCOMING",
+            "event_name": "F2 GREAT BRITAIN 2026",
+            "match_name": "F2 GREAT BRITAIN 2026",
+            "match_id": 139635,
+            "startTime": "07:25:00 PM 03-07-2026"
         }
     ]
 }

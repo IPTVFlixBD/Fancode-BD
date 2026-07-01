@@ -1,33 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "06:06:53 PM 01-07-2026",
+    "last update time": "08:48:49 PM 01-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Kalyani Bengaluru Blasters vs Hubli Tigers (Maharaja T20 Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143434_6134_KBB_HT_FC-WEB_1782272592972.jpg",
-            "team_1": "Kalyani Bengaluru Blasters",
-            "team_2": "Hubli Tigers",
-            "status": "LIVE",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Kalyani Bengaluru Blasters vs Hubli Tigers",
-            "match_id": 143434,
-            "startTime": "02:00:00 PM 01-07-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143434_english_hls_5956f8f66413553_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143434_english_hls_5956f8f66413553_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Karim Capital Chargers vs DDH Meerut Spartans (Future Star U-15 Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
             "team_1": "Karim Capital Chargers",
             "team_2": "DDH Meerut Spartans",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Future Star U-15 Championship 2026",
             "match_name": "Karim Capital Chargers vs DDH Meerut Spartans",
             "match_id": 143564,
-            "startTime": "06:30:00 PM 01-07-2026"
+            "startTime": "06:30:00 PM 01-07-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143564_english_hls_93bd9afe2f65641_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -198,6 +186,18 @@
             "startTime": "02:00:00 PM 03-07-2026"
         },
         {
+            "event_category": "Motorsports",
+            "title": "Practice Session vs Silverstone (F1 ACADEMY GREAT BRITAIN 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg",
+            "team_1": "Practice Session",
+            "team_2": "Silverstone",
+            "status": "UPCOMING",
+            "event_name": "F1 ACADEMY GREAT BRITAIN 2026",
+            "match_name": "Practice Session",
+            "match_id": 139690,
+            "startTime": "12:15:00 PM 03-07-2026"
+        },
+        {
             "event_category": "Cricket",
             "title": "West Indies vs Sri Lanka (Sri Lanka tour of West Indies 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
@@ -220,18 +220,6 @@
             "match_name": "Practice Session",
             "match_id": 139721,
             "startTime": "01:15:00 PM 03-07-2026"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Practice Session vs Silverstone (F1 ACADEMY GREAT BRITAIN 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg",
-            "team_1": "Practice Session",
-            "team_2": "Silverstone",
-            "status": "UPCOMING",
-            "event_name": "F1 ACADEMY GREAT BRITAIN 2026",
-            "match_name": "Practice Session",
-            "match_id": 139690,
-            "startTime": "01:40:00 PM 03-07-2026"
         },
         {
             "event_category": "Motorsports",
@@ -351,7 +339,7 @@
             "event_name": "F1 ACADEMY GREAT BRITAIN 2026",
             "match_name": "Qualifying Session",
             "match_id": 139689,
-            "startTime": "09:00:00 PM 03-07-2026"
+            "startTime": "10:30:00 PM 03-07-2026"
         },
         {
             "event_category": "Golf",
@@ -447,19 +435,7 @@
             "event_name": "F3 GREAT BRITAIN 2026",
             "match_name": "Sprint Race",
             "match_id": 139723,
-            "startTime": "01:45:00 PM 04-07-2026"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Reverse Grid Race vs Silverstone (F1 ACADEMY GREAT BRITAIN 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web_1782210404646.jpg",
-            "team_1": "Reverse Grid Race",
-            "team_2": "Silverstone",
-            "status": "UPCOMING",
-            "event_name": "F1 ACADEMY GREAT BRITAIN 2026",
-            "match_name": "Reverse Grid Race",
-            "match_id": 139691,
-            "startTime": "01:55:00 PM 04-07-2026"
+            "startTime": "02:05:00 PM 04-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -484,6 +460,30 @@
             "match_name": "Sprint",
             "match_id": 139464,
             "startTime": "04:30:00 PM 04-07-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "DTM Race 1 - Norisring vs Norisring (DTM 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png",
+            "team_1": "DTM Race 1 - Norisring",
+            "team_2": "Norisring",
+            "status": "UPCOMING",
+            "event_name": "DTM 2026",
+            "match_name": "DTM Race 1 - Norisring",
+            "match_id": 143623,
+            "startTime": "04:45:00 PM 04-07-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Sprint Race vs Silverstone (F2 GREAT BRITAIN 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Austria_Old_match-card.jpg",
+            "team_1": "Sprint Race",
+            "team_2": "Silverstone",
+            "status": "UPCOMING",
+            "event_name": "F2 GREAT BRITAIN 2026",
+            "match_name": "Sprint Race",
+            "match_id": 139636,
+            "startTime": "05:45:00 PM 04-07-2026"
         }
     ]
 }

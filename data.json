@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "01:59:53 PM 10-07-2026",
+    "last update time": "04:52:11 PM 10-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "02:00:00 PM 10-07-2026",
             "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/4246573_english_hls_b10dc0a33d42215_1ta-di_h264/index.m3u8",
             "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/4246573_english_hls_b10dc0a33d42215_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ireland Women vs West Indies Women (West Indies Women tour of Ireland, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png",
+            "team_1": "Ireland Women",
+            "team_2": "West Indies Women",
+            "status": "LIVE",
+            "event_name": "West Indies Women tour of Ireland, 2026",
+            "match_name": "Ireland Women vs West Indies Women",
+            "match_id": 143143,
+            "startTime": "03:15:00 PM 10-07-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143143_english_hls_19c0236ea87043_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143143_english_hls_19c0236ea87043_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -75,15 +89,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ireland Women vs West Indies Women (West Indies Women tour of Ireland, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card_1783322288950.png",
-            "team_1": "Ireland Women",
-            "team_2": "West Indies Women",
-            "status": "UPCOMING",
-            "event_name": "West Indies Women tour of Ireland, 2026",
-            "match_name": "Ireland Women vs West Indies Women",
-            "match_id": 143143,
-            "startTime": "03:15:00 PM 10-07-2026"
+            "title": "Bost Defenders vs Band-e-Amir Dragons (Shpageeza Cricket League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143597_6148_BOS_BD_fc-web_1782725011549.jpg",
+            "team_1": "Bost Defenders",
+            "team_2": "Band-e-Amir Dragons",
+            "status": "LIVE",
+            "event_name": "Shpageeza Cricket League, 2026",
+            "match_name": "Bost Defenders vs Band-e-Amir Dragons",
+            "match_id": 143597,
+            "startTime": "03:00:00 PM 10-07-2026",
+            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/143597_english_hls_24fb1ae5995567_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/143597_english_hls_24fb1ae5995567_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -111,18 +127,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Kalyani Bengaluru Blasters vs Coastal Kings Mangaluru (Maharaja T20 Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143423_6134_CKM_KBB_FC-WEB_1782272592980.jpg",
-            "team_1": "Kalyani Bengaluru Blasters",
-            "team_2": "Coastal Kings Mangaluru",
-            "status": "UPCOMING",
-            "event_name": "Maharaja T20 Trophy, 2026",
-            "match_name": "Kalyani Bengaluru Blasters vs Coastal Kings Mangaluru",
-            "match_id": 143446,
-            "startTime": "07:00:00 PM 10-07-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Zimbabwe vs Bangladesh (Bangladesh tour of Zimbabwe, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png",
             "team_1": "Zimbabwe",
@@ -135,15 +139,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bost Defenders vs Band-e-Amir Dragons (Shpageeza Cricket League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143597_6148_BOS_BD_fc-web_1782725011549.jpg",
-            "team_1": "Bost Defenders",
-            "team_2": "Band-e-Amir Dragons",
+            "title": "Kalyani Bengaluru Blasters vs Coastal Kings Mangaluru (Maharaja T20 Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143423_6134_CKM_KBB_FC-WEB_1782272592980.jpg",
+            "team_1": "Kalyani Bengaluru Blasters",
+            "team_2": "Coastal Kings Mangaluru",
             "status": "UPCOMING",
-            "event_name": "Shpageeza Cricket League, 2026",
-            "match_name": "Bost Defenders vs Band-e-Amir Dragons",
-            "match_id": 143597,
-            "startTime": "03:00:00 PM 10-07-2026"
+            "event_name": "Maharaja T20 Trophy, 2026",
+            "match_name": "Kalyani Bengaluru Blasters vs Coastal Kings Mangaluru",
+            "match_id": 143446,
+            "startTime": "07:00:00 PM 10-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -194,6 +198,18 @@
             "startTime": "10:00:00 AM 11-07-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "West Indies vs New Zealand (New Zealand tour of West Indies, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
+            "team_1": "West Indies",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "New Zealand tour of West Indies, 2026",
+            "match_name": "West Indies vs New Zealand",
+            "match_id": 143603,
+            "startTime": "12:00:00 AM 12-07-2026"
+        },
+        {
             "event_category": "MotoGP",
             "title": "Day 2 vs Sachsenring (LIQUI MOLY GRAND PRIX OF GERMANY 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Liqui_Moly_GP_Germany_2026_FC-WEB.jpg",
@@ -216,18 +232,6 @@
             "match_name": "Bost Defenders vs Mis-e-Ainak Knights",
             "match_id": 143599,
             "startTime": "03:00:00 PM 11-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "West Indies vs New Zealand (New Zealand tour of West Indies, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
-            "team_1": "West Indies",
-            "team_2": "New Zealand",
-            "status": "UPCOMING",
-            "event_name": "New Zealand tour of West Indies, 2026",
-            "match_name": "West Indies vs New Zealand",
-            "match_id": 143603,
-            "startTime": "12:00:00 AM 12-07-2026"
         },
         {
             "event_category": "Motorsports",

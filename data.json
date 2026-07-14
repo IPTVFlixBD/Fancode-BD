@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "10:43:59 AM 14-07-2026",
+    "last update time": "12:45:19 PM 14-07-2026",
     "matches": [
-        {
-            "event_category": "Live Events",
-            "title": "Day 7 vs Goa (Dream UTT Juniors 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
-            "team_1": "Day 7",
-            "team_2": "Goa",
-            "status": "LIVE",
-            "event_name": "Dream UTT Juniors 2026",
-            "match_name": "Day 7",
-            "match_id": 4246605,
-            "startTime": "09:00:00 AM 14-07-2026",
-            "dai_url": "https://bd-mc-fblive.fancode.com/mumbai/4246605_english_hls_40eaacc9368631_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-fblive.fancode.com/mumbai/4246605_english_hls_40eaacc9368631_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Bost Defenders vs Speen Ghar Tigers (Shpageeza Cricket League, 2026)",
@@ -34,7 +20,7 @@
         {
             "event_category": "Cricket",
             "title": "Serbia vs Estonia (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1783967411029/4246581_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
             "team_1": "Serbia",
             "team_2": "Estonia",
             "status": "UPCOMING",
@@ -46,7 +32,7 @@
         {
             "event_category": "Cricket",
             "title": "Belgium vs Hungary (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1783966828770/4246582_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
             "team_1": "Belgium",
             "team_2": "Hungary",
             "status": "UPCOMING",
@@ -58,7 +44,7 @@
         {
             "event_category": "Cricket",
             "title": "Romania vs Denmark (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1783966838329/4246579_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
             "team_1": "Romania",
             "team_2": "Denmark",
             "status": "UPCOMING",
@@ -70,7 +56,7 @@
         {
             "event_category": "Cricket",
             "title": "Gibraltar vs Norway (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1783966857562/4246580_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
             "team_1": "Gibraltar",
             "team_2": "Norway",
             "status": "UPCOMING",
@@ -426,6 +412,42 @@
             "match_name": "Qualifying Session",
             "match_id": 139730,
             "startTime": "06:30:00 PM 17-07-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Qualifying Session vs Belgium (F2 BELGIUM 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1783075129448.jpg",
+            "team_1": "Qualifying Session",
+            "team_2": "Belgium",
+            "status": "UPCOMING",
+            "event_name": "F2 BELGIUM 2026",
+            "match_name": "Qualifying Session",
+            "match_id": 139639,
+            "startTime": "07:25:00 PM 17-07-2026"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Practice 2 vs Belgium (F1 MOET & CHANDON BELGIAN GRAND PRIX 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-BELGIAN-GRAND-PRIX-2026-old.png",
+            "team_1": "Practice 2",
+            "team_2": "Belgium",
+            "status": "UPCOMING",
+            "event_name": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2026",
+            "match_name": "Practice 2",
+            "match_id": 139468,
+            "startTime": "08:30:00 PM 17-07-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Puntacana Resort & Club, Dominican Republic (Corales Puntacana Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship-2026-old.png",
+            "team_1": "Day 2",
+            "team_2": "Puntacana Resort & Club, Dominican Republic",
+            "status": "UPCOMING",
+            "event_name": "Corales Puntacana Championship 2026",
+            "match_name": "Day 2",
+            "match_id": 4246624,
+            "startTime": "10:00:00 PM 17-07-2026"
         }
     ]
 }

@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "12:00:46 AM 18-07-2026",
+    "last update time": "01:12:03 AM 18-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Galle Gallants vs Jaffna Kings (Lanka Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246710_52991_JK_GG_FC-WEB.jpg",
-            "team_1": "Galle Gallants",
-            "team_2": "Jaffna Kings",
-            "status": "LIVE",
-            "event_name": "Lanka Premier League, 2026",
-            "match_name": "Galle Gallants vs Jaffna Kings",
-            "match_id": 4246710,
-            "startTime": "07:30:00 PM 17-07-2026",
-            "dai_url": "https://bd-mc-pdlive.fancode.com/mumbai/4246710_english_hls_819be25cbb12303_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://bd-mc-pdlive.fancode.com/mumbai/4246710_english_hls_819be25cbb12303_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Day 2 vs Royal Birkdale (The Open 2026)",
@@ -240,18 +226,6 @@
             "startTime": "03:00:00 PM 19-07-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Final vs Goa (Dream UTT Juniors 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
-            "team_1": "Final",
-            "team_2": "Goa",
-            "status": "UPCOMING",
-            "event_name": "Dream UTT Juniors 2026",
-            "match_name": "Final",
-            "match_id": 4246610,
-            "startTime": "09:00:00 AM 19-07-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Zimbabwe vs Bangladesh (Bangladesh tour of Zimbabwe, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png",
@@ -262,6 +236,18 @@
             "match_name": "Zimbabwe vs Bangladesh",
             "match_id": 143405,
             "startTime": "04:00:00 PM 19-07-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Final vs Goa (Dream UTT Juniors 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg",
+            "team_1": "Final",
+            "team_2": "Goa",
+            "status": "UPCOMING",
+            "event_name": "Dream UTT Juniors 2026",
+            "match_name": "Final",
+            "match_id": 4246610,
+            "startTime": "09:00:00 AM 19-07-2026"
         },
         {
             "event_category": "Motorsports",

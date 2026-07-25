@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "09:01:03 AM 25-07-2026",
+    "last update time": "11:22:26 AM 25-07-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Pakistan Women vs Sri Lanka Women (Pakistan Women's tour of Sri Lanka, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg",
+            "team_1": "Pakistan Women",
+            "team_2": "Sri Lanka Women",
+            "status": "LIVE",
+            "event_name": "Pakistan Women's tour of Sri Lanka, 2026",
+            "match_name": "Pakistan Women vs Sri Lanka Women",
+            "match_id": 4247426,
+            "startTime": "10:00:00 AM 25-07-2026",
+            "dai_url": "https://bd-mc-pdlive.fancode.com/mumbai/4247426_english_hls_65d82e3e4c86377_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-pdlive.fancode.com/mumbai/4247426_english_hls_65d82e3e4c86377_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Malaysia XI vs Sea Hawks Cricket Club (Malaysia and Sea Hawks Cricket Club 2026)",
@@ -18,16 +32,18 @@
             "adfree_url": "https://bd-mc-pdlive.fancode.com/mumbai/4247198_english_hls_4e2b6a33c555878_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Sri Lanka Women vs Pakistan Women (Pakistan Women's tour of Sri Lanka, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg",
-            "team_1": "Sri Lanka Women",
-            "team_2": "Pakistan Women",
-            "status": "UPCOMING",
-            "event_name": "Pakistan Women's tour of Sri Lanka, 2026",
-            "match_name": "Sri Lanka Women vs Pakistan Women",
-            "match_id": 4247426,
-            "startTime": "10:00:00 AM 25-07-2026"
+            "event_category": "Motorsports",
+            "title": "Japan - Race 1 vs Suzuka City, Japan (Ferrari Challenge Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old.-psd.png",
+            "team_1": "Japan - Race 1",
+            "team_2": "Suzuka City, Japan",
+            "status": "LIVE",
+            "event_name": "Ferrari Challenge Series 2026",
+            "match_name": "Japan - Race 1",
+            "match_id": 143794,
+            "startTime": "10:00:00 AM 25-07-2026",
+            "dai_url": "https://bd-mc-pdlive.fancode.com/mumbai/143794_english_hls_fafc6faf7b4112_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://bd-mc-pdlive.fancode.com/mumbai/143794_english_hls_fafc6faf7b4112_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -102,16 +118,28 @@
             "startTime": "04:30:00 AM 26-07-2026"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Japan - Race 1 vs Suzuka City, Japan (Ferrari Challenge Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old.-psd.png",
-            "team_1": "Japan - Race 1",
-            "team_2": "Suzuka City, Japan",
+            "event_category": "Cricket",
+            "title": "Kandy Royals vs Jaffna Kings (Lanka Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246728_52991_KRL_JK_FC-WEB.jpg",
+            "team_1": "Kandy Royals",
+            "team_2": "Jaffna Kings",
             "status": "UPCOMING",
-            "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "Japan - Race 1",
-            "match_id": 143794,
-            "startTime": "10:00:00 AM 25-07-2026"
+            "event_name": "Lanka Premier League, 2026",
+            "match_name": "Kandy Royals vs Jaffna Kings",
+            "match_id": 4246728,
+            "startTime": "03:00:00 PM 26-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Zimbabwe vs India (India tour of Zimbabwe, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg",
+            "team_1": "Zimbabwe",
+            "team_2": "India",
+            "status": "UPCOMING",
+            "event_name": "India tour of Zimbabwe, 2026",
+            "match_name": "Zimbabwe vs India",
+            "match_id": 143353,
+            "startTime": "04:30:00 PM 26-07-2026"
         },
         {
             "event_category": "Motorsports",
@@ -258,18 +286,6 @@
             "startTime": "07:30:00 PM 25-07-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Kandy Royals vs Jaffna Kings (Lanka Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246728_52991_KRL_JK_FC-WEB.jpg",
-            "team_1": "Kandy Royals",
-            "team_2": "Jaffna Kings",
-            "status": "UPCOMING",
-            "event_name": "Lanka Premier League, 2026",
-            "match_name": "Kandy Royals vs Jaffna Kings",
-            "match_id": 4246728,
-            "startTime": "03:00:00 PM 26-07-2026"
-        },
-        {
             "event_category": "Golf",
             "title": "Day 3 - World Feed vs TPC Twin Cities - Blaine, Minnesota (3M Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
@@ -280,30 +296,6 @@
             "match_name": "Day 3 - World Feed",
             "match_id": 4246804,
             "startTime": "11:30:00 PM 25-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Zimbabwe vs India (India tour of Zimbabwe, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg",
-            "team_1": "Zimbabwe",
-            "team_2": "India",
-            "status": "UPCOMING",
-            "event_name": "India tour of Zimbabwe, 2026",
-            "match_name": "Zimbabwe vs India",
-            "match_id": 143353,
-            "startTime": "04:30:00 PM 26-07-2026"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Japan - Race 2 vs Suzuka City, Japan (Ferrari Challenge Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old.-psd.png",
-            "team_1": "Japan - Race 2",
-            "team_2": "Suzuka City, Japan",
-            "status": "UPCOMING",
-            "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "Japan - Race 2",
-            "match_id": 143795,
-            "startTime": "10:00:00 AM 26-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -328,6 +320,18 @@
             "match_name": "San Francisco Unicorns vs Perth Scorchers XI",
             "match_id": 4247431,
             "startTime": "07:30:00 PM 26-07-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Japan - Race 2 vs Suzuka City, Japan (Ferrari Challenge Series 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old.-psd.png",
+            "team_1": "Japan - Race 2",
+            "team_2": "Suzuka City, Japan",
+            "status": "UPCOMING",
+            "event_name": "Ferrari Challenge Series 2026",
+            "match_name": "Japan - Race 2",
+            "match_id": 143795,
+            "startTime": "10:00:00 AM 26-07-2026"
         },
         {
             "event_category": "Motorsports",
@@ -460,6 +464,18 @@
             "match_name": "Guyana Amazon Warriors vs Lahore Qalandars",
             "match_id": 4247433,
             "startTime": "04:30:00 AM 27-07-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4 - World Feed vs TPC Twin Cities - Blaine, Minnesota (3M Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
+            "team_1": "Day 4 - World Feed",
+            "team_2": "TPC Twin Cities - Blaine, Minnesota",
+            "status": "UPCOMING",
+            "event_name": "3M Open 2026",
+            "match_name": "Day 4 - World Feed",
+            "match_id": 4246806,
+            "startTime": "11:30:00 PM 26-07-2026"
         }
     ]
 }

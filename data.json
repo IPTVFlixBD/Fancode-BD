@@ -1,21 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "02:49:31 PM 28-07-2026",
+    "last update time": "04:50:54 PM 28-07-2026",
     "matches": [
         {
-            "event_category": "Cricket",
-            "title": "Pakistan Women vs Sri Lanka Women (Pakistan Women's tour of Sri Lanka, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg",
-            "team_1": "Pakistan Women",
-            "team_2": "Sri Lanka Women",
+            "event_category": "Football",
+            "title": "Chelsea vs Western Sydney Wanderers (Club Friendlies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Club_Friendlies_FC-WEB.jpg",
+            "team_1": "Chelsea",
+            "team_2": "Western Sydney Wanderers",
             "status": "LIVE",
-            "event_name": "Pakistan Women's tour of Sri Lanka, 2026",
-            "match_name": "Pakistan Women vs Sri Lanka Women",
-            "match_id": 4247427,
-            "startTime": "10:00:00 AM 28-07-2026",
-            "dai_url": "https://livecf.fancode.com/4247427_english_hls_abc2cd096315047_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://livecf.fancode.com/4247427_english_hls_abc2cd096315047_1ta-di_h264/index.m3u8"
+            "event_name": "Club Friendlies 2026",
+            "match_name": "Chelsea vs Western Sydney Wanderers",
+            "match_id": 4248011,
+            "startTime": "03:15:00 PM 28-07-2026",
+            "dai_url": "https://livecf.fancode.com/4248011_english_hls_5b73c572f157627_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/4248011_english_hls_5b73c572f157627_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -52,18 +52,6 @@
             "match_name": "Desert Vipers vs Perth Scorchers XI",
             "match_id": 4247435,
             "startTime": "04:30:00 AM 29-07-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Chelsea vs Western Sydney Wanderers (Club Friendlies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Club_Friendlies_FC-WEB.jpg",
-            "team_1": "Chelsea",
-            "team_2": "Western Sydney Wanderers",
-            "status": "UPCOMING",
-            "event_name": "Club Friendlies 2026",
-            "match_name": "Chelsea vs Western Sydney Wanderers",
-            "match_id": 4248011,
-            "startTime": "03:15:00 PM 28-07-2026"
         },
         {
             "event_category": "Cricket",

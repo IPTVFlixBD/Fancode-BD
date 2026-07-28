@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "03:07:40 AM 29-07-2026",
+    "last update time": "04:08:17 AM 29-07-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Desert Vipers vs Perth Scorchers XI (Global Super League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247435_53000_DV_PER-XI_fc-web.jpg",
+            "team_1": "Desert Vipers",
+            "team_2": "Perth Scorchers XI",
+            "status": "LIVE",
+            "event_name": "Global Super League, 2026",
+            "match_name": "Desert Vipers vs Perth Scorchers XI",
+            "match_id": 4247435,
+            "startTime": "04:30:00 AM 29-07-2026",
+            "dai_url": "https://livecf.fancode.com/4247435_english_hls_ff499ca61529460_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/4247435_english_hls_ff499ca61529460_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Tennis",
             "title": "World Feed 1 vs Washington, United States (ATP 500 - Mubadala DC Open 2026)",
@@ -18,16 +32,18 @@
             "adfree_url": "https://livecf.fancode.com/143641_english_hls_172b098b4923302_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Desert Vipers vs Perth Scorchers XI (Global Super League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247435_53000_DV_PER-XI_fc-web.jpg",
-            "team_1": "Desert Vipers",
-            "team_2": "Perth Scorchers XI",
-            "status": "UPCOMING",
-            "event_name": "Global Super League, 2026",
-            "match_name": "Desert Vipers vs Perth Scorchers XI",
-            "match_id": 4247435,
-            "startTime": "04:30:00 AM 29-07-2026"
+            "event_category": "Tennis",
+            "title": "World Feed 2 vs Washington, United States (ATP 500 - Mubadala DC Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
+            "team_1": "World Feed 2",
+            "team_2": "Washington, United States",
+            "status": "LIVE",
+            "event_name": "ATP 500 - Mubadala DC Open 2026",
+            "match_name": "World Feed 2",
+            "match_id": 143643,
+            "startTime": "03:30:00 PM 29-07-2026",
+            "dai_url": "https://livecf.fancode.com/143643_english_hls_adfe3dbeb394633_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/143643_english_hls_adfe3dbeb394633_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -102,6 +118,18 @@
             "startTime": "06:30:00 AM 29-07-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Malaysia XI vs Sea Hawks Cricket Club (Malaysia and Sea Hawks Cricket Club 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg",
+            "team_1": "Malaysia XI",
+            "team_2": "Sea Hawks Cricket Club",
+            "status": "UPCOMING",
+            "event_name": "Malaysia and Sea Hawks Cricket Club 2026",
+            "match_name": "Malaysia XI vs Sea Hawks Cricket Club",
+            "match_id": 4247200,
+            "startTime": "07:00:00 AM 30-07-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "ATP 500 - Mubadala DC Open 2026 vs Washington, United States (ATP 500 - Mubadala DC Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
@@ -124,30 +152,6 @@
             "match_name": "ATP 500 - Mubadala DC Open 2026",
             "match_id": 143644,
             "startTime": "02:30:00 PM 29-07-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "World Feed 2 vs Washington, United States (ATP 500 - Mubadala DC Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
-            "team_1": "World Feed 2",
-            "team_2": "Washington, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Mubadala DC Open 2026",
-            "match_name": "World Feed 2",
-            "match_id": 143643,
-            "startTime": "03:30:00 PM 29-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malaysia XI vs Sea Hawks Cricket Club (Malaysia and Sea Hawks Cricket Club 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg",
-            "team_1": "Malaysia XI",
-            "team_2": "Sea Hawks Cricket Club",
-            "status": "UPCOMING",
-            "event_name": "Malaysia and Sea Hawks Cricket Club 2026",
-            "match_name": "Malaysia XI vs Sea Hawks Cricket Club",
-            "match_id": 4247200,
-            "startTime": "07:00:00 AM 30-07-2026"
         },
         {
             "event_category": "Tennis",

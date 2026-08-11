@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "08:06:39 AM 11-08-2026",
+    "last update time": "09:27:32 AM 11-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -64,6 +64,30 @@
             "startTime": "11:30:00 AM 11-08-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Bahrain vs Singapore (ICC CWC Challenge League B 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
+            "team_1": "Bahrain",
+            "team_2": "Singapore",
+            "status": "UPCOMING",
+            "event_name": "ICC CWC Challenge League B 2026",
+            "match_name": "Bahrain vs Singapore",
+            "match_id": 4248255,
+            "startTime": "11:30:00 AM 12-08-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Hong Kong, China vs Uganda (ICC CWC Challenge League B 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
+            "team_1": "Hong Kong, China",
+            "team_2": "Uganda",
+            "status": "UPCOMING",
+            "event_name": "ICC CWC Challenge League B 2026",
+            "match_name": "Hong Kong, China vs Uganda",
+            "match_id": 4248256,
+            "startTime": "11:30:00 AM 12-08-2026"
+        },
+        {
             "event_category": "Live Events",
             "title": "Third-place vs Binjiang Gymnasium, China (Asian University Basketball League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",
@@ -74,6 +98,18 @@
             "match_name": "Third-place",
             "match_id": 4248228,
             "startTime": "01:00:00 PM 11-08-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ireland vs Afghanistan (Afghanistan tour of Ireland, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
+            "team_1": "Ireland",
+            "team_2": "Afghanistan",
+            "status": "UPCOMING",
+            "event_name": "Afghanistan tour of Ireland, 2026",
+            "match_name": "Ireland vs Afghanistan",
+            "match_id": 4248053,
+            "startTime": "03:15:00 PM 12-08-2026"
         },
         {
             "event_category": "Live Events",
@@ -98,30 +134,6 @@
             "match_name": "Oman vs Goa",
             "match_id": 4248363,
             "startTime": "08:00:00 PM 11-08-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bahrain vs Singapore (ICC CWC Challenge League B 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
-            "team_1": "Bahrain",
-            "team_2": "Singapore",
-            "status": "UPCOMING",
-            "event_name": "ICC CWC Challenge League B 2026",
-            "match_name": "Bahrain vs Singapore",
-            "match_id": 4248255,
-            "startTime": "11:30:00 AM 12-08-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hong Kong, China vs Uganda (ICC CWC Challenge League B 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",
-            "team_1": "Hong Kong, China",
-            "team_2": "Uganda",
-            "status": "UPCOMING",
-            "event_name": "ICC CWC Challenge League B 2026",
-            "match_name": "Hong Kong, China vs Uganda",
-            "match_id": 4248256,
-            "startTime": "11:30:00 AM 12-08-2026"
         },
         {
             "event_category": "Tennis",
@@ -170,18 +182,6 @@
             "match_name": "ATP Masters Omnium Banque National 2026",
             "match_id": 4248097,
             "startTime": "10:00:00 PM 11-08-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ireland vs Afghanistan (Afghanistan tour of Ireland, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",
-            "team_1": "Ireland",
-            "team_2": "Afghanistan",
-            "status": "UPCOMING",
-            "event_name": "Afghanistan tour of Ireland, 2026",
-            "match_name": "Ireland vs Afghanistan",
-            "match_id": 4248053,
-            "startTime": "03:15:00 PM 12-08-2026"
         },
         {
             "event_category": "Cricket",

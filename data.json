@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "05:18:35 PM 23-08-2026",
+    "last update time": "05:38:48 PM 23-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -226,30 +226,6 @@
             "startTime": "07:00:00 PM 24-08-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Noida Kings vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png",
-            "team_1": "Noida Kings",
-            "team_2": "Gaur Gorakhpur Lions",
-            "status": "UPCOMING",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "Noida Kings vs Gaur Gorakhpur Lions",
-            "match_id": 4248353,
-            "startTime": "07:30:00 PM 24-08-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Rawain Royals vs Taknor Tigers (Uttarkashi T20 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248513_53041_RR_TT_FC-Web.jpg",
-            "team_1": "Rawain Royals",
-            "team_2": "Taknor Tigers",
-            "status": "UPCOMING",
-            "event_name": "Uttarkashi T20 League 2026",
-            "match_name": "Rawain Royals vs Taknor Tigers",
-            "match_id": 4248513,
-            "startTime": "06:00:00 PM 24-08-2026"
-        },
-        {
             "event_category": "Golf",
             "title": "Main Feed - Day 4 vs Bellerive Country Club - St. Louis, Missouri (BMW Championship 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship-2026-old-.png",
@@ -272,6 +248,30 @@
             "match_name": "F1 Kids - Race",
             "match_id": 4248534,
             "startTime": "06:30:00 PM 23-08-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Noida Kings vs Gaur Gorakhpur Lions (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png",
+            "team_1": "Noida Kings",
+            "team_2": "Gaur Gorakhpur Lions",
+            "status": "UPCOMING",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "Noida Kings vs Gaur Gorakhpur Lions",
+            "match_id": 4248353,
+            "startTime": "07:30:00 PM 24-08-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rawain Royals vs Taknor Tigers (Uttarkashi T20 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248513_53041_RR_TT_FC-Web.jpg",
+            "team_1": "Rawain Royals",
+            "team_2": "Taknor Tigers",
+            "status": "UPCOMING",
+            "event_name": "Uttarkashi T20 League 2026",
+            "match_name": "Rawain Royals vs Taknor Tigers",
+            "match_id": 4248513,
+            "startTime": "06:00:00 PM 24-08-2026"
         },
         {
             "event_category": "Golf",
@@ -394,18 +394,6 @@
             "startTime": "01:30:00 PM 24-08-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Hobart Hurricanes Academy vs Nepal (Top End T20 Series, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248444_53036_HHA_NEP_fc-web_1787393618603.jpg",
-            "team_1": "Hobart Hurricanes Academy",
-            "team_2": "Nepal",
-            "status": "UPCOMING",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Hobart Hurricanes Academy vs Nepal",
-            "match_id": 4248444,
-            "startTime": "03:00:00 PM 24-08-2026"
-        },
-        {
             "event_category": "Football",
             "title": "CA Osasuna vs Levante (LALIGA 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png",
@@ -416,6 +404,18 @@
             "match_name": "CA Osasuna vs Levante",
             "match_id": 4247579,
             "startTime": "11:00:00 PM 24-08-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Hobart Hurricanes Academy vs Nepal (Top End T20 Series, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248444_53036_HHA_NEP_fc-web_1787393618603.jpg",
+            "team_1": "Hobart Hurricanes Academy",
+            "team_2": "Nepal",
+            "status": "UPCOMING",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Hobart Hurricanes Academy vs Nepal",
+            "match_id": 4248444,
+            "startTime": "03:00:00 PM 24-08-2026"
         },
         {
             "event_category": "Football",

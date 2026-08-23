@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "07:31:17 AM 23-08-2026",
+    "last update time": "08:31:56 AM 23-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -338,18 +338,6 @@
             "startTime": "10:00:00 PM 23-08-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 2 vs Barton Hills Country Club (US Women’s Senior Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard108x3.png",
-            "team_1": "Day 2",
-            "team_2": "Barton Hills Country Club",
-            "status": "UPCOMING",
-            "event_name": "US Women’s Senior Open 2026",
-            "match_name": "Day 2",
-            "match_id": 4248528,
-            "startTime": "01:30:00 AM 24-08-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Kashi Rudras vs Lucknow Falcons (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248352_53029_KAS_LCK_FC-Web_1786702851507.png",
@@ -362,16 +350,16 @@
             "startTime": "03:00:00 PM 24-08-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Antigua & Barbuda Falcons vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248299_53026_ABF_GUY_FC-Web.png",
-            "team_1": "Antigua & Barbuda Falcons",
-            "team_2": "Guyana Amazon Warriors",
+            "event_category": "Golf",
+            "title": "Day 2 vs Barton Hills Country Club (US Women’s Senior Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard108x3.png",
+            "team_1": "Day 2",
+            "team_2": "Barton Hills Country Club",
             "status": "UPCOMING",
-            "event_name": "Caribbean Premier League, 2026",
-            "match_name": "Antigua & Barbuda Falcons vs Guyana Amazon Warriors",
-            "match_id": 4248299,
-            "startTime": "04:30:00 AM 24-08-2026"
+            "event_name": "US Women’s Senior Open 2026",
+            "match_name": "Day 2",
+            "match_id": 4248528,
+            "startTime": "01:30:00 AM 24-08-2026"
         },
         {
             "event_category": "Cricket",
@@ -387,6 +375,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Antigua & Barbuda Falcons vs Guyana Amazon Warriors (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248299_53026_ABF_GUY_FC-Web.png",
+            "team_1": "Antigua & Barbuda Falcons",
+            "team_2": "Guyana Amazon Warriors",
+            "status": "UPCOMING",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "Antigua & Barbuda Falcons vs Guyana Amazon Warriors",
+            "match_id": 4248299,
+            "startTime": "04:30:00 AM 24-08-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Northern Territory Strike vs Hyderabad Kingsmen (Top End T20 Series, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248430_53036_NTS_HYK_fc-web_1787393619300.jpg",
             "team_1": "Northern Territory Strike",
@@ -399,18 +399,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bangladesh HP-XI vs Victoria Academy (Top End T20 Series, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg",
-            "team_1": "Bangladesh HP-XI",
-            "team_2": "Victoria Academy",
-            "status": "UPCOMING",
-            "event_name": "Top End T20 Series, 2026",
-            "match_name": "Bangladesh HP-XI vs Victoria Academy",
-            "match_id": 4248429,
-            "startTime": "10:30:00 AM 24-08-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "South Delhi Superstarz vs New Delhi Tigers (Delhi Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png",
             "team_1": "South Delhi Superstarz",
@@ -420,6 +408,18 @@
             "match_name": "South Delhi Superstarz vs New Delhi Tigers",
             "match_id": 4248003,
             "startTime": "07:00:00 PM 24-08-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh HP-XI vs Victoria Academy (Top End T20 Series, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg",
+            "team_1": "Bangladesh HP-XI",
+            "team_2": "Victoria Academy",
+            "status": "UPCOMING",
+            "event_name": "Top End T20 Series, 2026",
+            "match_name": "Bangladesh HP-XI vs Victoria Academy",
+            "match_id": 4248429,
+            "startTime": "10:30:00 AM 24-08-2026"
         },
         {
             "event_category": "Cricket",

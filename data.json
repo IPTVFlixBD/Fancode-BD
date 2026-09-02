@@ -1,52 +1,26 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/iptvflixbd",
-    "last update time": "11:01:08 AM 02-09-2026",
+    "last update time": "03:13:49 PM 02-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Oman vs Qatar (ACC Men’s Premier Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248615_53050_OMA_QAT_FC-Web.png",
-            "team_1": "Oman",
-            "team_2": "Qatar",
-            "status": "LIVE",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "match_name": "Oman vs Qatar",
-            "match_id": 4248615,
-            "startTime": "07:00:00 AM 02-09-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hong Kong, China vs Bahrain (ACC Men’s Premier Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248616_53050_HK_BRN_FC-Web.png",
-            "team_1": "Hong Kong, China",
-            "team_2": "Bahrain",
-            "status": "LIVE",
-            "event_name": "ACC Men’s Premier Cup 2026",
-            "match_name": "Hong Kong, China vs Bahrain",
-            "match_id": 4248616,
-            "startTime": "07:00:00 AM 02-09-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
             "title": "Mohali Kings vs Ludhiana Lions (Sher-E-Punjab T20, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1788273996407/4249108_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249108_53065_MOK_LLN_fc-web_1788339743850.jpg",
             "team_1": "Mohali Kings",
             "team_2": "Ludhiana Lions",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Sher-E-Punjab T20, 2026",
             "match_name": "Mohali Kings vs Ludhiana Lions",
             "match_id": 4249108,
-            "startTime": "01:00:00 PM 02-09-2026"
+            "startTime": "01:00:00 PM 02-09-2026",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
             "title": "Fazilka Falcons vs Amritsar Soormas (Sher-E-Punjab T20, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1788273996414/4249118_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249118_53065_FAF_AMS_fc-web_1788339743151.jpg",
             "team_1": "Fazilka Falcons",
             "team_2": "Amritsar Soormas",
             "status": "UPCOMING",
@@ -68,9 +42,33 @@
             "startTime": "04:00:00 PM 02-09-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Rishikesh Dragons vs Herbertpur Knight Riders (Dehradun T20 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249063_53058_RD_HKR_fc-Web_fc-webtvbg.jpg",
+            "team_1": "Rishikesh Dragons",
+            "team_2": "Herbertpur Knight Riders",
+            "status": "UPCOMING",
+            "event_name": "Dehradun T20 League 2026",
+            "match_name": "Rishikesh Dragons vs Herbertpur Knight Riders",
+            "match_id": 4249063,
+            "startTime": "07:30:00 PM 02-09-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bathinda Royals vs Jalandhar Warriors (Sher-E-Punjab T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249114_53065_BHT_JLD_fc-web_1788339743832.jpg",
+            "team_1": "Bathinda Royals",
+            "team_2": "Jalandhar Warriors",
+            "status": "UPCOMING",
+            "event_name": "Sher-E-Punjab T20, 2026",
+            "match_name": "Bathinda Royals vs Jalandhar Warriors",
+            "match_id": 4249114,
+            "startTime": "01:00:00 PM 03-09-2026"
+        },
+        {
             "event_category": "Football",
             "title": "VfL Osnabruck vs FC Bayern München (DFB Pokal 2026-27)",
-            "src": "https://images.fancode.com/aig/match/v1787136554688/4248532_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248532_53043_VFL_BAY_FC-WEB.png",
             "team_1": "VfL Osnabruck",
             "team_2": "FC Bayern München",
             "status": "UPCOMING",
@@ -90,18 +88,6 @@
             "match_name": "Burnley vs Middlesbrough F.C.",
             "match_id": 4247480,
             "startTime": "12:30:00 AM 03-09-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Rishikesh Dragons vs Herbertpur Knight Riders (Dehradun T20 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249063_53058_RD_HKR_fc-Web_fc-webtvbg.jpg",
-            "team_1": "Rishikesh Dragons",
-            "team_2": "Herbertpur Knight Riders",
-            "status": "UPCOMING",
-            "event_name": "Dehradun T20 League 2026",
-            "match_name": "Rishikesh Dragons vs Herbertpur Knight Riders",
-            "match_id": 4249063,
-            "startTime": "07:30:00 PM 02-09-2026"
         },
         {
             "event_category": "Cricket",
@@ -129,18 +115,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bathinda Royals vs Jalandhar Warriors (Sher-E-Punjab T20, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1788273996413/4249114_CASACARDS_APP.png",
-            "team_1": "Bathinda Royals",
-            "team_2": "Jalandhar Warriors",
-            "status": "UPCOMING",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "match_name": "Bathinda Royals vs Jalandhar Warriors",
-            "match_id": 4249114,
-            "startTime": "01:00:00 PM 03-09-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "TBC vs TBC (Uttar Pradesh T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1786365450249.png",
             "team_1": "TBC",
@@ -162,6 +136,54 @@
             "match_name": "Doiwala Kings vs Vikasnagar Dhamaka",
             "match_id": 4249064,
             "startTime": "09:00:00 AM 03-09-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mussoorie Thunder vs Selaqui Strikers (Dehradun T20 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249065_53058_MT_SS_fc-Web_fc-webtvbg.jpg",
+            "team_1": "Mussoorie Thunder",
+            "team_2": "Selaqui Strikers",
+            "status": "UPCOMING",
+            "event_name": "Dehradun T20 League 2026",
+            "match_name": "Mussoorie Thunder vs Selaqui Strikers",
+            "match_id": 4249065,
+            "startTime": "03:30:00 PM 03-09-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Fazilka Falcons vs Mohali Kings (Sher-E-Punjab T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249124_53065_FAF_MOK_fc-web_1788339743837.jpg",
+            "team_1": "Fazilka Falcons",
+            "team_2": "Mohali Kings",
+            "status": "UPCOMING",
+            "event_name": "Sher-E-Punjab T20, 2026",
+            "match_name": "Fazilka Falcons vs Mohali Kings",
+            "match_id": 4249124,
+            "startTime": "07:00:00 PM 03-09-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mustafa Fragrance House Strikers vs Muscat Thunders (Oman D50 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248670_53052_MF_MUT_fc-Web.jpg",
+            "team_1": "Mustafa Fragrance House Strikers",
+            "team_2": "Muscat Thunders",
+            "status": "UPCOMING",
+            "event_name": "Oman D50 2026",
+            "match_name": "Mustafa Fragrance House Strikers vs Muscat Thunders",
+            "match_id": 4248670,
+            "startTime": "04:00:00 PM 03-09-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Uttar Pradesh T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1786365450249.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Uttar Pradesh T20 League, 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 4248349,
+            "startTime": "07:30:00 PM 03-09-2026"
         },
         {
             "event_category": "Cricket",
@@ -189,54 +211,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Mustafa Fragrance House Strikers vs Muscat Thunders (Oman D50 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248670_53052_MF_MUT_fc-Web.jpg",
-            "team_1": "Mustafa Fragrance House Strikers",
-            "team_2": "Muscat Thunders",
-            "status": "UPCOMING",
-            "event_name": "Oman D50 2026",
-            "match_name": "Mustafa Fragrance House Strikers vs Muscat Thunders",
-            "match_id": 4248670,
-            "startTime": "04:00:00 PM 03-09-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Fazilka Falcons vs Mohali Kings (Sher-E-Punjab T20, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1788273996424/4249124_CASACARDS_APP.png",
-            "team_1": "Fazilka Falcons",
-            "team_2": "Mohali Kings",
-            "status": "UPCOMING",
-            "event_name": "Sher-E-Punjab T20, 2026",
-            "match_name": "Fazilka Falcons vs Mohali Kings",
-            "match_id": 4249124,
-            "startTime": "07:00:00 PM 03-09-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Uttar Pradesh T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1786365450249.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Uttar Pradesh T20 League, 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 4248349,
-            "startTime": "07:30:00 PM 03-09-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mussoorie Thunder vs Selaqui Strikers (Dehradun T20 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249065_53058_MT_SS_fc-Web_fc-webtvbg.jpg",
-            "team_1": "Mussoorie Thunder",
-            "team_2": "Selaqui Strikers",
-            "status": "UPCOMING",
-            "event_name": "Dehradun T20 League 2026",
-            "match_name": "Mussoorie Thunder vs Selaqui Strikers",
-            "match_id": 4249065,
-            "startTime": "03:30:00 PM 03-09-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Rishikesh Dragons vs Vikasnagar Dhamaka (Dehradun T20 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4249066_53058_RD_VD_fc-Web_fc-webtvbg.jpg",
             "team_1": "Rishikesh Dragons",
@@ -246,6 +220,18 @@
             "match_name": "Rishikesh Dragons vs Vikasnagar Dhamaka",
             "match_id": 4249066,
             "startTime": "07:30:00 PM 03-09-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Diriyah vs Al Qadisiyah (Roshn Saudi League 2026-2027)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248654_53025_DIR_ALQ_FC-Web.png",
+            "team_1": "Diriyah",
+            "team_2": "Al Qadisiyah",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "match_name": "Diriyah vs Al Qadisiyah",
+            "match_id": 4248654,
+            "startTime": "11:30:00 PM 03-09-2026"
         },
         {
             "event_category": "Cricket",
@@ -261,20 +247,8 @@
         },
         {
             "event_category": "Football",
-            "title": "Diriyah vs Al Qadisiyah (Roshn Saudi League 2026-2027)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248654_53025_DIR_ALQ_FC-Web.png",
-            "team_1": "Diriyah",
-            "team_2": "Al Qadisiyah",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "match_name": "Diriyah vs Al Qadisiyah",
-            "match_id": 4248654,
-            "startTime": "11:30:00 PM 03-09-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Real Sociedad vs RC Celta (LALIGA 2026-27)",
-            "src": "https://images.fancode.com/aig/match/v1788240399874/4247623_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247623_53004_RS_CEV_FC-Web.png",
             "team_1": "Real Sociedad",
             "team_2": "RC Celta",
             "status": "UPCOMING",
@@ -309,18 +283,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "St Kitts and Nevis Patriots vs Saint Lucia Kings (Caribbean Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248297_53026_SKN_SLK_FC-Web.png",
-            "team_1": "St Kitts and Nevis Patriots",
-            "team_2": "Saint Lucia Kings",
-            "status": "UPCOMING",
-            "event_name": "Caribbean Premier League, 2026",
-            "match_name": "St Kitts and Nevis Patriots vs Saint Lucia Kings",
-            "match_id": 4248297,
-            "startTime": "04:30:00 AM 04-09-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Selaqui Strikers vs Herbertpur Knight Riders (Dehradun T20 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4249067_53058_SS_HKR_fc-Web_fc-webtvbg.jpg",
             "team_1": "Selaqui Strikers",
@@ -333,8 +295,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "St Kitts and Nevis Patriots vs Saint Lucia Kings (Caribbean Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248297_53026_SKN_SLK_FC-Web.png",
+            "team_1": "St Kitts and Nevis Patriots",
+            "team_2": "Saint Lucia Kings",
+            "status": "UPCOMING",
+            "event_name": "Caribbean Premier League, 2026",
+            "match_name": "St Kitts and Nevis Patriots vs Saint Lucia Kings",
+            "match_id": 4248297,
+            "startTime": "04:30:00 AM 04-09-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Bathinda Royals vs Amritsar Soormas (Sher-E-Punjab T20, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1788273996416/4249123_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249123_53065_BHT_AMS_fc-web_1788339743165.jpg",
             "team_1": "Bathinda Royals",
             "team_2": "Amritsar Soormas",
             "status": "UPCOMING",
@@ -342,6 +316,18 @@
             "match_name": "Bathinda Royals vs Amritsar Soormas",
             "match_id": 4249123,
             "startTime": "01:00:00 PM 04-09-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Doiwala Kings vs Mussoorie Thunder (Dehradun T20 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249068_53058_DK_MT_fc-Web_fc-webtvbg.jpg",
+            "team_1": "Doiwala Kings",
+            "team_2": "Mussoorie Thunder",
+            "status": "UPCOMING",
+            "event_name": "Dehradun T20 League 2026",
+            "match_name": "Doiwala Kings vs Mussoorie Thunder",
+            "match_id": 4249068,
+            "startTime": "03:30:00 PM 04-09-2026"
         },
         {
             "event_category": "Cricket",
@@ -369,20 +355,8 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Doiwala Kings vs Mussoorie Thunder (Dehradun T20 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249068_53058_DK_MT_fc-Web_fc-webtvbg.jpg",
-            "team_1": "Doiwala Kings",
-            "team_2": "Mussoorie Thunder",
-            "status": "UPCOMING",
-            "event_name": "Dehradun T20 League 2026",
-            "match_name": "Doiwala Kings vs Mussoorie Thunder",
-            "match_id": 4249068,
-            "startTime": "03:30:00 PM 04-09-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Ludhiana Lions vs Jalandhar Warriors (Sher-E-Punjab T20, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1788273996413/4249125_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249125_53065_LLN_JLD_fc-web_1788339743158.jpg",
             "team_1": "Ludhiana Lions",
             "team_2": "Jalandhar Warriors",
             "status": "UPCOMING",
@@ -416,18 +390,6 @@
             "startTime": "01:30:00 PM 04-09-2026"
         },
         {
-            "event_category": "Formula 1",
-            "title": "Practice 1 vs Autodromo Nazionale Monza (F1 PIRELLI GRAN PREMIO D'ITALIA 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png",
-            "team_1": "Practice 1",
-            "team_2": "Autodromo Nazionale Monza",
-            "status": "UPCOMING",
-            "event_name": "F1 PIRELLI GRAN PREMIO D'ITALIA 2026",
-            "match_name": "Practice 1",
-            "match_id": 139482,
-            "startTime": "04:00:00 PM 04-09-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Rishikesh Dragons vs Selaqui Strikers (Dehradun T20 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4249069_53058_RD_SS_fc-Web_fc-webtvbg.jpg",
@@ -440,6 +402,18 @@
             "startTime": "07:30:00 PM 04-09-2026"
         },
         {
+            "event_category": "Formula 1",
+            "title": "Practice 1 vs Autodromo Nazionale Monza (F1 PIRELLI GRAN PREMIO D'ITALIA 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA--old-match-card.png",
+            "team_1": "Practice 1",
+            "team_2": "Autodromo Nazionale Monza",
+            "status": "UPCOMING",
+            "event_name": "F1 PIRELLI GRAN PREMIO D'ITALIA 2026",
+            "match_name": "Practice 1",
+            "match_id": 139482,
+            "startTime": "04:00:00 PM 04-09-2026"
+        },
+        {
             "event_category": "Motorsports",
             "title": "Qualifying Session vs Monza (F3 MONZA 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card_1787814907564.jpg",
@@ -450,6 +424,42 @@
             "match_name": "Qualifying Session",
             "match_id": 139738,
             "startTime": "05:30:00 PM 04-09-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Namibia vs South Africa (South Africa and Zimbabwe tour of Namibia, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248461_53037_NAM_SA_FC-WEB.jpg",
+            "team_1": "Namibia",
+            "team_2": "South Africa",
+            "status": "UPCOMING",
+            "event_name": "South Africa and Zimbabwe tour of Namibia, 2026",
+            "match_name": "Namibia vs South Africa",
+            "match_id": 4248461,
+            "startTime": "05:30:00 PM 04-09-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Qualifying Session vs Monza (F2 MONZA 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1787814548632.jpg",
+            "team_1": "Qualifying Session",
+            "team_2": "Monza",
+            "status": "UPCOMING",
+            "event_name": "F2 MONZA 2026",
+            "match_name": "Qualifying Session",
+            "match_id": 139647,
+            "startTime": "06:25:00 PM 04-09-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Shabab FC vs Al Hilal SFC (Roshn Saudi League 2026-2027)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248655_53025_ASF_AHS_FC-Web_1788155166474.png",
+            "team_1": "Al-Shabab FC",
+            "team_2": "Al Hilal SFC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2026-2027",
+            "match_name": "Al-Shabab FC vs Al Hilal SFC",
+            "match_id": 4248655,
+            "startTime": "11:30:00 PM 04-09-2026"
         }
     ]
 }
